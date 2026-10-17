@@ -854,6 +854,7 @@ const WT = {
       termos:"El Wi-Fi de The Hotel se ofrece gratuitamente a huéspedes y visitantes. Al conectarte, te comprometes a usarlo de forma lícita, sin violar derechos de terceros, sin distribuir contenido ilegal y sin perjudicar la red ni a otros usuarios. El servicio puede tener límites de velocidad y tiempo y no se garantiza su disponibilidad continua. Conforme al Marco Civil de Internet de Brasil (Ley 12.965/2014), los registros técnicos de conexión (dirección del dispositivo, fecha y hora) pueden conservarse durante el plazo legal, con confidencialidad, y solo se entregan por orden judicial. No recopilamos el contenido de tu navegación. Tratamiento de datos conforme a la LGPD de Brasil (Ley 13.709/2018); dudas, habla con la recepción."}
 };
 let wfState = WQ ? "ask" : "off", wfErr = "", wfChk = false;
+if (WQ) try { fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({ping:"abriu"})}).catch(() => {}); } catch(_){}
 function wifiRender(){
   let el = document.getElementById("wf");
   if (wfState === "off"){ if (el) el.remove(); document.body.classList.remove("wf-on"); return; }
