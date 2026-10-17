@@ -115,7 +115,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .net span{font-size:13px;color:var(--d-ink)}
 
 /* abas de texto (cardápio, agenda, guia) */
-.seg{display:flex;gap:22px;overflow-x:auto;scrollbar-width:none;margin:28px calc(var(--gut)*-1) 0;padding:0 var(--gut);border-bottom:1px solid var(--c-line)}
+.seg{display:flex;flex-wrap:wrap;column-gap:20px;row-gap:2px;margin:28px 0 0;padding:0;border-bottom:1px solid var(--c-line)}
 .seg::-webkit-scrollbar{display:none}
 .seg button{flex:none;font-size:14px;color:var(--c-ink);padding:10px 0 11px;border-bottom:1.5px solid transparent;margin-bottom:-1px;transition:color .2s,border-color .2s}
 .seg button.on{color:var(--p);border-color:var(--l)}
@@ -251,6 +251,9 @@ dialog.acc::backdrop{background:rgba(15,38,32,.72);backdrop-filter:blur(3px)}
 .acc .foot{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
 .acc .foot .btn{flex:1}
 .acc .btn.ghost{border:1px solid var(--c-line);color:var(--p)}
+.pax{display:flex;justify-content:space-between;align-items:baseline;margin-top:26px;padding:10px 0 8px;border-bottom:1.5px solid var(--p)}
+.pax span{font-family:var(--serif);font-size:20px}.pax small{font-family:var(--sans);font-size:12px;color:var(--c-ink)}
+.pax b{font-weight:500;font-variant-numeric:tabular-nums}
 .acc .fine{font-size:11.5px;color:var(--c-ink);margin-top:14px;line-height:1.5}
 
 @media (min-width:720px){
@@ -648,7 +651,7 @@ const ACC = {
   tCharges:"Consumo e diárias",tPaid:"Pagamentos",question:"Dúvida sobre a conta",logout:"Sair",
   qMsg:u=>`Olá! Sou do apartamento ${u} e tenho uma dúvida sobre minha conta.`,
   fine:"Valores atualizados conforme lançamento no sistema do hotel e sujeitos à conferência no check-out.",
-  faturado:"Sua hospedagem está faturada para a empresa. Não há lançamentos na sua conta pessoal até agora.",
+  you:"(você)",faturado:"Sua hospedagem está faturada para a empresa. Não há lançamentos na sua conta pessoal até agora.",
   demo:"Modo demonstração: use apartamento 101 e documento 1234."},
  en:{open:"My bill",title:"My bill",intro:"See your stay dates and your account statement.",uh:"Room",pin:"ID document",surname:"Surname of any guest in the room",
   pinHint:"Under \"ID document\", enter the last 4 characters of the passport or CPF of any guest in the room.",privacy:"Your details are used only for this lookup and are not stored.",pinPh:"Last 4",submit:"View my bill",wait:"Checking…",
@@ -659,7 +662,7 @@ const ACC = {
   tCharges:"Charges and room nights",tPaid:"Payments",question:"Question about my bill",logout:"Sign out",
   qMsg:u=>`Hi! I'm in room ${u} and have a question about my bill.`,
   fine:"Amounts reflect charges posted in the hotel system and are confirmed at check-out.",
-  faturado:"Your stay is billed to your company. There are no charges on your personal account so far.",
+  you:"(you)",faturado:"Your stay is billed to your company. There are no charges on your personal account so far.",
   demo:"Demo mode: use room 101 and document 1234."},
  es:{open:"Mi cuenta",title:"Mi cuenta",intro:"Consulta las fechas de tu estadía y el extracto de tu cuenta.",uh:"Habitación",pin:"Documento",surname:"Apellido de un huésped de la habitación",
   pinHint:"En \"Documento\", ingresa los 4 últimos caracteres del pasaporte o CPF de cualquier huésped de la habitación.",privacy:"Tus datos se usan solo para esta consulta y no se guardan.",pinPh:"Últimos 4",submit:"Ver mi cuenta",wait:"Consultando…",
@@ -670,7 +673,7 @@ const ACC = {
   tCharges:"Consumos y noches",tPaid:"Pagos",question:"Duda sobre la cuenta",logout:"Salir",
   qMsg:u=>`¡Hola! Estoy en la habitación ${u} y tengo una duda sobre mi cuenta.`,
   fine:"Valores según los cargos registrados en el sistema del hotel, sujetos a conferencia en el check-out.",
-  faturado:"Tu estadía está facturada a la empresa. Aún no hay cargos en tu cuenta personal.",
+  you:"(tú)",faturado:"Tu estadía está facturada a la empresa. Aún no hay cargos en tu cuenta personal.",
   demo:"Modo demostración: usa habitación 101 y documento 1234."}
 };
 
@@ -691,7 +694,9 @@ function demoAccount(){
       {data:addDays(t,-1), descricao:"Room service: moqueca e suco", valor:103},
       {data:t, descricao:"Lavanderia", valor:38},
       {data:t, descricao:"Diária", valor:420}],
-    pagamentos:[{data:addDays(t,-2), descricao:"Pré-pagamento (cartão)", valor:840}] };
+    pagamentos:[{data:addDays(t,-2), descricao:"Pré-pagamento (cartão)", valor:840}],
+    grupos:[{nome:"Ana", voce:true, saldo:523, lancamentos:[{data:addDays(t,-2), descricao:"Diária", valor:420},{data:addDays(t,-1), descricao:"Diária", valor:420},{data:addDays(t,-1), descricao:"Room service: moqueca e suco", valor:103},{data:t, descricao:"Diária", valor:420}], pagamentos:[{data:addDays(t,-2), descricao:"Pré-pagamento (cartão)", valor:840}]},
+            {nome:"João", voce:false, saldo:38, lancamentos:[{data:t, descricao:"Lavanderia", valor:38}], pagamentos:[]}] };
 }
 
 async function accLogin(uh, pin){
@@ -741,9 +746,11 @@ function renderAccount(){
       <div class="track"><i style="width:${(done*100).toFixed(0)}%"></i></div>
     </div>
     ${c.faturado_empresa ? `<p class="intro2" style="margin-top:20px">${A.faturado}</p>` : `<div class="bal"><small>${bal > 0 ? A.balance : A.settled}</small><b class="${bal > 0 ? "" : "zero"}">${brl(Math.max(bal,0))}</b></div>
-    <h3>${A.charges}</h3>
-    <div class="lines">${(c.lancamentos||[]).length ? c.lancamentos.map(x => line(x)).join("") : `<p class="hint" style="padding:10px 0">${A.noCharges}</p>`}</div>
-    ${(c.pagamentos||[]).length ? `<h3>${A.payments}</h3><div class="lines">${c.pagamentos.map(x => line(x,"pay")).join("")}</div>` : ""}
+    ${(c.grupos && c.grupos.length ? c.grupos : [{nome:"", voce:true, saldo:bal, lancamentos:c.lancamentos||[], pagamentos:c.pagamentos||[]}]).map(gp => `
+      ${gp.nome ? `<div class="pax"><span>${esc(gp.nome)}${gp.voce ? ` <small>${A.you}</small>` : ""}</span><b>${brl(gp.saldo)}</b></div>` : ""}
+      <h3>${A.charges}</h3>
+      <div class="lines">${gp.lancamentos.length ? gp.lancamentos.map(x => line(x)).join("") : `<p class="hint" style="padding:10px 0">${A.noCharges}</p>`}</div>
+      ${gp.pagamentos.length ? `<h3>${A.payments}</h3><div class="lines">${gp.pagamentos.map(x => line(x,"pay")).join("")}</div>` : ""}`).join("")}
     <div class="tot"><div><span>${A.tCharges}</span><b>${brl(tc)}</b></div><div><span>${A.tPaid}</span><b>${brl(tp)}</b></div></div>`}
     <div class="foot">
       <a class="btn solid" href="${wa(A.qMsg(c.uh))}" ${ext}>${A.question}</a>
