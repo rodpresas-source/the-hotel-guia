@@ -27,6 +27,7 @@
   --max:760px;
 }
 *{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
 html{scroll-behavior:smooth;scroll-padding-top:104px}
 body{font-family:var(--sans);font-weight:400;font-size:15px;line-height:1.6;background:var(--vp);color:var(--c);-webkit-font-smoothing:antialiased;overflow-x:hidden}
 a{color:inherit}
@@ -190,6 +191,58 @@ footer .copy{margin-top:38px;font-size:12px}
 
 .fab{position:fixed;right:18px;bottom:calc(18px + env(safe-area-inset-bottom));z-index:30;width:52px;height:52px;border-radius:50%;background:var(--l);display:grid;place-items:center;box-shadow:0 12px 26px -8px rgba(0,0,0,.5)}
 
+/* ============ Minha conta ============ */
+.acc-open{font-size:12.5px;color:var(--c);border:1px solid rgba(233,229,205,.35);border-radius:999px;padding:7px 12px;margin-right:6px}
+.acc-open:hover{border-color:var(--l)}
+.bar .row .right{display:flex;align-items:center}
+dialog.acc{border:0;padding:0;margin:0;max-width:none;max-height:none;width:100%;height:100%;background:transparent;color:var(--p)}
+dialog.acc::backdrop{background:rgba(15,38,32,.72);backdrop-filter:blur(3px)}
+.acc .sheet{position:absolute;inset:auto 0 0 0;max-height:94dvh;overflow:auto;background:var(--c);border-radius:22px 22px 0 0;padding:26px var(--gut) calc(28px + env(safe-area-inset-bottom));animation:up .35s cubic-bezier(.2,.8,.2,1)}
+@keyframes up{from{transform:translateY(40px);opacity:0}}
+@media (min-width:720px){.acc .sheet{inset:50% auto auto 50%;transform:translate(-50%,-50%);width:560px;border-radius:22px;animation:none}}
+.acc .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.acc h2{font-family:var(--serif);font-weight:400;font-size:32px;line-height:1.1}
+.acc .x{width:38px;height:38px;border-radius:50%;border:1px solid var(--c-line);font-size:20px;line-height:1;flex:none}
+.acc .intro2{font-size:14px;color:var(--c-ink);margin-top:8px;max-width:42ch}
+.acc form{margin-top:22px;display:grid;gap:14px}
+.acc label{display:grid;gap:6px;font-size:13px;color:var(--c-ink)}
+.acc input{font:inherit;font-size:17px;color:var(--p);background:#fbfaf3;border:1px solid var(--c-line);border-radius:10px;padding:13px 14px;width:100%}
+.acc input:focus{outline:2px solid var(--v);outline-offset:0;border-color:transparent}
+.acc .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.acc .hint{font-size:12.5px;color:var(--c-ink);line-height:1.5}
+.acc .err{font-size:13px;color:#a3330c;background:rgba(255,103,32,.12);border-radius:8px;padding:10px 12px}
+.acc .btn.solid{width:100%;padding:16px}
+.acc .btn[disabled]{opacity:.6;pointer-events:none}
+.acc .demo{font-size:12px;color:#8a4a1c;background:rgba(255,103,32,.1);padding:8px 10px;border-radius:6px;margin-top:14px}
+/* extrato */
+.stay{margin-top:20px;background:var(--vp);color:var(--c);border-radius:14px;padding:18px}
+.stay .who{font-family:var(--serif);font-size:22px}
+.stay .uh{font-size:12.5px;color:var(--d-ink);margin-top:2px}
+.stay .dates{display:grid;grid-template-columns:1fr auto 1fr;align-items:end;gap:10px;margin-top:16px}
+.stay .dates small{display:block;font-size:12px;color:var(--d-ink)}
+.stay .dates b{font-family:var(--serif);font-weight:400;font-size:21px}
+.stay .dates .n{font-size:12px;color:var(--d-ink);text-align:center;padding-bottom:4px}
+.stay .dates div:last-child{text-align:right}
+.track{height:3px;background:rgba(233,229,205,.18);border-radius:3px;margin-top:14px;overflow:hidden}
+.track i{display:block;height:100%;background:var(--l)}
+.bal{margin-top:22px;display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding-bottom:14px;border-bottom:1px solid var(--c-line)}
+.bal small{font-size:13px;color:var(--c-ink)}
+.bal b{font-family:var(--serif);font-weight:400;font-size:34px;font-variant-numeric:tabular-nums}
+.bal b.zero{color:var(--v)}
+.acc h3{font-size:13px;font-weight:500;color:var(--c-ink);margin-top:20px}
+.lines{margin-top:6px}
+.lines div{display:grid;grid-template-columns:54px 1fr auto;gap:10px;padding:10px 0;border-bottom:1px dotted var(--c-line);font-size:14px}
+.lines time{font-size:12.5px;color:var(--c-ink);padding-top:1px}
+.lines .v{font-variant-numeric:tabular-nums;white-space:nowrap}
+.lines .pay .v{color:var(--v)}
+.tot{display:grid;gap:4px;margin-top:14px;font-size:13.5px}
+.tot div{display:flex;justify-content:space-between}
+.tot span{color:var(--c-ink)}
+.acc .foot{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+.acc .foot .btn{flex:1}
+.acc .btn.ghost{border:1px solid var(--c-line);color:var(--p)}
+.acc .fine{font-size:11.5px;color:var(--c-ink);margin-top:14px;line-height:1.5}
+
 @media (min-width:720px){
   :root{--gut:40px}
   .hero{padding-top:70px}
@@ -208,8 +261,11 @@ footer .copy{margin-top:38px;font-size:12px}
 <header class="bar">
   <div class="wrap row">
     <span class="mark" role="img" aria-label="The Hotel"></span>
-    <div class="lang" role="group" aria-label="Idioma / Language">
-      <button data-lang="pt">PT</button><button data-lang="en">EN</button><button data-lang="es">ES</button>
+    <div class="right">
+      <button class="acc-open acc-trigger" hidden>Minha conta</button>
+      <div class="lang" role="group" aria-label="Idioma / Language">
+        <button data-lang="pt">PT</button><button data-lang="en">EN</button><button data-lang="es">ES</button>
+      </div>
     </div>
   </div>
   <nav class="nav" aria-label="Seções"><div class="wrap">
@@ -234,6 +290,7 @@ footer .copy{margin-top:38px;font-size:12px}
       <div class="actions">
         <a class="btn solid" id="ctaWhats" href="#" data-i="ctaReception">Falar com a recepção</a>
         <a class="btn line" href="#agenda" data-act="today" data-i="ctaToday">O que fazer hoje</a>
+        <button class="btn line acc-trigger" hidden>Minha conta</button>
       </div>
       <dl class="facts" id="facts"></dl>
     </div>
@@ -300,6 +357,33 @@ footer .copy{margin-top:38px;font-size:12px}
     <p class="copy">© <span id="yr"></span> The Hotel, Salvador</p>
   </div>
 </footer>
+
+<dialog class="acc" id="acc" aria-labelledby="accTitle">
+  <div class="sheet">
+    <div class="top">
+      <h2 id="accTitle" data-a="title">Minha conta</h2>
+      <button class="x" id="accClose" aria-label="Fechar">×</button>
+    </div>
+
+    <div id="accLogin">
+      <p class="intro2" data-a="intro">Veja suas datas de estadia e o extrato da sua conta.</p>
+      <form id="accForm" novalidate>
+        <div class="two">
+          <label><span data-a="uh">Apartamento</span><input id="fUh" inputmode="numeric" autocomplete="off" maxlength="5" required></label>
+          <label><span data-a="pin">PIN</span><input id="fPin" inputmode="numeric" autocomplete="one-time-code" maxlength="4" required></label>
+        </div>
+        <label><span data-a="surname">Sobrenome do titular ou de um hóspede</span><input id="fSur" autocomplete="family-name" autocapitalize="words" maxlength="60" required></label>
+        <p class="hint" data-a="pinHint">O PIN de 4 dígitos está no envelope do seu cartão-chave. Não encontrou? Peça à recepção.</p>
+        <p class="err" id="accErr" role="alert" hidden></p>
+        <button class="btn solid" id="accSubmit" type="submit" data-a="submit">Ver minha conta</button>
+      </form>
+      <p class="demo" id="accDemo" hidden></p>
+    </div>
+
+    <div id="accView" hidden aria-live="polite"></div>
+  </div>
+</dialog>
+
 
 <a class="fab" id="fab" href="#" aria-label="WhatsApp"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2b2926" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 0 1-13.5 7.8L3 21l1.2-4.4A9 9 0 1 1 21 12z"/></svg></a>
 
@@ -511,7 +595,7 @@ function renderGuide(){
   }).join("");
 }
 
-function renderAll(){ renderStatic(); renderHotel(); renderFilters(); renderEvents(); renderGuide(); }
+function renderAll(){ renderStatic(); renderHotel(); renderFilters(); renderEvents(); renderGuide(); accStatic(); }
 
 document.addEventListener("click", ev => {
   const b = ev.target.closest("button,[data-act]"); if (!b) return;
@@ -530,6 +614,163 @@ const io = new IntersectionObserver(es => es.forEach(en => {
   if (en.isIntersecting) navLinks.forEach(a => a.classList.toggle("on", a.getAttribute("href") === "#" + en.target.id));
 }), { rootMargin: "-40% 0px -55% 0px" });
 ["hotel","cardapio","agenda","salvador"].forEach(id => io.observe(document.getElementById(id)));
+
+/* ============ Minha conta ============
+   Conversa com o intermediário (Cloudflare Worker) definido em HOTEL.conta.api:
+     POST {api}/login  {uh, sobrenome, pin}  -> {token, conta}
+     GET  {api}/conta  Authorization: Bearer <token>  -> {conta}
+   conta = {hospede, uh, checkin, checkout, hora_checkin, hora_checkout,
+            lancamentos:[{data, descricao, valor}], pagamentos:[{data, descricao, valor}]}
+   Sem api configurada, a área só aparece em demonstração (?demo=1). */
+const ACC = {
+ pt:{open:"Minha conta",title:"Minha conta",intro:"Veja suas datas de estadia e o extrato da sua conta.",uh:"Apartamento",pin:"PIN",surname:"Sobrenome do titular ou de um hóspede",
+  pinHint:"O PIN de 4 dígitos está no envelope do seu cartão-chave. Não encontrou? Peça à recepção.",submit:"Ver minha conta",wait:"Consultando…",
+  eFields:"Preencha apartamento, sobrenome e o PIN de 4 dígitos.",eAuth:"Não encontramos uma estadia com esses dados. Confira o apartamento, o sobrenome e o PIN.",
+  eLock:"Muitas tentativas. Aguarde 15 minutos ou fale com a recepção.",eNet:"Não foi possível consultar agora. Tente de novo em instantes ou fale com a recepção.",
+  hello:n=>`Olá, ${n}`,room:u=>`Apartamento ${u}`,in:"Entrada",out:"Saída",nights:n=>n===1?"1 noite":`${n} noites`,
+  balance:"Saldo em aberto",settled:"Conta quitada",charges:"Lançamentos",payments:"Pagamentos",noCharges:"Nenhum lançamento até agora.",
+  tCharges:"Consumo e diárias",tPaid:"Pagamentos",question:"Dúvida sobre a conta",logout:"Sair",
+  qMsg:u=>`Olá! Sou do apartamento ${u} e tenho uma dúvida sobre minha conta.`,
+  fine:"Valores atualizados conforme lançamento no sistema do hotel e sujeitos à conferência no check-out.",
+  demo:"Modo demonstração: use apartamento 101, sobrenome Silva e PIN 1234."},
+ en:{open:"My bill",title:"My bill",intro:"See your stay dates and your account statement.",uh:"Room",pin:"PIN",surname:"Surname of the main or any registered guest",
+  pinHint:"Your 4-digit PIN is on your key-card sleeve. Can't find it? Ask the front desk.",submit:"View my bill",wait:"Checking…",
+  eFields:"Enter your room, surname and the 4-digit PIN.",eAuth:"We couldn't find a stay with these details. Check your room, surname and PIN.",
+  eLock:"Too many attempts. Please wait 15 minutes or contact the front desk.",eNet:"We couldn't check right now. Try again shortly or contact the front desk.",
+  hello:n=>`Hello, ${n}`,room:u=>`Room ${u}`,in:"Check-in",out:"Check-out",nights:n=>n===1?"1 night":`${n} nights`,
+  balance:"Balance due",settled:"Fully paid",charges:"Charges",payments:"Payments",noCharges:"No charges yet.",
+  tCharges:"Charges and room nights",tPaid:"Payments",question:"Question about my bill",logout:"Sign out",
+  qMsg:u=>`Hi! I'm in room ${u} and have a question about my bill.`,
+  fine:"Amounts reflect charges posted in the hotel system and are confirmed at check-out.",
+  demo:"Demo mode: use room 101, surname Silva and PIN 1234."},
+ es:{open:"Mi cuenta",title:"Mi cuenta",intro:"Consulta las fechas de tu estadía y el extracto de tu cuenta.",uh:"Habitación",pin:"PIN",surname:"Apellido del titular o de un huésped",
+  pinHint:"El PIN de 4 dígitos está en el sobre de tu tarjeta-llave. ¿No lo encuentras? Pídelo en recepción.",submit:"Ver mi cuenta",wait:"Consultando…",
+  eFields:"Completa habitación, apellido y el PIN de 4 dígitos.",eAuth:"No encontramos una estadía con esos datos. Revisa la habitación, el apellido y el PIN.",
+  eLock:"Demasiados intentos. Espera 15 minutos o habla con recepción.",eNet:"No fue posible consultar ahora. Inténtalo en unos instantes o habla con recepción.",
+  hello:n=>`Hola, ${n}`,room:u=>`Habitación ${u}`,in:"Entrada",out:"Salida",nights:n=>n===1?"1 noche":`${n} noches`,
+  balance:"Saldo pendiente",settled:"Cuenta pagada",charges:"Cargos",payments:"Pagos",noCharges:"Aún no hay cargos.",
+  tCharges:"Consumos y noches",tPaid:"Pagos",question:"Duda sobre la cuenta",logout:"Salir",
+  qMsg:u=>`¡Hola! Estoy en la habitación ${u} y tengo una duda sobre mi cuenta.`,
+  fine:"Valores según los cargos registrados en el sistema del hotel, sujetos a conferencia en el check-out.",
+  demo:"Modo demostración: usa habitación 101, apellido Silva y PIN 1234."}
+};
+
+const DEMO = new URLSearchParams(location.search).has("demo");
+const accApi = () => ((HOTEL.conta||{}).api || "").replace(/\/$/,"");
+const accOn = () => !!accApi() || DEMO;
+const brl = v => (lang === "en" ? "R$ " : "R$ ") + Number(v).toLocaleString(lang === "en" ? "en-US" : "pt-BR", {minimumFractionDigits:2, maximumFractionDigits:2});
+const norm = s => String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").trim().toLowerCase();
+let ACCOUNT = null;
+const TKEY = "th_tok";
+
+function demoAccount(){
+  const t = isoToday();
+  return { hospede:"Ana Silva", uh:"101", checkin:addDays(t,-2), checkout:addDays(t,2), hora_checkin:"14h", hora_checkout:"12h",
+    lancamentos:[
+      {data:addDays(t,-2), descricao:"Diária", valor:420},
+      {data:addDays(t,-1), descricao:"Diária", valor:420},
+      {data:addDays(t,-1), descricao:"Room service: moqueca e suco", valor:103},
+      {data:t, descricao:"Lavanderia", valor:38},
+      {data:t, descricao:"Diária", valor:420}],
+    pagamentos:[{data:addDays(t,-2), descricao:"Pré-pagamento (cartão)", valor:840}] };
+}
+
+async function accLogin(uh, sobrenome, pin){
+  if (!accApi()){                                   // demonstração local
+    await new Promise(r => setTimeout(r, 600));
+    if (uh === "101" && norm(sobrenome) === "silva" && pin === "1234") return {token:"demo", conta:demoAccount()};
+    const e = new Error("auth"); e.code = 401; throw e;
+  }
+  const r = await fetch(accApi() + "/login", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({uh, sobrenome, pin})});
+  if (!r.ok){ const e = new Error("http"); e.code = r.status; throw e; }
+  return r.json();
+}
+async function accFetch(token){
+  if (token === "demo") return {conta:demoAccount()};
+  const r = await fetch(accApi() + "/conta", {headers:{Authorization:"Bearer " + token}});
+  if (!r.ok){ const e = new Error("http"); e.code = r.status; throw e; }
+  return r.json();
+}
+
+function accStatic(){
+  const A = ACC[lang];
+  document.querySelectorAll("[data-a]").forEach(el => { const v = A[el.dataset.a]; if (typeof v === "string") el.textContent = v; });
+  document.querySelectorAll(".acc-trigger").forEach(b => { b.hidden = !accOn(); b.textContent = A.open; });
+  $("#accDemo").hidden = !(DEMO && !accApi()); $("#accDemo").textContent = A.demo;
+  if (ACCOUNT) renderAccount();
+}
+
+function dayLabel(s){ const d = parse(s), T = UI[lang]; return `${d.getUTCDate()} ${T.mo[d.getUTCMonth()]}`; }
+
+function renderAccount(){
+  const A = ACC[lang], c = ACCOUNT, today = isoToday();
+  const nights = Math.max(1, Math.round((parse(c.checkout) - parse(c.checkin)) / 864e5));
+  const done = Math.min(1, Math.max(0, (parse(today) - parse(c.checkin)) / (parse(c.checkout) - parse(c.checkin) || 1)));
+  const sum = a => (a||[]).reduce((s,x) => s + Number(x.valor||0), 0);
+  const tc = sum(c.lancamentos), tp = sum(c.pagamentos), bal = Math.round((tc - tp) * 100) / 100;
+  const first = String(c.hospede||"").split(" ")[0];
+  const line = (x, cls) => `<div class="${cls||""}"><time>${esc(dayLabel(x.data))}</time><span>${esc(x.descricao)}</span><span class="v">${brl(x.valor)}</span></div>`;
+  $("#accView").innerHTML = `
+    <div class="stay">
+      <div class="who">${esc(A.hello(first))}</div><div class="uh">${esc(A.room(c.uh))}</div>
+      <div class="dates">
+        <div><small>${A.in}</small><b>${esc(dayLabel(c.checkin))}</b>${c.hora_checkin ? `<small>${esc(c.hora_checkin)}</small>` : ""}</div>
+        <div class="n">${A.nights(nights)}</div>
+        <div><small>${A.out}</small><b>${esc(dayLabel(c.checkout))}</b>${c.hora_checkout ? `<small>${esc(c.hora_checkout)}</small>` : ""}</div>
+      </div>
+      <div class="track"><i style="width:${(done*100).toFixed(0)}%"></i></div>
+    </div>
+    <div class="bal"><small>${bal > 0 ? A.balance : A.settled}</small><b class="${bal > 0 ? "" : "zero"}">${brl(Math.max(bal,0))}</b></div>
+    <h3>${A.charges}</h3>
+    <div class="lines">${(c.lancamentos||[]).length ? c.lancamentos.map(x => line(x)).join("") : `<p class="hint" style="padding:10px 0">${A.noCharges}</p>`}</div>
+    ${(c.pagamentos||[]).length ? `<h3>${A.payments}</h3><div class="lines">${c.pagamentos.map(x => line(x,"pay")).join("")}</div>` : ""}
+    <div class="tot"><div><span>${A.tCharges}</span><b>${brl(tc)}</b></div><div><span>${A.tPaid}</span><b>${brl(tp)}</b></div></div>
+    <div class="foot">
+      <a class="btn solid" href="${wa(A.qMsg(c.uh))}" ${ext}>${A.question}</a>
+      <button class="btn ghost" id="accOut">${A.logout}</button>
+    </div>
+    <p class="fine">${A.fine}</p>`;
+  $("#accLogin").hidden = true; $("#accView").hidden = false;
+}
+
+function accReset(){
+  ACCOUNT = null; try { sessionStorage.removeItem(TKEY); } catch(_){}
+  $("#accView").hidden = true; $("#accView").innerHTML = ""; $("#accLogin").hidden = false;
+  $("#accForm").reset(); $("#accErr").hidden = true;
+}
+
+async function accOpen(){
+  const dlg = $("#acc");
+  if (typeof dlg.showModal === "function") dlg.showModal(); else dlg.setAttribute("open","");
+  let tok = null; try { tok = sessionStorage.getItem(TKEY); } catch(_){}
+  if (tok && !ACCOUNT){
+    try { ACCOUNT = (await accFetch(tok)).conta; renderAccount(); return; } catch(e){ accReset(); }
+  }
+  if (ACCOUNT) renderAccount(); else setTimeout(() => $("#fUh").focus(), 50);
+}
+function accClose(){ const d = $("#acc"); if (d.open && d.close) d.close(); else d.removeAttribute("open"); }
+
+$("#accForm").addEventListener("submit", async ev => {
+  ev.preventDefault();
+  const A = ACC[lang], err = $("#accErr"), btn = $("#accSubmit");
+  const uh = $("#fUh").value.replace(/\D/g,""), sur = $("#fSur").value.trim(), pin = $("#fPin").value.replace(/\D/g,"");
+  err.hidden = true;
+  if (!uh || sur.length < 2 || pin.length !== 4){ err.textContent = A.eFields; err.hidden = false; return; }
+  btn.disabled = true; btn.textContent = A.wait;
+  try {
+    const r = await accLogin(uh, sur, pin);
+    ACCOUNT = r.conta; try { sessionStorage.setItem(TKEY, r.token); } catch(_){}
+    $("#fPin").value = ""; renderAccount();
+  } catch(e){
+    err.textContent = e.code === 401 || e.code === 404 ? A.eAuth : e.code === 429 ? A.eLock : A.eNet; err.hidden = false;
+  } finally { btn.disabled = false; btn.textContent = A.submit; }
+});
+$("#accClose").addEventListener("click", accClose);
+$("#acc").addEventListener("click", e => { if (e.target.id === "acc") accClose(); });
+document.addEventListener("click", e => {
+  if (e.target.closest(".acc-trigger")){ e.preventDefault(); accOpen(); }
+  else if (e.target.id === "accOut"){ accReset(); }
+});
 
 $("#yr").textContent = isoToday().slice(0,4);
 renderAll();

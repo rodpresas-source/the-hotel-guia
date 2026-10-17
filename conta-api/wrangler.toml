@@ -1,0 +1,10 @@
+name = "thehotel-conta"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+MOCK = "1"   # trocar para "0" quando a integração com o HITS estiver pronta
+
+[[kv_namespaces]]
+binding = "RATE"
+id = "PREENCHER_COM_O_ID_DO_KV"
