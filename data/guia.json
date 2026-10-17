@@ -1580,6 +1580,24 @@
       "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
     },
     {
+      "nome": "Hospital Cárdio Pulmonar (Rede D'Or)",
+      "tipo": "hospital",
+      "bairro": "Ondina",
+      "descricao": "Emergência 24h adulto e pediátrica, com emergência cardiológica, oftalmológica e ortopédica; hospital privado, sem agendamento.",
+      "descricao_en": "24h adult and pediatric emergency, including cardiology, ophthalmology and orthopedics; private hospital, no appointment needed.",
+      "descricao_es": "Urgencias 24h para adultos y niños, con urgencias cardiológicas, oftalmológicas y de traumatología; hospital privado, sin cita previa.",
+      "dica": "Av. Garibaldi, 2199, Ondina, Salvador – BA",
+      "telefone": "3003-3230",
+      "horario": "24h",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel": "aprox. 3,5 km / 10 min de carro",
+      "distancia_hotel_en": "approx. 3,5 km / 10 min by car",
+      "distancia_hotel_es": "aprox. 3,5 km / 10 min en coche",
+      "link": "https://www.rededorsaoluiz.com.br/hospital/cardio-pulmonar",
+      "fonte": "https://www.rededorsaoluiz.com.br/emergencias"
+    },
+    {
       "nome": "Hospital Jorge Valente (HJV)",
       "tipo": "hospital",
       "bairro": "Rio Vermelho",
@@ -1649,6 +1667,24 @@
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
       "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche"
+    },
+    {
+      "nome": "Hospital Aliança Star (Rede D'Or)",
+      "tipo": "hospital",
+      "bairro": "Rio Vermelho",
+      "descricao": "Unidade premium da Rede D'Or, inaugurada em 2024, com emergência adulto, ginecológica, obstétrica e ortopédica; atendimento em boxes individuais. Não atende emergência pediátrica (para crianças, o Aliança fica no mesmo endereço).",
+      "descricao_en": "Rede D'Or's premium unit, opened in 2024, with adult, gynecological, obstetric and orthopedic emergency care in private rooms. No pediatric emergency (for children, Hospital Aliança is at the same address).",
+      "descricao_es": "Unidad premium de la Rede D'Or, inaugurada en 2024, con urgencias de adultos, ginecológicas, obstétricas y de traumatología, en boxes individuales. No atiende urgencias pediátricas (para niños, el Hospital Aliança está en la misma dirección).",
+      "dica": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA",
+      "telefone": "3003-3230",
+      "horario": "24h",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel": "aprox. 7 km / 15–20 min de carro",
+      "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
+      "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche",
+      "link": "https://www.rededorsaoluiz.com.br/emergencias",
+      "fonte": "https://www.rededorsaoluiz.com.br/emergencias"
     },
     {
       "nome": "Hospital da Bahia – Emergência 24h",
