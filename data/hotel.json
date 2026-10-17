@@ -1,0 +1,191 @@
+{
+  "_leia": "Dados do hotel. Para mostrar o room service, preencha o cardápio real, mude \"exemplo\" para false e \"ativo\" para true.",
+  "nome": "The Hotel",
+  "endereco": "Rua Belo Horizonte, Barra · Salvador/BA",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=The+Hotel+Rua+Belo+Horizonte+Barra+Salvador",
+  "whatsapp": "557132376067",
+  "telefone": "+55 71 3237-6067",
+  "instagram": "",
+  "wifi": {
+    "rede": "The Hotel Guest",
+    "senha": null
+  },
+  "horarios": [
+    {
+      "pt": "Check-in",
+      "en": "Check-in",
+      "valor": "14h"
+    },
+    {
+      "pt": "Check-out",
+      "en": "Check-out",
+      "valor": "12h"
+    },
+    {
+      "pt": "Café da manhã",
+      "en": "Breakfast",
+      "valor": "6h30–10h"
+    },
+    {
+      "pt": "Recepção",
+      "en": "Front desk",
+      "valor": "24h"
+    }
+  ],
+  "servicos": [
+    {
+      "icone": "bell",
+      "pt": "Recepção 24h",
+      "en": "24h front desk",
+      "desc_pt": "Estamos à disposição a qualquer hora, pelo telefone ou WhatsApp.",
+      "desc_en": "We're here around the clock, by phone or WhatsApp."
+    },
+    {
+      "icone": "coffee",
+      "pt": "Café da manhã",
+      "en": "Breakfast",
+      "desc_pt": "Servido todos os dias, das 6h30 às 10h.",
+      "desc_en": "Served daily, 6:30 to 10 am."
+    },
+    {
+      "icone": "shirt",
+      "pt": "Lavanderia",
+      "en": "Laundry",
+      "desc_pt": "Solicite na recepção.",
+      "desc_en": "Ask the front desk."
+    },
+    {
+      "icone": "car",
+      "pt": "Transfer e táxi",
+      "en": "Transfer & taxi",
+      "desc_pt": "Aeroporto, passeios e táxi de confiança. Agende com a recepção.",
+      "desc_en": "Airport, tours and trusted taxis. Book at the front desk."
+    },
+    {
+      "icone": "bag",
+      "pt": "Guarda-volumes",
+      "en": "Luggage storage",
+      "desc_pt": "Guarde suas malas antes do check-in ou depois do check-out.",
+      "desc_en": "Store your bags before check-in or after check-out."
+    },
+    {
+      "icone": "map",
+      "pt": "Concierge",
+      "en": "Concierge",
+      "desc_pt": "Reservas em restaurantes, passeios e ingressos.",
+      "desc_en": "Restaurant bookings, tours and tickets."
+    }
+  ],
+  "room_service": {
+    "_aviso": "CARDÁPIO DE EXEMPLO — substitua pelos itens e preços reais antes de publicar.",
+    "exemplo": true,
+    "categorias": [
+      {
+        "pt": "Lanches",
+        "en": "Snacks",
+        "itens": [
+          {
+            "pt": "Club sandwich",
+            "en": "Club sandwich",
+            "desc_pt": "Frango, bacon, alface, tomate e fritas",
+            "desc_en": "Chicken, bacon, lettuce, tomato and fries",
+            "preco": 48
+          },
+          {
+            "pt": "Tapioca de queijo coalho",
+            "en": "Coalho cheese tapioca",
+            "desc_pt": "Com manteiga de garrafa",
+            "desc_en": "With clarified bottle butter",
+            "preco": 28
+          },
+          {
+            "pt": "Misto quente",
+            "en": "Ham & cheese toastie",
+            "desc_pt": "Pão de forma, presunto e queijo",
+            "desc_en": "Toast, ham and cheese",
+            "preco": 22
+          }
+        ]
+      },
+      {
+        "pt": "Pratos",
+        "en": "Mains",
+        "itens": [
+          {
+            "pt": "Moqueca de peixe",
+            "en": "Fish moqueca",
+            "desc_pt": "Com arroz, farofa e pirão (serve 1)",
+            "desc_en": "With rice, farofa and pirão (serves 1)",
+            "preco": 89
+          },
+          {
+            "pt": "Filé com fritas",
+            "en": "Steak & fries",
+            "desc_pt": "Filé grelhado, arroz e batata frita",
+            "desc_en": "Grilled beef, rice and fries",
+            "preco": 78
+          },
+          {
+            "pt": "Massa ao sugo",
+            "en": "Pasta pomodoro",
+            "desc_pt": "Opção vegetariana",
+            "desc_en": "Vegetarian option",
+            "preco": 52
+          }
+        ]
+      },
+      {
+        "pt": "Bebidas",
+        "en": "Drinks",
+        "itens": [
+          {
+            "pt": "Suco natural",
+            "en": "Fresh juice",
+            "desc_pt": "Cajá, umbu, manga ou maracujá",
+            "desc_en": "Cajá, umbu, mango or passion fruit",
+            "preco": 14
+          },
+          {
+            "pt": "Água de coco",
+            "en": "Coconut water",
+            "desc_pt": "",
+            "desc_en": "",
+            "preco": 12
+          },
+          {
+            "pt": "Cerveja long neck",
+            "en": "Beer (bottle)",
+            "desc_pt": "",
+            "desc_en": "",
+            "preco": 15
+          },
+          {
+            "pt": "Caipirinha",
+            "en": "Caipirinha",
+            "desc_pt": "Limão, caju ou maracujá",
+            "desc_en": "Lime, cashew fruit or passion fruit",
+            "preco": 32
+          }
+        ]
+      }
+    ],
+    "ativo": false
+  },
+  "emergencia": [
+    {
+      "pt": "Polícia Militar",
+      "en": "Police",
+      "tel": "190"
+    },
+    {
+      "pt": "SAMU",
+      "en": "Ambulance (SAMU)",
+      "tel": "192"
+    },
+    {
+      "pt": "Bombeiros",
+      "en": "Fire department",
+      "tel": "193"
+    }
+  ]
+}

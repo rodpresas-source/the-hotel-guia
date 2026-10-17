@@ -1,0 +1,740 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-17",
+  "hotel": "The Hotel — Barra, Salvador (região da Rua Belo Horizonte)",
+  "aviso": "Horários e preços mudam; confirme no Instagram/site antes de ir. Distâncias são aproximadas, de carro, a partir da Barra."
+ },
+ "bairros": [
+  {
+   "nome": "Pelourinho / Centro Histórico",
+   "bairro": "Centro Histórico",
+   "descricao": "Patrimônio da UNESCO com casarões coloridos, igrejas barrocas, museus e música nas praças. Às terças há programação cultural nos largos e, no verão, a Bênção do Olodum.",
+   "descricao_en": "UNESCO-listed old town with colorful colonial houses, baroque churches, museums and live music in the squares. Tuesdays bring cultural events and, in summer, Olodum's 'Bênção' show.",
+   "dica": "Melhor de dia e no começo da noite; à noite, fique nas ruas principais e movimentadas e vá de app até a porta.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+  },
+  {
+   "nome": "Santo Antônio Além do Carmo",
+   "bairro": "Santo Antônio",
+   "descricao": "Bairro boêmio e charmoso colado ao Pelourinho, com cafés, restaurantes, ateliês e bares na Cruz do Pascoal. Abriga o Forte da Capoeira e mirantes para a Baía de Todos os Santos.",
+   "descricao_en": "Charming bohemian neighborhood next to Pelourinho with cafés, restaurants, studios and bars around Cruz do Pascoal. Home to the Capoeira Fort and bay viewpoints.",
+   "dica": "Ótimo para o fim de tarde; prove o 'gengibre' do Oliveiras Bar.",
+   "distancia_hotel": "aprox. 7 km / 20 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+  },
+  {
+   "nome": "Barra",
+   "bairro": "Barra",
+   "descricao": "O bairro do hotel: Farol da Barra, Porto da Barra, fortes históricos e orla para caminhar. Concentra bares, restaurantes e o circuito Barra-Ondina do Carnaval.",
+   "descricao_en": "The hotel's neighborhood: Barra Lighthouse, Porto da Barra beach, historic forts and a seafront promenade. Full of bars and restaurants and the Barra-Ondina Carnival route.",
+   "dica": "O pôr do sol no Porto da Barra e no Farol é imperdível; evite trechos escuros da orla tarde da noite.",
+   "distancia_hotel": "no bairro / a pé",
+   "fonte": "https://www.salvadordabahia.com/?p=26877"
+  },
+  {
+   "nome": "Rio Vermelho",
+   "bairro": "Rio Vermelho",
+   "descricao": "Bairro mais boêmio da cidade, com acarajés famosos, bares no Largo da Mariquita e no Largo de Santana (Largo da Dinha) e casas de show. Abriga a Casa do Rio Vermelho, antiga residência de Jorge Amado e Zélia Gattai.",
+   "descricao_en": "Salvador's most bohemian district, with famous acarajé stalls, bars at Largo da Mariquita and Largo de Santana and live music venues. Home to Casa do Rio Vermelho, Jorge Amado's former house.",
+   "dica": "Use app na ida e na volta; há relatos de assaltos a quem pede carro na saída de bares.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+  },
+  {
+   "nome": "Comércio / Cidade Baixa",
+   "bairro": "Comércio",
+   "descricao": "Cidade Baixa histórica com Mercado Modelo, Elevador Lacerda, MAM-BA no Solar do Unhão e restaurantes com vista para a baía na Avenida Contorno. É também ponto de saída de barcos para as ilhas.",
+   "descricao_en": "Historic Lower City with Mercado Modelo, Lacerda Elevator, MAM-BA at Solar do Unhão and bay-view restaurants on Avenida Contorno. Boats to the islands leave from here.",
+   "dica": "Visite de dia; o bairro fica vazio à noite e nos domingos.",
+   "distancia_hotel": "aprox. 6 km / 20 min",
+   "fonte": "https://atarde.com.br/atarde-bairros/restaurantes-do-comercio-valorizam-a-historia-e-traduzem-a-essencia-baiana-1378664"
+  },
+  {
+   "nome": "Ribeira / Bonfim",
+   "bairro": "Bonfim / Ribeira",
+   "descricao": "Península de Itapagipe com a Basílica do Senhor do Bonfim e suas fitinhas, além da orla calma da Ribeira e da tradicional Sorveteria da Ribeira.",
+   "descricao_en": "Itapagipe peninsula with the Bonfim Basilica and its ribbons, plus the calm Ribeira waterfront and its century-old ice-cream shop.",
+   "dica": "Sexta-feira é o dia mais tradicional no Bonfim; combine Bonfim + sorvete na Ribeira.",
+   "distancia_hotel": "aprox. 13 km / 35 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225"
+  },
+  {
+   "nome": "Itapuã",
+   "bairro": "Itapuã",
+   "descricao": "Bairro cantado por Vinicius e Caymmi, com o Farol de Itapuã, a Sereia, a Lagoa do Abaeté e acarajés famosos.",
+   "descricao_en": "Neighborhood made famous in song, with Itapuã Lighthouse, the Mermaid statue, Abaeté Lagoon and well-known acarajé stalls.",
+   "dica": "Combine com Stella Maris e Flamengo no mesmo dia.",
+   "distancia_hotel": "aprox. 22 km / 40 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/315267-memorial-do-abaete-e-inaugurado-neste-domingo-no-bairro-de-itapua-em-salvador"
+  },
+  {
+   "nome": "Vitória / Corredor da Vitória",
+   "bairro": "Vitória",
+   "descricao": "Avenida arborizada entre a Graça e o Campo Grande, com museus como o Museu de Arte da Bahia (MAB) e vista para a baía. Fica a poucos minutos do hotel.",
+   "descricao_en": "Leafy avenue between Graça and Campo Grande with museums such as the Museu de Arte da Bahia and bay views, minutes from the hotel.",
+   "horario": "MAB: ter–dom, 10h–18h",
+   "distancia_hotel": "aprox. 2 km / 7 min",
+   "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626"
+  },
+  {
+   "nome": "Praia do Forte (bate-volta)",
+   "bairro": "Mata de São João",
+   "descricao": "Vila litorânea no Litoral Norte com piscinas naturais, o Centro de Visitantes do Projeto Tamar e o Castelo Garcia D'Ávila.",
+   "descricao_en": "Coastal village on the North Coast with natural pools, the Projeto Tamar sea-turtle visitor center and the Garcia D'Ávila Castle.",
+   "dica": "Saia cedo; maré baixa é a melhor hora para as piscinas naturais.",
+   "distancia_hotel": "aprox. 85 km / 1h30",
+   "link": "https://praiadoforte.org.br",
+   "fonte": "https://www.brasil247.com/tendencias/2026/08/09/entre-os-museus-mais-visitados-do-pais-e-fortaleza-historica-veja-o-que-consagra-esta-famosa-vila-litoranea-da-bahia/"
+  }
+ ],
+ "praias": [
+  {
+   "nome": "Porto da Barra",
+   "bairro": "Barra",
+   "descricao": "Baía de águas calmas, a poucos minutos a pé do hotel, famosa pelo pôr do sol aplaudido e pelo clima diverso e LGBT-friendly.",
+   "descricao_en": "Calm-water bay a short walk from the hotel, famous for its applauded sunsets and diverse, LGBT-friendly crowd.",
+   "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 1 km / 5 min (a pé ~15 min)",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Farol da Barra",
+   "bairro": "Barra",
+   "descricao": "Trecho junto ao Farol e ao Forte de Santo Antônio da Barra, com piscininhas na maré baixa e mirante para baleias jubarte na temporada (jul–out).",
+   "descricao_en": "Beach beside the lighthouse with tidal pools at low tide and a humpback-whale viewpoint in season (Jul–Oct).",
+   "dica": "Ótima para caminhar e ver o pôr do sol. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 1,5 km / 5 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Ondina",
+   "bairro": "Ondina",
+   "descricao": "Praia urbana logo após a Barra, ao longo do circuito do Carnaval, com mar mais aberto.",
+   "descricao_en": "Urban beach just past Barra along the Carnival route, with more open sea.",
+   "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 3 km / 8 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Stella Maris",
+   "bairro": "Stella Maris",
+   "descricao": "Faixa longa de areia com barracas estruturadas e ondas, preferida para passar o dia.",
+   "descricao_en": "Long stretch of sand with well-equipped beach kiosks and waves; a favorite for a full beach day.",
+   "dica": "Atenção às correntes. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 25 km / 45 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Flamengo",
+   "bairro": "Flamengo",
+   "descricao": "Praia mais tranquila e preservada no extremo norte da cidade, com barracas e coqueiros.",
+   "descricao_en": "Quieter, more natural beach at the city's northern end with kiosks and palm trees.",
+   "dica": "Tradicionalmente frequentada pelo público LGBT. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 28 km / 50 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Itapuã",
+   "bairro": "Itapuã",
+   "descricao": "Praia histórica junto ao Farol e à Sereia de Itapuã, com piscinas naturais na maré baixa.",
+   "descricao_en": "Historic beach by the Itapuã lighthouse and Mermaid statue, with natural pools at low tide.",
+   "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
+   "distancia_hotel": "aprox. 22 km / 40 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+   "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+  },
+  {
+   "nome": "Praia do Forte (bate-volta)",
+   "bairro": "Mata de São João",
+   "descricao": "Águas claras e piscinas naturais, com a vila do Projeto Tamar ao lado.",
+   "descricao_en": "Clear water and natural pools next to the Projeto Tamar village.",
+   "distancia_hotel": "aprox. 85 km / 1h30",
+   "link": "https://praiadoforte.org.br",
+   "fonte": "https://praiadoforte.org.br/noticia/dia-das-criancas-em-praia-do-forte-do-mergulho-com-peixinhos-as-descobertas-na-floresta/"
+  },
+  {
+   "nome": "Ilha dos Frades + Itaparica (passeio de barco)",
+   "bairro": "Baía de Todos os Santos",
+   "descricao": "Passeio de escuna ou lancha pela baía com paradas na Ilha dos Frades e em Itaparica. Passeios coletivos saem do Terminal Marítimo/Náutico a partir de cerca de R$ 100–130 por pessoa (jul/2026).",
+   "descricao_en": "Schooner or speedboat tour of the bay stopping at Ilha dos Frades and Itaparica. Group tours from the city's boat terminal cost roughly R$100–130 per person (Jul 2026).",
+   "dica": "Taxas ambientais das ilhas e almoço costumam ser cobrados à parte.",
+   "horario": "Coletivos geralmente 9h–15h30",
+   "distancia_hotel": "aprox. 6 km até o terminal / 20 min",
+   "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+  }
+ ],
+ "atracoes": [
+  {
+   "nome": "Elevador Lacerda",
+   "bairro": "Centro / Comércio",
+   "descricao": "Elevador art déco de 1873 que liga a Cidade Alta à Cidade Baixa, com vista da baía. Reaberto em 2025 após modernização.",
+   "descricao_en": "1873 art-deco elevator linking Upper and Lower City with bay views; reopened in 2025 after modernization.",
+   "dica": "Tarifa de R$ 1 (grátis com SalvadorCard), conforme valores de 2025.",
+   "horario": "Seg–sex 6h30–21h30; sáb 7h–21h30; dom/feriado 7h–21h",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.bahianoticias.com.br/noticia/303226-elevador-lacerda-completa-30-dias-de-funcionamento-apos-reforma-com-250-mil-pessoas-transportadas"
+  },
+  {
+   "nome": "Mercado Modelo",
+   "bairro": "Comércio",
+   "descricao": "Mercado histórico em frente ao Elevador Lacerda, com artesanato, lembranças, música e restaurantes com vista para a baía.",
+   "descricao_en": "Historic market opposite the Lacerda Elevator with crafts, souvenirs, music and bay-view restaurants.",
+   "dica": "Pechinche com simpatia e compare preços entre as lojas.",
+   "horario": "Aprox. 9h–18h",
+   "distancia_hotel": "aprox. 6 km / 20 min",
+   "fonte": "https://www.tripadvisor.com/Attraction_Review-g303272-d312474-Reviews-Mercado_Modelo-Salvador_State_of_Bahia.html"
+  },
+  {
+   "nome": "Basílica do Senhor do Bonfim",
+   "bairro": "Bonfim",
+   "descricao": "Igreja mais famosa da Bahia, símbolo de fé e sincretismo, com grades cobertas de fitinhas coloridas.",
+   "descricao_en": "Bahia's most famous church, a symbol of faith and syncretism, its railings covered in colored ribbons.",
+   "dica": "Amarre a fitinha com três nós e faça um pedido para cada um.",
+   "distancia_hotel": "aprox. 13 km / 35 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225"
+  },
+  {
+   "nome": "Farol da Barra e Museu Náutico da Bahia",
+   "bairro": "Barra",
+   "descricao": "Forte de Santo Antônio da Barra com o farol e o Museu Náutico; mirante com pesquisadores para avistar baleias jubarte na temporada.",
+   "descricao_en": "Santo Antônio da Barra fort with the lighthouse and Nautical Museum; humpback-whale watching point with researchers in season.",
+   "dica": "Observação de baleias incluída no ingresso do museu.",
+   "horario": "Diariamente, 9h–17h30 (temporada 2026)",
+   "distancia_hotel": "aprox. 1,5 km / 5 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/farol-da-barra-vira-camarote-para-ver-baleias-jubarte-em-salvador-temporada-comeca-nesta-quarta-0726"
+  },
+  {
+   "nome": "Forte da Capoeira (Forte de Santo Antônio Além do Carmo)",
+   "bairro": "Santo Antônio",
+   "descricao": "Forte histórico transformado em centro de referência e memória da capoeira, com academias e rodas.",
+   "descricao_en": "Historic fort turned into a capoeira reference and memory center, with schools and rodas.",
+   "dica": "Pergunte no local os horários das rodas abertas.",
+   "distancia_hotel": "aprox. 7 km / 20 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+  },
+  {
+   "nome": "MAM-BA – Solar do Unhão",
+   "bairro": "Contorno / Comércio",
+   "descricao": "Museu de Arte Moderna em um solar colonial à beira da baía, com parque de esculturas e um dos melhores pores do sol da cidade.",
+   "descricao_en": "Modern Art Museum in a colonial manor on the bay, with a sculpture park and one of the city's best sunsets.",
+   "horario": "Ter–dom, 10h–18h",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626"
+  },
+  {
+   "nome": "Casa do Carnaval da Bahia",
+   "bairro": "Pelourinho",
+   "descricao": "Museu interativo sobre a história, os ritmos e os blocos do Carnaval baiano.",
+   "descricao_en": "Interactive museum on the history, rhythms and groups of Bahia's Carnival.",
+   "dica": "Valores informados em jun/2026 variam (R$ 20–30 inteira); quarta-feira tem entrada gratuita.",
+   "horario": "Ter–dom, 11h–19h",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+  },
+  {
+   "nome": "MUNCAB – Museu Nacional da Cultura Afro-Brasileira",
+   "bairro": "Centro Histórico",
+   "descricao": "Museu dedicado à arte e cultura afro-brasileira, com exposições de artistas negros contemporâneos e obras repatriadas.",
+   "descricao_en": "Museum dedicated to Afro-Brazilian art and culture, with contemporary Black artists and repatriated works.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/muncab-oferece-entrada-gratuita-de-5-a-9-de-agosto-durante-a-flipelo-0826"
+  },
+  {
+   "nome": "Fundação Casa de Jorge Amado",
+   "bairro": "Pelourinho",
+   "descricao": "Casarão azul no Largo do Pelourinho dedicado à obra de Jorge Amado e Zélia Gattai, que completa 40 anos com programação gratuita.",
+   "descricao_en": "Blue mansion on Largo do Pelourinho devoted to Jorge Amado and Zélia Gattai, celebrating 40 years with free events.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/1834-fundacao-casa-de-jorge-amado-celebra-40-anos-com-programacao-gratuita-em-salvador"
+  },
+  {
+   "nome": "Casa do Rio Vermelho",
+   "bairro": "Rio Vermelho",
+   "descricao": "Antiga casa de Jorge Amado e Zélia Gattai, hoje museu com jardim, objetos pessoais e visitas mediadas.",
+   "descricao_en": "Jorge Amado and Zélia Gattai's former home, now a museum with garden, personal objects and guided visits.",
+   "dica": "Visitas mediadas aos fins de semana às 11h e 15h30 (jun/2026).",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+  },
+  {
+   "nome": "Parque e Lagoa do Abaeté",
+   "bairro": "Itapuã",
+   "descricao": "Lagoa de águas escuras cercada por dunas brancas, cantada por Caymmi; o parque foi requalificado e ganhou o Memorial do Abaeté em 2026.",
+   "descricao_en": "Dark-water lagoon ringed by white dunes, celebrated in song; the park was renovated and gained the Abaeté Memorial in 2026.",
+   "dica": "Vá de dia; parte das obras ainda estava em andamento em 2026.",
+   "distancia_hotel": "aprox. 23 km / 40 min",
+   "fonte": "https://atarde.com.br/salvador/parque-do-abaete-ressurge-apos-investimento-milionario-1384112"
+  },
+  {
+   "nome": "Teatro Castro Alves (TCA)",
+   "bairro": "Campo Grande",
+   "descricao": "Principal teatro da Bahia, reaberto em julho de 2026 após modernização completa.",
+   "descricao_en": "Bahia's main theater, reopened in July 2026 after a full modernization.",
+   "dica": "A sala principal voltou de forma gradual; veja a agenda antes.",
+   "distancia_hotel": "aprox. 3 km / 10 min",
+   "fonte": "https://jornalgrandebahia.com.br/2026/07/presidente-lula-e-governador-jeronimo-reabrem-teatro-castro-alves-apos-modernizacao-de-r-260-milhoes-em-salvador/"
+  }
+ ],
+ "restaurantes": [
+  {
+   "nome": "Casa de Tereza",
+   "bairro": "Rio Vermelho",
+   "descricao": "Casa da chef Tereza Paim, referência em moquecas e cozinha baiana autoral, com ambiente repleto de arte local; completou 14 anos em 2026.",
+   "descricao_en": "Chef Tereza Paim's restaurant, known for moquecas and signature Bahian cooking amid local art; turned 14 in 2026.",
+   "dica": "Especialidade: moqueca (peixe, camarão ou vegetariana).",
+   "preco": "$$$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://aloalobahia.com/noticias/2026/09/15/chef-tereza-paim-celebra-14-anos-do-casa-de-tereza-com-lancamento-de-livro-e-catalogo-de-arte/"
+  },
+  {
+   "nome": "Dona Mariquita",
+   "bairro": "Rio Vermelho",
+   "descricao": "Cozinha patrimonial baiana, com pratos ligados ao candomblé e receitas históricas, como a 'poqueca' na folha de bananeira e o arroz de hauçá.",
+   "descricao_en": "Heritage Bahian cuisine rooted in Afro-Brazilian tradition, with dishes like banana-leaf 'poqueca' and arroz de hauçá.",
+   "dica": "Há também a unidade Casa de Veraneio, no Comércio.",
+   "preco": "$$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10012-cnn-elege-7-restaurantes-para-descobrir-a-diversidade-gastronomica-de-salvador"
+  },
+  {
+   "nome": "Restaurante Escola Senac Pelourinho",
+   "bairro": "Pelourinho",
+   "descricao": "Bufê-escola com dezenas de pratos típicos baianos e doces regionais em casarão histórico.",
+   "descricao_en": "Training-restaurant buffet with dozens of typical Bahian dishes and desserts in a historic mansion.",
+   "dica": "Ótimo para provar de tudo um pouco.",
+   "preco": "$$",
+   "horario": "Diariamente, 11h30–15h30",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.tripadvisor.com/Restaurant_Review-g303272-d1084280-Reviews-Restaurante_Escola_Senac_Pelourinho-Salvador_State_of_Bahia.html"
+  },
+  {
+   "nome": "Yemanjá",
+   "bairro": "Armação",
+   "descricao": "Clássico da orla famoso pelas moquecas gigantes e frutos do mar baianos.",
+   "descricao_en": "Seafront classic known for giant moquecas and Bahian seafood.",
+   "preco": "$$",
+   "horario": "Almoço 11h30–17h (nov/2025)",
+   "distancia_hotel": "aprox. 14 km / 30 min",
+   "fonte": "https://atarde.com.br/gastronomia/sextou-8-locais-para-comer-comida-baiana-em-salvador-1370327"
+  },
+  {
+   "nome": "Origem",
+   "bairro": "Pituba",
+   "descricao": "Menu degustação que reinterpreta a cozinha baiana e do Recôncavo, dos chefs Fabrício Lemos e Lisiane Arouca; 4º no ranking Exame 2026 de melhores do Brasil.",
+   "descricao_en": "Tasting menu reimagining Bahian and Recôncavo cooking by chefs Fabrício Lemos and Lisiane Arouca; ranked 4th in Brazil (Exame 2026).",
+   "dica": "Menu Recôncavo ~R$ 420 (jun/2026); reserva obrigatória.",
+   "preco": "$$$$",
+   "distancia_hotel": "aprox. 10 km / 25 min",
+   "link": "https://theworlds50best.com/latinamerica/en/the-list/Origem.html",
+   "fonte": "https://www.correio24horas.com.br/em-alta/veja-quanto-custa-comer-nos-restaurantes-baianos-eleitos-entre-os-100-melhores-do-brasil-0626"
+  },
+  {
+   "nome": "Orí Rooftop",
+   "bairro": "Centro Histórico",
+   "descricao": "Rooftop do Grupo Origem no Casario da Misericórdia, com vista para a baía e o Elevador Lacerda e cozinha de dendê, coco e frutos do mar.",
+   "descricao_en": "Grupo Origem's rooftop in the historic center with views of the bay and Lacerda Elevator; dendê, coconut and seafood cooking.",
+   "dica": "Menu executivo ter–sex no almoço a partir de ~R$ 105 (jun/2026).",
+   "preco": "$$$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9921-ori-rooftop-e-destaque-em-lista-da-vogue-com-melhores-restaurantes-para-aproveitar-o-outono"
+  },
+  {
+   "nome": "Manga",
+   "bairro": "Rio Vermelho",
+   "descricao": "Menu degustação criativo com ingredientes da estação, em casarão com bar e terraço, dos chefs Dante e Katrin Bassi.",
+   "descricao_en": "Creative seasonal tasting menu in a mansion with bar and terrace, by chefs Dante and Katrin Bassi.",
+   "dica": "Degustação ~R$ 520 (jun/2026).",
+   "preco": "$$$$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/em-alta/veja-quanto-custa-comer-nos-restaurantes-baianos-eleitos-entre-os-100-melhores-do-brasil-0626"
+  },
+  {
+   "nome": "Amado",
+   "bairro": "Comércio (Av. Contorno)",
+   "descricao": "Restaurante de frutos do mar contemporâneo sobre a Baía de Todos os Santos, com 20 anos completados em 2026 e novo cardápio.",
+   "descricao_en": "Contemporary seafood restaurant over the Bay of All Saints, celebrating 20 years in 2026 with a new menu.",
+   "dica": "Peça mesa na varanda para o pôr do sol.",
+   "preco": "$$$$",
+   "horario": "Ter–dom, 10h–23h (site de turismo)",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.bahianoticias.com.br/bnhall/business/1243-restaurante-amado-comemora-20-anos-com-novo-cardapio-assinado-por-edinho-engel-e-danilo-fernandes"
+  },
+  {
+   "nome": "Gero Salvador (Fasano)",
+   "bairro": "Centro (Praça Castro Alves)",
+   "descricao": "Italiano do Grupo Fasano no térreo do Hotel Fasano, com massas e alguns clássicos baianos; café da manhã aberto ao público.",
+   "descricao_en": "Grupo Fasano's Italian restaurant at Hotel Fasano, with pasta and a few Bahian classics; breakfast open to non-guests.",
+   "dica": "Menu Mezzogiorno no almoço em dias úteis.",
+   "preco": "$$$$",
+   "distancia_hotel": "aprox. 4 km / 12 min",
+   "link": "https://www.instagram.com/fasanosalvador",
+   "fonte": "https://www.folhape.com.br/sabores/rascunho-gero-salvador/484157/"
+  },
+  {
+   "nome": "Ré Restaurante Dona Suzana",
+   "bairro": "Solar do Unhão (Contorno)",
+   "descricao": "Restaurante no Solar do Unhão, junto ao MAM, com moquecas e vista para a baía.",
+   "descricao_en": "Restaurant at Solar do Unhão next to MAM, serving moquecas with bay views.",
+   "dica": "Combine com o pôr do sol do MAM.",
+   "preco": "$$$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://atarde.com.br/atarde-bairros/restaurantes-do-comercio-valorizam-a-historia-e-traduzem-a-essencia-baiana-1378664"
+  },
+  {
+   "nome": "Pereira Restaurante",
+   "bairro": "Barra (Porto da Barra)",
+   "descricao": "Frutos do mar e grelhados com vista para o mar no Porto da Barra, muito procurado no fim de tarde.",
+   "descricao_en": "Seafood and grills facing the sea at Porto da Barra, popular at sunset.",
+   "dica": "Reserve para o horário do pôr do sol.",
+   "preco": "$$$",
+   "distancia_hotel": "aprox. 1 km / 5 min (a pé)",
+   "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9749-restaurante-pereira-promove-nova-edicao-do-pereira-na-brasa-com-chef-sandro-borges-em-salvador"
+  },
+  {
+   "nome": "Bão – Barra",
+   "bairro": "Barra",
+   "descricao": "Boteco premiado de petiscos baianos, como tripa frita, camarão alho e óleo e caldo de sururu.",
+   "descricao_en": "Award-winning Bahian bar-food spot: fried tripe, garlic shrimp, sururu broth.",
+   "dica": "Rua Augusto Frederico Schmith, 302.",
+   "preco": "$$",
+   "horario": "Happy hour ter–sex, 16h–20h (jan/2026)",
+   "distancia_hotel": "aprox. 1 km / 5 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126"
+  },
+  {
+   "nome": "Casa Chálabi",
+   "bairro": "Rio Vermelho",
+   "descricao": "Comida libanesa e mediterrânea em clima descontraído, com mesas na calçada.",
+   "descricao_en": "Lebanese and Mediterranean food in a relaxed setting with sidewalk tables.",
+   "preco": "$$",
+   "horario": "Happy hour ter–sáb, 16h–19h (jan/2026)",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126"
+  },
+  {
+   "nome": "Acarajé da Dinha",
+   "bairro": "Rio Vermelho (Largo de Santana)",
+   "descricao": "Um dos acarajés mais famosos da cidade, tradição de várias gerações no largo que leva o nome da baiana.",
+   "descricao_en": "One of the city's most famous acarajé stalls, a multi-generation tradition on the square named after her.",
+   "dica": "Fila nos fins de semana.",
+   "preco": "$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.tripadvisor.com/Restaurant_Review-g303272-d2346970-Reviews-Acaraje_da_Dinha-Salvador_State_of_Bahia.html"
+  },
+  {
+   "nome": "Acarajé da Cira",
+   "bairro": "Rio Vermelho (Largo da Mariquita)",
+   "descricao": "Acarajé tradicional e crocante, hoje comandado pela família de Cira no Largo da Mariquita.",
+   "descricao_en": "Traditional crispy acarajé, now run by Cira's family at Largo da Mariquita.",
+   "dica": "Em mai/2026 o ponto de Itapuã deixou a marca temporariamente; o do Rio Vermelho segue normal.",
+   "preco": "$",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/acaraje-da-cira-suspende-temporariamente-atividades-em-tradicional-bairro-de-salvador-0526"
+  },
+  {
+   "nome": "Sorveteria da Ribeira",
+   "bairro": "Ribeira",
+   "descricao": "Sorveteria fundada em 1931, famosa pelos sabores de frutas brasileiras; o sorvete de tapioca entrou na lista TasteAtlas dos 100 melhores do mundo (2026).",
+   "descricao_en": "Ice-cream parlor founded in 1931, famous for Brazilian-fruit flavors; its tapioca flavor made TasteAtlas's world top 100 (2026).",
+   "preco": "$",
+   "distancia_hotel": "aprox. 13 km / 35 min",
+   "link": "https://www.instagram.com/sorveteriadaribeira",
+   "fonte": "https://www.correio24horas.com.br/salvador/sorvete-de-salvador-esta-entre-os-100-melhores-do-mundo-saiba-qual-0526"
+  },
+  {
+   "nome": "Padó Padaria",
+   "bairro": "Barra",
+   "descricao": "Padaria contemporânea perto do hotel, ótima para café da manhã e pães de fermentação natural.",
+   "descricao_en": "Contemporary bakery near the hotel, great for breakfast and sourdough.",
+   "dica": "Rua Dr. João Pondé, 480.",
+   "preco": "$$",
+   "horario": "Qui–dom, 8h–12h30 (abr/2026)",
+   "distancia_hotel": "aprox. 1 km / 5 min",
+   "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292"
+  },
+  {
+   "nome": "Little England Café",
+   "bairro": "Pelourinho (Praça da Sé)",
+   "descricao": "Café de inspiração inglesa na Praça da Sé, boa pausa durante o passeio no Centro Histórico.",
+   "descricao_en": "English-style café on Praça da Sé, a good break while touring the old town.",
+   "preco": "$$",
+   "horario": "Ter–sáb 9h–19h; dom 10h–19h (abr/2026)",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292"
+  }
+ ],
+ "noite": [
+  {
+   "nome": "Largo da Mariquita",
+   "bairro": "Rio Vermelho",
+   "descricao": "Ponto central da noite do Rio Vermelho, com bares, música ao vivo e o acarajé da Cira.",
+   "descricao_en": "Hub of Rio Vermelho nightlife with bars, live music and Cira's acarajé.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+  },
+  {
+   "nome": "Largo de Santana (Largo da Dinha)",
+   "bairro": "Rio Vermelho",
+   "descricao": "Sequência de bares abertos até tarde, um deles 24h, ao redor do acarajé da Dinha; ponto de encontro da cidade em grandes eventos.",
+   "descricao_en": "Row of late-night bars, one open 24h, around Dinha's acarajé; the city's gathering spot for big events.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://aloalobahia.com/noticias/2026/10/04/eleitores-lotam-largo-da-dinha-no-rio-vermelho-para-acompanhar-apuracao-das-eleicoes-2026/"
+  },
+  {
+   "nome": "Casa da Mãe",
+   "bairro": "Rio Vermelho",
+   "descricao": "Casa de shows intimista criada em 2006, com MPB, samba e artistas baianos.",
+   "descricao_en": "Intimate music venue founded in 2006 with MPB, samba and Bahian artists.",
+   "dica": "Ingressos geralmente no Sympla.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/em-alta/alinne-rosa-recebe-jau-em-ultimo-show-da-temporada-na-casa-da-mae-no-rio-vermelho-0526"
+  },
+  {
+   "nome": "A Borracharia",
+   "bairro": "Rio Vermelho",
+   "descricao": "Festa dançante que começou no quintal de uma casa e vai até o amanhecer.",
+   "descricao_en": "Dance party that began in a backyard and runs until dawn.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+  },
+  {
+   "nome": "Jubiabar",
+   "bairro": "Rio Vermelho",
+   "descricao": "Bar de petiscos com happy hour de bolinhos, croquetes e espetinhos.",
+   "descricao_en": "Bar-food spot with a happy hour of fritters, croquettes and skewers.",
+   "dica": "Rua Conselheiro Pedro Luiz, 79.",
+   "horario": "Happy hour qua–dom, 18h30–20h (jan/2026)",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126"
+  },
+  {
+   "nome": "Confraria do França",
+   "bairro": "Rio Vermelho",
+   "descricao": "Bar tradicional de frequentadores fiéis e veteranos da boemia baiana, com noites que começam e terminam cedo.",
+   "descricao_en": "Traditional bar of loyal regulars and Bahian bohemian veterans; evenings start and end early.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+  },
+  {
+   "nome": "Terça no Pelourinho",
+   "bairro": "Pelourinho",
+   "descricao": "Às terças os largos do Pelourinho recebem shows (alguns gratuitos, como no Largo Pedro Archanjo); no verão, há a Bênção do Olodum na Praça das Artes.",
+   "descricao_en": "On Tuesdays the Pelourinho squares host concerts (some free, e.g. Largo Pedro Archanjo); in summer Olodum plays its 'Bênção' at Praça das Artes.",
+   "dica": "Olodum 2026: ingressos a partir de R$ 150 (meia).",
+   "horario": "Bênção do Olodum: jan–Carnaval, terças a partir das 20h",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://atarde.com.br/verao/verao-do-olodum-2026-reforca-agenda-no-pelourinho-rumo-ao-carnaval-1372566"
+  },
+  {
+   "nome": "Cruz do Pascoal e bares do Santo Antônio",
+   "bairro": "Santo Antônio",
+   "descricao": "Bares de calçada ao redor da cruz de 1743, além do Oliveiras Bar e do Café e Cana, para uma noite mais tranquila.",
+   "descricao_en": "Sidewalk bars around the 1743 cross plus Oliveiras Bar and Café e Cana, for a mellower night.",
+   "distancia_hotel": "aprox. 7 km / 20 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+  },
+  {
+   "nome": "La Taperia",
+   "bairro": "Rio Vermelho",
+   "descricao": "Restaurante espanhol de tapas, ponto popular para ver o pôr do sol no Rio Vermelho.",
+   "descricao_en": "Spanish tapas restaurant, a popular sunset spot in Rio Vermelho.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+  }
+ ],
+ "lgbt": [
+  {
+   "nome": "Parada do Orgulho LGBT+ da Bahia",
+   "bairro": "Barra / Ondina",
+   "descricao": "Acontece todo ano no início de setembro, na véspera do feriado de 7 de setembro, com concentração no Farol da Barra e trios pelo circuito Barra-Ondina, a poucos minutos do hotel.",
+   "descricao_en": "Held every year in early September, on the eve of the 7 September holiday, gathering at Farol da Barra with sound trucks along the Barra-Ondina route, minutes from the hotel.",
+   "distancia_hotel": "aprox. 1,5 km / 5 min",
+   "fonte": "https://www.salvadordabahia.com/eventos/23a-parada-do-orgulho-lgbt-bahia/"
+  },
+  {
+   "nome": "Porto da Barra",
+   "bairro": "Barra",
+   "descricao": "Praia tradicionalmente diversa e acolhedora ao público LGBTQIA+, especialmente perto do Forte de São Diogo.",
+   "descricao_en": "Traditionally diverse beach welcoming to LGBTQIA+ visitors, especially near São Diogo Fort.",
+   "distancia_hotel": "aprox. 1 km / 5 min",
+   "fonte": "https://www.salvadordabahia.com/?p=26877"
+  },
+  {
+   "nome": "San Sebastian (SAN Boate)",
+   "bairro": "Rio Vermelho",
+   "descricao": "Boate icônica e um dos principais pontos de encontro da cena LGBTQIA+ de Salvador, com eletrônica, pop e axé.",
+   "descricao_en": "Iconic nightclub and one of the main meeting points of Salvador's LGBTQIA+ scene, playing electronic, pop and axé.",
+   "dica": "Rua Conselheiro Pedro Luiz, 488.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+  },
+  {
+   "nome": "Amsterdam",
+   "bairro": "Rio Vermelho",
+   "descricao": "Boate moderna e animada, entre as mais vibrantes da noite do Rio Vermelho.",
+   "descricao_en": "Modern, lively nightclub, among the most vibrant in Rio Vermelho.",
+   "distancia_hotel": "aprox. 5 km / 15 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+  },
+  {
+   "nome": "Âncora do Marujo",
+   "bairro": "Centro (Rua Carlos Gomes)",
+   "descricao": "Bar clássico e acolhedor com shows de drag queens, que também atrai outros públicos.",
+   "descricao_en": "Classic, welcoming bar with drag shows that also draws a mixed crowd.",
+   "horario": "Ter–dom, a partir das 21h",
+   "distancia_hotel": "aprox. 4 km / 12 min",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+  },
+  {
+   "nome": "Batekoo",
+   "bairro": "Vários locais",
+   "descricao": "Festa e movimento cultural que celebra a música e a cultura negra, periférica e LGBTQIA+.",
+   "descricao_en": "Party and cultural movement celebrating Black, peripheral and LGBTQIA+ music and culture.",
+   "dica": "Datas e locais no Instagram da festa.",
+   "distancia_hotel": "varia",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+  },
+  {
+   "nome": "Festas na Marujada (Brega & Night, TunTisTum)",
+   "bairro": "Salvador",
+   "descricao": "Festas alternativas e queer-friendly com brega e música pop em edições periódicas.",
+   "descricao_en": "Alternative, queer-friendly parties with brega and pop music in recurring editions.",
+   "distancia_hotel": "varia",
+   "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+  },
+  {
+   "nome": "Dica de segurança",
+   "bairro": "Rio Vermelho / geral",
+   "descricao": "Houve relatos de assaltos a pessoas LGBTQIA+ por falsos motoristas de app perto de boates. Confira placa e modelo do carro e espere dentro do local.",
+   "descricao_en": "There have been reports of robberies targeting LGBTQIA+ people by fake ride-hail drivers near clubs. Check the plate and model and wait inside the venue.",
+   "distancia_hotel": "—",
+   "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/"
+  }
+ ],
+ "dicas": [
+  {
+   "nome": "Metrô de Salvador",
+   "bairro": "Cidade",
+   "descricao": "Duas linhas: Linha 1 (Lapa–Pirajá) e Linha 2 (Acesso Norte–Aeroporto). A estação Lapa fica perto da Barra e a Campo da Pólvora, do Pelourinho.",
+   "descricao_en": "Two lines: Line 1 (Lapa–Pirajá) and Line 2 (Acesso Norte–Airport). Lapa station is near Barra; Campo da Pólvora is near Pelourinho.",
+   "dica": "Tarifa ~R$ 4,10 (2026); do aeroporto, troque de linha no Acesso Norte.",
+   "horario": "Diariamente, 5h–0h",
+   "distancia_hotel": "Estação Lapa aprox. 3 km / 10 min",
+   "fonte": "https://www.quintoandar.com.br/guias/?p=463750"
+  },
+  {
+   "nome": "Aplicativos e táxi",
+   "bairro": "Cidade",
+   "descricao": "Uber, 99 e táxis funcionam bem; à noite, prefira app ou táxi de porta a porta em vez de caminhar.",
+   "descricao_en": "Uber, 99 and taxis work well; at night take a door-to-door ride rather than walking.",
+   "dica": "Confira placa, modelo e nome do motorista antes de entrar.",
+   "distancia_hotel": "—",
+   "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/"
+  },
+  {
+   "nome": "Delegacia do Turista (DELTUR) – Barra",
+   "bairro": "Barra",
+   "descricao": "Delegacia especializada em atendimento ao turista, com plantão 24h, bem perto do hotel.",
+   "descricao_en": "Tourist police station, open 24h, very close to the hotel.",
+   "dica": "Rua César Zama, s/n (prédio da 14ª DT) — (71) 3116-0065.",
+   "horario": "24 horas",
+   "distancia_hotel": "aprox. 1 km / 5 min",
+   "fonte": "https://www.ba.gov.br/policiacivil/deltur-barra"
+  },
+  {
+   "nome": "Telefones de emergência",
+   "bairro": "Brasil",
+   "descricao": "Polícia Militar 190, SAMU 192, Bombeiros 193.",
+   "descricao_en": "Military Police 190, Ambulance (SAMU) 192, Fire Department 193.",
+   "distancia_hotel": "—",
+   "fonte": "conhecimento geral (sem fonte online específica)"
+  },
+  {
+   "nome": "Balneabilidade das praias",
+   "bairro": "Cidade",
+   "descricao": "O Inema publica boletim semanal de praias próprias e impróprias para banho; algumas praias da Barra aparecem impróprias com frequência.",
+   "descricao_en": "Inema publishes a weekly bulletin of beaches fit or unfit for swimming; some Barra beaches are often listed as unfit.",
+   "dica": "Evite banho de mar até 24h após chuvas fortes.",
+   "distancia_hotel": "—",
+   "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim"
+  },
+  {
+   "nome": "Pôr do sol no Porto da Barra",
+   "bairro": "Barra",
+   "descricao": "O pôr do sol visto do Porto da Barra e do Farol é um ritual local, muitas vezes aplaudido.",
+   "descricao_en": "Sunset at Porto da Barra and the lighthouse is a local ritual, often applauded.",
+   "dica": "Chegue 30 min antes; leve só o necessário.",
+   "distancia_hotel": "aprox. 1 km / a pé",
+   "fonte": "conhecimento geral (sem fonte online específica)"
+  },
+  {
+   "nome": "Acarajé: quente ou frio?",
+   "bairro": "Cidade",
+   "descricao": "Ao pedir acarajé, a baiana pergunta 'quente ou frio?': quente leva pimenta, frio vem sem. Os recheios comuns são vatapá, caruru, salada e camarão seco.",
+   "descricao_en": "When ordering acarajé you'll be asked 'quente ou frio?' (hot or cold): hot means with chili, cold means without. Common fillings are vatapá, caruru, salad and dried shrimp.",
+   "dica": "Se não está acostumado com pimenta, peça 'frio' ou 'pouca pimenta'.",
+   "distancia_hotel": "—",
+   "fonte": "conhecimento geral (sem fonte online específica)"
+  },
+  {
+   "nome": "Clima",
+   "bairro": "Cidade",
+   "descricao": "Calor o ano todo, em geral entre 24 °C e 30 °C; as chuvas são mais fortes entre abril e junho.",
+   "descricao_en": "Warm all year, usually 24–30 °C; heaviest rains are April to June.",
+   "dica": "Protetor solar, chapéu e água sempre.",
+   "distancia_hotel": "—",
+   "fonte": "conhecimento geral (sem fonte online específica)"
+  },
+  {
+   "nome": "Travessia para Itaparica",
+   "bairro": "Baía",
+   "descricao": "Ferry-boat de São Joaquim a Bom Despacho (~30 min) ou lancha do Terminal Náutico a Vera Cruz (~40 min).",
+   "descricao_en": "Ferry from São Joaquim to Bom Despacho (~30 min) or speedboat from the Nautical Terminal to Vera Cruz (~40 min).",
+   "distancia_hotel": "Terminal aprox. 6 km / 20 min",
+   "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+  },
+  {
+   "nome": "Segurança no dia a dia",
+   "bairro": "Cidade",
+   "descricao": "Use o celular com discrição na rua e na praia, leve pouco dinheiro e evite ruas vazias e escuras à noite.",
+   "descricao_en": "Keep your phone discreet on the street and at the beach, carry little cash and avoid empty, dark streets at night.",
+   "distancia_hotel": "—",
+   "fonte": "conhecimento geral (sem fonte online específica)"
+  }
+ ],
+ "nao_incluidos": [
+  {
+   "nome": "Igreja e Convento de São Francisco",
+   "motivo": "Interditada desde o desabamento de fev/2025; sem data de reabertura (Correio, jul/2026).",
+   "fonte": "https://www.correio24horas.com.br/salvador/confira-como-esta-a-igreja-de-sao-francisco-apos-um-ano-e-meio-fechada-convento-pode-virar-hotel-0726"
+  },
+  {
+   "nome": "Paraíso Tropical (Cabula)",
+   "motivo": "Fechamento temporário anunciado; sem reabertura confirmada (A Tarde, jun/2025).",
+   "fonte": "https://atarde.com.br/salvador/gostinho-de-saudade-relembre-5-queridinhos-que-fecharam-em-salvador-1332535"
+  },
+  {
+   "nome": "Acarajé da Cira – Itapuã",
+   "motivo": "Desvinculado da marca temporariamente em mai/2026.",
+   "fonte": "https://www.correio24horas.com.br/salvador/acaraje-da-cira-suspende-temporariamente-atividades-em-tradicional-bairro-de-salvador-0526"
+  },
+  {
+   "nome": "Museu Afro-Brasileiro (MAFRO/UFBA)",
+   "motivo": "Sem confirmação de funcionamento em 2026 encontrada."
+  },
+  {
+   "nome": "Dique do Tororó",
+   "motivo": "Sem fonte recente; é espaço público (provavelmente acessível), mas não foi verificado."
+  },
+  {
+   "nome": "Commons, Lálá, Mistral",
+   "motivo": "Não encontrados/verificados em 2026."
+  }
+ ]
+}
