@@ -4,12 +4,11 @@ Intermediário entre a página do hóspede e o HITS. Roda grátis no Cloudflare 
 
 ## Como o hóspede entra
 
-Apartamento + sobrenome de qualquer hóspede da reserva + os 4 últimos caracteres do CPF ou do
-passaporte de qualquer hóspede da reserva.
+Apartamento + os 4 últimos caracteres do CPF ou do passaporte de qualquer hóspede da reserva.
 
 LGPD: o documento só é comparado em memória com o que já está na ficha (FNRH) do HITS. Nada é
 gravado, devolvido à página ou registrado em log. O extrato mostra apenas o primeiro nome do titular.
-Cinco tentativas erradas bloqueiam por 15 minutos; o acesso expira 2h depois do check-out.
+Cinco erros do mesmo aparelho bloqueiam por 15 minutos e dez erros no mesmo apartamento (de qualquer aparelho) bloqueiam por 1 hora; o acesso expira 2h depois do check-out.
 
 ## Publicar
 
@@ -25,4 +24,4 @@ Cinco tentativas erradas bloqueiam por 15 minutos; o acesso expira 2h depois do 
 - Implementar `reservaAtiva()` com a API do HITS: reserva hospedada na UH, com nome e documento de
   cada hóspede, lançamentos e pagamentos. Até lá, `MOCK = "1"` usa uma reserva de exemplo.
 - Na página, "Minha conta" só aparece quando `conta.api` estiver preenchido.
-  Demonstração sem API: abra a página com `?demo=1` (apartamento 101, Silva, documento 1234).
+  Demonstração sem API: abra a página com `?demo=1` (apartamento 101, documento 1234).

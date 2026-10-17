@@ -1,0 +1,192 @@
+{
+ "bairros": {
+  "Pelourinho / Centro Histórico": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Largo_do_Pelourinho_Salvador_2019-9754_%28cropped%29.jpg/900px-Largo_do_Pelourinho_Salvador_2019-9754_%28cropped%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho_Salvador_2019-9754_%28cropped%29.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Barra": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Praia_do_Farol_da_Barra_Salvador_Bahia_Ondas_2021-0134.jpg/900px-Praia_do_Farol_da_Barra_Salvador_Bahia_Ondas_2021-0134.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Farol_da_Barra_Salvador_Bahia_Ondas_2021-0134.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Rio Vermelho": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rio_Vermelho_Salvador_Bahia_Aerial_View_2021-0475.jpg/900px-Rio_Vermelho_Salvador_Bahia_Aerial_View_2021-0475.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Rio_Vermelho_Salvador_Bahia_Aerial_View_2021-0475.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Comércio / Cidade Baixa": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conjunto_Arquitet%C3%B4nico_e_Paisag%C3%ADstico_da_Cidade_Baixa%2C_Salvador%2C_Bahia._07.jpg/900px-Conjunto_Arquitet%C3%B4nico_e_Paisag%C3%ADstico_da_Cidade_Baixa%2C_Salvador%2C_Bahia._07.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Conjunto_Arquitet%C3%B4nico_e_Paisag%C3%ADstico_da_Cidade_Baixa%2C_Salvador%2C_Bahia._07.jpg",
+   "autor": "SouDiana",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Itapuã": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Farol_de_Itapu%C3%A3._Foto-_Andr%C3%A9ia_Brand%C3%A3o_%2832765382096%29.jpg/900px-Farol_de_Itapu%C3%A3._Foto-_Andr%C3%A9ia_Brand%C3%A3o_%2832765382096%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Farol_de_Itapu%C3%A3._Foto-_Andr%C3%A9ia_Brand%C3%A3o_%2832765382096%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  },
+  "Vitória / Corredor da Vitória": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Corredor_da_Vit%C3%B3ria_-_2.jpg/900px-Corredor_da_Vit%C3%B3ria_-_2.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Corredor_da_Vit%C3%B3ria_-_2.jpg",
+   "autor": "Ajmcbarreto",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Praia do Forte (bate-volta)": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg/900px-Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  },
+  "Santo Antônio Além do Carmo": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rua_do_Carmo_Santo_Ant%C3%B4nio_Al%C3%A9m_do_Carmo_Salvador_Bahia_2019-1490.jpg/900px-Rua_do_Carmo_Santo_Ant%C3%B4nio_Al%C3%A9m_do_Carmo_Salvador_Bahia_2019-1490.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Rua_do_Carmo_Santo_Ant%C3%B4nio_Al%C3%A9m_do_Carmo_Salvador_Bahia_2019-1490.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  }
+ },
+ "praias": {
+  "Porto da Barra": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Praia_do_Porto_da_Barra_%28Salvador%29.jpg/900px-Praia_do_Porto_da_Barra_%28Salvador%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Porto_da_Barra_%28Salvador%29.jpg",
+   "autor": "Roberto Sabino",
+   "licenca": "CC BY 2.0"
+  },
+  "Farol da Barra": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Forte_de_Santo_Ant%C3%B4nio--Farol_da_Barra_Salvador_Bahia_Vista_A%C3%A9rea_2021-0149.jpg/900px-Forte_de_Santo_Ant%C3%B4nio--Farol_da_Barra_Salvador_Bahia_Vista_A%C3%A9rea_2021-0149.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Santo_Ant%C3%B4nio--Farol_da_Barra_Salvador_Bahia_Vista_A%C3%A9rea_2021-0149.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Ondina": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Praia_de_Ondina_em_Salvador.jpg/900px-Praia_de_Ondina_em_Salvador.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Ondina_em_Salvador.jpg",
+   "autor": "Túllio F",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Flamengo": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Praia_do_Flamengo%2C_Salvador_-_Rafael_Defavari.jpg/900px-Praia_do_Flamengo%2C_Salvador_-_Rafael_Defavari.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Flamengo%2C_Salvador_-_Rafael_Defavari.jpg",
+   "autor": "Rafael Defavari",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Itapuã": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MARCIO_FILHO_PRAIA_DE_ITAPU%C3%83_SALVADOR_BAHIA_%288%29_%2839765384170%29.jpg/900px-MARCIO_FILHO_PRAIA_DE_ITAPU%C3%83_SALVADOR_BAHIA_%288%29_%2839765384170%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:MARCIO_FILHO_PRAIA_DE_ITAPU%C3%83_SALVADOR_BAHIA_%288%29_%2839765384170%29.jpg",
+   "autor": "MTur Destinos",
+   "licenca": "Domínio público"
+  },
+  "Praia do Forte (bate-volta)": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg/900px-Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Forte._Foto_Carmem_Correia_%2810854189674%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  },
+  "Ilha dos Frades + Itaparica (passeio de barco)": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vista_superior_Ilha_dos_Frades.jpg/900px-Vista_superior_Ilha_dos_Frades.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Vista_superior_Ilha_dos_Frades.jpg",
+   "autor": "SCamargos",
+   "licenca": "CC BY-SA 4.0"
+  }
+ },
+ "atracoes": {
+  "Elevador Lacerda": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elevador_Lacerda_Salvador_Bahia_Outubro_Rosa_2021-1851.jpg/900px-Elevador_Lacerda_Salvador_Bahia_Outubro_Rosa_2021-1851.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Elevador_Lacerda_Salvador_Bahia_Outubro_Rosa_2021-1851.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Mercado Modelo": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mercado_Modelo_Salvador_Bahia_2021-6320.jpg/900px-Mercado_Modelo_Salvador_Bahia_2021-6320.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Mercado_Modelo_Salvador_Bahia_2021-6320.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Basílica do Senhor do Bonfim": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Igreja_de_Nosso_Senhor_do_Bonfim_Salvador_Corredor_Lateral_Esquerdo_Azulejos_2021-7125.jpg/900px-Igreja_de_Nosso_Senhor_do_Bonfim_Salvador_Corredor_Lateral_Esquerdo_Azulejos_2021-7125.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Igreja_de_Nosso_Senhor_do_Bonfim_Salvador_Corredor_Lateral_Esquerdo_Azulejos_2021-7125.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Farol da Barra e Museu Náutico da Bahia": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Silhuetas_no_Forte_de_Santo_Ant%C3%B4nio_da_Barra_%28cropped%29.jpg/900px-Silhuetas_no_Forte_de_Santo_Ant%C3%B4nio_da_Barra_%28cropped%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Silhuetas_no_Forte_de_Santo_Ant%C3%B4nio_da_Barra_%28cropped%29.jpg",
+   "autor": "Railson Nascimento",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Forte da Capoeira (Forte de Santo Antônio Além do Carmo)": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Forte_de_Santo_Ant%C3%B4nio_al%C3%A9m_do_Carmo_Salvador_Bahia_Aerial_View_2021-0014.jpg/900px-Forte_de_Santo_Ant%C3%B4nio_al%C3%A9m_do_Carmo_Salvador_Bahia_Aerial_View_2021-0014.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Santo_Ant%C3%B4nio_al%C3%A9m_do_Carmo_Salvador_Bahia_Aerial_View_2021-0014.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "MAM-BA – Solar do Unhão": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museu_de_Arte_Moderna_da_Bahia--Solar_do_Unh%C3%A3o_2021-7160.jpg/900px-Museu_de_Arte_Moderna_da_Bahia--Solar_do_Unh%C3%A3o_2021-7160.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Moderna_da_Bahia--Solar_do_Unh%C3%A3o_2021-7160.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Casa do Carnaval da Bahia": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/IMG_Casa_do_Carnaval_de_Salvador_-_01.jpg/900px-IMG_Casa_do_Carnaval_de_Salvador_-_01.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:IMG_Casa_do_Carnaval_de_Salvador_-_01.jpg",
+   "autor": "Ajmcbarreto",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "MUNCAB – Museu Nacional da Cultura Afro-Brasileira": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Museu_Nacional_da_Cultura_Afrobrasileira_-_05.jpg/900px-Museu_Nacional_da_Cultura_Afrobrasileira_-_05.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Museu_Nacional_da_Cultura_Afrobrasileira_-_05.jpg",
+   "autor": "Ajmcbarreto",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Fundação Casa de Jorge Amado": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2023-Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado.jpg/900px-2023-Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:2023-Funda%C3%A7%C3%A3o_Casa_de_Jorge_Amado.jpg",
+   "autor": "Boaventuravinicius",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Casa do Rio Vermelho": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A_Casa_do_Rio_Vermelho_-_Jorge_Amado_e_Z%C3%A9lia_Gattai._Fotos_Tatiana_Azeviche_Setur_%2815899724832%29.jpg/900px-A_Casa_do_Rio_Vermelho_-_Jorge_Amado_e_Z%C3%A9lia_Gattai._Fotos_Tatiana_Azeviche_Setur_%2815899724832%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:A_Casa_do_Rio_Vermelho_-_Jorge_Amado_e_Z%C3%A9lia_Gattai._Fotos_Tatiana_Azeviche_Setur_%2815899724832%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  },
+  "Parque e Lagoa do Abaeté": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lagoa_do_Abaet%C3%A9._Foto_Tatiana_Azeviche_Setur_%2815645132686%29.jpg/900px-Lagoa_do_Abaet%C3%A9._Foto_Tatiana_Azeviche_Setur_%2815645132686%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_do_Abaet%C3%A9._Foto_Tatiana_Azeviche_Setur_%2815645132686%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  },
+  "Teatro Castro Alves (TCA)": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Frente_do_Teatro_Castro_Alves%2C_em_26_de_julho_de_2019.jpg/900px-Frente_do_Teatro_Castro_Alves%2C_em_26_de_julho_de_2019.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Frente_do_Teatro_Castro_Alves%2C_em_26_de_julho_de_2019.jpg",
+   "autor": "Luan",
+   "licenca": "CC BY-SA 3.0 BR"
+  }
+ },
+ "noite": {
+  "Largo da Mariquita": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Largo_da_Mariquita_Rio_Vermelho_Salvador_Bahia_2021-0400.jpg/900px-Largo_da_Mariquita_Rio_Vermelho_Salvador_Bahia_2021-0400.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Largo_da_Mariquita_Rio_Vermelho_Salvador_Bahia_2021-0400.jpg",
+   "autor": "Paul R. Burley",
+   "licenca": "CC BY-SA 4.0"
+  },
+  "Terça no Pelourinho": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pelourinho_%C3%A0_noite._Foto_Rita_Barreto_-_Setur_%288636299844%29.jpg/900px-Pelourinho_%C3%A0_noite._Foto_Rita_Barreto_-_Setur_%288636299844%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:Pelourinho_%C3%A0_noite._Foto_Rita_Barreto_-_Setur_%288636299844%29.jpg",
+   "autor": "Turismo Bahia",
+   "licenca": "CC BY-SA 2.0"
+  }
+ },
+ "lgbt": {
+  "Porto da Barra": {
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/P%C3%B4r_do_Sol_na_Praia_do_Porto_da_Barra%C2%B7_16_01_2023_%C2%B7_Salvador_%28BA%29_%2852635777383%29.jpg/900px-P%C3%B4r_do_Sol_na_Praia_do_Porto_da_Barra%C2%B7_16_01_2023_%C2%B7_Salvador_%28BA%29_%2852635777383%29.jpg",
+   "pagina": "https://commons.wikimedia.org/wiki/File:P%C3%B4r_do_Sol_na_Praia_do_Porto_da_Barra%C2%B7_16_01_2023_%C2%B7_Salvador_%28BA%29_%2852635777383%29.jpg",
+   "autor": "Fora do Eixo",
+   "licenca": "CC BY-SA 2.0"
+  }
+ }
+}

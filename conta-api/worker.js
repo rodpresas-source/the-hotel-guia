@@ -3,19 +3,20 @@
  *
  * Fica entre a página do hóspede e o PMS (HITS). A página nunca fala com o PMS.
  *
- *   POST /login   {uh, sobrenome, pin}          -> {token, conta}
+ *   POST /login   {uh, pin}                     -> {token, conta}
  *   GET  /conta   Authorization: Bearer <token> -> {conta}
  *
- * Login: apartamento + sobrenome + 4 últimos caracteres do CPF ou passaporte de QUALQUER hóspede
+ * Login: apartamento + 4 últimos caracteres do CPF ou passaporte de QUALQUER hóspede
  * da reserva (campo "pin"). O documento é só comparado em memória: nunca é devolvido, gravado ou logado.
  *
  * Segredos (wrangler secret put ...): TOKEN_SECRET e as credenciais do HITS.
- * KV "RATE": controle de tentativas (5 erros por apartamento/IP a cada 15 min).
+ * KV "RATE": controle de tentativas: 5 erros por IP+apartamento em 15 min e 10 erros por apartamento
+ * (qualquer IP) em 1 hora. Sem o sobrenome, este segundo limite impede adivinhar os 4 dígitos.
  * Variável MOCK="1": usa uma reserva de exemplo enquanto a integração com o HITS não existe.
  */
 
 const ORIGINS = ["https://guia.thehotel.com.br", "https://rodpresas-source.github.io"];
-const MAX_TRIES = 5, WINDOW_S = 15 * 60;
+const MAX_TRIES = 5, WINDOW_S = 15 * 60, MAX_UH = 10, WINDOW_UH = 60 * 60;
 
 export default {
   async fetch(req, env) {
@@ -39,21 +40,22 @@ async function login(req, env, cors) {
   const ip = req.headers.get("CF-Connecting-IP") || "?";
   const body = await req.json().catch(() => ({}));
   const uh = String(body.uh || "").replace(/\D/g, "").slice(0, 5);
-  const sobrenome = norm(body.sobrenome).slice(0, 60);
   const pin = String(body.pin || "").replace(/[^0-9a-z]/gi, "").toUpperCase();
-  if (!uh || sobrenome.length < 2 || pin.length !== 4) return json({ erro: "dados" }, 400, cors);
+  if (!uh || pin.length !== 4) return json({ erro: "dados" }, 400, cors);
 
   const key = `t:${ip}:${uh}`;
+  const keyUh = `u:${uh}`;
   const tries = Number((await env.RATE?.get(key)) || 0);
-  if (tries >= MAX_TRIES) return json({ erro: "bloqueado" }, 429, cors);
+  const triesUh = Number((await env.RATE?.get(keyUh)) || 0);
+  if (tries >= MAX_TRIES || triesUh >= MAX_UH) return json({ erro: "bloqueado" }, 429, cors);
 
   const r = await reservaAtiva(env, uh);
   const ok = r
-    && r.sobrenomes.some(s => norm(s) === sobrenome)
     && r.documentos.some(d => timingSafeEqual(pin, ultimos4(d)));
 
   if (!ok) {
     await env.RATE?.put(key, String(tries + 1), { expirationTtl: WINDOW_S });
+    await env.RATE?.put(keyUh, String(triesUh + 1), { expirationTtl: WINDOW_UH });
     return json({ erro: "não encontrado" }, 401, cors);
   }
   await env.RATE?.delete(key);
@@ -73,7 +75,7 @@ async function conta(req, env, cors) {
 
 /* ---------- PMS (HITS) ----------
  * Única parte que depende do HITS. Devolve a reserva hospedada no apartamento hoje:
- * { id, uh, hospede, sobrenomes:[...], documentos:[CPF/passaporte de cada hóspede], checkin:"YYYY-MM-DD", checkout:"YYYY-MM-DD",
+ * { id, uh, hospede, documentos:[CPF/passaporte de cada hóspede], checkin:"YYYY-MM-DD", checkout:"YYYY-MM-DD",
  *   hora_checkin, hora_checkout, lancamentos:[{data,descricao,valor}], pagamentos:[{data,descricao,valor}] }
  */
 async function reservaAtiva(env, uh) {
@@ -97,7 +99,7 @@ function mock(uh) {
   if (uh !== "101") return null;
   const d = n => new Date(Date.now() + n * 864e5 - 3 * 3600e3).toISOString().slice(0, 10);
   return {
-    id: "R-TESTE-101", uh, hospede: "Ana Silva", sobrenomes: ["Silva", "Souza"], documentos: ["123.456.781-23", "AB991234"],
+    id: "R-TESTE-101", uh, hospede: "Ana Silva", documentos: ["123.456.781-23", "AB991234"],
     checkin: d(-2), checkout: d(2),
     lancamentos: [{ data: d(-2), descricao: "Diária", valor: 420 }, { data: d(-1), descricao: "Diária", valor: 420 }],
     pagamentos: [{ data: d(-2), descricao: "Pré-pagamento", valor: 420 }],
