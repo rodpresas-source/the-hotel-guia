@@ -370,10 +370,11 @@ dialog.acc::backdrop{background:rgba(15,38,32,.72);backdrop-filter:blur(3px)}
       <form id="accForm" novalidate>
         <div class="two">
           <label><span data-a="uh">Apartamento</span><input id="fUh" inputmode="numeric" autocomplete="off" maxlength="5" required></label>
-          <label><span data-a="pin">PIN</span><input id="fPin" inputmode="numeric" autocomplete="one-time-code" maxlength="4" required></label>
+          <label><span data-a="pin">Documento</span><input id="fPin" autocomplete="off" autocapitalize="characters" maxlength="4" required></label>
         </div>
         <label><span data-a="surname">Sobrenome do titular ou de um hóspede</span><input id="fSur" autocomplete="family-name" autocapitalize="words" maxlength="60" required></label>
-        <p class="hint" data-a="pinHint">O PIN de 4 dígitos está no envelope do seu cartão-chave. Não encontrou? Peça à recepção.</p>
+        <p class="hint" data-a="pinHint">Em "Documento", informe os 4 últimos dígitos do CPF ou do passaporte de qualquer hóspede do apartamento.</p>
+        <p class="hint" data-a="privacy">Seus dados são usados só para esta consulta e não ficam guardados.</p>
         <p class="err" id="accErr" role="alert" hidden></p>
         <button class="btn solid" id="accSubmit" type="submit" data-a="submit">Ver minha conta</button>
       </form>
@@ -621,38 +622,39 @@ const io = new IntersectionObserver(es => es.forEach(en => {
      GET  {api}/conta  Authorization: Bearer <token>  -> {conta}
    conta = {hospede, uh, checkin, checkout, hora_checkin, hora_checkout,
             lancamentos:[{data, descricao, valor}], pagamentos:[{data, descricao, valor}]}
+   (o campo "pin" leva os 4 últimos caracteres do CPF ou passaporte de qualquer hóspede da UH)
    Sem api configurada, a área só aparece em demonstração (?demo=1). */
 const ACC = {
- pt:{open:"Minha conta",title:"Minha conta",intro:"Veja suas datas de estadia e o extrato da sua conta.",uh:"Apartamento",pin:"PIN",surname:"Sobrenome do titular ou de um hóspede",
-  pinHint:"O PIN de 4 dígitos está no envelope do seu cartão-chave. Não encontrou? Peça à recepção.",submit:"Ver minha conta",wait:"Consultando…",
-  eFields:"Preencha apartamento, sobrenome e o PIN de 4 dígitos.",eAuth:"Não encontramos uma estadia com esses dados. Confira o apartamento, o sobrenome e o PIN.",
+ pt:{open:"Minha conta",title:"Minha conta",intro:"Veja suas datas de estadia e o extrato da sua conta.",uh:"Apartamento",pin:"Documento",surname:"Sobrenome de um hóspede do apartamento",
+  pinHint:"Em \"Documento\", informe os 4 últimos dígitos do CPF ou do passaporte de qualquer hóspede do apartamento.",privacy:"Seus dados são usados só para esta consulta e não ficam guardados.",pinPh:"4 últimos",submit:"Ver minha conta",wait:"Consultando…",
+  eFields:"Preencha o apartamento, o sobrenome e os 4 últimos dígitos do documento.",eAuth:"Não encontramos uma estadia com esses dados. Confira o apartamento, o sobrenome e os dígitos do documento.",
   eLock:"Muitas tentativas. Aguarde 15 minutos ou fale com a recepção.",eNet:"Não foi possível consultar agora. Tente de novo em instantes ou fale com a recepção.",
   hello:n=>`Olá, ${n}`,room:u=>`Apartamento ${u}`,in:"Entrada",out:"Saída",nights:n=>n===1?"1 noite":`${n} noites`,
   balance:"Saldo em aberto",settled:"Conta quitada",charges:"Lançamentos",payments:"Pagamentos",noCharges:"Nenhum lançamento até agora.",
   tCharges:"Consumo e diárias",tPaid:"Pagamentos",question:"Dúvida sobre a conta",logout:"Sair",
   qMsg:u=>`Olá! Sou do apartamento ${u} e tenho uma dúvida sobre minha conta.`,
   fine:"Valores atualizados conforme lançamento no sistema do hotel e sujeitos à conferência no check-out.",
-  demo:"Modo demonstração: use apartamento 101, sobrenome Silva e PIN 1234."},
- en:{open:"My bill",title:"My bill",intro:"See your stay dates and your account statement.",uh:"Room",pin:"PIN",surname:"Surname of the main or any registered guest",
-  pinHint:"Your 4-digit PIN is on your key-card sleeve. Can't find it? Ask the front desk.",submit:"View my bill",wait:"Checking…",
-  eFields:"Enter your room, surname and the 4-digit PIN.",eAuth:"We couldn't find a stay with these details. Check your room, surname and PIN.",
+  demo:"Modo demonstração: use apartamento 101, sobrenome Silva e documento 1234."},
+ en:{open:"My bill",title:"My bill",intro:"See your stay dates and your account statement.",uh:"Room",pin:"ID document",surname:"Surname of any guest in the room",
+  pinHint:"Under \"ID document\", enter the last 4 characters of the passport or CPF of any guest in the room.",privacy:"Your details are used only for this lookup and are not stored.",pinPh:"Last 4",submit:"View my bill",wait:"Checking…",
+  eFields:"Enter your room, surname and the last 4 characters of your ID document.",eAuth:"We couldn't find a stay with these details. Check your room, surname and ID digits.",
   eLock:"Too many attempts. Please wait 15 minutes or contact the front desk.",eNet:"We couldn't check right now. Try again shortly or contact the front desk.",
   hello:n=>`Hello, ${n}`,room:u=>`Room ${u}`,in:"Check-in",out:"Check-out",nights:n=>n===1?"1 night":`${n} nights`,
   balance:"Balance due",settled:"Fully paid",charges:"Charges",payments:"Payments",noCharges:"No charges yet.",
   tCharges:"Charges and room nights",tPaid:"Payments",question:"Question about my bill",logout:"Sign out",
   qMsg:u=>`Hi! I'm in room ${u} and have a question about my bill.`,
   fine:"Amounts reflect charges posted in the hotel system and are confirmed at check-out.",
-  demo:"Demo mode: use room 101, surname Silva and PIN 1234."},
- es:{open:"Mi cuenta",title:"Mi cuenta",intro:"Consulta las fechas de tu estadía y el extracto de tu cuenta.",uh:"Habitación",pin:"PIN",surname:"Apellido del titular o de un huésped",
-  pinHint:"El PIN de 4 dígitos está en el sobre de tu tarjeta-llave. ¿No lo encuentras? Pídelo en recepción.",submit:"Ver mi cuenta",wait:"Consultando…",
-  eFields:"Completa habitación, apellido y el PIN de 4 dígitos.",eAuth:"No encontramos una estadía con esos datos. Revisa la habitación, el apellido y el PIN.",
+  demo:"Demo mode: use room 101, surname Silva and document 1234."},
+ es:{open:"Mi cuenta",title:"Mi cuenta",intro:"Consulta las fechas de tu estadía y el extracto de tu cuenta.",uh:"Habitación",pin:"Documento",surname:"Apellido de un huésped de la habitación",
+  pinHint:"En \"Documento\", ingresa los 4 últimos caracteres del pasaporte o CPF de cualquier huésped de la habitación.",privacy:"Tus datos se usan solo para esta consulta y no se guardan.",pinPh:"Últimos 4",submit:"Ver mi cuenta",wait:"Consultando…",
+  eFields:"Completa habitación, apellido y los 4 últimos caracteres del documento.",eAuth:"No encontramos una estadía con esos datos. Revisa la habitación, el apellido y el documento.",
   eLock:"Demasiados intentos. Espera 15 minutos o habla con recepción.",eNet:"No fue posible consultar ahora. Inténtalo en unos instantes o habla con recepción.",
   hello:n=>`Hola, ${n}`,room:u=>`Habitación ${u}`,in:"Entrada",out:"Salida",nights:n=>n===1?"1 noche":`${n} noches`,
   balance:"Saldo pendiente",settled:"Cuenta pagada",charges:"Cargos",payments:"Pagos",noCharges:"Aún no hay cargos.",
   tCharges:"Consumos y noches",tPaid:"Pagos",question:"Duda sobre la cuenta",logout:"Salir",
   qMsg:u=>`¡Hola! Estoy en la habitación ${u} y tengo una duda sobre mi cuenta.`,
   fine:"Valores según los cargos registrados en el sistema del hotel, sujetos a conferencia en el check-out.",
-  demo:"Modo demostración: usa habitación 101, apellido Silva y PIN 1234."}
+  demo:"Modo demostración: usa habitación 101, apellido Silva y documento 1234."}
 };
 
 const DEMO = new URLSearchParams(location.search).has("demo");
@@ -696,6 +698,7 @@ function accStatic(){
   const A = ACC[lang];
   document.querySelectorAll("[data-a]").forEach(el => { const v = A[el.dataset.a]; if (typeof v === "string") el.textContent = v; });
   document.querySelectorAll(".acc-trigger").forEach(b => { b.hidden = !accOn(); b.textContent = A.open; });
+  $("#fPin").placeholder = A.pinPh;
   $("#accDemo").hidden = !(DEMO && !accApi()); $("#accDemo").textContent = A.demo;
   if (ACCOUNT) renderAccount();
 }
@@ -753,7 +756,7 @@ function accClose(){ const d = $("#acc"); if (d.open && d.close) d.close(); else
 $("#accForm").addEventListener("submit", async ev => {
   ev.preventDefault();
   const A = ACC[lang], err = $("#accErr"), btn = $("#accSubmit");
-  const uh = $("#fUh").value.replace(/\D/g,""), sur = $("#fSur").value.trim(), pin = $("#fPin").value.replace(/\D/g,"");
+  const uh = $("#fUh").value.replace(/\D/g,""), sur = $("#fSur").value.trim(), pin = $("#fPin").value.replace(/[^0-9a-z]/gi,"").toUpperCase();
   err.hidden = true;
   if (!uh || sur.length < 2 || pin.length !== 4){ err.textContent = A.eFields; err.hidden = false; return; }
   btn.disabled = true; btn.textContent = A.wait;

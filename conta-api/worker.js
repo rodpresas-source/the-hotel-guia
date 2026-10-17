@@ -5,9 +5,11 @@
  *
  *   POST /login   {uh, sobrenome, pin}          -> {token, conta}
  *   GET  /conta   Authorization: Bearer <token> -> {conta}
- *   GET  /pin?uh=101   header X-Admin-Key       -> {uh, hospede, pin}   (uso da recepção)
  *
- * Segredos (wrangler secret put ...): PIN_SECRET, TOKEN_SECRET, ADMIN_KEY, e as credenciais do HITS.
+ * Login: apartamento + sobrenome + 4 últimos caracteres do CPF ou passaporte de QUALQUER hóspede
+ * da reserva (campo "pin"). O documento é só comparado em memória: nunca é devolvido, gravado ou logado.
+ *
+ * Segredos (wrangler secret put ...): TOKEN_SECRET e as credenciais do HITS.
  * KV "RATE": controle de tentativas (5 erros por apartamento/IP a cada 15 min).
  * Variável MOCK="1": usa uma reserva de exemplo enquanto a integração com o HITS não existe.
  */
@@ -23,7 +25,6 @@ export default {
     try {
       if (url.pathname === "/login" && req.method === "POST") return await login(req, env, cors);
       if (url.pathname === "/conta" && req.method === "GET") return await conta(req, env, cors);
-      if (url.pathname === "/pin" && req.method === "GET") return await pinRecepcao(req, env, url);
       return json({ erro: "não encontrado" }, 404, cors);
     } catch (e) {
       console.error(e);
@@ -39,7 +40,7 @@ async function login(req, env, cors) {
   const body = await req.json().catch(() => ({}));
   const uh = String(body.uh || "").replace(/\D/g, "").slice(0, 5);
   const sobrenome = norm(body.sobrenome).slice(0, 60);
-  const pin = String(body.pin || "").replace(/\D/g, "");
+  const pin = String(body.pin || "").replace(/[^0-9a-z]/gi, "").toUpperCase();
   if (!uh || sobrenome.length < 2 || pin.length !== 4) return json({ erro: "dados" }, 400, cors);
 
   const key = `t:${ip}:${uh}`;
@@ -49,7 +50,7 @@ async function login(req, env, cors) {
   const r = await reservaAtiva(env, uh);
   const ok = r
     && r.sobrenomes.some(s => norm(s) === sobrenome)
-    && timingSafeEqual(pin, await pinDa(env, r));
+    && r.documentos.some(d => timingSafeEqual(pin, ultimos4(d)));
 
   if (!ok) {
     await env.RATE?.put(key, String(tries + 1), { expirationTtl: WINDOW_S });
@@ -70,18 +71,9 @@ async function conta(req, env, cors) {
   return json({ conta: await extrato(env, r) }, 200, cors);
 }
 
-/* A recepção consulta o PIN para imprimir no envelope do cartão-chave. */
-async function pinRecepcao(req, env, url) {
-  if (!env.ADMIN_KEY || req.headers.get("X-Admin-Key") !== env.ADMIN_KEY) return json({ erro: "não autorizado" }, 401);
-  const uh = String(url.searchParams.get("uh") || "").replace(/\D/g, "");
-  const r = await reservaAtiva(env, uh);
-  if (!r) return json({ erro: "sem reserva ativa" }, 404);
-  return json({ uh, hospede: r.hospede, checkin: r.checkin, checkout: r.checkout, pin: await pinDa(env, r) });
-}
-
 /* ---------- PMS (HITS) ----------
  * Única parte que depende do HITS. Devolve a reserva hospedada no apartamento hoje:
- * { id, uh, hospede, sobrenomes:[...], checkin:"YYYY-MM-DD", checkout:"YYYY-MM-DD",
+ * { id, uh, hospede, sobrenomes:[...], documentos:[CPF/passaporte de cada hóspede], checkin:"YYYY-MM-DD", checkout:"YYYY-MM-DD",
  *   hora_checkin, hora_checkout, lancamentos:[{data,descricao,valor}], pagamentos:[{data,descricao,valor}] }
  */
 async function reservaAtiva(env, uh) {
@@ -105,7 +97,7 @@ function mock(uh) {
   if (uh !== "101") return null;
   const d = n => new Date(Date.now() + n * 864e5 - 3 * 3600e3).toISOString().slice(0, 10);
   return {
-    id: "R-TESTE-101", uh, hospede: "Ana Silva", sobrenomes: ["Silva", "Souza"],
+    id: "R-TESTE-101", uh, hospede: "Ana Silva", sobrenomes: ["Silva", "Souza"], documentos: ["123.456.781-23", "AB991234"],
     checkin: d(-2), checkout: d(2),
     lancamentos: [{ data: d(-2), descricao: "Diária", valor: 420 }, { data: d(-1), descricao: "Diária", valor: 420 }],
     pagamentos: [{ data: d(-2), descricao: "Pré-pagamento", valor: 420 }],
@@ -113,11 +105,6 @@ function mock(uh) {
 }
 
 /* ---------- PIN, token e utilidades ---------- */
-
-async function pinDa(env, r) {                      // PIN derivado da reserva: não precisa ser guardado
-  const h = await hmac(env.PIN_SECRET, `${r.id}|${r.checkin}`);
-  return String(new DataView(h).getUint32(0) % 10000).padStart(4, "0");
-}
 
 function fimDaEstadia(r) {                          // check-out às 12h de Salvador (UTC-3) + 2h de folga
   return Date.parse(`${r.checkout}T14:00:00-03:00`);
@@ -150,6 +137,7 @@ function timingSafeEqual(a, b) {
   for (let i = 0; i < Math.max(a.length, b.length); i++) d |= (a.charCodeAt(i) || 0) ^ (b.charCodeAt(i) || 0);
   return d === 0;
 }
+const ultimos4 = d => String(d || "").replace(/[^0-9a-z]/gi, "").toUpperCase().slice(-4);
 const norm = s => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").trim().toLowerCase();
 
 function corsHeaders(req) {
