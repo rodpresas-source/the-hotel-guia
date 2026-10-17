@@ -233,6 +233,41 @@
       "autor": "Turismo Bahia",
       "licenca": "CC BY-SA 2.0",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pelourinho_%C3%A0_noite._Foto_Rita_Barreto_-_Setur_%288636299844%29.jpg/500px-Pelourinho_%C3%A0_noite._Foto_Rita_Barreto_-_Setur_%288636299844%29.jpg"
+    },
+    "Ilha dos Frades e Itaparica": {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vista_superior_Ilha_dos_Frades.jpg/960px-Vista_superior_Ilha_dos_Frades.jpg",
+      "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vista_superior_Ilha_dos_Frades.jpg/500px-Vista_superior_Ilha_dos_Frades.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Vista_superior_Ilha_dos_Frades.jpg",
+      "autor": "SCamargos",
+      "licenca": "CC BY-SA 4.0"
+    },
+    "Praia do Forte e Guarajuba": {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Praia_do_Forte-BA.jpg/960px-Praia_do_Forte-BA.jpg",
+      "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Praia_do_Forte-BA.jpg/500px-Praia_do_Forte-BA.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Forte-BA.jpg",
+      "autor": "Glauco Umbelino",
+      "licenca": "CC BY 2.0"
+    },
+    "Morro de São Paulo (day use)": {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Morro_de_S%C3%A3o_Paulo_-_Bahia_%2843632449295%29.jpg/960px-Morro_de_S%C3%A3o_Paulo_-_Bahia_%2843632449295%29.jpg",
+      "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Morro_de_S%C3%A3o_Paulo_-_Bahia_%2843632449295%29.jpg/500px-Morro_de_S%C3%A3o_Paulo_-_Bahia_%2843632449295%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_de_S%C3%A3o_Paulo_-_Bahia_%2843632449295%29.jpg",
+      "autor": "Rômulo Ferreira",
+      "licenca": "CC BY 2.0"
+    },
+    "Volta às Ilhas de Tinharé": {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Morro_de_S%C3%A3o_Paulo_Mirante02.jpg/960px-Morro_de_S%C3%A3o_Paulo_Mirante02.jpg",
+      "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Morro_de_S%C3%A3o_Paulo_Mirante02.jpg/500px-Morro_de_S%C3%A3o_Paulo_Mirante02.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Morro_de_S%C3%A3o_Paulo_Mirante02.jpg",
+      "autor": "T. BA",
+      "licenca": "CC BY-SA 2.0"
+    },
+    "Day use Village Itaparica": {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Itaparica._Praia_do_Boulevard._Foto_Tatiana_Azeviche_%2810845794793%29.jpg/960px-Itaparica._Praia_do_Boulevard._Foto_Tatiana_Azeviche_%2810845794793%29.jpg",
+      "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Itaparica._Praia_do_Boulevard._Foto_Tatiana_Azeviche_%2810845794793%29.jpg/500px-Itaparica._Praia_do_Boulevard._Foto_Tatiana_Azeviche_%2810845794793%29.jpg",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Itaparica._Praia_do_Boulevard._Foto_Tatiana_Azeviche_%2810845794793%29.jpg",
+      "autor": "Turismo Bahia",
+      "licenca": "CC BY-SA 2.0"
     }
   }
 }

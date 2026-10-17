@@ -478,7 +478,10 @@
       "fonte": "https://cassiturismo.com.br/",
       "fonte_extra": [
         "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
-      ]
+      ],
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/LP-SLIDE1.jpg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/"
     },
     {
       "tipo": "operadora",
@@ -519,6 +522,19 @@
       "fonte_extra": [
         "https://www.priveturismo.com.br/"
       ]
+    },
+    {
+      "nome": "Coroa do Limo (Itaparica)",
+      "tipo": "passeio",
+      "nome_en": "Coroa do Limo sandbank (Itaparica)",
+      "nome_es": "Coroa do Limo (Itaparica)",
+      "descricao": "Banco de areia no meio da Baía de Todos os Santos, perto de Itaparica: água clara, banho de mar e fotos lindas. Só se chega de barco e o banco aparece melhor na maré baixa.",
+      "descricao_en": "A sandbank in the middle of the Bay of All Saints, near Itaparica: clear water, swimming and stunning photos. Reachable only by boat, and best seen at low tide.",
+      "descricao_es": "Banco de arena en medio de la Bahía de Todos los Santos, cerca de Itaparica: agua clara, baño de mar y fotos preciosas. Solo se llega en barco y se ve mejor con la marea baja.",
+      "dica": "Pergunte à recepção como incluir a Coroa do Limo no passeio pelas ilhas ou num passeio privativo de lancha.",
+      "dica_en": "Ask the front desk how to add Coroa do Limo to the islands tour or to a private boat trip.",
+      "dica_es": "Pregunta en la recepción cómo incluir la Coroa do Limo en el paseo por las islas o en un paseo privado en lancha.",
+      "fonte": "https://www.panrotas.com.br/mercado/receptivos/2023/08/top-sellers-luck-receptivo-conhecem-coroa-do-limo-e-manguezal-na-bahia_199235.html"
     },
     {
       "tipo": "passeio",
