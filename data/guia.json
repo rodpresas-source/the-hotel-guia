@@ -462,6 +462,210 @@
       "distancia_hotel_es": "aprox. 3 km / 10 min"
     }
   ],
+  "passeios": [
+    {
+      "tipo": "operadora",
+      "nome": "Cassi Turismo",
+      "nome_en": "Cassi Turismo",
+      "nome_es": "Cassi Turismo",
+      "descricao": "Receptivo baiano especializado em passeios e transfers, do Litoral Norte a Morro de São Paulo e Costa do Dendê. Busca no hotel, aeroporto ou terminal marítimo, conforme o passeio.",
+      "descricao_en": "Bahia tour operator specializing in day trips and transfers, from the North Coast to Morro de São Paulo and the Costa do Dendê. Pickup at your hotel, the airport or the ferry terminal, depending on the tour.",
+      "descricao_es": "Operador receptivo de Bahía especializado en paseos y traslados, del Litoral Norte a Morro de São Paulo y la Costa do Dendê. Recogida en el hotel, el aeropuerto o la terminal marítima, según el paseo.",
+      "telefone": "+55 71 99121-1111",
+      "whatsapp": "+55 71 99121-1111",
+      "link": "https://cassiturismo.com.br/",
+      "instagram": "https://www.instagram.com/cassiturismo/",
+      "fonte": "https://cassiturismo.com.br/",
+      "fonte_extra": [
+        "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
+      ]
+    },
+    {
+      "tipo": "operadora",
+      "nome": "Privetur",
+      "nome_en": "Privetur",
+      "nome_es": "Privetur",
+      "descricao": "Privê Turismo, receptivo de Salvador desde 1996: passeios em grupo e privativos, transfers e aluguel de embarcações em Salvador e no Litoral Norte.",
+      "descricao_en": "Privê Turismo, a Salvador tour operator since 1996: group and private tours, transfers and boat rentals in Salvador and on the North Coast.",
+      "descricao_es": "Privê Turismo, operador receptivo de Salvador desde 1996: paseos en grupo y privados, traslados y alquiler de embarcaciones en Salvador y el Litoral Norte.",
+      "telefone": "+55 71 98800-0164",
+      "whatsapp": "+55 71 98800-0164",
+      "link": "https://www.priveturismo.com.br/",
+      "instagram": "https://www.instagram.com/priveturismo_/",
+      "fonte": "https://www.priveturismo.com.br/",
+      "img": "https://pages.greatpages.com.br/www.priveturismo.com.br/1789872691/imagens/desktop/465189-a8da736716ce82a023d15bda27ddbf12.png",
+      "img_credito": "Privetur",
+      "img_pagina": "https://www.priveturismo.com.br/"
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Ilha dos Frades e Itaparica",
+      "nome_en": "Ilha dos Frades and Itaparica islands",
+      "nome_es": "Islas de Frades e Itaparica",
+      "descricao": "Passeio de barco pela Baía de Todos os Santos, com cerca de 2 horas em cada ilha. Dia inteiro.",
+      "descricao_en": "Boat trip across the Bay of All Saints, with about 2 hours on each island. Full day.",
+      "descricao_es": "Paseo en barco por la Bahía de Todos los Santos, con unas 2 horas en cada isla. Día completo.",
+      "operadoras": [
+        "Cassi Turismo",
+        "Privetur"
+      ],
+      "dica": "Cassi: a partir de R$ 140 + taxa de entrada em Frades R$ 34,90 (site oficial, out/2026); cooler permitido. Privetur faz Ilha dos Frades de catamarã.",
+      "dica_en": "Cassi: from R$ 140 + Frades entry fee R$ 34.90 (official site, Oct 2026); coolers allowed. Privetur runs Ilha dos Frades by catamaran.",
+      "dica_es": "Cassi: desde R$ 140 + tasa de entrada a Frades R$ 34,90 (sitio oficial, oct/2026); se permite nevera. Privetur va a Ilha dos Frades en catamarán.",
+      "fonte": "https://cassiturismo.com.br/",
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_1696356317651c57df22639745663239.jpeg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/",
+      "fonte_extra": [
+        "https://www.priveturismo.com.br/"
+      ]
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Praia do Forte e Guarajuba",
+      "nome_en": "Praia do Forte and Guarajuba",
+      "nome_es": "Praia do Forte y Guarajuba",
+      "descricao": "Dia no Litoral Norte: vila de Praia do Forte (com o Projeto Tamar) e praia de Guarajuba, cerca de 2 horas em cada.",
+      "descricao_en": "A day on the North Coast: Praia do Forte village (home of Projeto Tamar) and Guarajuba beach, about 2 hours at each.",
+      "descricao_es": "Un día en el Litoral Norte: el pueblo de Praia do Forte (con el Projeto Tamar) y la playa de Guarajuba, unas 2 horas en cada una.",
+      "operadoras": [
+        "Cassi Turismo",
+        "Privetur"
+      ],
+      "horario": "Das 9h às 17h (Cassi)",
+      "horario_en": "9 am to 5 pm (Cassi)",
+      "horario_es": "De 9 a 17 h (Cassi)",
+      "dica": "Cassi: a partir de R$ 140 (site oficial, out/2026).",
+      "dica_en": "Cassi: from R$ 140 (official site, Oct 2026).",
+      "dica_es": "Cassi: desde R$ 140 (sitio oficial, oct/2026).",
+      "fonte": "https://cassiturismo.com.br/",
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_1696356317651c57df2eaf4133862650.jpeg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/",
+      "fonte_extra": [
+        "https://www.priveturismo.com.br/",
+        "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
+      ]
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Morro de São Paulo (day use)",
+      "nome_en": "Morro de São Paulo (day trip)",
+      "nome_es": "Morro de São Paulo (día completo)",
+      "descricao": "Bate-volta às praias e à vila de Morro de São Paulo. Pela Cassi, trajeto semi-terrestre de cerca de 3 horas a partir do terminal marítimo.",
+      "descricao_en": "Day trip to the beaches and village of Morro de São Paulo. With Cassi, a land-and-sea route of about 3 hours from the ferry terminal.",
+      "descricao_es": "Excursión de ida y vuelta a las playas y al pueblo de Morro de São Paulo. Con Cassi, trayecto por tierra y mar de unas 3 horas desde la terminal marítima.",
+      "operadoras": [
+        "Cassi Turismo",
+        "Privetur"
+      ],
+      "dica": "Cassi: a partir de R$ 290 + taxa de embarque obrigatória R$ 20 (site oficial, out/2026).",
+      "dica_en": "Cassi: from R$ 290 + mandatory boarding fee R$ 20 (official site, Oct 2026).",
+      "dica_es": "Cassi: desde R$ 290 + tasa de embarque obligatoria R$ 20 (sitio oficial, oct/2026).",
+      "fonte": "https://cassiturismo.com.br/",
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_1696356317651c57df08f9a857283454.jpeg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/",
+      "fonte_extra": [
+        "https://www.priveturismo.com.br/"
+      ]
+    },
+    {
+      "tipo": "passeio",
+      "nome": "City tour histórico e panorâmico",
+      "nome_en": "Historic and panoramic city tour",
+      "nome_es": "City tour histórico y panorámico",
+      "descricao": "Farol da Barra, Corredor da Vitória, Pelourinho a pé, Bonfim e Cidade Baixa, terminando no Mercado Modelo. Cerca de meio dia.",
+      "descricao_en": "Barra Lighthouse, Corredor da Vitória, Pelourinho on foot, Bonfim and the Lower City, ending at Mercado Modelo. About half a day.",
+      "descricao_es": "Faro de Barra, Corredor da Vitória, Pelourinho a pie, Bonfim y la Ciudad Baja, terminando en el Mercado Modelo. Medio día aprox.",
+      "operadoras": [
+        "Cassi Turismo",
+        "Privetur"
+      ],
+      "dica": "Cassi: busca no hotel. Na Privetur se chama \"Salvador: Beleza e História\".",
+      "dica_en": "Cassi: hotel pickup included. Privetur calls it \"Salvador: Beleza e História\".",
+      "dica_es": "Cassi: incluye recogida en el hotel. En Privetur se llama \"Salvador: Beleza e História\".",
+      "fonte": "https://www.priveturismo.com.br/",
+      "fonte_extra": [
+        "https://destinodourado.com.br/salvador-como-voce-nunca-viu-o-city-tour-historico-e-panoramico-da-destino-dourado-com-a-cassi-turismo/",
+        "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
+      ]
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Bahia à Noite — jantar e show",
+      "nome_en": "Bahia by Night — dinner and show",
+      "nome_es": "Bahía de Noche — cena y show",
+      "descricao": "Noite no Pelourinho com jantar no Coliseu e show de danças folclóricas baianas.",
+      "descricao_en": "An evening in Pelourinho with dinner at Coliseu and a Bahian folk dance show.",
+      "descricao_es": "Una noche en el Pelourinho con cena en el Coliseu y show de danzas folclóricas bahianas.",
+      "operadoras": [
+        "Privetur"
+      ],
+      "fonte": "https://www.priveturismo.com.br/"
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Volta às Ilhas de Tinharé",
+      "nome_en": "Tinharé Archipelago island-hopping",
+      "nome_es": "Vuelta a las islas de Tinharé",
+      "descricao": "Passeio de barco pelas ilhas do arquipélago de Tinharé, região de Morro de São Paulo e Boipeba. Dia inteiro.",
+      "descricao_en": "Boat tour around the Tinharé Archipelago islands, near Morro de São Paulo and Boipeba. Full day.",
+      "descricao_es": "Paseo en barco por las islas del archipiélago de Tinharé, cerca de Morro de São Paulo y Boipeba. Día completo.",
+      "operadoras": [
+        "Cassi Turismo"
+      ],
+      "horario": "Das 9h30 às 17h",
+      "horario_en": "9:30 am to 5 pm",
+      "horario_es": "De 9:30 a 17 h",
+      "dica": "A partir de R$ 350 (site oficial, out/2026); cooler permitido. Confirme o ponto de saída na reserva.",
+      "dica_en": "From R$ 350 (official site, Oct 2026); coolers allowed. Confirm the departure point when booking.",
+      "dica_es": "Desde R$ 350 (sitio oficial, oct/2026); se permite nevera. Confirme el punto de salida al reservar.",
+      "fonte": "https://cassiturismo.com.br/",
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_1696356317651c57df42783350698301.jpeg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/"
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Day use Village Itaparica",
+      "nome_en": "Village Itaparica day pass",
+      "nome_es": "Day use en Village Itaparica",
+      "descricao": "Dia de lazer no Village Itaparica, na Ilha de Itaparica, com travessia a partir de Salvador.",
+      "descricao_en": "A leisure day at Village Itaparica, on Itaparica Island, with the crossing from Salvador.",
+      "descricao_es": "Un día de descanso en el Village Itaparica, en la isla de Itaparica, con la travesía desde Salvador.",
+      "operadoras": [
+        "Cassi Turismo"
+      ],
+      "dica": "Saída do hotel em Salvador: a partir de R$ 140 (site oficial, out/2026).",
+      "dica_en": "Departure from your Salvador hotel: from R$ 140 (official site, Oct 2026).",
+      "dica_es": "Salida desde su hotel en Salvador: desde R$ 140 (sitio oficial, oct/2026).",
+      "fonte": "https://cassiturismo.com.br/",
+      "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_93185.jpeg",
+      "img_credito": "Cassi Turismo",
+      "img_pagina": "https://cassiturismo.com.br/"
+    },
+    {
+      "tipo": "passeio",
+      "nome": "Passeios privativos e transfer",
+      "nome_en": "Private tours and transfers",
+      "nome_es": "Paseos privados y traslados",
+      "descricao": "Roteiros sob medida só para o seu grupo e transfer do aeroporto para hotéis em Salvador e no Litoral Norte.",
+      "descricao_en": "Tailor-made itineraries just for your group, plus airport transfers to hotels in Salvador and on the North Coast.",
+      "descricao_es": "Itinerarios a medida solo para su grupo y traslados del aeropuerto a hoteles en Salvador y el Litoral Norte.",
+      "operadoras": [
+        "Cassi Turismo",
+        "Privetur"
+      ],
+      "dica": "Reserva pelo WhatsApp das operadoras.",
+      "dica_en": "Book via the operators' WhatsApp.",
+      "dica_es": "Reserve por el WhatsApp de las operadoras.",
+      "fonte": "https://www.priveturismo.com.br/",
+      "fonte_extra": [
+        "https://cassiturismo.com.br/"
+      ]
+    }
+  ],
   "restaurantes": [
     {
       "nome": "Maimbê – Comida Popular Baiana",
