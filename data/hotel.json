@@ -8,7 +8,8 @@
   "instagram": "",
   "wifi": {
     "rede": "The Hotel Free WiFi",
-    "senha": null
+    "senha": null,
+    "portal_api": "https://the-hotel-rds.vercel.app/api/wifi-auth"
   },
   "horarios": [
     {
