@@ -648,6 +648,7 @@ const ACC = {
   tCharges:"Consumo e diárias",tPaid:"Pagamentos",question:"Dúvida sobre a conta",logout:"Sair",
   qMsg:u=>`Olá! Sou do apartamento ${u} e tenho uma dúvida sobre minha conta.`,
   fine:"Valores atualizados conforme lançamento no sistema do hotel e sujeitos à conferência no check-out.",
+  faturado:"Sua hospedagem está faturada para a empresa. Não há lançamentos na sua conta pessoal até agora.",
   demo:"Modo demonstração: use apartamento 101 e documento 1234."},
  en:{open:"My bill",title:"My bill",intro:"See your stay dates and your account statement.",uh:"Room",pin:"ID document",surname:"Surname of any guest in the room",
   pinHint:"Under \"ID document\", enter the last 4 characters of the passport or CPF of any guest in the room.",privacy:"Your details are used only for this lookup and are not stored.",pinPh:"Last 4",submit:"View my bill",wait:"Checking…",
@@ -658,6 +659,7 @@ const ACC = {
   tCharges:"Charges and room nights",tPaid:"Payments",question:"Question about my bill",logout:"Sign out",
   qMsg:u=>`Hi! I'm in room ${u} and have a question about my bill.`,
   fine:"Amounts reflect charges posted in the hotel system and are confirmed at check-out.",
+  faturado:"Your stay is billed to your company. There are no charges on your personal account so far.",
   demo:"Demo mode: use room 101 and document 1234."},
  es:{open:"Mi cuenta",title:"Mi cuenta",intro:"Consulta las fechas de tu estadía y el extracto de tu cuenta.",uh:"Habitación",pin:"Documento",surname:"Apellido de un huésped de la habitación",
   pinHint:"En \"Documento\", ingresa los 4 últimos caracteres del pasaporte o CPF de cualquier huésped de la habitación.",privacy:"Tus datos se usan solo para esta consulta y no se guardan.",pinPh:"Últimos 4",submit:"Ver mi cuenta",wait:"Consultando…",
@@ -668,6 +670,7 @@ const ACC = {
   tCharges:"Consumos y noches",tPaid:"Pagos",question:"Duda sobre la cuenta",logout:"Salir",
   qMsg:u=>`¡Hola! Estoy en la habitación ${u} y tengo una duda sobre mi cuenta.`,
   fine:"Valores según los cargos registrados en el sistema del hotel, sujetos a conferencia en el check-out.",
+  faturado:"Tu estadía está facturada a la empresa. Aún no hay cargos en tu cuenta personal.",
   demo:"Modo demostración: usa habitación 101 y documento 1234."}
 };
 
@@ -737,11 +740,11 @@ function renderAccount(){
       </div>
       <div class="track"><i style="width:${(done*100).toFixed(0)}%"></i></div>
     </div>
-    <div class="bal"><small>${bal > 0 ? A.balance : A.settled}</small><b class="${bal > 0 ? "" : "zero"}">${brl(Math.max(bal,0))}</b></div>
+    ${c.faturado_empresa ? `<p class="intro2" style="margin-top:20px">${A.faturado}</p>` : `<div class="bal"><small>${bal > 0 ? A.balance : A.settled}</small><b class="${bal > 0 ? "" : "zero"}">${brl(Math.max(bal,0))}</b></div>
     <h3>${A.charges}</h3>
     <div class="lines">${(c.lancamentos||[]).length ? c.lancamentos.map(x => line(x)).join("") : `<p class="hint" style="padding:10px 0">${A.noCharges}</p>`}</div>
     ${(c.pagamentos||[]).length ? `<h3>${A.payments}</h3><div class="lines">${c.pagamentos.map(x => line(x,"pay")).join("")}</div>` : ""}
-    <div class="tot"><div><span>${A.tCharges}</span><b>${brl(tc)}</b></div><div><span>${A.tPaid}</span><b>${brl(tp)}</b></div></div>
+    <div class="tot"><div><span>${A.tCharges}</span><b>${brl(tc)}</b></div><div><span>${A.tPaid}</span><b>${brl(tp)}</b></div></div>`}
     <div class="foot">
       <a class="btn solid" href="${wa(A.qMsg(c.uh))}" ${ext}>${A.question}</a>
       <button class="btn ghost" id="accOut">${A.logout}</button>
