@@ -1,8 +1,8 @@
 {
   "_leia": "Dados do hotel. Para mostrar o room service, preencha o cardápio real, mude \"exemplo\" para false e \"ativo\" para true.",
   "nome": "The Hotel",
-  "endereco": "Rua Belo Horizonte, Barra · Salvador/BA",
-  "mapa": "https://www.google.com/maps/search/?api=1&query=The+Hotel+Rua+Belo+Horizonte+Barra+Salvador",
+  "endereco": "Rua Belo Horizonte, 138, Barra · Salvador/BA",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=The+Hotel+Rua+Belo+Horizonte+138+Barra+Salvador",
   "whatsapp": "557132376067",
   "telefone": "+55 71 3237-6067",
   "instagram": "",
