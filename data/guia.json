@@ -12,7 +12,16 @@
       "descricao_en": "UNESCO-listed old town with colorful colonial houses, baroque churches, museums and live music in the squares. Tuesdays bring cultural events and, in summer, Olodum's 'Bênção' show.",
       "dica": "Melhor de dia e no começo da noite; à noite, fique nas ruas principais e movimentadas e vá de app até a porta.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626",
+      "descricao_es": "Centro histórico declarado Patrimonio de la UNESCO, con casonas coloridas, iglesias barrocas, museos y música en las plazas. Los martes hay programación cultural en las plazas y, en verano, la Bênção do Olodum.",
+      "dica_en": "Best by day and early evening; at night, stick to the main, busy streets and take a ride app to the door.",
+      "dica_es": "Mejor de día y al anochecer; de noche, quédese en las calles principales y concurridas y vaya en app hasta la puerta.",
+      "nome_en": "Pelourinho / Historic Center",
+      "nome_es": "Pelourinho / Centro Histórico",
+      "bairro_en": "Historic Center",
+      "bairro_es": "Centro Histórico",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Santo Antônio Além do Carmo",
@@ -21,7 +30,12 @@
       "descricao_en": "Charming bohemian neighborhood next to Pelourinho with cafés, restaurants, studios and bars around Cruz do Pascoal. Home to the Capoeira Fort and bay viewpoints.",
       "dica": "Ótimo para o fim de tarde; prove o 'gengibre' do Oliveiras Bar.",
       "distancia_hotel": "aprox. 7 km / 20 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225",
+      "descricao_es": "Barrio bohemio y encantador junto al Pelourinho, con cafés, restaurantes, talleres de artistas y bares en la Cruz do Pascoal. Alberga el Forte da Capoeira y miradores a la Bahía de Todos los Santos.",
+      "dica_en": "Great for late afternoon; try the 'gengibre' ginger drink at Oliveiras Bar.",
+      "dica_es": "Ideal para el final de la tarde; pruebe el 'gengibre' (bebida de jengibre) del Oliveiras Bar.",
+      "distancia_hotel_en": "approx. 7 km / 20 min",
+      "distancia_hotel_es": "aprox. 7 km / 20 min"
     },
     {
       "nome": "Barra",
@@ -30,7 +44,12 @@
       "descricao_en": "The hotel's neighborhood: Barra Lighthouse, Porto da Barra beach, historic forts and a seafront promenade. Full of bars and restaurants and the Barra-Ondina Carnival route.",
       "dica": "O pôr do sol no Porto da Barra e no Farol é imperdível; evite trechos escuros da orla tarde da noite.",
       "distancia_hotel": "no bairro / a pé",
-      "fonte": "https://www.salvadordabahia.com/?p=26877"
+      "fonte": "https://www.salvadordabahia.com/?p=26877",
+      "descricao_es": "El barrio del hotel: Farol da Barra, Porto da Barra, fuertes históricos y un paseo marítimo para caminar. Reúne bares, restaurantes y el circuito Barra-Ondina del Carnaval.",
+      "dica_en": "Sunset at Porto da Barra and the Lighthouse is a must; avoid dark stretches of the seafront late at night.",
+      "dica_es": "La puesta de sol en Porto da Barra y en el Faro es imperdible; evite los tramos oscuros del paseo marítimo tarde en la noche.",
+      "distancia_hotel_en": "in the neighborhood / on foot",
+      "distancia_hotel_es": "en el barrio / a pie"
     },
     {
       "nome": "Rio Vermelho",
@@ -39,7 +58,12 @@
       "descricao_en": "Salvador's most bohemian district, with famous acarajé stalls, bars at Largo da Mariquita and Largo de Santana and live music venues. Home to Casa do Rio Vermelho, Jorge Amado's former house.",
       "dica": "Use app na ida e na volta; há relatos de assaltos a quem pede carro na saída de bares.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
+      "descricao_es": "El barrio más bohemio de la ciudad, con acarajés famosos, bares en el Largo da Mariquita y el Largo de Santana (Largo da Dinha) y salas de conciertos. Alberga la Casa do Rio Vermelho, antigua residencia de Jorge Amado y Zélia Gattai.",
+      "dica_en": "Use a ride app both ways; there have been reports of robberies targeting people calling a car outside bars.",
+      "dica_es": "Use una app de transporte a la ida y a la vuelta; hay reportes de asaltos a quienes piden coche a la salida de los bares.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Comércio / Cidade Baixa",
@@ -48,7 +72,14 @@
       "descricao_en": "Historic Lower City with Mercado Modelo, Lacerda Elevator, MAM-BA at Solar do Unhão and bay-view restaurants on Avenida Contorno. Boats to the islands leave from here.",
       "dica": "Visite de dia; o bairro fica vazio à noite e nos domingos.",
       "distancia_hotel": "aprox. 6 km / 20 min",
-      "fonte": "https://atarde.com.br/atarde-bairros/restaurantes-do-comercio-valorizam-a-historia-e-traduzem-a-essencia-baiana-1378664"
+      "fonte": "https://atarde.com.br/atarde-bairros/restaurantes-do-comercio-valorizam-a-historia-e-traduzem-a-essencia-baiana-1378664",
+      "descricao_es": "Ciudad Baja histórica con el Mercado Modelo, el Elevador Lacerda, el MAM-BA en el Solar do Unhão y restaurantes con vista a la bahía en la Avenida Contorno. También es el punto de salida de los barcos a las islas.",
+      "dica_en": "Visit by day; the area empties out at night and on Sundays.",
+      "dica_es": "Visítelo de día; el barrio queda vacío de noche y los domingos.",
+      "nome_en": "Comércio / Lower City",
+      "nome_es": "Comércio / Ciudad Baja",
+      "distancia_hotel_en": "approx. 6 km / 20 min",
+      "distancia_hotel_es": "aprox. 6 km / 20 min"
     },
     {
       "nome": "Ribeira / Bonfim",
@@ -57,7 +88,12 @@
       "descricao_en": "Itapagipe peninsula with the Bonfim Basilica and its ribbons, plus the calm Ribeira waterfront and its century-old ice-cream shop.",
       "dica": "Sexta-feira é o dia mais tradicional no Bonfim; combine Bonfim + sorvete na Ribeira.",
       "distancia_hotel": "aprox. 13 km / 35 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225",
+      "descricao_es": "Península de Itapagipe con la Basílica del Señor do Bonfim y sus cintitas, además del tranquilo paseo de la Ribeira y la tradicional Sorveteria da Ribeira.",
+      "dica_en": "Friday is the most traditional day at Bonfim; pair Bonfim with ice cream in Ribeira.",
+      "dica_es": "El viernes es el día más tradicional en el Bonfim; combine el Bonfim con un helado en la Ribeira.",
+      "distancia_hotel_en": "approx. 13 km / 35 min",
+      "distancia_hotel_es": "aprox. 13 km / 35 min"
     },
     {
       "nome": "Itapuã",
@@ -66,7 +102,12 @@
       "descricao_en": "Neighborhood made famous in song, with Itapuã Lighthouse, the Mermaid statue, Abaeté Lagoon and well-known acarajé stalls.",
       "dica": "Combine com Stella Maris e Flamengo no mesmo dia.",
       "distancia_hotel": "aprox. 22 km / 40 min",
-      "fonte": "https://www.bahianoticias.com.br/noticia/315267-memorial-do-abaete-e-inaugurado-neste-domingo-no-bairro-de-itapua-em-salvador"
+      "fonte": "https://www.bahianoticias.com.br/noticia/315267-memorial-do-abaete-e-inaugurado-neste-domingo-no-bairro-de-itapua-em-salvador",
+      "descricao_es": "Barrio cantado por Vinicius y Caymmi, con el Faro de Itapuã, la Sirena, la Laguna del Abaeté y acarajés famosos.",
+      "dica_en": "Combine it with Stella Maris and Flamengo on the same day.",
+      "dica_es": "Combínelo con Stella Maris y Flamengo el mismo día.",
+      "distancia_hotel_en": "approx. 22 km / 40 min",
+      "distancia_hotel_es": "aprox. 22 km / 40 min"
     },
     {
       "nome": "Vitória / Corredor da Vitória",
@@ -75,7 +116,12 @@
       "descricao_en": "Leafy avenue between Graça and Campo Grande with museums such as the Museu de Arte da Bahia and bay views, minutes from the hotel.",
       "horario": "MAB: ter–dom, 10h–18h",
       "distancia_hotel": "aprox. 2 km / 7 min",
-      "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626"
+      "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626",
+      "descricao_es": "Avenida arbolada entre Graça y Campo Grande, con museos como el Museu de Arte da Bahia (MAB) y vista a la bahía. Está a pocos minutos del hotel.",
+      "horario_en": "MAB: Tue–Sun, 10am–6pm",
+      "horario_es": "MAB: mar–dom, 10h–18h",
+      "distancia_hotel_en": "approx. 2 km / 7 min",
+      "distancia_hotel_es": "aprox. 2 km / 7 min"
     },
     {
       "nome": "Praia do Forte (bate-volta)",
@@ -85,7 +131,14 @@
       "dica": "Saia cedo; maré baixa é a melhor hora para as piscinas naturais.",
       "distancia_hotel": "aprox. 85 km / 1h30",
       "link": "https://praiadoforte.org.br",
-      "fonte": "https://www.brasil247.com/tendencias/2026/08/09/entre-os-museus-mais-visitados-do-pais-e-fortaleza-historica-veja-o-que-consagra-esta-famosa-vila-litoranea-da-bahia/"
+      "fonte": "https://www.brasil247.com/tendencias/2026/08/09/entre-os-museus-mais-visitados-do-pais-e-fortaleza-historica-veja-o-que-consagra-esta-famosa-vila-litoranea-da-bahia/",
+      "descricao_es": "Villa costera del Litoral Norte con piscinas naturales, el Centro de Visitantes del Proyecto Tamar y el Castillo Garcia D'Ávila.",
+      "dica_en": "Leave early; low tide is the best time for the natural pools.",
+      "dica_es": "Salga temprano; la marea baja es el mejor momento para las piscinas naturales.",
+      "nome_en": "Praia do Forte (day trip)",
+      "nome_es": "Praia do Forte (excursión de un día)",
+      "distancia_hotel_en": "approx. 85 km / 1h30",
+      "distancia_hotel_es": "aprox. 85 km / 1h30"
     }
   ],
   "praias": [
@@ -97,7 +150,11 @@
       "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 1 km / 5 min (a pé ~15 min)",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Bahía de aguas tranquilas, a pocos minutos a pie del hotel, famosa por su puesta de sol aplaudida y su ambiente diverso y LGBT-friendly.",
+      "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "distancia_hotel_en": "approx. 1 km / 5 min (~15-min walk)",
+      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie ~15 min)"
     },
     {
       "nome": "Farol da Barra",
@@ -107,7 +164,13 @@
       "dica": "Ótima para caminhar e ver o pôr do sol. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 1,5 km / 5 min",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Great for a walk and the sunset. Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Tramo junto al Faro y al Fuerte de Santo Antônio da Barra, con piscinitas naturales en marea baja y mirador de ballenas jorobadas en temporada (jul–oct).",
+      "dica_es": "Ideal para caminar y ver la puesta de sol. La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "nome_en": "Barra Lighthouse",
+      "nome_es": "Faro de Barra",
+      "distancia_hotel_en": "approx. 1,5 km / 5 min",
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
     },
     {
       "nome": "Ondina",
@@ -117,7 +180,11 @@
       "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 3 km / 8 min",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Playa urbana justo después de Barra, a lo largo del circuito del Carnaval, con mar más abierto.",
+      "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "distancia_hotel_en": "approx. 3 km / 8 min",
+      "distancia_hotel_es": "aprox. 3 km / 8 min"
     },
     {
       "nome": "Stella Maris",
@@ -127,7 +194,11 @@
       "dica": "Atenção às correntes. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 25 km / 45 min",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Larga franja de arena con quioscos bien equipados y olas, la preferida para pasar el día.",
+      "dica_es": "Cuidado con las corrientes. La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "distancia_hotel_en": "approx. 25 km / 45 min",
+      "distancia_hotel_es": "aprox. 25 km / 45 min"
     },
     {
       "nome": "Flamengo",
@@ -137,7 +208,11 @@
       "dica": "Tradicionalmente frequentada pelo público LGBT. A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 28 km / 50 min",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Traditionally popular with the LGBT community. Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Playa más tranquila y preservada en el extremo norte de la ciudad, con quioscos y cocoteros.",
+      "dica_es": "Tradicionalmente frecuentada por el público LGBT. La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "distancia_hotel_en": "approx. 28 km / 50 min",
+      "distancia_hotel_es": "aprox. 28 km / 50 min"
     },
     {
       "nome": "Itapuã",
@@ -147,7 +222,11 @@
       "dica": "A balneabilidade muda toda semana. Antes de entrar no mar, confira o boletim do Inema ou pergunte na recepção.",
       "distancia_hotel": "aprox. 22 km / 40 min",
       "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
-      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk."
+      "dica_en": "Water quality changes weekly. Before swimming, check the Inema bulletin or ask the front desk.",
+      "descricao_es": "Playa histórica junto al Faro y la Sirena de Itapuã, con piscinas naturales en marea baja.",
+      "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
+      "distancia_hotel_en": "approx. 22 km / 40 min",
+      "distancia_hotel_es": "aprox. 22 km / 40 min"
     },
     {
       "nome": "Praia do Forte (bate-volta)",
@@ -156,7 +235,12 @@
       "descricao_en": "Clear water and natural pools next to the Projeto Tamar village.",
       "distancia_hotel": "aprox. 85 km / 1h30",
       "link": "https://praiadoforte.org.br",
-      "fonte": "https://praiadoforte.org.br/noticia/dia-das-criancas-em-praia-do-forte-do-mergulho-com-peixinhos-as-descobertas-na-floresta/"
+      "fonte": "https://praiadoforte.org.br/noticia/dia-das-criancas-em-praia-do-forte-do-mergulho-com-peixinhos-as-descobertas-na-floresta/",
+      "descricao_es": "Aguas cristalinas y piscinas naturales, con la villa del Proyecto Tamar al lado.",
+      "nome_en": "Praia do Forte (day trip)",
+      "nome_es": "Praia do Forte (excursión de un día)",
+      "distancia_hotel_en": "approx. 85 km / 1h30",
+      "distancia_hotel_es": "aprox. 85 km / 1h30"
     },
     {
       "nome": "Ilha dos Frades + Itaparica (passeio de barco)",
@@ -166,7 +250,18 @@
       "dica": "Taxas ambientais das ilhas e almoço costumam ser cobrados à parte.",
       "horario": "Coletivos geralmente 9h–15h30",
       "distancia_hotel": "aprox. 6 km até o terminal / 20 min",
-      "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+      "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667",
+      "descricao_es": "Paseo en goleta o lancha por la bahía con paradas en la Ilha dos Frades y en Itaparica. Los paseos colectivos salen del Terminal Marítimo/Náutico desde unos R$ 100–130 por persona (jul/2026).",
+      "dica_en": "Island environmental fees and lunch are usually charged separately.",
+      "dica_es": "Las tasas ambientales de las islas y el almuerzo suelen cobrarse aparte.",
+      "horario_en": "Group tours usually 9am–3:30pm",
+      "horario_es": "Paseos colectivos generalmente 9h–15h30",
+      "nome_en": "Ilha dos Frades + Itaparica (boat tour)",
+      "nome_es": "Ilha dos Frades + Itaparica (paseo en barco)",
+      "bairro_en": "Bay of All Saints",
+      "bairro_es": "Bahía de Todos los Santos",
+      "distancia_hotel_en": "approx. 6 km to the terminal / 20 min",
+      "distancia_hotel_es": "aprox. 6 km hasta la terminal / 20 min"
     }
   ],
   "atracoes": [
@@ -178,7 +273,18 @@
       "dica": "Tarifa de R$ 1 (grátis com SalvadorCard), conforme valores de 2025.",
       "horario": "Seg–sex 6h30–21h30; sáb 7h–21h30; dom/feriado 7h–21h",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.bahianoticias.com.br/noticia/303226-elevador-lacerda-completa-30-dias-de-funcionamento-apos-reforma-com-250-mil-pessoas-transportadas"
+      "fonte": "https://www.bahianoticias.com.br/noticia/303226-elevador-lacerda-completa-30-dias-de-funcionamento-apos-reforma-com-250-mil-pessoas-transportadas",
+      "descricao_es": "Elevador art déco de 1873 que une la Ciudad Alta con la Ciudad Baja, con vista a la bahía. Reabierto en 2025 tras su modernización.",
+      "dica_en": "R$ 1 fare (free with SalvadorCard), per 2025 rates.",
+      "dica_es": "Tarifa de R$ 1 (gratis con SalvadorCard), según valores de 2025.",
+      "horario_en": "Mon–Fri 6:30am–9:30pm; Sat 7am–9:30pm; Sun/holidays 7am–9pm",
+      "horario_es": "Lun–vie 6h30–21h30; sáb 7h–21h30; dom/feriados 7h–21h",
+      "nome_en": "Lacerda Elevator",
+      "nome_es": "Elevador Lacerda",
+      "bairro_en": "Downtown / Comércio",
+      "bairro_es": "Centro / Comércio",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Mercado Modelo",
@@ -188,7 +294,14 @@
       "dica": "Pechinche com simpatia e compare preços entre as lojas.",
       "horario": "Aprox. 9h–18h",
       "distancia_hotel": "aprox. 6 km / 20 min",
-      "fonte": "https://www.tripadvisor.com/Attraction_Review-g303272-d312474-Reviews-Mercado_Modelo-Salvador_State_of_Bahia.html"
+      "fonte": "https://www.tripadvisor.com/Attraction_Review-g303272-d312474-Reviews-Mercado_Modelo-Salvador_State_of_Bahia.html",
+      "descricao_es": "Mercado histórico frente al Elevador Lacerda, con artesanías, recuerdos, música y restaurantes con vista a la bahía.",
+      "dica_en": "Haggle with a smile and compare prices between shops.",
+      "dica_es": "Regatee con simpatía y compare precios entre las tiendas.",
+      "horario_en": "Approx. 9am–6pm",
+      "horario_es": "Aprox. 9h–18h",
+      "distancia_hotel_en": "approx. 6 km / 20 min",
+      "distancia_hotel_es": "aprox. 6 km / 20 min"
     },
     {
       "nome": "Basílica do Senhor do Bonfim",
@@ -197,7 +310,14 @@
       "descricao_en": "Bahia's most famous church, a symbol of faith and syncretism, its railings covered in colored ribbons.",
       "dica": "Amarre a fitinha com três nós e faça um pedido para cada um.",
       "distancia_hotel": "aprox. 13 km / 35 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/hora-de-agradecer-fieis-prestigiam-ultima-sexta-feira-do-ano-no-bonfim-1225",
+      "descricao_es": "La iglesia más famosa de Bahía, símbolo de fe y sincretismo, con rejas cubiertas de cintitas de colores.",
+      "dica_en": "Tie the ribbon with three knots and make a wish for each one.",
+      "dica_es": "Ate la cintita con tres nudos y pida un deseo por cada uno.",
+      "nome_en": "Senhor do Bonfim Basilica",
+      "nome_es": "Basílica del Señor do Bonfim",
+      "distancia_hotel_en": "approx. 13 km / 35 min",
+      "distancia_hotel_es": "aprox. 13 km / 35 min"
     },
     {
       "nome": "Farol da Barra e Museu Náutico da Bahia",
@@ -207,7 +327,16 @@
       "dica": "Observação de baleias incluída no ingresso do museu.",
       "horario": "Diariamente, 9h–17h30 (temporada 2026)",
       "distancia_hotel": "aprox. 1,5 km / 5 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/farol-da-barra-vira-camarote-para-ver-baleias-jubarte-em-salvador-temporada-comeca-nesta-quarta-0726"
+      "fonte": "https://www.correio24horas.com.br/salvador/farol-da-barra-vira-camarote-para-ver-baleias-jubarte-em-salvador-temporada-comeca-nesta-quarta-0726",
+      "descricao_es": "Fuerte de Santo Antônio da Barra con el faro y el Museo Náutico; mirador con investigadores para avistar ballenas jorobadas en temporada.",
+      "dica_en": "Whale watching is included in the museum ticket.",
+      "dica_es": "La observación de ballenas está incluida en la entrada del museo.",
+      "horario_en": "Daily, 9am–5:30pm (2026 season)",
+      "horario_es": "Todos los días, 9h–17h30 (temporada 2026)",
+      "nome_en": "Barra Lighthouse & Nautical Museum of Bahia",
+      "nome_es": "Faro de Barra y Museo Náutico de Bahía",
+      "distancia_hotel_en": "approx. 1,5 km / 5 min",
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
     },
     {
       "nome": "Forte da Capoeira (Forte de Santo Antônio Além do Carmo)",
@@ -216,7 +345,14 @@
       "descricao_en": "Historic fort turned into a capoeira reference and memory center, with schools and rodas.",
       "dica": "Pergunte no local os horários das rodas abertas.",
       "distancia_hotel": "aprox. 7 km / 20 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225",
+      "descricao_es": "Fuerte histórico convertido en centro de referencia y memoria de la capoeira, con academias y rodas.",
+      "dica_en": "Ask on site for open roda times.",
+      "dica_es": "Pregunte en el lugar los horarios de las rodas abiertas.",
+      "nome_en": "Capoeira Fort (Santo Antônio Além do Carmo Fort)",
+      "nome_es": "Fuerte de la Capoeira (Fuerte de Santo Antônio Além do Carmo)",
+      "distancia_hotel_en": "approx. 7 km / 20 min",
+      "distancia_hotel_es": "aprox. 7 km / 20 min"
     },
     {
       "nome": "MAM-BA – Solar do Unhão",
@@ -225,7 +361,12 @@
       "descricao_en": "Modern Art Museum in a colonial manor on the bay, with a sculpture park and one of the city's best sunsets.",
       "horario": "Ter–dom, 10h–18h",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626"
+      "fonte": "https://www.correio24horas.com.br/em-alta/programacao-gratuita-museus-de-salvador-tem-feira-vegana-oficina-infantil-e-forro-neste-fim-de-semana-0626",
+      "descricao_es": "Museo de Arte Moderno en una casona colonial a orillas de la bahía, con parque de esculturas y una de las mejores puestas de sol de la ciudad.",
+      "horario_en": "Tue–Sun, 10am–6pm",
+      "horario_es": "Mar–dom, 10h–18h",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Casa do Carnaval da Bahia",
@@ -235,7 +376,16 @@
       "dica": "Valores informados em jun/2026 variam (R$ 20–30 inteira); quarta-feira tem entrada gratuita.",
       "horario": "Ter–dom, 11h–19h",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626",
+      "descricao_es": "Museo interactivo sobre la historia, los ritmos y los bloques del Carnaval bahiano.",
+      "dica_en": "Prices reported in Jun 2026 vary (R$ 20–30 full price); admission is free on Wednesdays.",
+      "dica_es": "Los valores informados en jun/2026 varían (R$ 20–30 entrada completa); los miércoles la entrada es gratuita.",
+      "horario_en": "Tue–Sun, 11am–7pm",
+      "horario_es": "Mar–dom, 11h–19h",
+      "nome_en": "Bahia Carnival House",
+      "nome_es": "Casa del Carnaval de Bahía",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "MUNCAB – Museu Nacional da Cultura Afro-Brasileira",
@@ -243,7 +393,14 @@
       "descricao": "Museu dedicado à arte e cultura afro-brasileira, com exposições de artistas negros contemporâneos e obras repatriadas.",
       "descricao_en": "Museum dedicated to Afro-Brazilian art and culture, with contemporary Black artists and repatriated works.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/muncab-oferece-entrada-gratuita-de-5-a-9-de-agosto-durante-a-flipelo-0826"
+      "fonte": "https://www.correio24horas.com.br/salvador/muncab-oferece-entrada-gratuita-de-5-a-9-de-agosto-durante-a-flipelo-0826",
+      "descricao_es": "Museo dedicado al arte y la cultura afrobrasileña, con exposiciones de artistas negros contemporáneos y obras repatriadas.",
+      "nome_en": "MUNCAB – National Museum of Afro-Brazilian Culture",
+      "nome_es": "MUNCAB – Museo Nacional de la Cultura Afrobrasileña",
+      "bairro_en": "Historic Center",
+      "bairro_es": "Centro Histórico",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Fundação Casa de Jorge Amado",
@@ -251,7 +408,12 @@
       "descricao": "Casarão azul no Largo do Pelourinho dedicado à obra de Jorge Amado e Zélia Gattai, que completa 40 anos com programação gratuita.",
       "descricao_en": "Blue mansion on Largo do Pelourinho devoted to Jorge Amado and Zélia Gattai, celebrating 40 years with free events.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/1834-fundacao-casa-de-jorge-amado-celebra-40-anos-com-programacao-gratuita-em-salvador"
+      "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/1834-fundacao-casa-de-jorge-amado-celebra-40-anos-com-programacao-gratuita-em-salvador",
+      "descricao_es": "Casona azul en el Largo do Pelourinho dedicada a la obra de Jorge Amado y Zélia Gattai, que cumple 40 años con programación gratuita.",
+      "nome_en": "Jorge Amado House Foundation",
+      "nome_es": "Fundación Casa de Jorge Amado",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Casa do Rio Vermelho",
@@ -260,7 +422,12 @@
       "descricao_en": "Jorge Amado and Zélia Gattai's former home, now a museum with garden, personal objects and guided visits.",
       "dica": "Visitas mediadas aos fins de semana às 11h e 15h30 (jun/2026).",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626"
+      "fonte": "https://www.correio24horas.com.br/salvador/nao-sabe-o-que-fazer-em-salvador-neste-fim-de-semana-confira-programacao-de-museus-e-espacos-culturais-0626",
+      "descricao_es": "Antigua casa de Jorge Amado y Zélia Gattai, hoy museo con jardín, objetos personales y visitas guiadas.",
+      "dica_en": "Guided visits on weekends at 11am and 3:30pm (Jun 2026).",
+      "dica_es": "Visitas guiadas los fines de semana a las 11h y 15h30 (jun/2026).",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Parque e Lagoa do Abaeté",
@@ -269,7 +436,14 @@
       "descricao_en": "Dark-water lagoon ringed by white dunes, celebrated in song; the park was renovated and gained the Abaeté Memorial in 2026.",
       "dica": "Vá de dia; parte das obras ainda estava em andamento em 2026.",
       "distancia_hotel": "aprox. 23 km / 40 min",
-      "fonte": "https://atarde.com.br/salvador/parque-do-abaete-ressurge-apos-investimento-milionario-1384112"
+      "fonte": "https://atarde.com.br/salvador/parque-do-abaete-ressurge-apos-investimento-milionario-1384112",
+      "descricao_es": "Laguna de aguas oscuras rodeada de dunas blancas, cantada por Caymmi; el parque fue renovado y en 2026 ganó el Memorial del Abaeté.",
+      "dica_en": "Go during the day; some works were still under way in 2026.",
+      "dica_es": "Vaya de día; parte de las obras seguía en curso en 2026.",
+      "nome_en": "Abaeté Park & Lagoon",
+      "nome_es": "Parque y Laguna del Abaeté",
+      "distancia_hotel_en": "approx. 23 km / 40 min",
+      "distancia_hotel_es": "aprox. 23 km / 40 min"
     },
     {
       "nome": "Teatro Castro Alves (TCA)",
@@ -278,7 +452,14 @@
       "descricao_en": "Bahia's main theater, reopened in July 2026 after a full modernization.",
       "dica": "A sala principal voltou de forma gradual; veja a agenda antes.",
       "distancia_hotel": "aprox. 3 km / 10 min",
-      "fonte": "https://jornalgrandebahia.com.br/2026/07/presidente-lula-e-governador-jeronimo-reabrem-teatro-castro-alves-apos-modernizacao-de-r-260-milhoes-em-salvador/"
+      "fonte": "https://jornalgrandebahia.com.br/2026/07/presidente-lula-e-governador-jeronimo-reabrem-teatro-castro-alves-apos-modernizacao-de-r-260-milhoes-em-salvador/",
+      "descricao_es": "El principal teatro de Bahía, reabierto en julio de 2026 tras una modernización completa.",
+      "dica_en": "The main hall is reopening gradually; check the schedule first.",
+      "dica_es": "La sala principal reabrió de forma gradual; consulte la agenda antes.",
+      "nome_en": "Castro Alves Theater (TCA)",
+      "nome_es": "Teatro Castro Alves (TCA)",
+      "distancia_hotel_en": "approx. 3 km / 10 min",
+      "distancia_hotel_es": "aprox. 3 km / 10 min"
     }
   ],
   "restaurantes": [
@@ -292,7 +473,14 @@
       "horario": "Seg–sáb, 12h–20h (site de turismo)",
       "distancia_hotel": "aprox. 400 m / 5 min a pé",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9360-de-passagem-por-salvador-liniker-visita-o-maimbe-restaurante-de-comida-afro-brasileira",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Comida rápida bahiana con almacén gourmet, café y dulcería; el plato estrella es el abará artesanal, en versiones clásicas y creativas.",
+      "dica_en": "Rua Marquês de Caravelas, 154.",
+      "dica_es": "Rua Marquês de Caravelas, 154.",
+      "horario_en": "Mon–Sat, 12pm–8pm (tourism website)",
+      "horario_es": "Lun–sáb, 12h–20h (sitio de turismo)",
+      "distancia_hotel_en": "approx. 400 m / 5-min walk",
+      "distancia_hotel_es": "aprox. 400 m / 5 min a pie"
     },
     {
       "nome": "PISSA – Pizzaria Artesanal",
@@ -304,7 +492,12 @@
       "distancia_hotel": "aprox. 500 m / 7 min a pé",
       "link": "https://www.instagram.com/pissa_salvador/",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10495-veja-o-que-restaurantes-e-pizzarias-de-salvador-prepararam-para-celebrar-o-dia-da-pizza",
-      "cozinha": "italiana"
+      "cozinha": "italiana",
+      "descricao_es": "Pizzería artesanal en la Villa da Barra, con carta del chef pizzaiolo italiano Pierluigi Russo.",
+      "dica_en": "Av. Sete de Setembro, 3959; near Porto da Barra.",
+      "dica_es": "Av. Sete de Setembro, 3959; cerca de Porto da Barra.",
+      "distancia_hotel_en": "approx. 500 m / 7-min walk",
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
     },
     {
       "nome": "Jhun Bistrô",
@@ -316,7 +509,14 @@
       "horario": "Dom–qua 18h–23h; qui–sáb 18h–0h",
       "distancia_hotel": "aprox. 600 m / 8 min a pé",
       "fonte": "https://www.salvadordabahia.com/nossas-listas/imperdivel-em-salvador-o-que-voce-precisa-conhecer-na-barra/",
-      "cozinha": "japonesa"
+      "cozinha": "japonesa",
+      "descricao_es": "Bistró japonés íntimo del chef Luciano Costa, con toques de trufa y platos como salmón brûlée y pulpo con grana padano.",
+      "dica_en": "Av. Almirante Marques de Leão, 415. Small place: book ahead.",
+      "dica_es": "Av. Almirante Marques de Leão, 415. Local pequeño: reserve.",
+      "horario_en": "Sun–Wed 6pm–11pm; Thu–Sat 6pm–midnight",
+      "horario_es": "Dom–mié 18h–23h; jue–sáb 18h–0h",
+      "distancia_hotel_en": "approx. 600 m / 8-min walk",
+      "distancia_hotel_es": "aprox. 600 m / 8 min a pie"
     },
     {
       "nome": "Boteco do Gavazza",
@@ -327,7 +527,12 @@
       "preco": "$",
       "distancia_hotel": "aprox. 700 m / 9 min a pé",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9745-comida-di-buteco-2026-63-estabelecimentos-disputam-o-titulo-de-melhor-boteco-em-salvador-e-lauro-de-freitas",
-      "cozinha": "boteco"
+      "cozinha": "boteco",
+      "descricao_es": "Bar de barrio con platos para picar y cerveza bien fría, participante del Comida di Buteco 2026.",
+      "dica_en": "Rua Greenfeld, 170.",
+      "dica_es": "Rua Greenfeld, 170.",
+      "distancia_hotel_en": "approx. 700 m / 9-min walk",
+      "distancia_hotel_es": "aprox. 700 m / 9 min a pie"
     },
     {
       "nome": "O Peruano",
@@ -338,7 +543,12 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 800 m / 10 min a pé",
       "fonte": "https://www.salvadordabahia.com/nossas-listas/imperdivel-em-salvador-o-que-voce-precisa-conhecer-na-barra/",
-      "cozinha": "internacional"
+      "cozinha": "internacional",
+      "descricao_es": "Pequeño restaurante peruano, sencillo y honesto, conocido por su ceviche.",
+      "dica_en": "Rua Eduardo Diniz Gonçalves, 79.",
+      "dica_es": "Rua Eduardo Diniz Gonçalves, 79.",
+      "distancia_hotel_en": "approx. 800 m / 10-min walk",
+      "distancia_hotel_es": "aprox. 800 m / 10 min a pie"
     },
     {
       "nome": "Egeu",
@@ -350,7 +560,14 @@
       "horario": "Qua 12h–0h; qui–sáb 12h–2h; dom 12h–20h (TripAdvisor)",
       "distancia_hotel": "aprox. 900 m / 12 min a pé",
       "fonte": "https://www.tripadvisor.com/Restaurant_Review-g303272-d12179626-Reviews-Restaurante_Egeu-Salvador_State_of_Bahia.html",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Cocina mediterránea con vista a la Bahía de Todos los Santos: risottos, pastas con mariscos y tragos.",
+      "dica_en": "Av. Sete de Setembro, 2830. Good for sunset.",
+      "dica_es": "Av. Sete de Setembro, 2830. Ideal para la puesta de sol.",
+      "horario_en": "Wed 12pm–midnight; Thu–Sat 12pm–2am; Sun 12pm–8pm (TripAdvisor)",
+      "horario_es": "Mié 12h–0h; jue–sáb 12h–2h; dom 12h–20h (TripAdvisor)",
+      "distancia_hotel_en": "approx. 900 m / 12-min walk",
+      "distancia_hotel_es": "aprox. 900 m / 12 min a pie"
     },
     {
       "nome": "Pereira Restaurante",
@@ -361,7 +578,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 1 km / 5 min (a pé)",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9749-restaurante-pereira-promove-nova-edicao-do-pereira-na-brasa-com-chef-sandro-borges-em-salvador",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Mariscos y parrilla con vista al mar en Porto da Barra, muy concurrido al final de la tarde.",
+      "dica_en": "Book for sunset time.",
+      "dica_es": "Reserve para la hora de la puesta de sol.",
+      "distancia_hotel_en": "approx. 1 km / 5 min (on foot)",
+      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie)"
     },
     {
       "nome": "Bão – Barra",
@@ -373,7 +595,14 @@
       "horario": "Happy hour ter–sex, 16h–20h (jan/2026)",
       "distancia_hotel": "aprox. 1 km / 5 min",
       "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126",
-      "cozinha": "boteco"
+      "cozinha": "boteco",
+      "descricao_es": "Bar premiado de bocados bahianos, como tripa frita, camarón al ajillo y caldo de sururú.",
+      "dica_en": "Rua Augusto Frederico Schmith, 302.",
+      "dica_es": "Rua Augusto Frederico Schmith, 302.",
+      "horario_en": "Happy hour Tue–Fri, 4pm–8pm (Jan 2026)",
+      "horario_es": "Happy hour mar–vie, 16h–20h (ene/2026)",
+      "distancia_hotel_en": "approx. 1 km / 5 min",
+      "distancia_hotel_es": "aprox. 1 km / 5 min"
     },
     {
       "nome": "Padó Padaria",
@@ -385,7 +614,14 @@
       "horario": "Qui–dom, 8h–12h30 (abr/2026)",
       "distancia_hotel": "aprox. 1 km / 5 min",
       "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Panadería contemporánea cerca del hotel, ideal para el desayuno y los panes de masa madre.",
+      "dica_en": "Rua Dr. João Pondé, 480.",
+      "dica_es": "Rua Dr. João Pondé, 480.",
+      "horario_en": "Thu–Sun, 8am–12:30pm (Apr 2026)",
+      "horario_es": "Jue–dom, 8h–12h30 (abr/2026)",
+      "distancia_hotel_en": "approx. 1 km / 5 min",
+      "distancia_hotel_es": "aprox. 1 km / 5 min"
     },
     {
       "nome": "B-Vegan",
@@ -396,7 +632,12 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 1 km / 12 min a pé",
       "fonte": "https://aratuon.com.br/gastronomia/veganismo-em-salvador-ganha-forca-com-novos-restaurantes-e-iniciativas-culturais",
-      "cozinha": "vegetariana"
+      "cozinha": "vegetariana",
+      "descricao_es": "Hamburguesería vegana artesanal, con sándwiches, bocadillos salados y dulces 100 % vegetales.",
+      "dica_en": "Rua Dias D'Ávila, 109.",
+      "dica_es": "Rua Dias D'Ávila, 109.",
+      "distancia_hotel_en": "approx. 1 km / 12-min walk",
+      "distancia_hotel_es": "aprox. 1 km / 12 min a pie"
     },
     {
       "nome": "Preta Bistrô – MAC Bahia",
@@ -408,7 +649,14 @@
       "horario": "Café da manhã sáb–dom, 8h–11h",
       "distancia_hotel": "aprox. 1,2 km / 15 min a pé",
       "fonte": "https://www.correio24horas.com.br/bazar/gastronomia/cuscuz-queijo-coalho-e-bolos-preta-bistro-lanca-cafe-da-manha-em-salvador-1026",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Bistró de la chef Angeluci en el Museo de Arte Contemporáneo; desde oct/2026 sirve desayuno nordestino libre los fines de semana.",
+      "dica_en": "Breakfast R$ 99 + service; reservations (71) 99917-1761.",
+      "dica_es": "Desayuno R$ 99 + servicio; reservas (71) 99917-1761.",
+      "horario_en": "Breakfast Sat–Sun, 8am–11am",
+      "horario_es": "Desayuno sáb–dom, 8h–11h",
+      "distancia_hotel_en": "approx. 1,2 km / 15-min walk",
+      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie"
     },
     {
       "nome": "Sorveteria da Barra",
@@ -419,7 +667,12 @@
       "preco": "$",
       "distancia_hotel": "aprox. 1,3 km / 17 min a pé",
       "fonte": "https://aloalobahia.com/noticias/2026/09/23/dia-do-sorvete-salvador-e-o-lar-de-sorveterias-iconicas-e-tradicionais/",
-      "cozinha": "doces"
+      "cozinha": "doces",
+      "descricao_es": "Heladería con vista al mar cerca del Morro do Cristo, con decenas de sabores de frutas tropicales.",
+      "dica_en": "Av. Oceânica, 683. Try cajá, mangaba and açaí.",
+      "dica_es": "Av. Oceânica, 683. Pruebe cajá, mangaba y açaí.",
+      "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
     },
     {
       "nome": "Vona Ristorante",
@@ -430,7 +683,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 1,3 km / 17 min a pé",
       "fonte": "https://aloalobahia.com/giro-de-fotos/2026/10/09/do-grupo-soho-vona-ristorante-apresenta-novo-menu-com-jantar-especial-em-salvador-veja-fotos/",
-      "cozinha": "italiana"
+      "cozinha": "italiana",
+      "descricao_es": "Restaurante italiano del Grupo Soho con pastas frescas hechas a diario; nuevo menú (oct/2026) con raviolini de pato.",
+      "dica_en": "Rua da Flórida, Graça.",
+      "dica_es": "Rua da Flórida, Graça.",
+      "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
     },
     {
       "nome": "Tokai",
@@ -440,7 +698,10 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 1,3 km / 17 min a pé",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10130-salvador-restaurant-week-2026-reune-mais-de-100-restaurantes-na-capital-baiana",
-      "cozinha": "japonesa"
+      "cozinha": "japonesa",
+      "descricao_es": "Restaurante japonés en el Shopping Barra, opción práctica para sushi y platos calientes.",
+      "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
     },
     {
       "nome": "Santiago Culinária Ibérica",
@@ -451,7 +712,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 1,3 km / 17 min a pé (Shopping Barra)",
       "fonte": "https://atarde.com.br/muito/de-paella-a-burger-coreano-o-que-comer-no-salvador-restaurant-week-com-menu-em-promocao-1389778",
-      "cozinha": "internacional"
+      "cozinha": "internacional",
+      "descricao_es": "Cocina española y portuguesa, famosa por sus paellas, como la negra con mariscos y tinta de calamar.",
+      "dica_en": "Also at Clube Espanhol (Av. Oceânica, 1404, Ondina).",
+      "dica_es": "También en el Clube Espanhol (Av. Oceânica, 1404, Ondina).",
+      "distancia_hotel_en": "approx. 1,3 km / 17-min walk (Shopping Barra)",
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie (Shopping Barra)"
     },
     {
       "nome": "Almacen Pepe – Shopping Barra",
@@ -463,7 +729,14 @@
       "horario": "Seg–sáb 12h–22h; dom 12h–20h (out/2026)",
       "distancia_hotel": "aprox. 1,3 km / 17 min a pé",
       "fonte": "https://www.correio24horas.com.br/salvador/almacen-pepe-promove-festival-de-doces-para-o-dia-das-criancas-em-salvador-1026",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Delicatessen y café con dulces, tartas, bocadillos salados y pizzas gourmet.",
+      "dica_en": "Level L4 North.",
+      "dica_es": "Piso L4 Norte.",
+      "horario_en": "Mon–Sat 12pm–10pm; Sun 12pm–8pm (Oct 2026)",
+      "horario_es": "Lun–sáb 12h–22h; dom 12h–20h (oct/2026)",
+      "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
     },
     {
       "nome": "Carvão",
@@ -475,7 +748,16 @@
       "horario": "Seg–sáb 12h–16h e 18h–22h30; dom 12h–16h",
       "distancia_hotel": "aprox. 1,5 km / 20 min a pé",
       "fonte": "https://atarde.com.br/muito/de-paella-a-burger-coreano-o-que-comer-no-salvador-restaurant-week-com-menu-em-promocao-1389778",
-      "cozinha": "carnes"
+      "cozinha": "carnes",
+      "descricao_es": "Cocina de fuego con carnes a la brasa y referencias brasileñas e internacionales, como la carne de sol Angus.",
+      "dica_en": "Rua Prof. Sabino Silva, 5.",
+      "dica_es": "Rua Prof. Sabino Silva, 5.",
+      "horario_en": "Mon–Sat 12pm–4pm & 6pm–10:30pm; Sun 12pm–4pm",
+      "horario_es": "Lun–sáb 12h–16h y 18h–22h30; dom 12h–16h",
+      "bairro_en": "Chame-Chame (next to Barra)",
+      "bairro_es": "Chame-Chame (junto a Barra)",
+      "distancia_hotel_en": "approx. 1,5 km / 20-min walk",
+      "distancia_hotel_es": "aprox. 1,5 km / 20 min a pie"
     },
     {
       "nome": "Barravento",
@@ -486,7 +768,14 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 1,5 km / 20 min a pé",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Restaurante frente al mar en el paseo marítimo de Barra, con mariscos, pastas y risottos.",
+      "dica_en": "Av. Oceânica, 814.",
+      "dica_es": "Av. Oceânica, 814.",
+      "bairro_en": "Barra (seafront)",
+      "bairro_es": "Barra (paseo marítimo)",
+      "distancia_hotel_en": "approx. 1,5 km / 20-min walk",
+      "distancia_hotel_es": "aprox. 1,5 km / 20 min a pie"
     },
     {
       "nome": "Seven Café & Bistrô – Spot Barra",
@@ -498,7 +787,14 @@
       "horario": "Diariamente 7h–20h (sex–sáb até 21h)",
       "distancia_hotel": "aprox. 1,6 km / 20 min a pé",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10130-salvador-restaurant-week-2026-reune-mais-de-100-restaurantes-na-capital-baiana",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Café y bistró para desayunos, meriendas y comidas ligeras frente al mar.",
+      "dica_en": "Av. Oceânica, 859, ground floor.",
+      "dica_es": "Av. Oceânica, 859, planta baja.",
+      "horario_en": "Daily 7am–8pm (Fri–Sat until 9pm)",
+      "horario_es": "Todos los días 7h–20h (vie–sáb hasta las 21h)",
+      "distancia_hotel_en": "approx. 1,6 km / 20-min walk",
+      "distancia_hotel_es": "aprox. 1,6 km / 20 min a pie"
     },
     {
       "nome": "Di Liana",
@@ -510,7 +806,12 @@
       "distancia_hotel": "aprox. 2,5 km / 8 min de carro",
       "link": "https://www.diliana.com.br/home",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10268-copa-do-mundo-2026-confira-onde-assistir-aos-jogos-do-brasil-em-salvador",
-      "cozinha": "italiana"
+      "cozinha": "italiana",
+      "descricao_es": "Restaurante italiano con más de 40 años, recetas del norte de Italia y pastas frescas hechas en casa.",
+      "dica_en": "Rua Macapá, 314.",
+      "dica_es": "Rua Macapá, 314.",
+      "distancia_hotel_en": "approx. 2,5 km / 8 min by car",
+      "distancia_hotel_es": "aprox. 2,5 km / 8 min en coche"
     },
     {
       "nome": "Chez Bernard",
@@ -521,7 +822,12 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 3,5 km / 10 min de carro",
       "fonte": "https://www.bahianoticias.com.br/bnhall/business/1304-chez-bernard-abre-reservas-para-confraternizacoes-de-fim-de-ano-em-salvador",
-      "cozinha": "internacional"
+      "cozinha": "internacional",
+      "descricao_es": "Un clásico de la gastronomía francesa en Salvador, con vista a la Bahía de Todos los Santos.",
+      "dica_en": "Go in the late afternoon for the sunset.",
+      "dica_es": "Vaya al final de la tarde para ver la puesta de sol.",
+      "distancia_hotel_en": "approx. 3,5 km / 10 min by car",
+      "distancia_hotel_es": "aprox. 3,5 km / 10 min en coche"
     },
     {
       "nome": "Gero Salvador (Fasano)",
@@ -533,7 +839,14 @@
       "distancia_hotel": "aprox. 4 km / 12 min",
       "link": "https://www.instagram.com/fasanosalvador",
       "fonte": "https://www.folhape.com.br/sabores/rascunho-gero-salvador/484157/",
-      "cozinha": "italiana"
+      "cozinha": "italiana",
+      "descricao_es": "Italiano del Grupo Fasano en la planta baja del Hotel Fasano, con pastas y algunos clásicos bahianos; desayuno abierto al público.",
+      "dica_en": "Mezzogiorno set lunch menu on weekdays.",
+      "dica_es": "Menú Mezzogiorno al mediodía en días hábiles.",
+      "bairro_en": "Downtown (Praça Castro Alves)",
+      "bairro_es": "Centro (Praça Castro Alves)",
+      "distancia_hotel_en": "approx. 4 km / 12 min",
+      "distancia_hotel_es": "aprox. 4 km / 12 min"
     },
     {
       "nome": "Pala7 Rooftop",
@@ -543,7 +856,12 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 4 km / 12 min de carro",
       "fonte": "https://www.correio24horas.com.br/salvador/aniversario-do-palacete-tirachapeu-tera-jantar-comandado-por-claude-troisgros-e-mais-quatro-chefs-1026",
-      "cozinha": "contemporanea"
+      "cozinha": "contemporanea",
+      "descricao_es": "Rooftop del Palacete Tira-Chapéu con cocina mediterránea de influencia francesa firmada por Claude Troisgros.",
+      "bairro_en": "Historic Center (Rua Chile)",
+      "bairro_es": "Centro Histórico (Rua Chile)",
+      "distancia_hotel_en": "approx. 4 km / 12 min by car",
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
     },
     {
       "nome": "Silva Cozinha",
@@ -554,7 +872,14 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 4 km / 12 min de carro",
       "fonte": "https://www.correio24horas.com.br/colunistas/silva-cozinha-deixa-o-rio-vermelho-e-abre-restaurante-na-rua-chile-0526",
-      "cozinha": "contemporanea"
+      "cozinha": "contemporanea",
+      "descricao_es": "Restaurante del chef Ricardo Silva, que cambió el Rio Vermelho por la Rua Chile en may/2026, con vista a la bahía.",
+      "dica_en": "Rua Chile, 7.",
+      "dica_es": "Rua Chile, 7.",
+      "bairro_en": "Historic Center (Rua Chile)",
+      "bairro_es": "Centro Histórico (Rua Chile)",
+      "distancia_hotel_en": "approx. 4 km / 12 min by car",
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
     },
     {
       "nome": "A Cubana",
@@ -564,7 +889,12 @@
       "preco": "$",
       "distancia_hotel": "aprox. 4,5 km / 15 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/09/23/dia-do-sorvete-salvador-e-o-lar-de-sorveterias-iconicas-e-tradicionais/",
-      "cozinha": "doces"
+      "cozinha": "doces",
+      "descricao_es": "Heladería tradicional junto al Elevador Lacerda, parada clásica en el paseo por el Centro.",
+      "bairro_en": "Downtown (Lacerda Elevator)",
+      "bairro_es": "Centro (Elevador Lacerda)",
+      "distancia_hotel_en": "approx. 4,5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 4,5 km / 15 min en coche"
     },
     {
       "nome": "Soho",
@@ -575,7 +905,12 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 4,5 km / 12 min de carro (Bahia Marina)",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "japonesa"
+      "cozinha": "japonesa",
+      "descricao_es": "Japonés contemporáneo de referencia en la ciudad; la unidad de Bahia Marina tiene vista al mar.",
+      "dica_en": "Av. Lafayete Coutinho, 1010 (Bahia Marina).",
+      "dica_es": "Av. Lafayete Coutinho, 1010 (Bahia Marina).",
+      "distancia_hotel_en": "approx. 4,5 km / 12 min by car (Bahia Marina)",
+      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche (Bahia Marina)"
     },
     {
       "nome": "Lafayette",
@@ -586,7 +921,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 4,5 km / 12 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Cocina mediterránea con toques bahianos a orillas de la bahía, reabierto en 2025 tras una reforma con nuevo bar.",
+      "dica_en": "A sunset classic.",
+      "dica_es": "Un clásico para la puesta de sol.",
+      "distancia_hotel_en": "approx. 4,5 km / 12 min by car",
+      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche"
     },
     {
       "nome": "Casa de Tereza",
@@ -597,7 +937,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://aloalobahia.com/noticias/2026/09/15/chef-tereza-paim-celebra-14-anos-do-casa-de-tereza-com-lancamento-de-livro-e-catalogo-de-arte/",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Casa de la chef Tereza Paim, referente en moquecas y cocina bahiana de autor, en un ambiente lleno de arte local; cumplió 14 años en 2026.",
+      "dica_en": "Specialty: moqueca (fish, shrimp or vegetarian).",
+      "dica_es": "Especialidad: moqueca (de pescado, camarón o vegetariana).",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Dona Mariquita",
@@ -608,7 +953,12 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10012-cnn-elege-7-restaurantes-para-descobrir-a-diversidade-gastronomica-de-salvador",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Cocina patrimonial bahiana, con platos ligados al candomblé y recetas históricas, como la 'poqueca' en hoja de plátano y el arroz de hauçá.",
+      "dica_en": "There's also the Casa de Veraneio branch in Comércio.",
+      "dica_es": "También está la unidad Casa de Veraneio, en el Comércio.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Restaurante Escola Senac Pelourinho",
@@ -620,7 +970,14 @@
       "horario": "Diariamente, 11h30–15h30",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.tripadvisor.com/Restaurant_Review-g303272-d1084280-Reviews-Restaurante_Escola_Senac_Pelourinho-Salvador_State_of_Bahia.html",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Bufé escuela con decenas de platos típicos bahianos y dulces regionales en una casona histórica.",
+      "dica_en": "Great for trying a bit of everything.",
+      "dica_es": "Ideal para probar un poco de todo.",
+      "horario_en": "Daily, 11:30am–3:30pm",
+      "horario_es": "Todos los días, 11h30–15h30",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Orí Rooftop",
@@ -631,7 +988,14 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/9921-ori-rooftop-e-destaque-em-lista-da-vogue-com-melhores-restaurantes-para-aproveitar-o-outono",
-      "cozinha": "contemporanea"
+      "cozinha": "contemporanea",
+      "descricao_es": "Rooftop del Grupo Origem en el Casario da Misericórdia, con vista a la bahía y al Elevador Lacerda, y cocina de dendê, coco y mariscos.",
+      "dica_en": "Set lunch menu Tue–Fri from ~R$ 105 (Jun 2026).",
+      "dica_es": "Menú ejecutivo de mediodía mar–vie desde ~R$ 105 (jun/2026).",
+      "bairro_en": "Historic Center",
+      "bairro_es": "Centro Histórico",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Manga",
@@ -642,7 +1006,12 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.correio24horas.com.br/em-alta/veja-quanto-custa-comer-nos-restaurantes-baianos-eleitos-entre-os-100-melhores-do-brasil-0626",
-      "cozinha": "contemporanea"
+      "cozinha": "contemporanea",
+      "descricao_es": "Menú degustación creativo con ingredientes de temporada, en una casona con bar y terraza, de los chefs Dante y Katrin Bassi.",
+      "dica_en": "Tasting menu ~R$ 520 (Jun 2026).",
+      "dica_es": "Degustación ~R$ 520 (jun/2026).",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Amado",
@@ -654,7 +1023,14 @@
       "horario": "Ter–dom, 10h–23h (site de turismo)",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.bahianoticias.com.br/bnhall/business/1243-restaurante-amado-comemora-20-anos-com-novo-cardapio-assinado-por-edinho-engel-e-danilo-fernandes",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Restaurante contemporáneo de mariscos sobre la Bahía de Todos los Santos, que cumplió 20 años en 2026 con nueva carta.",
+      "dica_en": "Ask for a veranda table for the sunset.",
+      "dica_es": "Pida mesa en la terraza para la puesta de sol.",
+      "horario_en": "Tue–Sun, 10am–11pm (tourism website)",
+      "horario_es": "Mar–dom, 10h–23h (sitio de turismo)",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Ré Restaurante Dona Suzana",
@@ -665,7 +1041,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://atarde.com.br/atarde-bairros/restaurantes-do-comercio-valorizam-a-historia-e-traduzem-a-essencia-baiana-1378664",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Restaurante en el Solar do Unhão, junto al MAM, con moquecas y vista a la bahía.",
+      "dica_en": "Pair it with the sunset at MAM.",
+      "dica_es": "Combínelo con la puesta de sol del MAM.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Casa Chálabi",
@@ -676,7 +1057,12 @@
       "horario": "Happy hour ter–sáb, 16h–19h (jan/2026)",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126",
-      "cozinha": "arabe"
+      "cozinha": "arabe",
+      "descricao_es": "Comida libanesa y mediterránea en un ambiente relajado, con mesas en la acera.",
+      "horario_en": "Happy hour Tue–Sat, 4pm–7pm (Jan 2026)",
+      "horario_es": "Happy hour mar–sáb, 16h–19h (ene/2026)",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Acarajé da Dinha",
@@ -687,7 +1073,12 @@
       "preco": "$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.tripadvisor.com/Restaurant_Review-g303272-d2346970-Reviews-Acaraje_da_Dinha-Salvador_State_of_Bahia.html",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Uno de los acarajés más famosos de la ciudad, tradición de varias generaciones en la plaza que lleva el nombre de la baiana.",
+      "dica_en": "Expect lines on weekends.",
+      "dica_es": "Hay fila los fines de semana.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Acarajé da Cira",
@@ -698,7 +1089,12 @@
       "preco": "$",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://www.correio24horas.com.br/salvador/acaraje-da-cira-suspende-temporariamente-atividades-em-tradicional-bairro-de-salvador-0526",
-      "cozinha": "baiana"
+      "cozinha": "baiana",
+      "descricao_es": "Acarajé tradicional y crujiente, hoy a cargo de la familia de Cira en el Largo da Mariquita.",
+      "dica_en": "In May 2026 the Itapuã stall temporarily left the brand; the Rio Vermelho one is operating as usual.",
+      "dica_es": "En may/2026 el puesto de Itapuã se desvinculó temporalmente de la marca; el de Rio Vermelho sigue con normalidad.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Little England Café",
@@ -709,7 +1105,12 @@
       "horario": "Ter–sáb 9h–19h; dom 10h–19h (abr/2026)",
       "distancia_hotel": "aprox. 5 km / 15 min",
       "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Café de inspiración inglesa en la Praça da Sé, una buena pausa durante el paseo por el Centro Histórico.",
+      "horario_en": "Tue–Sat 9am–7pm; Sun 10am–7pm (Apr 2026)",
+      "horario_es": "Mar–sáb 9h–19h; dom 10h–19h (abr/2026)",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Boia",
@@ -720,7 +1121,12 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 5 km / 15 min de carro",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10418-com-origem-e-boia-no-top-10-salvador-tem-seis-restaurantes-entre-os-100-melhores-do-brasil",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Restaurante de pescados y mariscos del chef Kaywa Hilton, con carta guiada por la pesca del día; 10.º en el ranking Exame 2026.",
+      "dica_en": "Rua José Avena, 1. Book ahead.",
+      "dica_es": "Rua José Avena, 1. Reserve.",
+      "distancia_hotel_en": "approx. 5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
     },
     {
       "nome": "Megiro",
@@ -731,7 +1137,12 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 5 km / 15 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "boteco"
+      "cozinha": "boteco",
+      "descricao_es": "Bar contemporáneo de los chefs del Origem, con clásicos bahianos como malassado, sarapatel y rabo de buey.",
+      "dica_en": "Av. Santa Luzia, 656.",
+      "dica_es": "Av. Santa Luzia, 656.",
+      "distancia_hotel_en": "approx. 5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
     },
     {
       "nome": "Mōrea Asian Fusion",
@@ -742,7 +1153,12 @@
       "preco": "$$$",
       "distancia_hotel": "aprox. 5 km / 15 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "japonesa"
+      "cozinha": "japonesa",
+      "descricao_es": "Cocina asiática de fusión en el rooftop del Alameda Vert, que va más allá del sushi tradicional.",
+      "dica_en": "Rooftop of Shopping Alameda Vert.",
+      "dica_es": "Rooftop del Shopping Alameda Vert.",
+      "distancia_hotel_en": "approx. 5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
     },
     {
       "nome": "Pasta em Casa",
@@ -754,7 +1170,14 @@
       "horario": "Jantar: seg–sáb 18h30–23h30; dom 18h30–23h",
       "distancia_hotel": "aprox. 5 km / 15 min de carro",
       "fonte": "https://www.bahianoticias.com.br/bnhall/noticia/10495-veja-o-que-restaurantes-e-pizzarias-de-salvador-prepararam-para-celebrar-o-dia-da-pizza",
-      "cozinha": "italiana"
+      "cozinha": "italiana",
+      "descricao_es": "Pastas y pizzas artesanales en horno de leña; destaca la pizzeta de burrata.",
+      "dica_en": "Rua Profa. Almerinda Dultra, 67.",
+      "dica_es": "Rua Profa. Almerinda Dultra, 67.",
+      "horario_en": "Dinner: Mon–Sat 6:30pm–11:30pm; Sun 6:30pm–11pm",
+      "horario_es": "Cena: lun–sáb 18h30–23h30; dom 18h30–23h",
+      "distancia_hotel_en": "approx. 5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
     },
     {
       "nome": "Pasárgada Kebab Grill & Bar",
@@ -765,7 +1188,12 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 5 km / 15 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "arabe"
+      "cozinha": "arabe",
+      "descricao_es": "Cocina persa y de Medio Oriente, con kebabs a la parrilla y ambiente de bar.",
+      "dica_en": "Praça Brig. Faria Rocha, 44A. Closed on Wednesdays.",
+      "dica_es": "Praça Brig. Faria Rocha, 44A. Cierra los miércoles.",
+      "distancia_hotel_en": "approx. 5 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
     },
     {
       "nome": "Rango Vegan",
@@ -775,7 +1203,10 @@
       "preco": "$$",
       "distancia_hotel": "aprox. 6 km / 20 min de carro",
       "fonte": "https://aratuon.com.br/gastronomia/veganismo-em-salvador-ganha-forca-com-novos-restaurantes-e-iniciativas-culturais",
-      "cozinha": "vegetariana"
+      "cozinha": "vegetariana",
+      "descricao_es": "Uno de los pioneros veganos de la ciudad, con platos de inspiración afrobahiana.",
+      "distancia_hotel_en": "approx. 6 km / 20 min by car",
+      "distancia_hotel_es": "aprox. 6 km / 20 min en coche"
     },
     {
       "nome": "Padoca do Carmo",
@@ -787,7 +1218,14 @@
       "horario": "A partir das 8h (abr/2026)",
       "distancia_hotel": "aprox. 6 km / 20 min de carro",
       "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292",
-      "cozinha": "cafe"
+      "cozinha": "cafe",
+      "descricao_es": "Panadería y café en el Carmo, buena parada para desayunar antes de explorar el barrio.",
+      "dica_en": "Rua do Carmo, 13.",
+      "dica_es": "Rua do Carmo, 13.",
+      "horario_en": "From 8am (Apr 2026)",
+      "horario_es": "Desde las 8h (abr/2026)",
+      "distancia_hotel_en": "approx. 6 km / 20 min by car",
+      "distancia_hotel_es": "aprox. 6 km / 20 min en coche"
     },
     {
       "nome": "Seu Zelito",
@@ -799,7 +1237,12 @@
       "distancia_hotel": "aprox. 9 km / 25 min de carro",
       "link": "https://www.instagram.com/seuzelito/",
       "fonte": "https://aloalobahia.com/noticias/2025/04/30/sabor-raiz-com-toque-gourmet-7-botecos-em-salvador-para-explorar-no-feriado/",
-      "cozinha": "boteco"
+      "cozinha": "boteco",
+      "descricao_es": "Bar de comida casera con el lomo del Zelito, moqueca de carne y caldos de sururú y de frijoles.",
+      "dica_en": "Av. Paulo VI, 1609.",
+      "dica_es": "Av. Paulo VI, 1609.",
+      "distancia_hotel_en": "approx. 9 km / 25 min by car",
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
     },
     {
       "nome": "Jeanne Garcia Confeitaria",
@@ -811,7 +1254,14 @@
       "horario": "Ter–sex a partir das 13h; sáb–dom a partir das 8h",
       "distancia_hotel": "aprox. 9 km / 25 min de carro",
       "fonte": "https://atarde.com.br/gastronomia/5-lugares-para-tomar-um-cafe-diferenciado-em-salvador-1386292",
-      "cozinha": "doces"
+      "cozinha": "doces",
+      "descricao_es": "Pastelería conocida por sus macarons, con desayuno los fines de semana.",
+      "dica_en": "Rua Ramalho Ortigão, 30.",
+      "dica_es": "Rua Ramalho Ortigão, 30.",
+      "horario_en": "Tue–Fri from 1pm; Sat–Sun from 8am",
+      "horario_es": "Mar–vie desde las 13h; sáb–dom desde las 8h",
+      "distancia_hotel_en": "approx. 9 km / 25 min by car",
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
     },
     {
       "nome": "Barbacoa",
@@ -822,7 +1272,14 @@
       "preco": "$$$$",
       "distancia_hotel": "aprox. 9 km / 25 min de carro",
       "fonte": "https://aloalobahia.com/noticias/2026/10/01/salvador-restaurant-week-inicia-nova-edicao-com-mais-de-140-restaurantes-veja-lista-completa/",
-      "cozinha": "carnes"
+      "cozinha": "carnes",
+      "descricao_es": "Churrasquería de rodizio, opción clásica de carnes en la zona de la Av. Tancredo Neves.",
+      "dica_en": "Av. Tancredo Neves, 909.",
+      "dica_es": "Av. Tancredo Neves, 909.",
+      "bairro_en": "Caminho das Árvores (near Itaigara)",
+      "bairro_es": "Caminho das Árvores (cerca de Itaigara)",
+      "distancia_hotel_en": "approx. 9 km / 25 min by car",
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
     },
     {
       "nome": "Origem",
@@ -834,7 +1291,12 @@
       "distancia_hotel": "aprox. 10 km / 25 min",
       "link": "https://theworlds50best.com/latinamerica/en/the-list/Origem.html",
       "fonte": "https://www.correio24horas.com.br/em-alta/veja-quanto-custa-comer-nos-restaurantes-baianos-eleitos-entre-os-100-melhores-do-brasil-0626",
-      "cozinha": "contemporanea"
+      "cozinha": "contemporanea",
+      "descricao_es": "Menú degustación que reinterpreta la cocina bahiana y del Recôncavo, de los chefs Fabrício Lemos y Lisiane Arouca; 4.º en el ranking Exame 2026 de los mejores de Brasil.",
+      "dica_en": "Recôncavo menu ~R$ 420 (Jun 2026); reservations required.",
+      "dica_es": "Menú Recôncavo ~R$ 420 (jun/2026); reserva obligatoria.",
+      "distancia_hotel_en": "approx. 10 km / 25 min",
+      "distancia_hotel_es": "aprox. 10 km / 25 min"
     },
     {
       "nome": "Sorveteria da Ribeira",
@@ -845,7 +1307,10 @@
       "distancia_hotel": "aprox. 13 km / 35 min",
       "link": "https://www.instagram.com/sorveteriadaribeira",
       "fonte": "https://www.correio24horas.com.br/salvador/sorvete-de-salvador-esta-entre-os-100-melhores-do-mundo-saiba-qual-0526",
-      "cozinha": "doces"
+      "cozinha": "doces",
+      "descricao_es": "Heladería fundada en 1931, famosa por sus sabores de frutas brasileñas; el helado de tapioca entró en la lista de TasteAtlas de los 100 mejores del mundo (2026).",
+      "distancia_hotel_en": "approx. 13 km / 35 min",
+      "distancia_hotel_es": "aprox. 13 km / 35 min"
     },
     {
       "nome": "Yemanjá",
@@ -856,7 +1321,12 @@
       "horario": "Almoço 11h30–17h (nov/2025)",
       "distancia_hotel": "aprox. 14 km / 30 min",
       "fonte": "https://atarde.com.br/gastronomia/sextou-8-locais-para-comer-comida-baiana-em-salvador-1370327",
-      "cozinha": "frutos-do-mar"
+      "cozinha": "frutos-do-mar",
+      "descricao_es": "Clásico frente al mar, famoso por sus moquecas gigantes y sus mariscos bahianos.",
+      "horario_en": "Lunch 11:30am–5pm (Nov 2025)",
+      "horario_es": "Almuerzo 11h30–17h (nov/2025)",
+      "distancia_hotel_en": "approx. 14 km / 30 min",
+      "distancia_hotel_es": "aprox. 14 km / 30 min"
     }
   ],
   "noite": [
@@ -866,7 +1336,10 @@
       "descricao": "Ponto central da noite do Rio Vermelho, com bares, música ao vivo e o acarajé da Cira.",
       "descricao_en": "Hub of Rio Vermelho nightlife with bars, live music and Cira's acarajé.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
+      "descricao_es": "Punto central de la noche del Rio Vermelho, con bares, música en vivo y el acarajé de Cira.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Largo de Santana (Largo da Dinha)",
@@ -874,7 +1347,10 @@
       "descricao": "Sequência de bares abertos até tarde, um deles 24h, ao redor do acarajé da Dinha; ponto de encontro da cidade em grandes eventos.",
       "descricao_en": "Row of late-night bars, one open 24h, around Dinha's acarajé; the city's gathering spot for big events.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://aloalobahia.com/noticias/2026/10/04/eleitores-lotam-largo-da-dinha-no-rio-vermelho-para-acompanhar-apuracao-das-eleicoes-2026/"
+      "fonte": "https://aloalobahia.com/noticias/2026/10/04/eleitores-lotam-largo-da-dinha-no-rio-vermelho-para-acompanhar-apuracao-das-eleicoes-2026/",
+      "descricao_es": "Hilera de bares abiertos hasta tarde, uno de ellos 24 h, alrededor del acarajé de Dinha; punto de encuentro de la ciudad en grandes eventos.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Casa da Mãe",
@@ -883,7 +1359,12 @@
       "descricao_en": "Intimate music venue founded in 2006 with MPB, samba and Bahian artists.",
       "dica": "Ingressos geralmente no Sympla.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/em-alta/alinne-rosa-recebe-jau-em-ultimo-show-da-temporada-na-casa-da-mae-no-rio-vermelho-0526"
+      "fonte": "https://www.correio24horas.com.br/em-alta/alinne-rosa-recebe-jau-em-ultimo-show-da-temporada-na-casa-da-mae-no-rio-vermelho-0526",
+      "descricao_es": "Sala de conciertos íntima creada en 2006, con MPB, samba y artistas bahianos.",
+      "dica_en": "Tickets usually on Sympla.",
+      "dica_es": "Entradas generalmente en Sympla.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "A Borracharia",
@@ -891,7 +1372,10 @@
       "descricao": "Festa dançante que começou no quintal de uma casa e vai até o amanhecer.",
       "descricao_en": "Dance party that began in a backyard and runs until dawn.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
+      "descricao_es": "Fiesta bailable que empezó en el patio de una casa y sigue hasta el amanecer.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Jubiabar",
@@ -901,7 +1385,14 @@
       "dica": "Rua Conselheiro Pedro Luiz, 79.",
       "horario": "Happy hour qua–dom, 18h30–20h (jan/2026)",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-sete-lugares-em-salvador-que-tem-happy-hour-de-entradas-e-petiscos-de-ate-r-30-de-desconto-0126",
+      "descricao_es": "Bar de bocados con happy hour de bolitas fritas, croquetas y brochetas.",
+      "dica_en": "Rua Conselheiro Pedro Luiz, 79.",
+      "dica_es": "Rua Conselheiro Pedro Luiz, 79.",
+      "horario_en": "Happy hour Wed–Sun, 6:30pm–8pm (Jan 2026)",
+      "horario_es": "Happy hour mié–dom, 18h30–20h (ene/2026)",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Confraria do França",
@@ -909,7 +1400,10 @@
       "descricao": "Bar tradicional de frequentadores fiéis e veteranos da boemia baiana, com noites que começam e terminam cedo.",
       "descricao_en": "Traditional bar of loyal regulars and Bahian bohemian veterans; evenings start and end early.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
+      "descricao_es": "Bar tradicional de clientes fieles y veteranos de la bohemia bahiana, con noches que empiezan y terminan temprano.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Terça no Pelourinho",
@@ -919,7 +1413,16 @@
       "dica": "Olodum 2026: ingressos a partir de R$ 150 (meia).",
       "horario": "Bênção do Olodum: jan–Carnaval, terças a partir das 20h",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://atarde.com.br/verao/verao-do-olodum-2026-reforca-agenda-no-pelourinho-rumo-ao-carnaval-1372566"
+      "fonte": "https://atarde.com.br/verao/verao-do-olodum-2026-reforca-agenda-no-pelourinho-rumo-ao-carnaval-1372566",
+      "descricao_es": "Los martes, las plazas del Pelourinho reciben conciertos (algunos gratuitos, como en el Largo Pedro Archanjo); en verano está la Bênção do Olodum en la Praça das Artes.",
+      "dica_en": "Olodum 2026: tickets from R$ 150 (half price).",
+      "dica_es": "Olodum 2026: entradas desde R$ 150 (media entrada).",
+      "horario_en": "Bênção do Olodum: Jan–Carnival, Tuesdays from 8pm",
+      "horario_es": "Bênção do Olodum: ene–Carnaval, martes desde las 20h",
+      "nome_en": "Tuesdays in Pelourinho",
+      "nome_es": "Martes en el Pelourinho",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Cruz do Pascoal e bares do Santo Antônio",
@@ -927,7 +1430,12 @@
       "descricao": "Bares de calçada ao redor da cruz de 1743, além do Oliveiras Bar e do Café e Cana, para uma noite mais tranquila.",
       "descricao_en": "Sidewalk bars around the 1743 cross plus Oliveiras Bar and Café e Cana, for a mellower night.",
       "distancia_hotel": "aprox. 7 km / 20 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/o-santo-antonio-alem-do-carmo-todo-dia-lhe-diz-aproveite-que-so-se-vive-uma-vez-1225",
+      "descricao_es": "Bares de acera alrededor de la cruz de 1743, además del Oliveiras Bar y del Café e Cana, para una noche más tranquila.",
+      "nome_en": "Cruz do Pascoal & Santo Antônio bars",
+      "nome_es": "Cruz do Pascoal y bares de Santo Antônio",
+      "distancia_hotel_en": "approx. 7 km / 20 min",
+      "distancia_hotel_es": "aprox. 7 km / 20 min"
     },
     {
       "nome": "La Taperia",
@@ -935,7 +1443,10 @@
       "descricao": "Restaurante espanhol de tapas, ponto popular para ver o pôr do sol no Rio Vermelho.",
       "descricao_en": "Spanish tapas restaurant, a popular sunset spot in Rio Vermelho.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225"
+      "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
+      "descricao_es": "Restaurante español de tapas, lugar popular para ver la puesta de sol en el Rio Vermelho.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     }
   ],
   "lgbt": [
@@ -945,7 +1456,12 @@
       "descricao": "Acontece todo ano no início de setembro, na véspera do feriado de 7 de setembro, com concentração no Farol da Barra e trios pelo circuito Barra-Ondina, a poucos minutos do hotel.",
       "descricao_en": "Held every year in early September, on the eve of the 7 September holiday, gathering at Farol da Barra with sound trucks along the Barra-Ondina route, minutes from the hotel.",
       "distancia_hotel": "aprox. 1,5 km / 5 min",
-      "fonte": "https://www.salvadordabahia.com/eventos/23a-parada-do-orgulho-lgbt-bahia/"
+      "fonte": "https://www.salvadordabahia.com/eventos/23a-parada-do-orgulho-lgbt-bahia/",
+      "descricao_es": "Se celebra cada año a comienzos de septiembre, en la víspera del feriado del 7 de septiembre, con concentración en el Farol da Barra y tríos eléctricos por el circuito Barra-Ondina, a pocos minutos del hotel.",
+      "nome_en": "Bahia LGBT+ Pride Parade",
+      "nome_es": "Desfile del Orgullo LGBT+ de Bahía",
+      "distancia_hotel_en": "approx. 1,5 km / 5 min",
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
     },
     {
       "nome": "Porto da Barra",
@@ -953,7 +1469,10 @@
       "descricao": "Praia tradicionalmente diversa e acolhedora ao público LGBTQIA+, especialmente perto do Forte de São Diogo.",
       "descricao_en": "Traditionally diverse beach welcoming to LGBTQIA+ visitors, especially near São Diogo Fort.",
       "distancia_hotel": "aprox. 1 km / 5 min",
-      "fonte": "https://www.salvadordabahia.com/?p=26877"
+      "fonte": "https://www.salvadordabahia.com/?p=26877",
+      "descricao_es": "Playa tradicionalmente diversa y acogedora para el público LGBTQIA+, especialmente cerca del Fuerte de São Diogo.",
+      "distancia_hotel_en": "approx. 1 km / 5 min",
+      "distancia_hotel_es": "aprox. 1 km / 5 min"
     },
     {
       "nome": "San Sebastian (SAN Boate)",
@@ -962,7 +1481,12 @@
       "descricao_en": "Iconic nightclub and one of the main meeting points of Salvador's LGBTQIA+ scene, playing electronic, pop and axé.",
       "dica": "Rua Conselheiro Pedro Luiz, 488.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
+      "descricao_es": "Discoteca icónica y uno de los principales puntos de encuentro de la escena LGBTQIA+ de Salvador, con electrónica, pop y axé.",
+      "dica_en": "Rua Conselheiro Pedro Luiz, 488.",
+      "dica_es": "Rua Conselheiro Pedro Luiz, 488.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Amsterdam",
@@ -970,7 +1494,10 @@
       "descricao": "Boate moderna e animada, entre as mais vibrantes da noite do Rio Vermelho.",
       "descricao_en": "Modern, lively nightclub, among the most vibrant in Rio Vermelho.",
       "distancia_hotel": "aprox. 5 km / 15 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
+      "descricao_es": "Discoteca moderna y animada, entre las más vibrantes de la noche del Rio Vermelho.",
+      "distancia_hotel_en": "approx. 5 km / 15 min",
+      "distancia_hotel_es": "aprox. 5 km / 15 min"
     },
     {
       "nome": "Âncora do Marujo",
@@ -979,7 +1506,14 @@
       "descricao_en": "Classic, welcoming bar with drag shows that also draws a mixed crowd.",
       "horario": "Ter–dom, a partir das 21h",
       "distancia_hotel": "aprox. 4 km / 12 min",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
+      "descricao_es": "Bar clásico y acogedor con shows de drag queens, que también atrae a otros públicos.",
+      "horario_en": "Tue–Sun, from 9pm",
+      "horario_es": "Mar–dom, desde las 21h",
+      "bairro_en": "Downtown (Rua Carlos Gomes)",
+      "bairro_es": "Centro (Rua Carlos Gomes)",
+      "distancia_hotel_en": "approx. 4 km / 12 min",
+      "distancia_hotel_es": "aprox. 4 km / 12 min"
     },
     {
       "nome": "Batekoo",
@@ -988,7 +1522,14 @@
       "descricao_en": "Party and cultural movement celebrating Black, peripheral and LGBTQIA+ music and culture.",
       "dica": "Datas e locais no Instagram da festa.",
       "distancia_hotel": "varia",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
+      "descricao_es": "Fiesta y movimiento cultural que celebra la música y la cultura negra, periférica y LGBTQIA+.",
+      "dica_en": "Dates and venues on the party's Instagram.",
+      "dica_es": "Fechas y lugares en el Instagram de la fiesta.",
+      "bairro_en": "Various venues",
+      "bairro_es": "Varios lugares",
+      "distancia_hotel_en": "varies",
+      "distancia_hotel_es": "varía"
     },
     {
       "nome": "Festas na Marujada (Brega & Night, TunTisTum)",
@@ -996,7 +1537,12 @@
       "descricao": "Festas alternativas e queer-friendly com brega e música pop em edições periódicas.",
       "descricao_en": "Alternative, queer-friendly parties with brega and pop music in recurring editions.",
       "distancia_hotel": "varia",
-      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126"
+      "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
+      "descricao_es": "Fiestas alternativas y queer-friendly con brega y música pop en ediciones periódicas.",
+      "nome_en": "Parties at Marujada (Brega & Night, TunTisTum)",
+      "nome_es": "Fiestas en Marujada (Brega & Night, TunTisTum)",
+      "distancia_hotel_en": "varies",
+      "distancia_hotel_es": "varía"
     },
     {
       "nome": "Dica de segurança",
@@ -1004,7 +1550,340 @@
       "descricao": "Houve relatos de assaltos a pessoas LGBTQIA+ por falsos motoristas de app perto de boates. Confira placa e modelo do carro e espere dentro do local.",
       "descricao_en": "There have been reports of robberies targeting LGBTQIA+ people by fake ride-hail drivers near clubs. Check the plate and model and wait inside the venue.",
       "distancia_hotel": "—",
-      "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/"
+      "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/",
+      "descricao_es": "Hubo reportes de asaltos a personas LGBTQIA+ por parte de falsos conductores de apps cerca de discotecas. Verifique la placa y el modelo del coche y espere dentro del local.",
+      "nome_en": "Safety tip",
+      "nome_es": "Consejo de seguridad",
+      "bairro_en": "Rio Vermelho / general",
+      "bairro_es": "Rio Vermelho / general"
+    }
+  ],
+  "servicos": [
+    {
+      "nome": "Hospital Português – Emergência",
+      "tipo": "hospital",
+      "bairro": "Barra",
+      "descricao": "Emergência geral 24h para adultos, com emergência ortopédica e otorrino, laboratório e exames de imagem; hospital privado (convênios e particular).",
+      "descricao_en": "24/7 general emergency room for adults, plus orthopedic and ENT emergency, on-site lab and imaging; private hospital (insurance or self-pay).",
+      "dica": "Av. Princesa Isabel, 914 (emergência no 1º andar), Barra Avenida, Salvador – BA, 40140-901",
+      "telefone": "+55 71 3203-5147",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 500 m / 7 min a pé",
+      "link": "https://www.hportugues.com.br/emergencia/emergencia-geral/",
+      "fonte": "https://www.hportugues.com.br/emergencia/emergencia-geral/",
+      "descricao_es": "Urgencias generales 24h para adultos, con urgencias de traumatología y otorrino, laboratorio e imágenes; hospital privado (seguros y particular).",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "nome_en": "Hospital Português – Emergency",
+      "nome_es": "Hospital Português – Urgencias",
+      "distancia_hotel_en": "approx. 500 m / 7-min walk",
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
+    },
+    {
+      "nome": "Hospital Jorge Valente (HJV)",
+      "tipo": "hospital",
+      "bairro": "Rio Vermelho",
+      "descricao": "Pronto-socorro 24h adulto e pediátrico (0 a 15 anos); hospital privado.",
+      "descricao_en": "24/7 adult and pediatric emergency room (ages 0–15); private hospital.",
+      "dica": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130",
+      "telefone": "+55 71 3203-4333",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 4 km / 10 min de carro",
+      "link": "https://www.hjv.com.br/",
+      "fonte": "https://www.hjv.com.br/",
+      "descricao_es": "Urgencias 24h para adultos y niños (0 a 15 años); hospital privado.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 4 km / 10 min by car",
+      "distancia_hotel_es": "aprox. 4 km / 10 min en coche"
+    },
+    {
+      "nome": "Hospital Geral do Estado (HGE)",
+      "tipo": "hospital",
+      "bairro": "Brotas",
+      "descricao": "Hospital público (SUS) de referência estadual em trauma e emergência, 24h; atendimento gratuito, inclusive para turistas.",
+      "descricao_en": "Public (SUS) state reference hospital for trauma and emergencies, open 24/7; free of charge, tourists included.",
+      "dica": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901",
+      "telefone": "+55 71 3117-5876",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 6 km / 15 min de carro",
+      "fonte": "https://jornalgrandebahia.com.br/2025/09/hge-passa-por-maior-transformacao-da-historia-com-investimento-de-r-1169-milhoes-em-salvador-diz-governador-jeronimo/",
+      "descricao_es": "Hospital público (SUS) de referencia estatal en trauma y urgencias, 24h; atención gratuita, también para turistas.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 6 km / 15 min by car",
+      "distancia_hotel_es": "aprox. 6 km / 15 min en coche"
+    },
+    {
+      "nome": "Hospital Santa Izabel",
+      "tipo": "hospital",
+      "bairro": "Nazaré",
+      "descricao": "Emergência adulto, pediátrica (24h), ortopédica e otorrino; hospital filantrópico da Santa Casa, atende convênios e SUS.",
+      "descricao_en": "Adult, pediatric (24/7), orthopedic and ENT emergency; Santa Casa charity hospital accepting health insurance and SUS.",
+      "dica": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410",
+      "telefone": "+55 71 2203-8444",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 6 km / 15–20 min de carro",
+      "link": "https://www.hospitalsantaizabel.org.br/",
+      "fonte": "https://www.hospitalsantaizabel.org.br/",
+      "descricao_es": "Urgencias adultas, pediátricas (24h), de traumatología y otorrino; hospital filantrópico de la Santa Casa, atiende seguros y SUS.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 6 km / 15–20 min by car",
+      "distancia_hotel_es": "aprox. 6 km / 15–20 min en coche"
+    },
+    {
+      "nome": "Hospital Aliança (Rede D'Or)",
+      "tipo": "hospital",
+      "bairro": "Rio Vermelho",
+      "descricao": "Pronto-socorro 24h de alta complexidade para adultos e Pronto-Socorro Infantil (0 a 14 anos); hospital privado, sem necessidade de agendamento.",
+      "descricao_en": "24/7 high-complexity adult emergency room and Children's ER (ages 0–14); private hospital, no appointment needed.",
+      "dica": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180",
+      "telefone": "+55 71 2108-5600",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 7 km / 15–20 min de carro",
+      "link": "https://www.rededorsaoluiz.com.br/hospital/alianca",
+      "fonte": "https://www.rededorsaoluiz.com.br/hospital/alianca/emergencias",
+      "descricao_es": "Urgencias 24h de alta complejidad para adultos y urgencias infantiles (0 a 14 años); hospital privado, sin cita previa.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
+      "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche"
+    },
+    {
+      "nome": "Hospital da Bahia – Emergência 24h",
+      "tipo": "hospital",
+      "bairro": "Pituba",
+      "descricao": "Emergência 24h somente para adultos (maiores de 15 anos), com emergência ortopédica; hospital privado (Rede Américas).",
+      "descricao_en": "24/7 emergency room for adults only (over 15), including orthopedic emergency; private hospital (Rede Américas).",
+      "dica": "R. Des. Álvaro Clemente de Oliveira, 349 (entrada da emergência), Pituba, Salvador – BA, 41810-011",
+      "telefone": "+55 71 2109-1000",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 11 km / 25 min de carro",
+      "link": "https://www.hospitaldabahia.com.br/pronto-socorro/",
+      "fonte": "https://www.hospitaldabahia.com.br/pronto-socorro/",
+      "descricao_es": "Urgencias 24h solo para adultos (mayores de 15 años), con urgencias de traumatología; hospital privado (Rede Américas).",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "nome_en": "Hospital da Bahia – 24h Emergency",
+      "nome_es": "Hospital da Bahia – Urgencias 24h",
+      "distancia_hotel_en": "approx. 11 km / 25 min by car",
+      "distancia_hotel_es": "aprox. 11 km / 25 min en coche"
+    },
+    {
+      "nome": "UPA Vale dos Barris",
+      "tipo": "upa",
+      "bairro": "Barris",
+      "descricao": "Unidade de Pronto Atendimento municipal (SUS) 24h para urgências; gratuita e aberta a turistas, com classificação de risco.",
+      "descricao_en": "24/7 municipal urgent care unit (SUS); free and open to tourists, patients seen by triage priority.",
+      "dica": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA",
+      "telefone": "+55 71 3277-5493",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 3 km / 10 min de carro",
+      "link": "https://saude.salvador.ba.gov.br/",
+      "fonte": "https://www.bnews.com.br/noticias/salvador/video-pacientes-denunciam-longa-espera-em-unidade-de-saude-em-bairro-de-salvador.html",
+      "descricao_es": "Centro municipal de urgencias (SUS) 24h; gratuito y abierto a turistas, con clasificación de riesgo.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 3 km / 10 min by car",
+      "distancia_hotel_es": "aprox. 3 km / 10 min en coche"
+    },
+    {
+      "nome": "UPA Brotas",
+      "tipo": "upa",
+      "bairro": "Brotas",
+      "descricao": "Unidade de Pronto Atendimento municipal (SUS) 24h para urgências; gratuita e aberta a turistas.",
+      "descricao_en": "24/7 municipal urgent care unit (SUS); free and open to tourists.",
+      "dica": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140",
+      "telefone": "+55 71 2180-2539",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 7 km / 20 min de carro",
+      "link": "https://saude.salvador.ba.gov.br/",
+      "fonte": "https://www.correio24horas.com.br/minha-bahia/voce-sabia-upas-de-salvador-oferecem-atendimento-odontologico-saiba-quais-0425",
+      "descricao_es": "Centro municipal de urgencias (SUS) 24h; gratuito y abierto a turistas.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 7 km / 20 min by car",
+      "distancia_hotel_es": "aprox. 7 km / 20 min en coche"
+    },
+    {
+      "nome": "Farmácia Pague Menos – Marquês de Caravelas",
+      "tipo": "farmacia",
+      "bairro": "Barra",
+      "descricao": "Farmácia de rede com horário estendido, a poucos passos do hotel.",
+      "descricao_en": "Chain pharmacy with extended hours, a short walk from the hotel.",
+      "dica": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240",
+      "horario": "Seg–sáb 7h–23h, dom 8h–22h",
+      "distancia_hotel": "aprox. 200 m / 3 min a pé",
+      "link": "https://www.paguemenos.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJwdCxcHgDFgcRGyg3WtbADxY",
+      "descricao_es": "Farmacia de cadena con horario extendido, a pocos pasos del hotel.",
+      "horario_en": "Mon–Sat 7am–11pm, Sun 8am–10pm",
+      "horario_es": "Lun–sáb 7h–23h, dom 8h–22h",
+      "nome_en": "Pague Menos Pharmacy – Marquês de Caravelas",
+      "nome_es": "Farmacia Pague Menos – Marquês de Caravelas",
+      "distancia_hotel_en": "approx. 200 m / 3-min walk",
+      "distancia_hotel_es": "aprox. 200 m / 3 min a pie"
+    },
+    {
+      "nome": "Drogasil – Marquês de Leão",
+      "tipo": "farmacia",
+      "bairro": "Barra",
+      "descricao": "Farmácia de rede com horário estendido todos os dias, perto do Farol da Barra.",
+      "descricao_en": "Chain pharmacy open late every day, near Farol da Barra.",
+      "dica": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230",
+      "horario": "Todos os dias 7h–23h",
+      "distancia_hotel": "aprox. 450 m / 6 min a pé",
+      "link": "https://www.drogasil.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJDSYVeqkDFgcRcf6306fU4sg",
+      "descricao_es": "Farmacia de cadena con horario extendido todos los días, cerca del Faro de Barra.",
+      "horario_en": "Daily 7am–11pm",
+      "horario_es": "Todos los días 7h–23h",
+      "distancia_hotel_en": "approx. 450 m / 6-min walk",
+      "distancia_hotel_es": "aprox. 450 m / 6 min a pie"
+    },
+    {
+      "nome": "Drogasil – Av. Centenário",
+      "tipo": "farmacia",
+      "bairro": "Graça",
+      "descricao": "Farmácia de rede com estacionamento, aberta todos os dias do início da manhã à noite.",
+      "descricao_en": "Chain pharmacy with parking, open every day from early morning to night.",
+      "dica": "Av. Centenário, 2682, loja, Graça, Salvador – BA, 40155-370",
+      "telefone": "+55 71 99929-2984",
+      "horario": "Todos os dias 6h–22h",
+      "distancia_hotel": "aprox. 500 m / 7 min a pé",
+      "link": "https://www.drogasil.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJo8C7yH4DFgcRFPfR0aFkeb4",
+      "descricao_es": "Farmacia de cadena con estacionamiento, abierta todos los días desde temprano hasta la noche.",
+      "horario_en": "Daily 6am–10pm",
+      "horario_es": "Todos los días 6h–22h",
+      "distancia_hotel_en": "approx. 500 m / 7-min walk",
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
+    },
+    {
+      "nome": "Drogaria São Paulo – Graça",
+      "tipo": "farmacia",
+      "bairro": "Graça",
+      "descricao": "Farmácia 24h, a opção mais próxima do hotel para a madrugada.",
+      "descricao_en": "24-hour pharmacy, the closest overnight option to the hotel.",
+      "dica": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122",
+      "telefone": "+55 71 3237-2770",
+      "horario": "24h",
+      "distancia_hotel": "aprox. 1,2 km / 15 min a pé",
+      "link": "https://www.drogariasaopaulo.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJp6LB6YEEFgcRERg6nkOkUN0",
+      "descricao_es": "Farmacia 24h, la opción más cercana al hotel para la madrugada.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "distancia_hotel_en": "approx. 1,2 km / 15-min walk",
+      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie"
+    },
+    {
+      "nome": "Drogasil – Graça",
+      "tipo": "farmacia",
+      "bairro": "Graça",
+      "descricao": "Farmácia 24h de terça a sábado; segunda abre às 6h e domingo fecha às 22h.",
+      "descricao_en": "Open 24 hours Tuesday to Saturday; opens 6am on Monday and closes 10pm on Sunday.",
+      "dica": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200",
+      "telefone": "+55 71 99929-3685",
+      "horario": "Ter–sáb 24h; seg a partir das 6h; dom até 22h",
+      "distancia_hotel": "aprox. 1,3 km / 15 min a pé",
+      "link": "https://www.drogasil.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJF87e04MEFgcR0BNW61JDdz8",
+      "descricao_es": "Farmacia 24h de martes a sábado; el lunes abre a las 6h y el domingo cierra a las 22h.",
+      "horario_en": "Tue–Sat 24h; Mon from 6am; Sun until 10pm",
+      "horario_es": "Mar–sáb 24h; lun desde las 6h; dom hasta las 22h",
+      "distancia_hotel_en": "approx. 1,3 km / 15-min walk",
+      "distancia_hotel_es": "aprox. 1,3 km / 15 min a pie"
+    },
+    {
+      "nome": "Shopping Barra",
+      "tipo": "shopping",
+      "bairro": "Chame-Chame / Barra",
+      "descricao": "Shopping mais próximo, com lojas, praça de alimentação, farmácias, cinema e serviços; vizinho do hotel.",
+      "descricao_en": "The closest mall, with shops, food court, pharmacies, cinema and services; right next to the hotel.",
+      "dica": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900",
+      "telefone": "+55 71 2108-8288",
+      "horario": "Lojas: seg–sáb 9h–22h, dom 12h–20h",
+      "distancia_hotel": "aprox. 200 m / 3 min a pé",
+      "link": "https://shoppingbarra.com/",
+      "fonte": "https://shoppingbarra.com/",
+      "descricao_es": "El centro comercial más cercano, con tiendas, patio de comidas, farmacias, cine y servicios; vecino del hotel.",
+      "horario_en": "Stores: Mon–Sat 9am–10pm, Sun 12pm–8pm",
+      "horario_es": "Tiendas: lun–sáb 9h–22h, dom 12h–20h",
+      "distancia_hotel_en": "approx. 200 m / 3-min walk",
+      "distancia_hotel_es": "aprox. 200 m / 3 min a pie"
+    },
+    {
+      "nome": "Shopping Center Lapa",
+      "tipo": "shopping",
+      "bairro": "Dois de Julho / Centro",
+      "descricao": "Shopping popular no Centro, ao lado da Estação da Lapa (metrô e ônibus), com preços mais acessíveis.",
+      "descricao_en": "Downtown budget-friendly mall next to Lapa Station (metro and buses).",
+      "dica": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045",
+      "telefone": "+55 71 3415-8200",
+      "horario": "Seg–sex 9h–20h, sáb 9h–19h30, dom 11h–19h",
+      "distancia_hotel": "aprox. 4 km / 12 min de carro",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJYxoG15IEFgcRHjfCrTUtvIk",
+      "descricao_es": "Centro comercial popular en el Centro, junto a la Estación Lapa (metro y autobuses), con precios más accesibles.",
+      "horario_en": "Mon–Fri 9am–8pm, Sat 9am–7:30pm, Sun 11am–7pm",
+      "horario_es": "Lun–vie 9h–20h, sáb 9h–19h30, dom 11h–19h",
+      "distancia_hotel_en": "approx. 4 km / 12 min by car",
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
+    },
+    {
+      "nome": "Shopping Piedade",
+      "tipo": "shopping",
+      "bairro": "Barris / Centro",
+      "descricao": "Shopping tradicional do Centro, colado ao Shopping Lapa, com lojas, serviços e praça de alimentação; fecha aos domingos.",
+      "descricao_en": "Traditional downtown mall next to Shopping Lapa, with shops, services and food court; closed on Sundays.",
+      "dica": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901",
+      "telefone": "+55 71 3444-1555",
+      "horario": "Seg–sáb 9h–20h; dom fechado",
+      "distancia_hotel": "aprox. 4 km / 12 min de carro",
+      "link": "https://www.shoppingpiedade.com.br/",
+      "fonte": "https://www.shoppingpiedade.com.br/",
+      "descricao_es": "Centro comercial tradicional del Centro, pegado al Shopping Lapa, con tiendas, servicios y patio de comidas; cierra los domingos.",
+      "horario_en": "Mon–Sat 9am–8pm; closed Sun",
+      "horario_es": "Lun–sáb 9h–20h; dom cerrado",
+      "distancia_hotel_en": "approx. 4 km / 12 min by car",
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
+    },
+    {
+      "nome": "Shopping da Bahia",
+      "tipo": "shopping",
+      "bairro": "Caminho das Árvores",
+      "descricao": "Um dos maiores shoppings de Salvador, com grandes marcas, restaurantes e cinema IMAX.",
+      "descricao_en": "One of Salvador's largest malls, with major brands, restaurants and an IMAX cinema.",
+      "dica": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020",
+      "telefone": "+55 71 3838-8590",
+      "horario": "Seg–sáb 9h–22h, dom 12h–21h",
+      "distancia_hotel": "aprox. 10 km / 20–25 min de carro",
+      "link": "https://www.shoppingdabahia.com.br/",
+      "fonte": "https://www.google.com/maps/place/?q=place_id:ChIJl6pJVD0bFgcRKm-2zOc3ReU",
+      "descricao_es": "Uno de los mayores centros comerciales de Salvador, con grandes marcas, restaurantes y cine IMAX.",
+      "horario_en": "Mon–Sat 9am–10pm, Sun 12pm–9pm",
+      "horario_es": "Lun–sáb 9h–22h, dom 12h–21h",
+      "distancia_hotel_en": "approx. 10 km / 20–25 min by car",
+      "distancia_hotel_es": "aprox. 10 km / 20–25 min en coche"
+    },
+    {
+      "nome": "Salvador Shopping",
+      "tipo": "shopping",
+      "bairro": "Caminho das Árvores",
+      "descricao": "Shopping amplo e moderno, com marcas nacionais e internacionais, supermercado, cinema e Espaço Gourmet aberto até tarde.",
+      "descricao_en": "Large modern mall with national and international brands, supermarket, cinema and a late-night Espaço Gourmet dining area.",
+      "dica": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910",
+      "telefone": "+55 71 3417-6000",
+      "horario": "Lojas: seg–sáb 9h–22h, dom 13h–21h (âncoras e restaurantes a partir das 12h)",
+      "distancia_hotel": "aprox. 11 km / 25 min de carro",
+      "link": "https://www.salvadorshopping.com.br/",
+      "fonte": "https://www.salvadorshopping.com.br/",
+      "descricao_es": "Centro comercial amplio y moderno, con marcas nacionales e internacionales, supermercado, cine y Espacio Gourmet abierto hasta tarde.",
+      "horario_en": "Stores: Mon–Sat 9am–10pm, Sun 1pm–9pm (anchor stores and restaurants from 12pm)",
+      "horario_es": "Tiendas: lun–sáb 9h–22h, dom 13h–21h (tiendas ancla y restaurantes desde las 12h)",
+      "distancia_hotel_en": "approx. 11 km / 25 min by car",
+      "distancia_hotel_es": "aprox. 11 km / 25 min en coche"
     }
   ],
   "dicas": [
@@ -1016,7 +1895,18 @@
       "dica": "Tarifa ~R$ 4,10 (2026); do aeroporto, troque de linha no Acesso Norte.",
       "horario": "Diariamente, 5h–0h",
       "distancia_hotel": "Estação Lapa aprox. 3 km / 10 min",
-      "fonte": "https://www.quintoandar.com.br/guias/?p=463750"
+      "fonte": "https://www.quintoandar.com.br/guias/?p=463750",
+      "descricao_es": "Dos líneas: Línea 1 (Lapa–Pirajá) y Línea 2 (Acesso Norte–Aeropuerto). La estación Lapa queda cerca de Barra y la Campo da Pólvora, del Pelourinho.",
+      "dica_en": "Fare ~R$ 4,10 (2026); from the airport, change lines at Acesso Norte.",
+      "dica_es": "Tarifa ~R$ 4,10 (2026); desde el aeropuerto, cambie de línea en Acesso Norte.",
+      "horario_en": "Daily, 5am–midnight",
+      "horario_es": "Todos los días, 5h–0h",
+      "nome_en": "Salvador Metro",
+      "nome_es": "Metro de Salvador",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad",
+      "distancia_hotel_en": "Lapa station approx. 3 km / 10 min",
+      "distancia_hotel_es": "Estación Lapa aprox. 3 km / 10 min"
     },
     {
       "nome": "Aplicativos e táxi",
@@ -1025,7 +1915,14 @@
       "descricao_en": "Uber, 99 and taxis work well; at night take a door-to-door ride rather than walking.",
       "dica": "Confira placa, modelo e nome do motorista antes de entrar.",
       "distancia_hotel": "—",
-      "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/"
+      "fonte": "https://muitainformacao.com.br/cidades/boate-em-salvador-promove-encontro-para-debater-seguranca-da-comunidade-lgbtqiapn/",
+      "descricao_es": "Uber, 99 y los taxis funcionan bien; de noche, prefiera app o taxi puerta a puerta en lugar de caminar.",
+      "dica_en": "Check the plate, model and driver's name before getting in.",
+      "dica_es": "Verifique la placa, el modelo y el nombre del conductor antes de subir.",
+      "nome_en": "Ride apps & taxis",
+      "nome_es": "Apps y taxi",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad"
     },
     {
       "nome": "Delegacia do Turista (DELTUR) – Barra",
@@ -1035,7 +1932,16 @@
       "dica": "Rua César Zama, s/n (prédio da 14ª DT) — (71) 3116-0065.",
       "horario": "24 horas",
       "distancia_hotel": "aprox. 1 km / 5 min",
-      "fonte": "https://www.ba.gov.br/policiacivil/deltur-barra"
+      "fonte": "https://www.ba.gov.br/policiacivil/deltur-barra",
+      "descricao_es": "Comisaría especializada en la atención al turista, con guardia las 24 horas, muy cerca del hotel.",
+      "dica_en": "Rua César Zama, s/n (14ª DT building) — (71) 3116-0065.",
+      "dica_es": "Rua César Zama, s/n (edificio de la 14ª DT) — (71) 3116-0065.",
+      "horario_en": "Open 24 hours",
+      "horario_es": "Abierto 24 horas",
+      "nome_en": "Tourist Police (DELTUR) – Barra",
+      "nome_es": "Comisaría del Turista (DELTUR) – Barra",
+      "distancia_hotel_en": "approx. 1 km / 5 min",
+      "distancia_hotel_es": "aprox. 1 km / 5 min"
     },
     {
       "nome": "Telefones de emergência",
@@ -1043,7 +1949,12 @@
       "descricao": "Polícia Militar 190, SAMU 192, Bombeiros 193.",
       "descricao_en": "Military Police 190, Ambulance (SAMU) 192, Fire Department 193.",
       "distancia_hotel": "—",
-      "fonte": "conhecimento geral (sem fonte online específica)"
+      "fonte": "conhecimento geral (sem fonte online específica)",
+      "descricao_es": "Policía Militar 190, SAMU (ambulancias) 192, Bomberos 193.",
+      "nome_en": "Emergency numbers",
+      "nome_es": "Teléfonos de emergencia",
+      "bairro_en": "Brazil",
+      "bairro_es": "Brasil"
     },
     {
       "nome": "Balneabilidade das praias",
@@ -1052,7 +1963,14 @@
       "descricao_en": "Inema publishes a weekly bulletin of beaches fit or unfit for swimming; some Barra beaches are often listed as unfit.",
       "dica": "Evite banho de mar até 24h após chuvas fortes.",
       "distancia_hotel": "—",
-      "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim"
+      "fonte": "https://www.bahianoticias.com.br/noticia/321581-inema-aponta-24-pontos-improprios-para-banho-nas-praias-de-salvador-em-novo-boletim",
+      "descricao_es": "El Inema publica un boletín semanal de playas aptas y no aptas para el baño; algunas playas de Barra figuran con frecuencia como no aptas.",
+      "dica_en": "Avoid swimming in the sea for 24h after heavy rain.",
+      "dica_es": "Evite bañarse en el mar hasta 24 h después de lluvias fuertes.",
+      "nome_en": "Beach water quality",
+      "nome_es": "Calidad del agua de las playas",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad"
     },
     {
       "nome": "Pôr do sol no Porto da Barra",
@@ -1061,7 +1979,14 @@
       "descricao_en": "Sunset at Porto da Barra and the lighthouse is a local ritual, often applauded.",
       "dica": "Chegue 30 min antes; leve só o necessário.",
       "distancia_hotel": "aprox. 1 km / a pé",
-      "fonte": "conhecimento geral (sem fonte online específica)"
+      "fonte": "conhecimento geral (sem fonte online específica)",
+      "descricao_es": "La puesta de sol vista desde Porto da Barra y el Faro es un ritual local, muchas veces aplaudido.",
+      "dica_en": "Arrive 30 min early; bring only the essentials.",
+      "dica_es": "Llegue 30 min antes; lleve solo lo necesario.",
+      "nome_en": "Sunset at Porto da Barra",
+      "nome_es": "Puesta de sol en Porto da Barra",
+      "distancia_hotel_en": "approx. 1 km / on foot",
+      "distancia_hotel_es": "aprox. 1 km / a pie"
     },
     {
       "nome": "Acarajé: quente ou frio?",
@@ -1070,7 +1995,14 @@
       "descricao_en": "When ordering acarajé you'll be asked 'quente ou frio?' (hot or cold): hot means with chili, cold means without. Common fillings are vatapá, caruru, salad and dried shrimp.",
       "dica": "Se não está acostumado com pimenta, peça 'frio' ou 'pouca pimenta'.",
       "distancia_hotel": "—",
-      "fonte": "conhecimento geral (sem fonte online específica)"
+      "fonte": "conhecimento geral (sem fonte online específica)",
+      "descricao_es": "Al pedir acarajé, la baiana pregunta 'quente ou frio?' (¿caliente o frío?): caliente lleva pimienta picante; frío, no. Los rellenos habituales son vatapá, caruru, ensalada y camarón seco.",
+      "dica_en": "If you're not used to chili, ask for 'frio' or 'pouca pimenta' (a little chili).",
+      "dica_es": "Si no está acostumbrado al picante, pida 'frio' o 'pouca pimenta' (poco picante).",
+      "nome_en": "Acarajé: hot or cold?",
+      "nome_es": "Acarajé: ¿caliente o frío?",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad"
     },
     {
       "nome": "Clima",
@@ -1079,7 +2011,14 @@
       "descricao_en": "Warm all year, usually 24–30 °C; heaviest rains are April to June.",
       "dica": "Protetor solar, chapéu e água sempre.",
       "distancia_hotel": "—",
-      "fonte": "conhecimento geral (sem fonte online específica)"
+      "fonte": "conhecimento geral (sem fonte online específica)",
+      "descricao_es": "Calor todo el año, por lo general entre 24 °C y 30 °C; las lluvias son más fuertes entre abril y junio.",
+      "dica_en": "Sunscreen, a hat and water, always.",
+      "dica_es": "Protector solar, sombrero y agua, siempre.",
+      "nome_en": "Weather",
+      "nome_es": "Clima",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad"
     },
     {
       "nome": "Travessia para Itaparica",
@@ -1087,7 +2026,14 @@
       "descricao": "Ferry-boat de São Joaquim a Bom Despacho (~30 min) ou lancha do Terminal Náutico a Vera Cruz (~40 min).",
       "descricao_en": "Ferry from São Joaquim to Bom Despacho (~30 min) or speedboat from the Nautical Terminal to Vera Cruz (~40 min).",
       "distancia_hotel": "Terminal aprox. 6 km / 20 min",
-      "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667"
+      "fonte": "https://atarde.com.br/bahia/quanto-custa-alugar-uma-lancha-e-visitar-as-ilhas-de-salvador-1395667",
+      "descricao_es": "Ferry de São Joaquim a Bom Despacho (~30 min) o lancha desde el Terminal Náutico a Vera Cruz (~40 min).",
+      "nome_en": "Crossing to Itaparica",
+      "nome_es": "Cruce a Itaparica",
+      "bairro_en": "Bay",
+      "bairro_es": "Bahía",
+      "distancia_hotel_en": "Terminal approx. 6 km / 20 min",
+      "distancia_hotel_es": "Terminal aprox. 6 km / 20 min"
     },
     {
       "nome": "Segurança no dia a dia",
@@ -1095,7 +2041,12 @@
       "descricao": "Use o celular com discrição na rua e na praia, leve pouco dinheiro e evite ruas vazias e escuras à noite.",
       "descricao_en": "Keep your phone discreet on the street and at the beach, carry little cash and avoid empty, dark streets at night.",
       "distancia_hotel": "—",
-      "fonte": "conhecimento geral (sem fonte online específica)"
+      "fonte": "conhecimento geral (sem fonte online específica)",
+      "descricao_es": "Use el celular con discreción en la calle y en la playa, lleve poco dinero y evite calles vacías y oscuras de noche.",
+      "nome_en": "Everyday safety",
+      "nome_es": "Seguridad en el día a día",
+      "bairro_en": "Citywide",
+      "bairro_es": "Toda la ciudad"
     }
   ],
   "nao_incluidos": [

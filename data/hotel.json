@@ -15,22 +15,26 @@
     {
       "pt": "Check-in",
       "en": "Check-in",
-      "valor": "14h"
+      "valor": "14h",
+      "es": "Check-in"
     },
     {
       "pt": "Check-out",
       "en": "Check-out",
-      "valor": "12h"
+      "valor": "12h",
+      "es": "Check-out"
     },
     {
       "pt": "Café da manhã",
       "en": "Breakfast",
-      "valor": "6h30–10h"
+      "valor": "6h30–10h",
+      "es": "Desayuno"
     },
     {
       "pt": "Recepção",
       "en": "Front desk",
-      "valor": "24h"
+      "valor": "24h",
+      "es": "Recepción"
     }
   ],
   "servicos": [
@@ -39,42 +43,54 @@
       "pt": "Recepção 24h",
       "en": "24h front desk",
       "desc_pt": "Estamos à disposição a qualquer hora, pelo telefone ou WhatsApp.",
-      "desc_en": "We're here around the clock, by phone or WhatsApp."
+      "desc_en": "We're here around the clock, by phone or WhatsApp.",
+      "es": "Recepción 24h",
+      "desc_es": "Estamos a tu disposición a cualquier hora, por teléfono o WhatsApp."
     },
     {
       "icone": "coffee",
       "pt": "Café da manhã",
       "en": "Breakfast",
       "desc_pt": "Servido todos os dias, das 6h30 às 10h.",
-      "desc_en": "Served daily, 6:30 to 10 am."
+      "desc_en": "Served daily, 6:30 to 10 am.",
+      "es": "Desayuno",
+      "desc_es": "Servido todos los días, de 6:30 a 10:00."
     },
     {
       "icone": "shirt",
       "pt": "Lavanderia",
       "en": "Laundry",
       "desc_pt": "Solicite na recepção.",
-      "desc_en": "Ask the front desk."
+      "desc_en": "Ask the front desk.",
+      "es": "Lavandería",
+      "desc_es": "Solicítala en la recepción."
     },
     {
       "icone": "car",
       "pt": "Transfer e táxi",
       "en": "Transfer & taxi",
       "desc_pt": "Aeroporto, passeios e táxi de confiança. Agende com a recepção.",
-      "desc_en": "Airport, tours and trusted taxis. Book at the front desk."
+      "desc_en": "Airport, tours and trusted taxis. Book at the front desk.",
+      "es": "Traslados y taxi",
+      "desc_es": "Aeropuerto, paseos y taxis de confianza. Reserva en la recepción."
     },
     {
       "icone": "bag",
       "pt": "Guarda-volumes",
       "en": "Luggage storage",
       "desc_pt": "Guarde suas malas antes do check-in ou depois do check-out.",
-      "desc_en": "Store your bags before check-in or after check-out."
+      "desc_en": "Store your bags before check-in or after check-out.",
+      "es": "Consigna de equipaje",
+      "desc_es": "Guarda tus maletas antes del check-in o después del check-out."
     },
     {
       "icone": "map",
       "pt": "Concierge",
       "en": "Concierge",
       "desc_pt": "Reservas em restaurantes, passeios e ingressos.",
-      "desc_en": "Restaurant bookings, tours and tickets."
+      "desc_en": "Restaurant bookings, tours and tickets.",
+      "es": "Conserjería",
+      "desc_es": "Reservas en restaurantes, paseos y entradas."
     }
   ],
   "room_service": {
@@ -176,17 +192,20 @@
     {
       "pt": "Polícia Militar",
       "en": "Police",
-      "tel": "190"
+      "tel": "190",
+      "es": "Policía"
     },
     {
       "pt": "SAMU",
       "en": "Ambulance (SAMU)",
-      "tel": "192"
+      "tel": "192",
+      "es": "Ambulancia (SAMU)"
     },
     {
       "pt": "Bombeiros",
       "en": "Fire department",
-      "tel": "193"
+      "tel": "193",
+      "es": "Bomberos"
     }
   ],
   "conta": {
