@@ -187,5 +187,8 @@
       "en": "Fire department",
       "tel": "193"
     }
-  ]
+  ],
+  "conta": {
+    "api": "https://the-hotel-rds.vercel.app/api/conta"
+  }
 }
