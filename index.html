@@ -226,6 +226,14 @@ body.wf-on{padding-bottom:210px}
 .wf .btn:disabled{opacity:.45}
 .wf .err{font-size:12.5px;margin-top:8px;font-weight:500}
 .wf.ok{background:var(--v);color:var(--c)}
+.wf-tabs{display:flex;gap:6px;margin-top:10px}.wf-tabs button{flex:1;padding:8px 6px;border-radius:999px;border:1.5px solid var(--vp);font-size:13px;font-weight:500}
+.wf-tabs button.on{background:var(--vp);color:var(--c)}
+.wf-f{display:grid;grid-template-columns:1fr 1.6fr;gap:8px;margin-top:10px}
+.wf .wf-in{display:block;margin:0;font-size:11.5px;font-weight:500}.wf .wf-in span{display:block;margin-bottom:3px}
+.wf .wf-in input{width:100%;height:auto;margin:0;padding:9px 10px;border-radius:10px;border:0;background:rgba(255,255,255,.75);font:inherit;font-size:16px;color:var(--p);letter-spacing:.06em}
+.wf .wf-s{font-size:11px;opacity:.8;margin-top:5px}
+body.wf-on{padding-bottom:330px}
+
 
 @media (min-width:720px){.acc .sheet{inset:50% auto auto 50%;transform:translate(-50%,-50%);width:560px;border-radius:22px;animation:none}}
 .acc .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
@@ -860,36 +868,63 @@ const WT = {
       e404:"No encontramos tu dispositivo en la red. Verifica que estés en el Wi-Fi The Hotel e inténtalo de nuevo.", e429:"Demasiados intentos. Espera unos minutos.", eNet:"No fue posible conectarte ahora. Inténtalo de nuevo o habla con la recepción.",
       termos:"El Wi-Fi de The Hotel se ofrece gratuitamente a huéspedes y visitantes. Al conectarte, te comprometes a usarlo de forma lícita, sin violar derechos de terceros, sin distribuir contenido ilegal y sin perjudicar la red ni a otros usuarios. El servicio puede tener límites de velocidad y tiempo y no se garantiza su disponibilidad continua. Conforme al Marco Civil de Internet de Brasil (Ley 12.965/2014), los registros técnicos de conexión (dirección del dispositivo, fecha y hora) pueden conservarse durante el plazo legal, con confidencialidad, y solo se entregan por orden judicial. No recopilamos el contenido de tu navegación. Tratamiento de datos conforme a la LGPD de Brasil (Ley 13.709/2018); dudas, habla con la recepción."}
 };
-let wfState = WQ ? "ask" : "off", wfErr = "", wfChk = false;
+let wfState = WQ ? "ask" : "off", wfErr = "", wfChk = false, wfModo = "hosp", wfUh = "", wfPin = "", wfMin = 0;
 if (WQ) try { fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({ping:"abriu"})}).catch(() => {}); } catch(_){}
+const WX = {
+  pt:{hosp:"Sou hóspede", vis:"Sou visitante", uh:"Apartamento", pin:"4 últimos dígitos do CPF ou passaporte", goH:"Conectar até o check-out", goV:"Conectar por 6 horas",
+      visTxt:"Acesso de cortesia por 6 horas. Hóspede? Use a outra aba e fique conectado até o check-out.", eH:"Não encontramos esses dados. Confira o apartamento e os 4 últimos dígitos do documento de qualquer hóspede do quarto.",
+      okH:"Você fica conectado até o check-out.", okV:"Conectado por 6 horas.", lgpd:"O documento só é conferido com a reserva; não é guardado."},
+  en:{hosp:"I'm a guest", vis:"I'm a visitor", uh:"Room", pin:"Last 4 digits of CPF or passport", goH:"Connect until check-out", goV:"Connect for 6 hours",
+      visTxt:"Complimentary 6-hour access. Staying with us? Use the other tab to stay online until check-out.", eH:"We couldn't match these details. Check the room number and the last 4 digits of any guest's ID in the room.",
+      okH:"You'll stay online until check-out.", okV:"Connected for 6 hours.", lgpd:"Your ID is only checked against the booking; it is not stored."},
+  es:{hosp:"Soy huésped", vis:"Soy visitante", uh:"Habitación", pin:"Últimos 4 dígitos del CPF o pasaporte", goH:"Conectarse hasta el check-out", goV:"Conectarse por 6 horas",
+      visTxt:"Acceso de cortesía por 6 horas. ¿Estás hospedado? Usa la otra pestaña y quédate conectado hasta el check-out.", eH:"No encontramos estos datos. Revisa la habitación y los últimos 4 dígitos del documento de cualquier huésped de la habitación.",
+      okH:"Quedas conectado hasta el check-out.", okV:"Conectado por 6 horas.", lgpd:"El documento solo se compara con la reserva; no se guarda."}
+};
 function wifiRender(){
   let el = document.getElementById("wf");
   if (wfState === "off"){ if (el) el.remove(); document.body.classList.remove("wf-on"); return; }
-  const W = WT[lang] || WT.pt;
+  const W = WT[lang] || WT.pt, X = WX[lang] || WX.pt;
   if (!el){ el = document.createElement("aside"); el.id = "wf"; el.className = "wf"; el.setAttribute("aria-live","polite"); document.body.appendChild(el); }
   document.body.classList.add("wf-on");
   el.classList.toggle("ok", wfState === "ok");
-  if (wfState === "ok"){ el.innerHTML = `<div class="wrap"><h2>${W.ok}</h2><p>${W.okp}</p></div>`; return; }
-  el.innerHTML = `<div class="wrap"><h2>${W.h}</h2><p>${W.p}</p>
+  if (wfState === "ok"){ el.innerHTML = `<div class="wrap"><h2>${W.ok}</h2><p>${wfModo === "hosp" ? X.okH : X.okV} ${W.okp}</p></div>`; return; }
+  const busy = wfState === "busy", hosp = wfModo === "hosp";
+  const pronto = wfChk && !busy && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)));
+  el.innerHTML = `<div class="wrap"><h2>${W.h}</h2>
+    <div class="wf-tabs" role="tablist"><button role="tab" aria-selected="${hosp}" class="${hosp?"on":""}" data-wfm="hosp">${X.hosp}</button><button role="tab" aria-selected="${!hosp}" class="${!hosp?"on":""}" data-wfm="vis">${X.vis}</button></div>
+    ${hosp ? `<div class="wf-f"><label class="wf-in"><span>${X.uh}</span><input id="wfUh" inputmode="numeric" autocomplete="off" maxlength="5" value="${esc(wfUh)}"></label>
+      <label class="wf-in"><span>${X.pin}</span><input id="wfPin" autocomplete="off" maxlength="4" value="${esc(wfPin)}"></label></div><p class="wf-s">${X.lgpd}</p>`
+      : `<p>${X.visTxt}</p>`}
     <label><input type="checkbox" id="wfChk"${wfChk ? " checked" : ""}> <span>${W.ac}</span></label>
     <details><summary>${W.ver}</summary><div>${W.termos}</div></details>
-    <button class="btn" id="wfGo"${wfChk && wfState !== "busy" ? "" : " disabled"}>${wfState === "busy" ? W.wait : W.go}</button>
-    ${wfErr ? `<p class="err" role="alert">${W[wfErr] || W.eNet}</p>` : ""}</div>`;
+    <button class="btn" id="wfGo"${pronto ? "" : " disabled"}>${busy ? W.wait : hosp ? X.goH : X.goV}</button>
+    ${wfErr ? `<p class="err" role="alert">${wfErr === "eH" ? X.eH : (W[wfErr] || W.eNet)}</p>` : ""}</div>`;
 }
-document.addEventListener("change", e => { if (e.target.id === "wfChk"){ wfChk = e.target.checked; wfErr = ""; wifiRender(); } });
+const wfBtn = () => { const b = document.getElementById("wfGo"); if (!b) return;
+  const hosp = wfModo === "hosp"; b.disabled = !(wfChk && wfState !== "busy" && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)))); };
+document.addEventListener("input", e => {
+  if (e.target.id === "wfUh"){ wfUh = e.target.value.replace(/\D/g,""); e.target.value = wfUh; wfErr = ""; wfBtn(); }
+  if (e.target.id === "wfPin"){ wfPin = e.target.value.replace(/[^0-9a-z]/gi,"").toUpperCase(); e.target.value = wfPin; wfErr = ""; wfBtn(); }
+});
+document.addEventListener("change", e => { if (e.target.id === "wfChk"){ wfChk = e.target.checked; wfErr = ""; wfBtn(); } });
 document.addEventListener("click", async e => {
+  const m = e.target.closest("[data-wfm]"); if (m){ wfModo = m.dataset.wfm; wfErr = ""; wifiRender(); return; }
   if (e.target.id !== "wfGo" || wfState !== "ask" || !wfChk) return;
   wfState = "busy"; wfErr = ""; wifiRender();
   try {
-    const r = await fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({id:WQ.id, ap:WQ.ap, t:WQ.t, aceite:true})});
+    const body = {id:WQ.id, ap:WQ.ap, t:WQ.t, aceite:true};
+    if (wfModo === "hosp"){ body.uh = wfUh; body.pin = wfPin; }
+    const r = await fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body)});
     const j = await r.json().catch(() => ({}));
     if (r.ok && j.ok){
-      wfState = "ok"; wifiRender();
+      if (j.token) try { sessionStorage.setItem(TKEY, j.token); } catch(_){}
+      wfState = "ok"; wfPin = ""; wifiRender();
       try { history.replaceState(null, "", location.pathname + location.hash); } catch(_){}
       setTimeout(() => { wfState = "off"; wifiRender(); }, 9000);
       return;
     }
-    wfState = "ask"; wfErr = r.status === 404 ? "e404" : r.status === 429 ? "e429" : "eNet";
+    wfState = "ask"; wfErr = j.erro === "hospede" || (r.status === 401) ? "eH" : r.status === 404 ? "e404" : r.status === 429 ? "e429" : "eNet";
   } catch(_){ wfState = "ask"; wfErr = "eNet"; }
   wifiRender();
 });
