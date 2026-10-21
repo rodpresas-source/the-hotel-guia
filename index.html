@@ -232,7 +232,6 @@ body.wf-on{padding-bottom:210px}
 .wf .wf-in{display:block;margin:0;font-size:11.5px;font-weight:500}.wf .wf-in span{display:block;margin-bottom:3px}
 .wf .wf-in input{width:100%;height:auto;margin:0;padding:9px 10px;border-radius:10px;border:0;background:rgba(255,255,255,.75);font:inherit;font-size:16px;color:var(--p);letter-spacing:.06em}
 .wf .wf-s{font-size:11px;opacity:.8;margin-top:5px}
-.wf .wf-open{display:flex;width:100%;margin-top:10px;background:var(--vp);color:var(--c);text-decoration:none}
 body.wf-on{padding-bottom:330px}
 
 
@@ -853,7 +852,6 @@ const WQ = (() => { const q = new URLSearchParams(location.search), id = q.get("
   return null; })();
 // aberto pelo IP do servidor do portal (sem DNS antes do login): a API vem pelo mesmo endereço, que repassa ao app
 const viaIP = /^\d{1,3}(\.\d{1,3}){3}$/.test(location.hostname);
-const naJanela = () => /android/i.test(navigator.userAgent) && /; wv\)/.test(navigator.userAgent);   // janelinha de login do Android (WebView)
 const wifiApi = () => viaIP ? "/api/wifi-auth" : (((HOTEL.wifi||{}).portal_api) || "https://the-hotel-rds.vercel.app/api/wifi-auth");
 const WT = {
   pt:{h:"Bem-vindo! Falta só um toque", p:"Conheça o hotel e a cidade aqui embaixo. Para navegar na internet, aceite os termos e conecte.",
@@ -877,13 +875,13 @@ if (WQ) try { fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"applicat
 const WX = {
   pt:{hosp:"Sou hóspede", vis:"Sou visitante", uh:"Apartamento", pin:"4 últimos dígitos do CPF ou passaporte", goH:"Conectar até o check-out", goV:"Conectar por 6 horas",
       visTxt:"Acesso de cortesia por 6 horas. Hóspede? Use a outra aba e fique conectado até o check-out.", eH:"Não encontramos esses dados. Confira o apartamento e os 4 últimos dígitos do documento de qualquer hóspede do quarto.",
-      okH:"Você fica conectado até o check-out.", okV:"Conectado por 6 horas.", abrir:"Abrir no navegador (recomendado)", abrirTxt:"Abre o guia no Chrome; conecte por lá e ele continua aberto.", lgpd:"O documento só é conferido com a reserva; não é guardado."},
+      okH:"Você fica conectado até o check-out.", okV:"Conectado por 6 horas.", lgpd:"O documento só é conferido com a reserva; não é guardado."},
   en:{hosp:"I'm a guest", vis:"I'm a visitor", uh:"Room", pin:"Last 4 digits of CPF or passport", goH:"Connect until check-out", goV:"Connect for 6 hours",
       visTxt:"Complimentary 6-hour access. Staying with us? Use the other tab to stay online until check-out.", eH:"We couldn't match these details. Check the room number and the last 4 digits of any guest's ID in the room.",
-      okH:"You'll stay online until check-out.", okV:"Connected for 6 hours.", abrir:"Open in your browser (recommended)", abrirTxt:"Opens the guide in Chrome; connect there and it stays open.", lgpd:"Your ID is only checked against the booking; it is not stored."},
+      okH:"You'll stay online until check-out.", okV:"Connected for 6 hours.", lgpd:"Your ID is only checked against the booking; it is not stored."},
   es:{hosp:"Soy huésped", vis:"Soy visitante", uh:"Habitación", pin:"Últimos 4 dígitos del CPF o pasaporte", goH:"Conectarse hasta el check-out", goV:"Conectarse por 6 horas",
       visTxt:"Acceso de cortesía por 6 horas. ¿Estás hospedado? Usa la otra pestaña y quédate conectado hasta el check-out.", eH:"No encontramos estos datos. Revisa la habitación y los últimos 4 dígitos del documento de cualquier huésped de la habitación.",
-      okH:"Quedas conectado hasta el check-out.", okV:"Conectado por 6 horas.", abrir:"Abrir en el navegador (recomendado)", abrirTxt:"Abre la guía en Chrome; conéctate allí y seguirá abierta.", lgpd:"El documento solo se compara con la reserva; no se guarda."}
+      okH:"Quedas conectado hasta el check-out.", okV:"Conectado por 6 horas.", lgpd:"El documento solo se compara con la reserva; no se guarda."}
 };
 function wifiRender(){
   let el = document.getElementById("wf");
@@ -895,9 +893,7 @@ function wifiRender(){
   if (wfState === "ok"){ el.innerHTML = `<div class="wrap"><h2>${W.ok}</h2><p>${wfModo === "hosp" ? X.okH : X.okV} ${W.okp}</p></div>`; return; }
   const busy = wfState === "busy", hosp = wfModo === "hosp";
   const pronto = wfChk && !busy && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)));
-  const qs = "portal=1&id=" + encodeURIComponent(WQ.id) + (WQ.ap ? "&ap=" + encodeURIComponent(WQ.ap) : "") + (WQ.t ? "&t=" + encodeURIComponent(WQ.t) : "");
-  const abrir = naJanela() ? `<a class="btn wf-open" href="intent://guia.thehotel.com.br/?${qs}#Intent;scheme=https;end">${X.abrir}</a><p class="wf-s">${X.abrirTxt}</p>` : "";
-  el.innerHTML = `<div class="wrap"><h2>${W.h}</h2>${abrir}
+  el.innerHTML = `<div class="wrap"><h2>${W.h}</h2>
     <div class="wf-tabs" role="tablist"><button role="tab" aria-selected="${hosp}" class="${hosp?"on":""}" data-wfm="hosp">${X.hosp}</button><button role="tab" aria-selected="${!hosp}" class="${!hosp?"on":""}" data-wfm="vis">${X.vis}</button></div>
     ${hosp ? `<div class="wf-f"><label class="wf-in"><span>${X.uh}</span><input id="wfUh" inputmode="numeric" autocomplete="off" maxlength="5" value="${esc(wfUh)}"></label>
       <label class="wf-in"><span>${X.pin}</span><input id="wfPin" autocomplete="off" maxlength="4" value="${esc(wfPin)}"></label></div><p class="wf-s">${X.lgpd}</p>`
