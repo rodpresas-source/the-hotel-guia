@@ -853,6 +853,7 @@ const WQ = (() => { const q = new URLSearchParams(location.search), id = q.get("
   return null; })();
 // aberto pelo IP do servidor do portal (sem DNS antes do login): a API vem pelo mesmo endereço, que repassa ao app
 const viaIP = /^\d{1,3}(\.\d{1,3}){3}$/.test(location.hostname);
+const viaNav = () => !/; wv\)/.test(navigator.userAgent);   // fora da janelinha de login (WebView "wv") = já está no navegador
 const wifiApi = () => viaIP ? "/api/wifi-auth" : (((HOTEL.wifi||{}).portal_api) || "https://the-hotel-rds.vercel.app/api/wifi-auth");
 const WT = {
   pt:{h:"Bem-vindo! Falta só um toque", p:"Conheça o hotel e a cidade aqui embaixo. Para navegar na internet, aceite os termos e conecte.",
@@ -931,6 +932,8 @@ document.addEventListener("click", async e => {
     if (r.ok && j.ok){
       if (j.token) try { sessionStorage.setItem(TKEY, j.token); } catch(_){}
       wfState = "ok"; wfPin = ""; wifiRender();
+      // Android fecha a janelinha de login assim que a internet libera: abre o guia no navegador NA HORA, antes disso
+      if (/android/i.test(navigator.userAgent) && !viaNav()) try { location.href = document.querySelector("#wf .wf-open").href; } catch(_){}
       try { history.replaceState(null, "", location.pathname + location.hash); } catch(_){}
       return;
     }
