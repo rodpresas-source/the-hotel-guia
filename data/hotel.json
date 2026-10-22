@@ -51,10 +51,19 @@
       "icone": "coffee",
       "pt": "Café da manhã",
       "en": "Breakfast",
-      "desc_pt": "Servido todos os dias, das 6h30 às 10h.",
-      "desc_en": "Served daily, 6:30 to 10 am.",
+      "desc_pt": "Servido todos os dias, das 6h30 às 10h. Se não estiver incluído na sua diária: {p:4744} por pessoa. Convidados de fora: {p:4745}.",
+      "desc_en": "Served daily, 6:30 to 10 am. If not included in your rate: {p:4744} per person. Outside guests: {p:4745}.",
       "es": "Desayuno",
-      "desc_es": "Servido todos los días, de 6:30 a 10:00."
+      "desc_es": "Servido todos los días, de 6:30 a 10:00. Si no está incluido en tu tarifa: {p:4744} por persona. Invitados externos: {p:4745}."
+    },
+    {
+      "icone": "fridge",
+      "pt": "Minibar",
+      "en": "Minibar",
+      "es": "Minibar",
+      "desc_pt": "Abastecido com água mineral. Cada garrafa consumida custa {p:87} e é lançada na sua conta.",
+      "desc_en": "Stocked with mineral water. Each bottle you drink is {p:87}, added to your bill.",
+      "desc_es": "Con agua mineral. Cada botella consumida cuesta {p:87} y se carga a tu cuenta."
     },
     {
       "icone": "shirt",
@@ -210,5 +219,14 @@
   ],
   "conta": {
     "api": "https://the-hotel-rds.vercel.app/api/conta"
+  },
+  "precos": {
+    "api": "https://the-hotel-rds.vercel.app/api/cafe-precos",
+    "_leia": "Valores de reserva. O guia busca o preço atual no HITS (produtos 4744 café hóspede, 4745 café convidado, 87 água do minibar); estes só aparecem se a consulta falhar.",
+    "padrao": {
+      "4744": 35,
+      "4745": 45,
+      "87": 5.5
+    }
   }
 }
