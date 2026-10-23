@@ -846,7 +846,12 @@ async function accOpen(){
   if (typeof dlg.showModal === "function") dlg.showModal(); else dlg.setAttribute("open","");
   let tok = null; try { tok = localStorage.getItem(TKEY); } catch(_){}
   if (tok && !ACCOUNT){
-    try { ACCOUNT = (await accFetch(tok)).conta; renderAccount(); return; } catch(e){ accReset(); }
+    $("#accLogin").hidden = true; $("#accView").hidden = false; $("#accView").innerHTML = `<p class="intro2">${ACC[lang].wait}</p>`;
+    for (let i = 0; i < 3; i++){        // logo após liberar o Wi-Fi a rede pode oscilar: tenta de novo antes de pedir os dados
+      try { ACCOUNT = (await accFetch(tok)).conta; renderAccount(); return; }
+      catch(e){ if (e.code === 401 || e.code === 403){ accReset(); break; } await new Promise(r => setTimeout(r, 1500)); }
+    }
+    if (!ACCOUNT){ $("#accView").hidden = true; $("#accView").innerHTML = ""; $("#accLogin").hidden = false; }
   }
   if (ACCOUNT) renderAccount(); else setTimeout(() => $("#fUh").focus(), 50);
 }
@@ -975,6 +980,7 @@ document.addEventListener("click", async e => {
     const j = await r.json().catch(() => ({}));
     if (r.ok && j.ok){
       if (j.token) try { localStorage.setItem(TKEY, j.token); } catch(_){}
+      if (j.conta) ACCOUNT = j.conta;
       wfState = "ok"; wfPin = ""; wifiRender();
       try { history.replaceState(null, "", location.pathname + location.hash); } catch(_){}
       setTimeout(() => { if (wfState === "ok"){ wfState = "off"; wifiRender(); } }, wfModo === "hosp" ? 30000 : 9000);
