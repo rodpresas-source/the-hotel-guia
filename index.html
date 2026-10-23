@@ -906,7 +906,7 @@ function wifiRender(){
   const busy = wfState === "busy", hosp = wfModo === "hosp";
   const pronto = wfChk && !busy && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)));
   const qs = "portal=1&id=" + encodeURIComponent(WQ.id) + (WQ.ap ? "&ap=" + encodeURIComponent(WQ.ap) : "") + (WQ.t ? "&t=" + encodeURIComponent(WQ.t) : "");
-  const abrir = naJanela() ? `<a class="btn wf-open" href="intent://guia.thehotel.com.br/?${qs}#Intent;scheme=https;end">${X.abrir}</a><p class="wf-s">${X.abrirTxt}</p>` : "";
+  const abrir = naJanela() ? `<a class="btn wf-open" href="intent://guia.thehotel.com.br/?${qs}#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=${encodeURIComponent("https://guia.thehotel.com.br/?"+qs)};end">${X.abrir}</a><p class="wf-s">${X.abrirTxt}</p>` : "";
   el.innerHTML = `<div class="wrap"><h2>${W.h}</h2>${abrir}
     <div class="wf-tabs" role="tablist"><button role="tab" aria-selected="${hosp}" class="${hosp?"on":""}" data-wfm="hosp">${X.hosp}</button><button role="tab" aria-selected="${!hosp}" class="${!hosp?"on":""}" data-wfm="vis">${X.vis}</button></div>
     ${hosp ? `<div class="wf-f"><label class="wf-in"><span>${X.uh}</span><input id="wfUh" inputmode="numeric" autocomplete="off" maxlength="5" value="${esc(wfUh)}"></label>
