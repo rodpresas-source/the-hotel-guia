@@ -234,6 +234,11 @@ body.wf-on{padding-bottom:210px}
 .wf .wf-in input{width:100%;height:auto;margin:0;padding:9px 10px;border-radius:10px;border:0;background:rgba(255,255,255,.75);font:inherit;font-size:16px;color:var(--p);letter-spacing:.06em}
 .wf .wf-s{font-size:11px;opacity:.8;margin-top:5px}
 .wf .wf-open{display:flex;width:100%;margin-top:10px;background:var(--vp);color:var(--c);text-decoration:none}
+.wf .wf-qr{background:var(--p);color:var(--c)}
+.wf .wf-qrok{font-weight:600}
+.qrv{position:fixed;inset:0;z-index:90;background:rgba(10,20,17,.94);color:var(--c);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:24px;text-align:center}
+.qrv video{width:min(80vw,340px);aspect-ratio:1;object-fit:cover;border-radius:16px;border:2px solid var(--c)}
+.qrv .btn{background:var(--c);color:var(--vp);min-width:160px}
 /* janelinha de login do Android: tela única, só o botão de abrir no navegador */
 body.wf-jan{padding:0!important;overflow:hidden}
 body.wf-jan>*:not(#wf){display:none!important}
@@ -894,18 +899,25 @@ const WT = {
       e404:"No encontramos tu dispositivo en la red. Verifica que estés en el Wi-Fi The Hotel e inténtalo de nuevo.", e429:"Demasiados intentos. Espera unos minutos.", eNet:"No fue posible conectarte ahora. Inténtalo de nuevo o habla con la recepción.",
       termos:"El Wi-Fi de The Hotel se ofrece gratuitamente a huéspedes y visitantes. Al conectarte, te comprometes a usarlo de forma lícita, sin violar derechos de terceros, sin distribuir contenido ilegal y sin perjudicar la red ni a otros usuarios. El servicio puede tener límites de velocidad y tiempo y no se garantiza su disponibilidad continua. Conforme al Marco Civil de Internet de Brasil (Ley 12.965/2014), los registros técnicos de conexión (dirección del dispositivo, fecha y hora) pueden conservarse durante el plazo legal, con confidencialidad, y solo se entregan por orden judicial. No recopilamos el contenido de tu navegación. Tratamiento de datos conforme a la LGPD de Brasil (Ley 13.709/2018); dudas, habla con la recepción."}
 };
+/* visitante só com o QR de visitante: o QR leva a guia.thehotel.com.br/?vc=<código>; guardado 12h neste navegador */
+const VCKEY = "th_vc";
+const vcGet = () => { try { const o = JSON.parse(localStorage.getItem(VCKEY) || "null"); return o && Date.now() - o.at < 12*3600e3 ? o.c : ""; } catch(_){ return ""; } };
+const vcSet = c => { try { localStorage.setItem(VCKEY, JSON.stringify({c, at:Date.now()})); } catch(_){} };
+const vcDeUrl = s => { try { const u = new URL(s, location.href); return (u.searchParams.get("vc") || "").trim(); } catch(_){ return /^[0-9a-z]{4,12}$/i.test(String(s).trim()) ? String(s).trim() : ""; } };
+let wfVc = (() => { const v = new URLSearchParams(location.search).get("vc"); if (v){ vcSet(v.trim()); return v.trim(); } return vcGet(); })();
+let wfVcDig = false;   // digitou o código à mão
 let wfAqui = false;   // na janelinha do Android: só mostra o login aqui se o hóspede pedir
 let wfState = WQ ? "ask" : "off", wfErr = "", wfChk = false, wfModo = "hosp", wfUh = "", wfPin = "", wfMin = 0;
 if (WQ) try { fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({ping:"abriu"})}).catch(() => {}); } catch(_){}
 const WX = {
   pt:{hosp:"Sou hóspede", vis:"Sou visitante", uh:"Apartamento", pin:"4 últimos dígitos do CPF ou passaporte", goH:"Conectar até o check-out", goV:"Conectar por 6 horas",
-      visTxt:"Acesso de cortesia por 6 horas. Hóspede? Use a outra aba e fique conectado até o check-out.", eH:"Não encontramos esses dados. Confira o apartamento e os 4 últimos dígitos do documento de qualquer hóspede do quarto.",
+      qrPede:"Para usar o Wi-Fi como visitante, escaneie o QR code de visitante disponível na recepção e nas áreas do hotel.", qrBtn:"Escanear QR code", qrOu:"ou digite o código impresso abaixo do QR", qrOk:"QR de visitante lido ✓", qrErr:"Código de visitante inválido. Escaneie o QR disponível na recepção.", qrCam:"Aponte a câmera para o QR de visitante", qrFechar:"Fechar", qrSemCam:"Não foi possível abrir a câmera. Use a câmera do celular ou digite o código.", qrLendo:"QR lido! Abrindo o login…", visTxt:"Acesso de cortesia por 6 horas. Hóspede? Use a outra aba e fique conectado até o check-out.", eH:"Não encontramos esses dados. Confira o apartamento e os 4 últimos dígitos do documento de qualquer hóspede do quarto.",
       okH:"Você fica conectado até o check-out.", okV:"Conectado por 6 horas.", janH:"Bem-vindo ao <i>The Hotel</i>", janP:"Para conectar ao Wi-Fi e ver o guia do hotel e de Salvador, abra no navegador.", aqui:"Prefiro conectar por aqui", abrir:"Abrir no navegador", abrirTxt:"Na tela seguinte, toque em “Continuar mesmo assim pelo navegador”. O guia abre no Chrome; conecte por lá e ele continua aberto.", lgpd:"O documento só é conferido com a reserva; não é guardado."},
   en:{hosp:"I'm a guest", vis:"I'm a visitor", uh:"Room", pin:"Last 4 digits of CPF or passport", goH:"Connect until check-out", goV:"Connect for 6 hours",
-      visTxt:"Complimentary 6-hour access. Staying with us? Use the other tab to stay online until check-out.", eH:"We couldn't match these details. Check the room number and the last 4 digits of any guest's ID in the room.",
+      qrPede:"To use the Wi-Fi as a visitor, scan the visitor QR code available at the front desk and around the hotel.", qrBtn:"Scan QR code", qrOu:"or type the code printed under the QR", qrOk:"Visitor QR scanned ✓", qrErr:"Invalid visitor code. Scan the QR at the front desk.", qrCam:"Point the camera at the visitor QR", qrFechar:"Close", qrSemCam:"Couldn't open the camera. Use your phone camera or type the code.", qrLendo:"QR scanned! Opening the login…", visTxt:"Complimentary 6-hour access. Staying with us? Use the other tab to stay online until check-out.", eH:"We couldn't match these details. Check the room number and the last 4 digits of any guest's ID in the room.",
       okH:"You'll stay online until check-out.", okV:"Connected for 6 hours.", janH:"Welcome to <i>The Hotel</i>", janP:"To connect to the Wi-Fi and see our hotel and Salvador guide, open it in your browser.", aqui:"Connect here instead", abrir:"Open in your browser", abrirTxt:"On the next screen, tap “Continue anyway in browser”. The guide opens in Chrome; connect there and it stays open.", lgpd:"Your ID is only checked against the booking; it is not stored."},
   es:{hosp:"Soy huésped", vis:"Soy visitante", uh:"Habitación", pin:"Últimos 4 dígitos del CPF o pasaporte", goH:"Conectarse hasta el check-out", goV:"Conectarse por 6 horas",
-      visTxt:"Acceso de cortesía por 6 horas. ¿Estás hospedado? Usa la otra pestaña y quédate conectado hasta el check-out.", eH:"No encontramos estos datos. Revisa la habitación y los últimos 4 dígitos del documento de cualquier huésped de la habitación.",
+      qrPede:"Para usar el Wi-Fi como visitante, escanea el código QR de visitante disponible en la recepción y en las áreas del hotel.", qrBtn:"Escanear código QR", qrOu:"o escribe el código impreso debajo del QR", qrOk:"QR de visitante leído ✓", qrErr:"Código de visitante no válido. Escanea el QR de la recepción.", qrCam:"Apunta la cámara al QR de visitante", qrFechar:"Cerrar", qrSemCam:"No se pudo abrir la cámara. Usa la cámara del teléfono o escribe el código.", qrLendo:"¡QR leído! Abriendo el inicio de sesión…", visTxt:"Acceso de cortesía por 6 horas. ¿Estás hospedado? Usa la otra pestaña y quédate conectado hasta el check-out.", eH:"No encontramos estos datos. Revisa la habitación y los últimos 4 dígitos del documento de cualquier huésped de la habitación.",
       okH:"Quedas conectado hasta el check-out.", okV:"Conectado por 6 horas.", janH:"Bienvenido a <i>The Hotel</i>", janP:"Para conectarte al Wi-Fi y ver la guía del hotel y de Salvador, ábrela en el navegador.", aqui:"Prefiero conectarme aquí", abrir:"Abrir en el navegador", abrirTxt:"En la siguiente pantalla, toca “Continuar de todos modos en el navegador”. La guía se abre en Chrome; conéctate allí y seguirá abierta.", lgpd:"El documento solo se compara con la reserva; no se guarda."}
 };
 function wifiRender(){
@@ -926,32 +938,37 @@ function wifiRender(){
   el.classList.toggle("ok", wfState === "ok");
   if (wfState === "ok"){ el.innerHTML = `<div class="wrap"><h2>${W.ok}</h2><p>${wfModo === "hosp" ? X.okH : X.okV} ${W.okp}</p></div>`; return; }
   const busy = wfState === "busy", hosp = wfModo === "hosp";
-  const pronto = wfChk && !busy && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)));
+  const pronto = wfChk && !busy && (hosp ? (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)) : wfVc.length >= 4);
   el.innerHTML = `<div class="wrap"><h2>${W.h}</h2>
     <div class="wf-tabs" role="tablist"><button role="tab" aria-selected="${hosp}" class="${hosp?"on":""}" data-wfm="hosp">${X.hosp}</button><button role="tab" aria-selected="${!hosp}" class="${!hosp?"on":""}" data-wfm="vis">${X.vis}</button></div>
     ${hosp ? `<div class="wf-f"><label class="wf-in"><span>${X.uh}</span><input id="wfUh" inputmode="numeric" autocomplete="off" maxlength="5" value="${esc(wfUh)}"></label>
       <label class="wf-in"><span>${X.pin}</span><input id="wfPin" autocomplete="off" maxlength="4" value="${esc(wfPin)}"></label></div><p class="wf-s">${X.lgpd}</p>`
-      : `<p>${X.visTxt}</p>`}
+      : (wfVc && !wfVcDig) ? `<p class="wf-qrok">${X.qrOk}</p><p>${X.visTxt}</p>`
+      : `<p>${X.qrPede}</p>${qrPode() ? `<button class="btn wf-qr" id="wfQr" type="button">${X.qrBtn}</button>` : ""}
+         <label class="wf-in" style="margin-top:8px"><span>${X.qrOu}</span><input id="wfVc" autocomplete="off" autocapitalize="characters" maxlength="12" value="${esc(wfVc)}"></label>`}
     <label><input type="checkbox" id="wfChk"${wfChk ? " checked" : ""}> <span>${W.ac}</span></label>
     <details><summary>${W.ver}</summary><div>${W.termos}</div></details>
     <button class="btn" id="wfGo"${pronto ? "" : " disabled"}>${busy ? W.wait : hosp ? X.goH : X.goV}</button>
-    ${wfErr ? `<p class="err" role="alert">${wfErr === "eH" ? X.eH : (W[wfErr] || W.eNet)}</p>` : ""}</div>`;
+    ${wfErr ? `<p class="err" role="alert">${wfErr === "eH" ? X.eH : wfErr === "qr" ? X.qrErr : (W[wfErr] || W.eNet)}</p>` : ""}</div>`;
 }
 const wfBtn = () => { const b = document.getElementById("wfGo"); if (!b) return;
-  const hosp = wfModo === "hosp"; b.disabled = !(wfChk && wfState !== "busy" && (!hosp || (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)))); };
+  const hosp = wfModo === "hosp"; b.disabled = !(wfChk && wfState !== "busy" && (hosp ? (/^\d{1,5}$/.test(wfUh) && /^[0-9a-z]{4}$/i.test(wfPin)) : wfVc.length >= 4)); };
 document.addEventListener("input", e => {
   if (e.target.id === "wfUh"){ wfUh = e.target.value.replace(/\D/g,""); e.target.value = wfUh; wfErr = ""; wfBtn(); }
+  if (e.target.id === "wfVc"){ wfVc = e.target.value.replace(/[^0-9a-z]/gi,"").toUpperCase(); e.target.value = wfVc; wfVcDig = true; wfErr = ""; wfBtn(); }
   if (e.target.id === "wfPin"){ wfPin = e.target.value.replace(/[^0-9a-z]/gi,"").toUpperCase(); e.target.value = wfPin; wfErr = ""; wfBtn(); }
 });
 document.addEventListener("change", e => { if (e.target.id === "wfChk"){ wfChk = e.target.checked; wfErr = ""; wfBtn(); } });
 document.addEventListener("click", async e => {
+  if (e.target.id === "wfQr"){ qrAbrir(); return; }
+  if (e.target.id === "wfQrX"){ qrFechar(); return; }
   if (e.target.id === "wfAqui"){ wfAqui = true; wifiRender(); window.scrollTo(0,0); return; }
   const m = e.target.closest("[data-wfm]"); if (m){ wfModo = m.dataset.wfm; wfErr = ""; wifiRender(); return; }
   if (e.target.id !== "wfGo" || wfState !== "ask" || !wfChk) return;
   wfState = "busy"; wfErr = ""; wifiRender();
   try {
     const body = {id:WQ.id, ap:WQ.ap, t:WQ.t, aceite:true};
-    if (wfModo === "hosp"){ body.uh = wfUh; body.pin = wfPin; }
+    if (wfModo === "hosp"){ body.uh = wfUh; body.pin = wfPin; } else body.vc = wfVc;
     const r = await fetch(wifiApi(), {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body)});
     const j = await r.json().catch(() => ({}));
     if (r.ok && j.ok){
@@ -961,11 +978,41 @@ document.addEventListener("click", async e => {
       setTimeout(() => { wfState = "off"; wifiRender(); }, 9000);
       return;
     }
-    wfState = "ask"; wfErr = j.erro === "hospede" || (r.status === 401) ? "eH" : r.status === 404 ? "e404" : r.status === 429 ? "e429" : "eNet";
+    if (j.erro === "qr"){ wfVc = ""; wfVcDig = false; try { localStorage.removeItem(VCKEY); } catch(_){} }
+    wfState = "ask"; wfErr = j.erro === "qr" ? "qr" : j.erro === "hospede" || (r.status === 401) ? "eH" : r.status === 404 ? "e404" : r.status === 429 ? "e429" : "eNet";
   } catch(_){ wfState = "ask"; wfErr = "eNet"; }
   wifiRender();
 });
 
+
+/* leitor de QR dentro da página (Chrome/Android: BarcodeDetector nativo; sem biblioteca externa) */
+const qrPode = () => "BarcodeDetector" in window && !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia);
+let qrStream = null, qrLoop = 0;
+function qrFechar(){ cancelAnimationFrame(qrLoop); if (qrStream) qrStream.getTracks().forEach(x => x.stop()); qrStream = null; const o = document.getElementById("qrv"); if (o) o.remove(); }
+async function qrAbrir(){
+  const X = WX[lang] || WX.pt;
+  const o = document.createElement("div"); o.id = "qrv"; o.className = "qrv";
+  o.innerHTML = `<p>${X.qrCam}</p><video playsinline muted></video><button class="btn" id="wfQrX" type="button">${X.qrFechar}</button>`;
+  document.body.appendChild(o);
+  try {
+    qrStream = await navigator.mediaDevices.getUserMedia({video:{facingMode:"environment"}, audio:false});
+    const v = o.querySelector("video"); v.srcObject = qrStream; await v.play();
+    const det = new BarcodeDetector({formats:["qr_code"]});
+    const tick = async () => { if (!qrStream) return;
+      try { const r = await det.detect(v); const c = r && r[0] && vcDeUrl(r[0].rawValue); if (c){ wfVc = c.toUpperCase(); wfVcDig = false; vcSet(wfVc); wfErr = ""; qrFechar(); wifiRender(); return; } } catch(_){}
+      qrLoop = requestAnimationFrame(tick); };
+    tick();
+  } catch(_){ qrFechar(); wfErr = ""; alertaQr(X.qrSemCam); }
+}
+function alertaQr(m){ const el = document.getElementById("wf"); if (el){ const p = document.createElement("p"); p.className = "err"; p.textContent = m; el.querySelector(".wrap").appendChild(p); } }
+/* aberto pelo QR (câmera do celular) fora do login: guarda o código e provoca a tela de login do Wi-Fi */
+if (!WQ && new URLSearchParams(location.search).get("vc")){
+  try { history.replaceState(null, "", location.pathname + location.hash); } catch(_){}
+  fetch("https://www.gstatic.com/generate_204", {mode:"no-cors", cache:"no-store"}).then(() => {}, () => {
+    const X = WX[lang] || WX.pt, d = document.createElement("div"); d.className = "qrv"; d.innerHTML = `<p>${X.qrLendo}</p>`; document.body.appendChild(d);
+    setTimeout(() => { location.href = "http://neverssl.com/"; }, 900);
+  });
+}
 $("#yr").textContent = isoToday().slice(0,4);
 renderAll();
 
