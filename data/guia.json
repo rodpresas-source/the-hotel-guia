@@ -1818,7 +1818,9 @@
       "nome_en": "Hospital Português – Emergency",
       "nome_es": "Hospital Português – Urgencias",
       "distancia_hotel_en": "approx. 500 m / 7-min walk",
-      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie",
+      "dica_en": "Av. Princesa Isabel, 914 (emergency room on the 1st floor), Barra Avenida, Salvador – BA, 40140-901",
+      "dica_es": "Av. Princesa Isabel, 914 (urgencias en el 1.er piso), Barra Avenida, Salvador – BA, 40140-901"
     },
     {
       "nome": "Hospital Cárdio Pulmonar (Rede D'Or)",
@@ -1836,7 +1838,9 @@
       "distancia_hotel_en": "approx. 3,5 km / 10 min by car",
       "distancia_hotel_es": "aprox. 3,5 km / 10 min en coche",
       "link": "https://www.rededorsaoluiz.com.br/emergencias",
-      "fonte": "https://www.rededorsaoluiz.com.br/emergencias"
+      "fonte": "https://www.rededorsaoluiz.com.br/emergencias",
+      "dica_en": "Av. Garibaldi, 2199, Ondina, Salvador – BA",
+      "dica_es": "Av. Garibaldi, 2199, Ondina, Salvador – BA"
     },
     {
       "nome": "Hospital Jorge Valente (HJV)",
@@ -1854,7 +1858,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 4 km / 10 min by car",
-      "distancia_hotel_es": "aprox. 4 km / 10 min en coche"
+      "distancia_hotel_es": "aprox. 4 km / 10 min en coche",
+      "dica_en": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130",
+      "dica_es": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130"
     },
     {
       "nome": "Hospital Geral do Estado (HGE)",
@@ -1871,7 +1877,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 6 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 6 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 6 km / 15 min en coche",
+      "dica_en": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901",
+      "dica_es": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901"
     },
     {
       "nome": "Hospital Santa Izabel",
@@ -1889,7 +1897,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 6 km / 15–20 min by car",
-      "distancia_hotel_es": "aprox. 6 km / 15–20 min en coche"
+      "distancia_hotel_es": "aprox. 6 km / 15–20 min en coche",
+      "dica_en": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410",
+      "dica_es": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410"
     },
     {
       "nome": "Hospital Aliança (Rede D'Or)",
@@ -1907,7 +1917,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
-      "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche"
+      "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche",
+      "dica_en": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180",
+      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180"
     },
     {
       "nome": "Hospital Aliança Star (Rede D'Or)",
@@ -1925,7 +1937,9 @@
       "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
       "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche",
       "link": "https://www.rededorsaoluiz.com.br/emergencias",
-      "fonte": "https://www.rededorsaoluiz.com.br/emergencias"
+      "fonte": "https://www.rededorsaoluiz.com.br/emergencias",
+      "dica_en": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA",
+      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA"
     },
     {
       "nome": "Hospital da Bahia – Emergência 24h",
@@ -1945,7 +1959,9 @@
       "nome_en": "Hospital da Bahia – 24h Emergency",
       "nome_es": "Hospital da Bahia – Urgencias 24h",
       "distancia_hotel_en": "approx. 11 km / 25 min by car",
-      "distancia_hotel_es": "aprox. 11 km / 25 min en coche"
+      "distancia_hotel_es": "aprox. 11 km / 25 min en coche",
+      "dica_en": "R. Des. Álvaro Clemente de Oliveira, 349 (emergency entrance), Pituba, Salvador – BA, 41810-011",
+      "dica_es": "R. Des. Álvaro Clemente de Oliveira, 349 (entrada de urgencias), Pituba, Salvador – BA, 41810-011"
     },
     {
       "nome": "UPA Vale dos Barris",
@@ -1963,7 +1979,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 3 km / 10 min by car",
-      "distancia_hotel_es": "aprox. 3 km / 10 min en coche"
+      "distancia_hotel_es": "aprox. 3 km / 10 min en coche",
+      "dica_en": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA",
+      "dica_es": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA"
     },
     {
       "nome": "UPA Brotas",
@@ -1981,7 +1999,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 7 km / 20 min by car",
-      "distancia_hotel_es": "aprox. 7 km / 20 min en coche"
+      "distancia_hotel_es": "aprox. 7 km / 20 min en coche",
+      "dica_en": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140",
+      "dica_es": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140"
     },
     {
       "nome": "Farmácia Pague Menos – Marquês de Caravelas",
@@ -2000,7 +2020,9 @@
       "nome_en": "Pague Menos Pharmacy – Marquês de Caravelas",
       "nome_es": "Farmacia Pague Menos – Marquês de Caravelas",
       "distancia_hotel_en": "approx. 200 m / 3-min walk",
-      "distancia_hotel_es": "aprox. 200 m / 3 min a pie"
+      "distancia_hotel_es": "aprox. 200 m / 3 min a pie",
+      "dica_en": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240",
+      "dica_es": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240"
     },
     {
       "nome": "Drogasil – Marquês de Leão",
@@ -2017,7 +2039,9 @@
       "horario_en": "Daily 7am–11pm",
       "horario_es": "Todos los días 7h–23h",
       "distancia_hotel_en": "approx. 450 m / 6-min walk",
-      "distancia_hotel_es": "aprox. 450 m / 6 min a pie"
+      "distancia_hotel_es": "aprox. 450 m / 6 min a pie",
+      "dica_en": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230",
+      "dica_es": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230"
     },
     {
       "nome": "Drogasil – Av. Centenário",
@@ -2035,7 +2059,9 @@
       "horario_en": "Daily 6am–10pm",
       "horario_es": "Todos los días 6h–22h",
       "distancia_hotel_en": "approx. 500 m / 7-min walk",
-      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie",
+      "dica_en": "Av. Centenário, 2682, store, Graça, Salvador – BA, 40155-370",
+      "dica_es": "Av. Centenário, 2682, local, Graça, Salvador – BA, 40155-370"
     },
     {
       "nome": "Drogaria São Paulo – Graça",
@@ -2053,7 +2079,9 @@
       "horario_en": "Open 24 hours",
       "horario_es": "Abierto 24 horas",
       "distancia_hotel_en": "approx. 1,2 km / 15-min walk",
-      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie"
+      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie",
+      "dica_en": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122",
+      "dica_es": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122"
     },
     {
       "nome": "Drogasil – Graça",
@@ -2071,7 +2099,9 @@
       "horario_en": "Tue–Sat 24h; Mon from 6am; Sun until 10pm",
       "horario_es": "Mar–sáb 24h; lun desde las 6h; dom hasta las 22h",
       "distancia_hotel_en": "approx. 1,3 km / 15-min walk",
-      "distancia_hotel_es": "aprox. 1,3 km / 15 min a pie"
+      "distancia_hotel_es": "aprox. 1,3 km / 15 min a pie",
+      "dica_en": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200",
+      "dica_es": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200"
     },
     {
       "nome": "Shopping Barra",
@@ -2089,7 +2119,9 @@
       "horario_en": "Stores: Mon–Sat 9am–10pm, Sun 12pm–8pm",
       "horario_es": "Tiendas: lun–sáb 9h–22h, dom 12h–20h",
       "distancia_hotel_en": "approx. 200 m / 3-min walk",
-      "distancia_hotel_es": "aprox. 200 m / 3 min a pie"
+      "distancia_hotel_es": "aprox. 200 m / 3 min a pie",
+      "dica_en": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900",
+      "dica_es": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900"
     },
     {
       "nome": "Shopping Center Lapa",
@@ -2106,7 +2138,9 @@
       "horario_en": "Mon–Fri 9am–8pm, Sat 9am–7:30pm, Sun 11am–7pm",
       "horario_es": "Lun–vie 9h–20h, sáb 9h–19h30, dom 11h–19h",
       "distancia_hotel_en": "approx. 4 km / 12 min by car",
-      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
+      "dica_en": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045",
+      "dica_es": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045"
     },
     {
       "nome": "Shopping Piedade",
@@ -2124,7 +2158,9 @@
       "horario_en": "Mon–Sat 9am–8pm; closed Sun",
       "horario_es": "Lun–sáb 9h–20h; dom cerrado",
       "distancia_hotel_en": "approx. 4 km / 12 min by car",
-      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
+      "dica_en": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901",
+      "dica_es": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901"
     },
     {
       "nome": "Shopping da Bahia",
@@ -2142,7 +2178,9 @@
       "horario_en": "Mon–Sat 9am–10pm, Sun 12pm–9pm",
       "horario_es": "Lun–sáb 9h–22h, dom 12h–21h",
       "distancia_hotel_en": "approx. 10 km / 20–25 min by car",
-      "distancia_hotel_es": "aprox. 10 km / 20–25 min en coche"
+      "distancia_hotel_es": "aprox. 10 km / 20–25 min en coche",
+      "dica_en": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020",
+      "dica_es": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020"
     },
     {
       "nome": "Salvador Shopping",
@@ -2160,7 +2198,9 @@
       "horario_en": "Stores: Mon–Sat 9am–10pm, Sun 1pm–9pm (anchor stores and restaurants from 12pm)",
       "horario_es": "Tiendas: lun–sáb 9h–22h, dom 13h–21h (tiendas ancla y restaurantes desde las 12h)",
       "distancia_hotel_en": "approx. 11 km / 25 min by car",
-      "distancia_hotel_es": "aprox. 11 km / 25 min en coche"
+      "distancia_hotel_es": "aprox. 11 km / 25 min en coche",
+      "dica_en": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910",
+      "dica_es": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910"
     }
   ],
   "dicas": [

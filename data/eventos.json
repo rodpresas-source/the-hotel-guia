@@ -18,7 +18,12 @@
    "fonte": "https://www.salvadordabahia.com/eventos/arte-em-cartaz-guia-de-exposicoes-em-salvador/",
    "nota": "Já em cartaz; datas do guia de exposições do salvadordabahia.com (atualizado em 14/09/2026). Preço nos demais dias segue o ingresso do MUNCAB (não informado na página).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Exposición que toma a Exu como principio de conexión, movimiento y apertura de caminos en el arte y la cultura afrobrasileña.",
+   "horario_en": "Tue–Sun, 10am–5pm",
+   "horario_es": "Mar a dom, 10h a 17h",
+   "preco_en": "Free on Wednesdays and Sundays",
+   "preco_es": "Gratis los miércoles y domingos"
   },
   {
    "id": "3-obas-de-xango-caixa-pelourinho",
@@ -38,7 +43,12 @@
    "nota": "Data de abertura aproximada (julho/2026).",
    "img": "https://midias.correio24horas.com.br/2026/10/09/exposicao-3-obas-de-xango-3446110.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Muestra sobre la amistad entre Jorge Amado, Carybé y Dorival Caymmi y el legado afrobahiano, con más de 45 artistas.",
+   "horario_en": "Tue–Sun and holidays, 9am–7pm",
+   "horario_es": "Mar a dom y feriados, 9h a 19h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "nem-todo-viandante-muncab",
@@ -58,7 +68,12 @@
    "nota": "Gratuidade às quartas e domingos informada pela agenda do Muita Informação (01/10).",
    "img": "https://midias.correio24horas.com.br/2026/09/01/obra-de-nadia-tauquary-3399759.png",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Itinerancia de la 36ª Bienal de São Paulo en el museo nacional dedicado a la cultura afrobrasileña.",
+   "horario_en": "Tue–Sun, 10am–5pm",
+   "horario_es": "Mar a dom, 10h a 17h",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays and Sundays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles y domingos"
   },
   {
    "id": "atlantico-sertao-mab",
@@ -78,7 +93,12 @@
    "nota": null,
    "img": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/atlantico-sertao-exposicao-gratuita-reune-trabalho0140214500202609151147.jpg?xid=7235538",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Muestra con obras de más de 80 artistas que miran el sertón desde el arte contemporáneo.",
+   "horario_en": "Tue–Sun, 10am–6pm",
+   "horario_es": "Mar a dom, 10h a 18h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "idas-e-vindas-secas",
@@ -98,7 +118,12 @@
    "nota": "Temporada estendida: Alô Alô Bahia (23/10) lista sessões extras em 01/11, 06–08/11 e 13–15/11 a R$ 40/R$ 20; outras fontes ainda citam fim em 31/10.",
    "img": "https://midias.correio24horas.com.br/2026/10/07/espetaculo-idas-e-vindas-secas-3443703.jpg",
    "impacto": "baixo",
-   "publico_est": 150
+   "publico_est": 150,
+   "descricao_es": "Montaje inspirado en Graciliano Ramos, seleccionado por el 21º TCA.Núcleo de Teatro.",
+   "horario_en": "Fri–Sun, 8pm",
+   "horario_es": "Vie a dom, 20h",
+   "preco_en": "R$ 20 to R$ 40",
+   "preco_es": "R$ 20 a R$ 40"
   },
   {
    "id": "casa-do-carnaval-da-bahia",
@@ -118,7 +143,14 @@
    "nota": "A fonte traz valores divergentes (R$ 30 x R$ 20 inteira); confirmar na bilheteria.",
    "img": "https://midias.correio24horas.com.br/2023/03/18/casa-do-carnaval-esta-aberta-de-terca-a-domingo-das-11h-as-19h-os-ingressos-custam-r-30-inteira-e-r-15-meia-1341817.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Museo interactivo sobre la historia y los personajes del Carnaval de Salvador.",
+   "horario_en": "Tue–Sun, 11am–7pm",
+   "horario_es": "Mar a dom, 11h a 19h",
+   "preco_en": "R$ 20 to R$ 30 (half-price available); free on Wednesdays",
+   "preco_es": "R$ 20 a R$ 30 (media entrada disponible); gratis los miércoles",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo"
   },
   {
    "id": "cidade-da-musica-da-bahia",
@@ -138,7 +170,14 @@
    "nota": "Horários e preços de fonte de 2024; confirmar.",
    "img": "https://imgmd.net/images/c_limit%2Cw_1600/v1/guia/1700177/cidade-da-musica-da-bahia-em-salvador.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Museo inmersivo e interactivo sobre la música bahiana, del samba de roda al axé.",
+   "horario_en": "Tue–Sun, 10am–6pm (last entry 5pm)",
+   "horario_es": "Mar a dom, 10h a 18h (entrada hasta las 17h)",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo"
   },
   {
    "id": "espaco-pierre-verger-fotografia",
@@ -158,7 +197,12 @@
    "nota": "Horário geral e preço não informados (fonte de jun/2026).",
    "img": "https://www.bahianoticias.com.br/fotos/hall_noticias/4033/mg/Forte_Santa_Maria_Espaco%20%20Pierre%20Verger%20%20_Foto_Jefferson%20Peixoto_Secom_Pms12.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Espacio dedicado a la fotografía bahiana y al legado de Pierre Verger, en la propia Barra.",
+   "horario_en": "Guided tours Sat and Sun, 10am and 3pm",
+   "horario_es": "Visitas guiadas sáb y dom, 10h y 15h",
+   "recorrente_en": "Weekends (guided tours)",
+   "recorrente_es": "Fines de semana (visitas guiadas)"
   },
   {
    "id": "fundacao-casa-de-jorge-amado",
@@ -178,7 +222,14 @@
    "nota": "Horários e preços de fonte de 2024; confirmar.",
    "img": "https://www.bahianoticias.com.br/fotos/hall_enjoy/956/mg/Funda%C3%A7%C3%A3o%20Casa%20Jorge%20Amado.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Casona azul en el Largo do Pelourinho dedicada a la vida y obra de Jorge Amado y Zélia Gattai.",
+   "horario_en": "Mon–Fri 10am–6pm; Sat–Sun 10am–4pm",
+   "horario_es": "Lun a vie 10h a 18h; sáb y dom 10h a 16h",
+   "preco_en": "R$ 10 / R$ 5 (half-price)",
+   "preco_es": "R$ 10 / R$ 5 (media entrada)",
+   "recorrente_en": "Daily",
+   "recorrente_es": "Todos los días"
   },
   {
    "id": "museu-afro-brasileiro-ufba",
@@ -198,7 +249,14 @@
    "nota": "Horários e preços de fonte de 2024; confirmar.",
    "img": "https://www.bahianoticias.com.br/fotos/hall_enjoy/956/mg/141597,museu-afro-brasileiro-da-ufba-realiza-serie-de-encontros-sobre-diaspora-africana-3.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Acervo de arte y cultura africana y afrobrasileña, con los paneles de los orixás de Carybé.",
+   "horario_en": "Mon–Fri, 9am–5pm (closed on holidays)",
+   "horario_es": "Lun a vie, 9h a 17h (cierra feriados)",
+   "preco_en": "R$ 10 / R$ 5 (half-price)",
+   "preco_es": "R$ 10 / R$ 5 (media entrada)",
+   "recorrente_en": "Monday to Friday",
+   "recorrente_es": "Lunes a viernes"
   },
   {
    "id": "museu-nautico-farol-da-barra",
@@ -218,7 +276,14 @@
    "nota": "Horários e preços de fonte de 2024; confirmar no site do museu.",
    "img": "https://www.museunauticodabahia.org.br/wp-content/uploads/2019/01/museu-nautico.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Museo sobre la historia naval de Bahía dentro del fuerte del Farol da Barra, vecino al hotel y con la mejor puesta de sol de la ciudad.",
+   "horario_en": "Daily, 9am–6pm (ticket office until 5:45pm)",
+   "horario_es": "Todos los días, 9h a 18h (taquilla hasta 17h45)",
+   "preco_en": "R$ 15; R$ 10 residents; half-price for students and seniors",
+   "preco_es": "R$ 15; R$ 10 residentes; media entrada para estudiantes y mayores",
+   "recorrente_en": "Daily",
+   "recorrente_es": "Todos los días"
   },
   {
    "id": "a-vida-e-um-cabare-patifaria",
@@ -238,7 +303,12 @@
    "nota": null,
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1790461170275.jpeg"
+   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1790461170275.jpeg",
+   "descricao_es": "Comedia musical con Lelo Filho que abre los 40 años de la Companhia Baiana de Patifaria, creadora de 'A Bofetada', entre comedia de enredos y crítica social.",
+   "horario_en": "Saturdays (10/31, 11/7, 14 and 21) at 7pm",
+   "horario_es": "Sábados (31/10, 7, 14 y 21/11) a las 19h",
+   "preco_en": "R$ 90 / R$ 45 (half-price)",
+   "preco_es": "R$ 90 / R$ 45 (media entrada)"
   },
   {
    "id": "parque-encantado-parque-shopping-bahia-2026",
@@ -257,7 +327,12 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/29/natal-2026-shoppings-de-salvador-terao-patinacao-no-gelo-chegada-do-papai-noel-e-atracoes-para-criancas/",
    "nota": "Região metropolitana (cerca de 25 km da Barra). Globo de neve exige R$ 50 em compras.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Atracción navideña con pista de patinaje sobre hielo, globo de nieve interactivo y visitas de Papá Noel, ideal para familias con niños.",
+   "horario_en": "Santa Claus: Mon–Sat 2pm–8pm; Sun 1pm–8pm",
+   "horario_es": "Papá Noel: lun a sáb 14h a 20h; dom 13h a 20h",
+   "preco_en": "Ice skating from R$ 40",
+   "preco_es": "Patinaje sobre hielo desde R$ 40"
   },
   {
    "id": "tempo-rei-teatro-modulo",
@@ -276,7 +351,12 @@
    "fonte": "https://www.sympla.com.br/eventos/salvador-ba",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Temporada de espectáculo en el Teatro Módulo durante noviembre.",
+   "horario_en": "Sundays at 11am",
+   "horario_es": "Domingos a las 11h",
+   "preco_en": "R$ 60 / R$ 30 (half-price)",
+   "preco_es": "R$ 60 / R$ 30 (media entrada)"
   },
   {
    "id": "o-reinado-do-riso-caixa",
@@ -295,7 +375,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/31/salvador-recebe-exposicao-gratuita-sobre-o-humor-e-cultura-popular-em-novembro/",
    "nota": "Parceria CAIXA/Iphan, curadoria do Centro Nacional de Folclore e Cultura Popular. Ano do encerramento (17/01) inferido; horário não informado (a unidade funciona ter a dom, 9h às 18h, segundo outra mostra no mesmo espaço).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Exposición sobre el humor en las fiestas y tradiciones populares brasileñas, como el Carnaval, la Folia de Reis, el Bumba Meu Boi y el teatro de títeres, con un núcleo dedicado a las tradiciones bahianas.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "narrativas-da-beleza-acervo-da-laje-caixa",
@@ -314,7 +397,12 @@
    "fonte": "https://www.agendartecultura.com.br/artes-visuais/caixa-cultural-salvador-recebe-exposicao-narrativa-beleza-acervo-laje/",
    "nota": "Abertura em 04/11 às 19h; visitação de 05/11/2026 a 17/01/2027. Datas também no portal salvadordabahia.com.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Muestra con obras del Acervo da Laje, espacio de arte del Subúrbio Ferroviário de Salvador, que propone otras miradas sobre la belleza, la periferia y el arte popular.",
+   "horario_en": "Tue–Sun, 9am–6pm",
+   "horario_es": "Mar a dom, 9h a 18h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "cbcta-2026",
@@ -334,7 +422,8 @@
    "nota": "Evento profissional com inscrição.",
    "img": "https://cbcta2026.com.br/wp-content/uploads/2025/12/banner--scaled.jpg",
    "impacto": "medio",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Principal congreso latinoamericano del sector de ciencia y tecnología de alimentos."
   },
   {
    "id": "salvador-cocktail-festival-2026",
@@ -353,7 +442,10 @@
    "fonte": "https://www.salvadordabahia.com/eventos/salvador-cocktail-festival-2026/",
    "nota": "Congresso (palestras e masterclasses) em 15 e 16/11 no Palacete Tira-Chapéu, ingressos via Ingresse. Horários não informados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Primera edición del festival de coctelería, con bartenders invitados en más de 40 bares de la ciudad y fiesta callejera gratuita en la Rua Chile el fin de semana del 14 y 15/11.",
+   "preco_en": "Free street party (11/14 and 15); congress is paid",
+   "preco_es": "Fiesta callejera gratuita (14 y 15/11); congreso pago"
   },
   {
    "id": "congresso-neurologia-infantil-2026",
@@ -372,7 +464,8 @@
    "fonte": "https://ccs-salvador.com.br/agenda/",
    "nota": "Evento profissional com inscrição.",
    "impacto": "medio",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Encuentro nacional de neurología pediátrica."
   },
   {
    "id": "e-agro-2026",
@@ -391,7 +484,8 @@
    "fonte": "https://ccs-salvador.com.br/agenda/",
    "nota": "Público não divulgado; atrai visitantes do interior.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Feria y encuentro del agronegocio digital, con expositores y visitantes del interior y de otros estados."
   },
   {
    "id": "trama-feira-arte-contemporanea-palacete",
@@ -410,7 +504,12 @@
    "fonte": "https://www.salvadordabahia.com/eventos/palacete-arte-trama-feira-de-arte-contemporanea/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Primera feria de arte contemporáneo de Bahía, con más de 70 artistas y colectivos en pintura, escultura, fotografía, videoarte y performance, además de visitas guiadas y debates.",
+   "horario_en": "11/12, 5pm–10pm; 11/13–15, 10am–10pm",
+   "horario_es": "12/11 de 17h a 22h; 13 al 15/11 de 10h a 22h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "viva-dulce-2026-11-12",
@@ -430,7 +529,10 @@
    "nota": "Valor do convite não publicado.",
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/viva-dulce-2026.png"
+   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/viva-dulce-2026.png",
+   "descricao_es": "Noche benéfica de las Obras Sociales Irmã Dulce con show de Zizi Possi, cierre de Gilmelândia y cena del chef Vini Figueira; lo recaudado va al futuro Hospital de Ojos de la OSID.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "aguidavi-do-jeje-encontro-ancestral",
@@ -450,7 +552,12 @@
    "nota": null,
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/2026-08/Banner%20Evento%20Carrossel%20TCA%20-%20Aguidavi%20do%20Jej%C3%AA_0.png",
    "impacto": "medio",
-   "publico_est": 5000
+   "publico_est": 5000,
+   "descricao_es": "Orquesta de percusión de matriz jeje recibe a Chico César, Gilsons y BaianaSystem.",
+   "horario_en": "7pm (gates 5pm)",
+   "horario_es": "19h (puertas 17h)",
+   "preco_en": "R$ 48 to R$ 120",
+   "preco_es": "R$ 48 a R$ 120"
   },
   {
    "id": "enterrar-francisco-goethe-2026-11-13",
@@ -469,7 +576,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/23/de-classicos-a-comedias-veja-pecas-em-cartaz-em-salvador-ate-novembro/",
    "nota": "Fonte não detalha elenco nem preço; sinopse a confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Espectáculo teatral en temporada corta de dos noches en el teatro del ICBA, con entradas por Sympla.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "esperanca-salvador-2026",
@@ -489,7 +599,12 @@
    "nota": null,
    "img": "https://static.billygraham.org/cms-uploads/2026/3/Adobe_Stock_1774060757_f7832a1101.jpg",
    "impacto": "medio",
-   "publico_est": 15000
+   "publico_est": 15000,
+   "descricao_es": "Evento evangélico con concierto gratuito de Charity Gayle, Jahaziel Band, Paulo César Baruk y Theo Rubia.",
+   "horario_en": "11/13 at 8pm; 11/14 at 6pm",
+   "horario_es": "13/11 a las 20h; 14/11 a las 18h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "furduncinho-salvador-2026-11-13",
@@ -508,7 +623,10 @@
    "fonte": "https://ligadanoticia.com.br/entretenimento/agenda-cultural-ivete-sangalo-guilherme-arante-joao-gomes-e-mais-veja-lista-de-eventos-para-novembro-em-salvador/",
    "nota": "Atrações e preço não informados na fonte.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta nocturna en el Pelourinho inspirada en el ambiente del pre-Carnaval, con pagode y axé hasta la madrugada.",
+   "horario_en": "7pm–4am",
+   "horario_es": "19h a 4h"
   },
   {
    "id": "grupo-galpao-ensaio-sobre-a-cegueira",
@@ -527,7 +645,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/19/teatro-vila-velha-movimenta-a-cena-cultural-de-salvador-e-divulga-programacao-ate-dezembro-confira/",
    "nota": "Datas apenas na matéria do Alô Alô Bahia sobre a programação do Vila Velha; página oficial/venda não acessada. Horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El Grupo Galpão, de Minas Gerais, presenta su adaptación de la novela de José Saramago, con dramaturgia y dirección de Rodrigo Portella."
   },
   {
    "id": "roda-de-samba-grupo-botequim-2026-11-13",
@@ -546,7 +665,10 @@
    "fonte": "https://ligadanoticia.com.br/entretenimento/agenda-cultural-ivete-sangalo-guilherme-arante-joao-gomes-e-mais-veja-lista-de-eventos-para-novembro-em-salvador/",
    "nota": "Preço não informado na fonte.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Tradicional rueda de samba del Grupo Botequim en el largo de Santo Antônio, con sambas clásicos y vista a la Bahía de Todos los Santos.",
+   "horario_en": "9pm–12:30am",
+   "horario_es": "21h a 0h30"
   },
   {
    "id": "2o-encontro-de-sindicos-da-bahia-2026-11-14",
@@ -565,7 +687,8 @@
    "fonte": "https://ccs-salvador.com.br/agenda/",
    "nota": null,
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Encuentro para administradores y gestión de condominios."
   },
   {
    "id": "afro-fashion-day-2026-2026-11-14",
@@ -585,7 +708,8 @@
    "nota": "Horário a confirmar; edições anteriores foram gratuitas.",
    "img": "https://midias.correio24horas.com.br/2026/07/29/apresentacao-do-tema-do-afro-fashion-day-2026-3354022.jpeg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Desfile de moda afro al aire libre en el Centro Histórico, uno de los destacados del Noviembre Negro en Salvador."
   },
   {
    "id": "ana-lucia-torre-olhos-nos-olhos-2026-11-14",
@@ -604,7 +728,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/05/05/ana-lucia-torre-volta-a-salvador-com-o-espetaculo-olhos-nos-olhos/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "A los 80 años, la actriz conversa con el público sobre amor, tiempo y maternidad, al ritmo de canciones de Chico Buarque.",
+   "preco_en": "From R$ 70",
+   "preco_es": "Desde R$ 70"
   },
   {
    "id": "henrique-e-juliano-manifesto-musical-2026-11-14",
@@ -623,7 +750,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/23/ivete-sangalo-gilberto-gil-e-dominguinho-veja-os-shows-de-novembro-em-salvador/",
    "nota": "Data também publicada pelo bnews (venda pela Guichê Web); página oficial de ingressos e preços não localizados. Público não divulgado: impacto alto pelo porte de turnê de estádio (a confirmar). Mesma noite de Ivete Clareou.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El dúo sertanejo más escuchado del país trae a Salvador la gira Manifesto Musical, que ya llenó estadios como el Allianz Parque y el Maracanã.",
+   "horario_en": "7pm",
+   "horario_es": "19h"
   },
   {
    "id": "ivete-clareou-salvador",
@@ -642,7 +772,12 @@
    "fonte": "https://muitainformacao.com.br/cultura/ivete-sangalo-anuncia-participacoes-de-o-kannalha-e-toni-garrido-no-clareou-deste-sabado-em-salvador/",
    "nota": "Horário pela Agenda Cultural Salvador; preço atualizado conforme Portal M (11/11/2026).",
    "impacto": "medio",
-   "publico_est": 15000
+   "publico_est": 15000,
+   "descricao_es": "Ivete Sangalo en un proyecto dedicado al samba y al pagode, con Léo Santana, Toni Garrido, O Kannalha, É O Tchan, Diggo, Uel y otros invitados.",
+   "horario_en": "2pm",
+   "horario_es": "14h",
+   "preco_en": "From R$ 170",
+   "preco_es": "Desde R$ 170"
   },
   {
    "id": "o-segredo-de-brokeback-mountain-sesc",
@@ -662,7 +797,12 @@
    "nota": "Classificação 16 anos.",
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1790797778040.jpeg"
+   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1790797778040.jpeg",
+   "descricao_es": "Versión teatral de la historia de amor entre dos vaqueros, con texto de Ashley Robinson y dirección de Moacyr Góes, protagonizada por Daniel Tonsig y Júlio Oliveira.",
+   "horario_en": "11/14 at 8pm; 11/15 at 7pm",
+   "horario_es": "14/11 a las 20h; 15/11 a las 19h",
+   "preco_en": "R$ 200 / R$ 100 (half-price)",
+   "preco_es": "R$ 200 / R$ 100 (media entrada)"
   },
   {
    "id": "samba-abraco-negro-2026-11-14",
@@ -681,7 +821,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2103-afropunk-banjo-novo-e-mais-confira-eventos-que-agitarao-a-programacao-cultural-de-salvador-no-novembro-negro",
    "nota": "Também listado no Ticket Maker (sáb 14/11). Bairro do Clube Fantoches não confirmado na fonte.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Tarde de samba en la programación del Noviembre Negro, celebrando la cultura afrobrasileña en uno de los clubes tradicionales de la ciudad.",
+   "horario_en": "From 1pm",
+   "horario_es": "Desde las 13h",
+   "preco_en": "From R$ 50",
+   "preco_es": "Desde R$ 50"
   },
   {
    "id": "simone-que-mulher-e-essa",
@@ -701,7 +846,12 @@
    "nota": null,
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/styles/wide/public/2026-09/Banner%20Evento%20Destaque%20TCA%20-%20Simone%20Que%20Mulher%20%C3%A9%20Essa.png?itok=Skl5ipsA",
    "impacto": "baixo",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Gira conmemorativa de los 50 años de carrera de la cantante Simone.",
+   "horario_en": "8pm",
+   "horario_es": "20h",
+   "preco_en": "R$ 110 to R$ 340",
+   "preco_es": "R$ 110 a R$ 340"
   },
   {
    "id": "tao-lindo-quanto-eu-me-lembro-musical",
@@ -721,7 +871,12 @@
    "nota": null,
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1792117372975.PNG"
+   "img": "https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1792117372975.PNG",
+   "descricao_es": "Musical con banda en vivo basado en la historia real de los hermanos Hanna y George Brady, separados por la Segunda Guerra. Queda muy cerca del hotel, en la Barra.",
+   "horario_en": "11/14, 15, 20 and 21 at 8pm",
+   "horario_es": "14, 15, 20 y 21/11 a las 20h",
+   "preco_en": "R$ 70 / R$ 35 (half-price)",
+   "preco_es": "R$ 70 / R$ 35 (media entrada)"
   },
   {
    "id": "travessia-itaparicasalvador-2026-11-14",
@@ -740,7 +895,8 @@
    "fonte": "https://www.salvadordabahia.com/eventos/calendario-nautico-de-salvador-2026-programacao-de-novembro/",
    "nota": "Calendário Náutico 2026; detalhes com os organizadores.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Travesía a nado entre la isla de Itaparica y Salvador."
   },
   {
    "id": "ensaio-narcizinho-2026-11-15",
@@ -759,7 +915,10 @@
    "fonte": "https://www.salvadordabahia.com/eventos/ensaio-de-narcizinho-edicao-de-novembro/",
    "nota": "Ano inferido pela data de publicação (20/10/2026). Preço não informado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Narcizinho, ex vocalista de Olodum conocido como 'La Voz Afro de Brasil', retoma sus ensayos con repertorio afrobahiano.",
+   "horario_en": "From 5pm",
+   "horario_es": "Desde las 17h"
   },
   {
    "id": "fogo-novos-ventos-casa-rosa-2026-11-15",
@@ -779,7 +938,10 @@
    "nota": "Preço no Sympla.",
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/fogo-apresenta-novos-ventos.jpg"
+   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/fogo-apresenta-novos-ventos.jpg",
+   "descricao_es": "Tarde de nueva música brasileña en la Casa Rosa, con Joyce Alane, Dani Black e invitados.",
+   "horario_en": "4pm",
+   "horario_es": "16h"
   },
   {
    "id": "por-do-jau-jau-edson-gomes-e-jorge-vercillo-2026-11-15",
@@ -799,7 +961,12 @@
    "nota": "16+. Fora de Salvador (Lauro de Freitas).",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/08/por-do-jau.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Concierto en la playa al atardecer con Jau recibiendo a Edson Gomes y Jorge Vercillo, entre reggae y MPB.",
+   "horario_en": "3pm",
+   "horario_es": "15h",
+   "preco_en": "R$ 75 to R$ 150 + fee",
+   "preco_es": "R$ 75 a R$ 150 + tasa"
   },
   {
    "id": "timbalada-2026-11-15",
@@ -819,7 +986,8 @@
    "nota": "Preços e horários ainda não divulgados (fonte de 12/10).",
    "img": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/timbalada-divulga-datas-dos-ensaios-de-verao-em-sa0140547700202610122117.jpg?xid=7278855",
    "impacto": "baixo",
-   "publico_est": 5000
+   "publico_est": 5000,
+   "descricao_es": "Los tradicionales ensayos de verano de Carlinhos Brown y la Timbalada en el Candeal."
   },
   {
    "id": "bk-castelos-e-ruinas",
@@ -838,7 +1006,10 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Preço não informado.",
    "impacto": "baixo",
-   "publico_est": 4000
+   "publico_est": 4000,
+   "descricao_es": "El rapero BK' celebra los 10 años del álbum Castelos & Ruínas.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "fernando-pedrosa-xaveca-a-plateia-e-bebe-vinho-2026-11-19",
@@ -858,7 +1029,10 @@
    "nota": "Horário do Sympla (19h30); a Agenda Cultural Salvador indica 21h30.",
    "img": "https://assets.bileto.sympla.com.br/eventmanager/production/9m6c5n4mdgv1noeanmagr5igc8qbib6jg0cb7hle2ms8elprs5qahkdbj1rvv8k3qu9sep48cb4km7av79hquc8l1a3cv8j1k62kj7.jpeg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Show de humor interactivo con Fernando Pedrosa.",
+   "horario_en": "7:30pm",
+   "horario_es": "19h30"
   },
   {
    "id": "neojiba-irmas-labeque-2026-11-19",
@@ -877,7 +1051,12 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/14/salvador-recebe-pela-primeira-vez-as-apresentacoes-de-katia-e-marielle-labeque-junto-com-a-neojiba/",
    "nota": "Data, horário e preço da matéria do Alô Alô Bahia; venda pela Sympla (página não acessível). publico_est = lotação aproximada da Sala Principal do TCA.",
    "impacto": "baixo",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Las pianistas francesas Katia y Marielle Labèque debutan en Salvador como solistas de la Orquesta NEOJIBA, dirigida por Ricardo Castro, con Poulenc y la Sinfonía nº 5 de Mahler. La noche incluye la entrega de la Medalla Villa-Lobos 2026 al NEOJIBA.",
+   "horario_en": "8pm",
+   "horario_es": "20h",
+   "preco_en": "R$ 50 / R$ 25 (half-price)",
+   "preco_es": "R$ 50 / R$ 25 (media entrada)"
   },
   {
    "id": "uma-por-ano-ze-felipe-2026-11-19",
@@ -896,7 +1075,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/21/ze-felipe-confirma-festa-em-salvador-e-promete-edicao-especial-do-uma-por-ano-em-novembro/",
    "nota": "A matéria do Alô Alô Bahia ainda não citava o local; Casa Pia aparece no Ticket Maker e no portal salvadordabahia.com. Horário e preço não confirmados. Bairro aproximado (Av. Jequitaia/São Joaquim).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta itinerante del cantante Zé Felipe, que llega a Salvador con una edición especial de sertanejo, piseiro e invitados."
   },
   {
    "id": "vitoria-x-bragantino-2026",
@@ -915,7 +1095,10 @@
    "fonte": "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
    "nota": "CBF detalhou a 35ª rodada: quinta 19/11, 19h30, Barradão. Público do Vitória no Barradão em 2026: média ~21,7 mil nos primeiros jogos (GOAL, fev/2026: 16,5 mil x Remo e 27 mil x Flamengo); capacidade ~30 mil. Adversário de menor apelo – impacto médio.",
    "impacto": "medio",
-   "publico_est": 21747
+   "publico_est": 21747,
+   "descricao_es": "El Vitória recibe al Red Bull Bragantino en el Barradão por la 35ª fecha del Brasileirão.",
+   "horario_en": "7:30pm",
+   "horario_es": "19h30"
   },
   {
    "id": "baile-charme-pelourinho-2026-11-20",
@@ -934,7 +1117,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2103-afropunk-banjo-novo-e-mais-confira-eventos-que-agitarao-a-programacao-cultural-de-salvador-no-novembro-negro",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Baile de charme y black music en el Día de la Conciencia Negra, abierto al público en el Centro Histórico.",
+   "horario_en": "From 7pm",
+   "horario_es": "Desde las 19h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "consciencia-negra-salvador-2026-11-20",
@@ -953,7 +1141,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/11/03/novembro-negro-em-salvador-tera-afropunk-homenagens-e-programacao-cultural-gratuita-veja-agenda/",
    "nota": "Datas confirmadas pela programação do Novembro Negro 2026 do Governo da Bahia/Sepromi; horários e locais de 2026 não divulgados. Em edições anteriores: Lavagem de Zumbi pela manhã na Praça da Sé, Marcha às 14h–15h no Campo Grande (página da Prefeitura/Pelourinho Dia e Noite) e Caminhada da Liberdade à tarde, do Curuzu ao Pelourinho. Feriado nacional. Público estimado em alguns milhares – sem número oficial.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "En el feriado del 20 de noviembre, Salvador recibe los actos tradicionales del Noviembre Negro: el lavado de la estatua de Zumbi, la marcha por el centro y la Caminata de la Libertad, que sale del Curuzu hacia el Pelourinho.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "ensaios-de-verao-raizes-pelourinho",
@@ -973,7 +1164,12 @@
    "nota": "Datas na página: 20/11, 18/12, 14/01 e 22/01 (um card do mesmo site cita 06/11; confirmar). Não informa o artista de cada data.",
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/ensaios-de-verao-raizes.png"
+   "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/ensaios-de-verao-raizes.png",
+   "descricao_es": "Serie gratuita de ensayos de verano en el Pelourinho dedicada al pagodão y a las raíces de la música bahiana.",
+   "horario_en": "From 6pm",
+   "horario_es": "Desde las 18h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "festival-afrofuturismo-2026",
@@ -992,7 +1188,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2113-maior-festival-de-afrofuturismo-da-america-latina-tera-programacao-gratuita-em-salvador",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Festival que reúne debates, música y arte en torno al afrofuturismo, con programación abierta en el Centro Histórico durante el feriado de la Conciencia Negra.",
+   "horario_en": "Talks from 10am (11/20)",
+   "horario_es": "Debates desde las 10h (20/11)",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "fragmentos-de-amor-consciencia-negra-2026-11-20",
@@ -1011,7 +1212,8 @@
    "fonte": "https://www.salvadordabahia.com/eventos/o-que-ta-rolando-em-salvador-de-30-de-outubro-a-1o-de-novembro-de-2026/",
    "nota": "Data vista na barra lateral do portal oficial (sex 20/11) e no Ticket Maker (20–21/11, provável virada da madrugada). Atrações e preço não confirmados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Edición especial de Conciencia Negra de la fiesta Fragmentos de Amor, con samba y música negra en el Pelourinho en el feriado."
   },
   {
    "id": "manifesto-banjo-novo-mam-2026-11-20",
@@ -1030,7 +1232,8 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2103-afropunk-banjo-novo-e-mais-confira-eventos-que-agitarao-a-programacao-cultural-de-salvador-no-novembro-negro",
    "nota": "Horário e preço 'a divulgar' na fonte; também citado em https://ligadanoticia.com.br/entretenimento/agenda-cultural-ivete-sangalo-guilherme-arante-joao-gomes-e-mais-veja-lista-de-eventos-para-novembro-em-salvador/",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Edición especial de Conciencia Negra de la fiesta Banjo Novo en el MAM, con música afrobahiana y vista a la Bahía de Todos los Santos."
   },
   {
    "id": "marco-luque-e-disso-que-eu-to-falando",
@@ -1049,7 +1252,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/08/07/marco-luque-volta-a-salvador-em-novembro-com-o-espetaculo-e-disso-que-eu-to-falando/",
    "nota": "Datas da matéria do Alô Alô Bahia (ano inferido); horários não informados; página Sympla não acessível.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Marco Luque vuelve con un espectáculo de humor que revive personajes como Jackson Faive, Mustafary y Mary Help en un guion nuevo.",
+   "preco_en": "From R$ 60",
+   "preco_es": "Desde R$ 60"
   },
   {
    "id": "toque-na-maxima-milsinho-2026-11-20",
@@ -1068,7 +1274,10 @@
    "fonte": "https://www.bahianoticias.com.br/holofote/noticia/85484-milsinho-e-toque-dez-levam-toque-na-maxima-a-salvador-com-time-de-convidados",
    "nota": "Ingressos pela Bilhetify; preço não informado. Feriado da Consciência Negra.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Noche de arrocha y piseiro con Milsinho y la banda Toque Dez, con invitados como Silfarley, Netto Brito, Devinho Novaes y Simone Morena, seguida de un after con paredão.",
+   "horario_en": "From 7pm",
+   "horario_es": "Desde las 19h"
   },
   {
    "id": "bahia-x-coritiba-2026",
@@ -1087,7 +1296,10 @@
    "fonte": "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
    "nota": "CBF detalhou a 36ª rodada: sábado 21/11, 17h30, Fonte Nova. Bahia teve média de ~33 mil pagantes na Fonte Nova na Série A 2026 (A Tarde, jul/2026, dados CBF); público típico 30–40 mil.",
    "impacto": "alto",
-   "publico_est": 32963
+   "publico_est": 32963,
+   "descricao_es": "El Bahia recibe al Coritiba en la Fonte Nova por la 36ª fecha del Brasileirão, ya en la recta final del campeonato.",
+   "horario_en": "5:30pm",
+   "horario_es": "17h30"
   },
   {
    "id": "ccbb-salvador-nacao-ile",
@@ -1106,7 +1318,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/19/salvador-ganhara-centro-cultural-banco-do-brasil-em-novembro-com-exposicao-em-homenagem-ao-ile-aiye/",
    "nota": "Data de abertura (21/11, Semana da Consciência Negra) confirmada em Correio e Alô Alô Bahia; site oficial do CCBB não acessado. Horários, preço (CCBBs costumam ser gratuitos) e data de encerramento não divulgados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El nuevo Centro Cultural Banco do Brasil abre en el histórico Palácio da Aclamação con 'Nação Ilê', exposición de unos 800 m² sobre la trayectoria del bloque afro Ilê Aiyê."
   },
   {
    "id": "copa-axe-de-vela-2026-11-21",
@@ -1125,7 +1338,8 @@
    "fonte": "https://www.salvadordabahia.com/eventos/calendario-nautico-de-salvador-2026-programacao-de-novembro/",
    "nota": "Calendário Náutico 2026; detalhes com os organizadores.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Regata en el Yacht Club da Bahia."
   },
   {
    "id": "festa-do-rbd-edicao-rebelween-2026-11-21",
@@ -1145,7 +1359,10 @@
    "nota": null,
    "img": "https://images.sympla.com.br/6a451fc3c12b7-xs.png",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta temática dedicada a RBD, en la Barra.",
+   "horario_en": "10pm",
+   "horario_es": "22h"
   },
   {
    "id": "festival-movae-2026",
@@ -1164,7 +1381,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/11/03/novembro-negro-em-salvador-tera-afropunk-homenagens-e-programacao-cultural-gratuita-veja-agenda/",
    "nota": "Horários, locais exatos e preço ainda não divulgados (também em https://www.bahianoticias.com.br/bnhall/enjoy/2103-afropunk-banjo-novo-e-mais-confira-eventos-que-agitarao-a-programacao-cultural-de-salvador-no-novembro-negro). Categoria 'festa' por falta de opção melhor (é feira/festival).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Festival del Noviembre Negro dedicado al emprendimiento negro, con ferias, talleres, rondas de negocios y programación cultural en el Centro Histórico."
   },
   {
    "id": "o-bale-que-voce-nao-ve",
@@ -1184,7 +1402,12 @@
    "nota": "Sala, horário e preço não informados.",
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/styles/wide/public/2026-09/Banner%20Evento%20Destaque%20TCA%20-%20Bal%C3%A9%20Folcl%C3%B3rico%20da%20Bahia.png?itok=wJWGiYrG",
    "impacto": "baixo",
-   "publico_est": 3000
+   "publico_est": 3000,
+   "descricao_es": "Espectáculo de danza en la programación de noviembre del TCA.",
+   "horario_en": "11/21 at 8pm; 11/22 at 7pm (check the theater's page: it also mentions 9pm on Sunday)",
+   "horario_es": "21/11 a las 20h; 22/11 a las 19h (confirma en la página del teatro: también indica 21h el domingo)",
+   "preco_en": "R$ 60 (half-price) to R$ 140",
+   "preco_es": "R$ 60 (media) a R$ 140"
   },
   {
    "id": "corre-fofo-salvador-2026-11-22",
@@ -1203,7 +1426,10 @@
    "fonte": "https://www.salvadordabahia.com/eventos/corre-fofo-salvador/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Carrera de 5 km seguida de fiesta con Robyssão, Marvvila y Pagod'art.",
+   "horario_en": "6am",
+   "horario_es": "6h"
   },
   {
    "id": "pacha-dron-todas-elas-2026-11-22",
@@ -1223,7 +1449,10 @@
    "nota": null,
    "img": "https://images.sympla.com.br/6a5cf658d2ee9-xs.png",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Espectáculo de danza y arte en la Alianza Francesa.",
+   "horario_en": "6pm",
+   "horario_es": "18h"
   },
   {
    "id": "conferencia-nacional-oab-2026",
@@ -1243,7 +1472,8 @@
    "nota": "Evento profissional com inscrição; alta demanda hoteleira no período. Expectativa de mais de 20 mil participantes.",
    "img": "https://conferencia.oab.org.br/img/25cnab-og.png",
    "impacto": "alto",
-   "publico_est": 20000
+   "publico_est": 20000,
+   "descricao_es": "El mayor evento jurídico del mundo según el Guinness, con más de 20 mil participantes esperados."
   },
   {
    "id": "carol-delgado-energia-feminina-2026-11-26",
@@ -1262,7 +1492,10 @@
    "fonte": "https://www.sympla.com.br/eventos/salvador-ba",
    "nota": "Confirmado na listagem Sympla de Salvador (qui, 26/11, 20h). Preço não exibido.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "La humorista Carol Delgado trae su stand-up 'Energia Feminina', con reflexiones divertidas sobre las relaciones y el universo femenino.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "tarsila-a-brasileira",
@@ -1282,7 +1515,12 @@
    "nota": "Classificação 18 anos segundo o site do TCA.",
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/styles/wide/public/2026-09/Banner%20Evento%20Destaque%20TCA%20-%20Tarsila%2C%20A%20Brasileira_0.png?itok=SEDjgVCr",
    "impacto": "baixo",
-   "publico_est": 6000
+   "publico_est": 6000,
+   "descricao_es": "Musical protagonizado por Claudia Raia sobre la vida y la obra de la pintora Tarsila do Amaral.",
+   "horario_en": "11/26–27 8pm; 11/28 3pm and 8pm; 11/29 6pm",
+   "horario_es": "26-27/11 20h; 28/11 15h y 20h; 29/11 18h",
+   "preco_en": "R$ 25 to R$ 350",
+   "preco_es": "R$ 25 a R$ 350"
   },
   {
    "id": "alta-sociedade-sesc",
@@ -1302,7 +1540,8 @@
    "nota": "Horários e preço não informados.",
    "img": "https://www.correiodamanha.com.br/_midias/jpg/2026/09/24/600x378/1_te-703921.jpg",
    "impacto": "baixo",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Temporada corta de espectáculo en el Teatro Sesc Casa do Comércio."
   },
   {
    "id": "bahia-vinho-show-2026",
@@ -1321,7 +1560,10 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2115-bahia-vinho-show-chega-a-15a-edicao-com-degustacoes-e-masterclasses-em-salvador",
    "nota": "Masterclasses com 25 vagas por sessão, mediante reserva antecipada. Horários não divulgados na matéria.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Feria de vinos con degustaciones de etiquetas nacionales e importadas y masterclasses incluidas en la entrada.",
+   "preco_en": "About R$ 147 (Sympla)",
+   "preco_es": "Cerca de R$ 147 (Sympla)"
   },
   {
    "id": "como-sobreviver-a-propria-familia-2026-11-27",
@@ -1341,7 +1583,10 @@
    "nota": null,
    "img": "https://assets.bileto.sympla.com.br/eventmanager/production/2oq547tujhvqqf1dj7a2ehmfpp0hclbv3lu3nk9pl86h5it54te6a41r07eeouodtnhhnnfmrj407nakej005aa0sk11s51s2vvqb0v.webp",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Comedia teatral sobre los enredos de la vida en familia.",
+   "horario_en": "9pm",
+   "horario_es": "21h"
   },
   {
    "id": "guilherme-arantes-50-anos-luz",
@@ -1361,7 +1606,12 @@
    "nota": null,
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/2026-08/Banner%20Evento%20Carrossel%20TCA%20-%20Guilherme%20Arantes.png",
    "impacto": "medio",
-   "publico_est": 5000
+   "publico_est": 5000,
+   "descricao_es": "Guilherme Arantes celebra 50 años de carrera con clásicos como Planeta Água y Amanhã.",
+   "horario_en": "7pm (gates 5pm)",
+   "horario_es": "19h (puertas 17h)",
+   "preco_en": "R$ 80 to R$ 220",
+   "preco_es": "R$ 80 a R$ 220"
   },
   {
    "id": "concerto-contra-racismo-farol-da-barra-2026-11-28",
@@ -1380,7 +1630,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/11/03/novembro-negro-em-salvador-tera-afropunk-homenagens-e-programacao-cultural-gratuita-veja-agenda/",
    "nota": "Atrações, horário e gratuidade 'a divulgar' (também em https://www.bahianoticias.com.br/bnhall/enjoy/2103-afropunk-banjo-novo-e-mais-confira-eventos-que-agitarao-a-programacao-cultural-de-salvador-no-novembro-negro). Muito perto do hotel; acompanhar anúncio do Governo da Bahia/Sepromi. Público não estimado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Concierto al aire libre en el Farol da Barra que cierra el seminario internacional sobre racismo y reparación, dentro de la programación del Noviembre Negro."
   },
   {
    "id": "david-coelho-tudo-vira-mpb-2026-11-28",
@@ -1400,7 +1651,10 @@
    "nota": null,
    "img": "https://assets.bileto.sympla.com.br/eventmanager/production/2ngb6e2vcnea9aa99rfro78ftpog61m59bqcs66n830nlg87aidv4iq0j0mqi2l4paienooirgj28hua62ugqmrn57kriplfeb73a56.jpeg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Show en el que David Coelho transforma éxitos de varios géneros en MPB.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "dominguinho-fonte-nova",
@@ -1420,7 +1674,8 @@
    "nota": "Horário e preço não informados; vendas Ingresse.",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/05/Projeto-Dominguinho.jpg",
    "impacto": "alto",
-   "publico_est": 35000
+   "publico_est": 35000,
+   "descricao_es": "Encuentro de forró y MPB nordestina de los tres artistas, en única presentación en Bahía."
   },
   {
    "id": "netinho-de-paula-pot-2026-11-28",
@@ -1439,7 +1694,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/13/netinho-de-paula-adia-show-em-salvador-apos-cirurgia-veja-a-nova-data/",
    "nota": "Nova data informada pelo Alô Alô Bahia (ingressos de 17/10 valem para 28/11; venda Sympla). Horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Show de pagode de Netinho de Paula en el Pelourinho, reprogramado de octubre tras una cirugía del cantante."
   },
   {
    "id": "o-motociclista-no-globo-da-morte",
@@ -1458,7 +1714,12 @@
    "fonte": "https://www.sympla.com.br/eventos/salvador-ba",
    "nota": "Datas na listagem Sympla de Salvador (28–29/11); preço atualizado pelo soteroteatro (antes: Alô Alô citava a partir de R$ 25).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Eduardo Moscovis interpreta a un hombre tranquilo que se ve envuelto en un episodio de violencia extrema, en texto de Leonardo Netto sobre los límites de la naturaleza humana.",
+   "horario_en": "8pm",
+   "horario_es": "20h",
+   "preco_en": "R$ 180 / R$ 50 (half-price)",
+   "preco_es": "R$ 180 / R$ 50 (media entrada)"
   },
   {
    "id": "republica-do-reggae-2026",
@@ -1478,7 +1739,8 @@
    "nota": "Ano não explícito na fonte (inferido 2026); horário e preço não informados.",
    "img": "https://elcabong.com.br/wp-content/uploads/2025/05/republica-do-reggae.jpg",
    "impacto": "medio",
-   "publico_est": 15000
+   "publico_est": 15000,
+   "descricao_es": "Festival de reggae con Alpha Blondy, Johnny Clarke, Edson Gomes, Ponto de Equilíbrio y Jah9."
   },
   {
    "id": "congresso-nacional-apaes-2026",
@@ -1498,7 +1760,8 @@
    "nota": "Evento profissional com inscrição.",
    "img": "https://www.bahianoticias.com.br/fotos/hall_noticias/10232/IMAGEM_NOTICIA_9.jpg?checksum=1779976683",
    "impacto": "alto",
-   "publico_est": 4000
+   "publico_est": 4000,
+   "descricao_es": "Principal encuentro de la red Apae, dedicado a la inclusión de personas con discapacidad."
   },
   {
    "id": "festival-educadora-fm-24",
@@ -1518,7 +1781,12 @@
    "nota": "Capacidade de 4.500 ingressos (2.700 inteiras + 1.800 meias). Ingresso social R$ 30 + 1 kg de alimento.",
    "img": "https://www.ba.gov.br/tca/sites/site-tca/files/2026-09/Banner%20Evento%20Carrossel%20TCA%20-%2024%C2%BA%20Festival%20de%20M%C3%BAsica%20da%20Educadora%20FM.png",
    "impacto": "baixo",
-   "publico_est": 4500
+   "publico_est": 4500,
+   "descricao_es": "Final del festival de música de la radio pública bahiana, con show de cierre de Lazzo Matumbi durante la premiación.",
+   "horario_en": "7pm (headliner: Lazzo Matumbi)",
+   "horario_es": "19h (atracción principal: Lazzo Matumbi)",
+   "preco_en": "R$ 25 to R$ 50",
+   "preco_es": "R$ 25 a R$ 50"
   },
   {
    "id": "resenha-do-mumu-mumuzinho-e-convidados-2026-11-29",
@@ -1538,7 +1806,8 @@
    "nota": "Data corrigida para 29/11 (Bahia Notícias, Portal MF e Pida). A Pida cita Arena A Tarde como local; confirmar.",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/05/mumuzinho-2-1.webp",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Gira de 10 años de Mumuzinho: rueda de samba en escenario central con invitados."
   },
   {
    "id": "vitoria-x-santos-2026",
@@ -1557,7 +1826,10 @@
    "fonte": "https://muitainformacao.com.br/esporte/cbf-datas-horarios-jogos-finais-bahia-vitoria-brasileirao/",
    "nota": "Data e horário definidos pela CBF (37ª rodada, domingo 29/11, 16h). Público do Vitória no Barradão em 2026: média ~21,7 mil nos primeiros jogos (GOAL, fev/2026); capacidade ~30 mil. Santos tem apelo nacional – impacto alto.",
    "impacto": "alto",
-   "publico_est": 21747
+   "publico_est": 21747,
+   "descricao_es": "Último partido del Vitória en casa en el año: el León recibe al Santos en el Barradão por la 37ª fecha del Brasileirão.",
+   "horario_en": "4pm",
+   "horario_es": "16h"
   },
   {
    "id": "bahia-x-atletico-mg-2026",
@@ -1576,7 +1848,10 @@
    "fonte": "https://muitainformacao.com.br/esporte/cbf-datas-horarios-jogos-finais-bahia-vitoria-brasileirao/",
    "nota": "38ª e última rodada, quarta 02/12/2026, 21h30 (todos os jogos no mesmo horário). Bahia teve média de ~33 mil pagantes na Fonte Nova na Série A 2026 (A Tarde, jul/2026, dados CBF).",
    "impacto": "alto",
-   "publico_est": 32963
+   "publico_est": 32963,
+   "descricao_es": "El Bahia cierra el Brasileirão en casa contra el Atlético-MG en la Fonte Nova, por la 38ª y última fecha.",
+   "horario_en": "9:30pm",
+   "horario_es": "21h30"
   },
   {
    "id": "confuzos-dos-a-deux-vila-velha",
@@ -1595,7 +1870,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/19/teatro-vila-velha-movimenta-a-cena-cultural-de-salvador-e-divulga-programacao-ate-dezembro-confira/",
    "nota": "Datas apenas na matéria do Alô Alô Bahia; dias da semana, horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "La compañía franco-brasileña Dos à Deux, conocida por su teatro gestual sin palabras, hace temporada de diciembre en el Vila Velha."
   },
   {
    "id": "festa-de-santa-barbara-2026",
@@ -1615,7 +1891,12 @@
    "nota": "Data fixa; horários baseados nas edições anteriores. Programação 2026 ainda não divulgada.",
    "img": "https://www.bahianoticias.com.br/fotos/hall_noticias/7170/IMAGEM_NOTICIA_9.jpg?checksum=1733257277",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta sincrética de Santa Bárbara/Iansã: misa campal, procesión hasta el Cuerpo de Bomberos y conciertos gratuitos en las plazas, con fieles vestidos de rojo.",
+   "horario_en": "From 6am (dawn celebration); open-air mass at 8am",
+   "horario_es": "Desde las 6h (alborada); misa campal a las 8h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "alexandre-pires-samba-de-classe",
@@ -1635,7 +1916,10 @@
    "nota": "Preço não informado.",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/06/Alexandre-Pires_5.jpg",
    "impacto": "baixo",
-   "publico_est": 4000
+   "publico_est": 4000,
+   "descricao_es": "Alexandre Pires presenta el show Pagonejo Bão.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "bahia-tech-experience-btx26",
@@ -1655,7 +1939,10 @@
    "nota": "Público estimado não divulgado; programação ainda não publicada. Perfil majoritariamente local/regional.",
    "img": "https://images.sympla.com.br/6ac4f7083aaae-lg.png",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Encuentro de tecnología e innovación de Sebrae Startups Bahia, con charlas sobre IA, biotecnología y emprendimiento, feria de soluciones y rondas de negocios con inversores.",
+   "horario_en": "12/05 from 6pm; until 10pm on 12/07",
+   "horario_es": "05/12 desde las 18h; hasta las 22h del 07/12"
   },
   {
    "id": "ensaio-pagodart-2026-12-05",
@@ -1674,7 +1961,8 @@
    "fonte": "https://www.bahianoticias.com.br/holofote/coluna/1057-blog-do-marrom-proximo-ensaio-do-pagodart-recebe-filipe-escandurras",
    "nota": "Data também no Ticket Maker (sáb 05/12). Horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Segunda edición de la temporada de ensayos de verano de Pagod'art, con participación del cantante y compositor Filipe Escandurras."
   },
   {
    "id": "festival-hit-2026",
@@ -1694,7 +1982,10 @@
    "nota": "Preço não informado; vendas Meu Bilhete.",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/08/Festival-Hit-2026.jpg",
    "impacto": "medio",
-   "publico_est": 15000
+   "publico_est": 15000,
+   "descricao_es": "Festival de trap y rap con Matuê, Filipe Ret, Orochi, Duquesa y MC Cabelinho.",
+   "horario_en": "6pm",
+   "horario_es": "18h"
   },
   {
    "id": "jau-na-concha-dezembro",
@@ -1713,7 +2004,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2071-confira-a-programacao-confirmada-do-teatro-castro-alves-ate-dezembro",
    "nota": "Horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": 4000
+   "publico_est": 4000,
+   "descricao_es": "El cantante Jau, voz del axé y del reggae bahiano, en concierto en la Concha Acústica.",
+   "horario_en": "5pm",
+   "horario_es": "17h",
+   "preco_en": "From R$ 50",
+   "preco_es": "Desde R$ 50"
   },
   {
    "id": "timbalada-2026-12-06",
@@ -1733,7 +2029,8 @@
    "nota": "Preços e horários ainda não divulgados (fonte de 12/10).",
    "img": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/timbalada-divulga-datas-dos-ensaios-de-verao-em-sa0140547700202610122117.jpg?xid=7278855",
    "impacto": "baixo",
-   "publico_est": 5000
+   "publico_est": 5000,
+   "descricao_es": "Los tradicionales ensayos de verano de Carlinhos Brown y la Timbalada en el Candeal."
   },
   {
    "id": "corrida-100-voce-2026-12-08",
@@ -1752,7 +2049,8 @@
    "fonte": "https://ccs-salvador.com.br/agenda/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Carrera de calle con salida en el Centro de Convenciones."
   },
   {
    "id": "festa-conceicao-da-praia-2026",
@@ -1772,7 +2070,12 @@
    "nota": "Data fixa; horários baseados na edição de 2025. Feriado municipal: comércio pode fechar.",
    "img": "https://www.bahianoticias.com.br/fotos/principal_noticias/311325/IMAGEM_NOTICIA_9.jpg?checksum=1765204397",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta de la patrona de Bahía, con misa campal frente a la basílica y procesión por las calles del Comércio.",
+   "horario_en": "Dawn celebration 5am; open-air mass 8am, followed by a procession",
+   "horario_es": "Alborada 5h; misa campal 8h, seguida de procesión",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "salon-du-chocolat-brasil-2026",
@@ -1791,7 +2094,8 @@
    "fonte": "https://www.bemparana.com.br/bem-estar/gastronomia/salon-du-chocolat-chega-ao-brasil-em-dezembro-e-leva-o-pais-ao-centro-da-chocolateria-mundial/",
    "nota": "Horários e preços não divulgados nas fontes consultadas.",
    "impacto": "medio",
-   "publico_est": 15000
+   "publico_est": 15000,
+   "descricao_es": "Primera edición en Brasil de la mayor feria internacional de cacao y chocolate, con chefs reconocidos y unos 200 expositores."
   },
   {
    "id": "maria-rita-redescobrir-2",
@@ -1811,7 +2115,10 @@
    "nota": "Sala (Principal ou Concha), horário e preço não informados.",
    "img": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3735872:1769121293/maria%20rita%20turne%20redescobrir%202.webp?f=16x9&h=720&w=1280&$p$f$h$w=77a50c8",
    "impacto": "baixo",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Maria Rita revisita el repertorio de Elis Regina en la segunda parte del proyecto Redescobrir.",
+   "horario_en": "7pm",
+   "horario_es": "19h"
   },
   {
    "id": "festival-de-forro-salvador-2026",
@@ -1830,7 +2137,12 @@
    "fonte": "https://muitainformacao.com.br/cultura/salvador-tera-festival-gratuito-de-forro-em-dezembro-no-rio-vermelho-veja-detalhes/",
    "nota": "Convidados ainda a anunciar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Dos días de forró pé de serra al aire libre en Rio Vermelho, con Jairo Barboza y banda recibiendo invitados.",
+   "horario_en": "From 1pm",
+   "horario_es": "Desde las 13h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "nattan-em-salvador-2026-12-12",
@@ -1849,7 +2161,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/20/nattan-vem-a-salvador-para-show-especial-em-dezembro-veja-detalhes/",
    "nota": "Local ainda não divulgado; venda pelo Ticket Maker desde 21/10. Preço não informado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Show especial del cantante de forró y piseiro Nattan, uno de los más escuchados del país, en presentación única en la capital bahiana.",
+   "horario_en": "9pm",
+   "horario_es": "21h"
   },
   {
    "id": "regata-de-encerramento-yacht-club-da-bahia-2026-12-12",
@@ -1868,7 +2183,8 @@
    "fonte": "https://www.salvadordabahia.com/eventos/calendario-nautico-de-salvador-2026-programacao-de-dezembro/",
    "nota": "Calendário Náutico 2026.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Regata que cierra la temporada náutica del Yacht Club."
   },
   {
    "id": "run-t-2026-12-12",
@@ -1887,7 +2203,8 @@
    "fonte": "https://ccs-salvador.com.br/agenda/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Carrera de calle con base en el Centro de Convenciones."
   },
   {
    "id": "uma-viagem-ao-mundo-de-frutas",
@@ -1906,7 +2223,12 @@
    "fonte": "https://www.sympla.com.br/eventos/salvador-ba",
    "nota": "Horário, preço e bairro não confirmados.",
    "impacto": "baixo",
-   "publico_est": 1000
+   "publico_est": 1000,
+   "descricao_es": "Espectáculo infantil de fin de semana.",
+   "horario_en": "Extra show on 12/12 at 6:30pm (gates 5:30pm)",
+   "horario_es": "Función extra el 12/12 a las 18h30 (puertas 17h30)",
+   "preco_en": "R$ 100 (half-price) to R$ 260; charity ticket R$ 130 to R$ 160 with 1 kg of food",
+   "preco_es": "R$ 100 (media) a R$ 260; entrada solidaria de R$ 130 a R$ 160 con 1 kg de alimento"
   },
   {
    "id": "festa-de-santa-luzia-2026",
@@ -1925,7 +2247,12 @@
    "fonte": "https://www.salvadordabahia.com/?p=18573",
    "nota": "Data fixa (13/12); horários da página permanente da Prefeitura. Programação 2026 ainda não publicada.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta de la patrona de los ojos: tras la misa solemne, la procesión sigue hasta la Conceição da Praia y los devotos se lavan los ojos en la fuente centenaria de la iglesia.",
+   "horario_en": "Masses at 6am, 8am, 10am (solemn, followed by a procession), 3pm and 5pm",
+   "horario_es": "Misas a las 6h, 8h, 10h (solemne, seguida de procesión), 15h y 17h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "sarau-du-brown-2026-12-13",
@@ -1944,7 +2271,12 @@
    "fonte": "https://muitainformacao.com.br/cultura/carlinhos-brown-anuncia-xand-aviao-para-a-abertura-do-sarau-du-brown-em-salvador/",
    "nota": "Convidados e preços pelo Portal M (11/11/2026); venda pela Sympla.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Carlinhos Brown abre la temporada de verano del Sarau du Brown en el Candeal, recibiendo a Xand Avião y Os Garotin.",
+   "horario_en": "From 4pm",
+   "horario_es": "Desde las 16h",
+   "preco_en": "R$ 120 to R$ 600",
+   "preco_es": "R$ 120 a R$ 600"
   },
   {
    "id": "liniker-bye-bye-caju",
@@ -1963,7 +2295,12 @@
    "fonte": "https://www.bahianoticias.com.br/holofote/noticia/85379-show-de-liniker-na-turne-bye-bye-caju-em-salvador-e-adiado-para-dezembro-saiba-mais",
    "nota": "Data original 07/11 (ou 09/11) foi adiada; ingressos antigos valem para a nova data, confirmar com a Eventim.",
    "impacto": "alto",
-   "publico_est": 30000
+   "publico_est": 30000,
+   "descricao_es": "Show de cierre de la era Caju de Liniker, trasladado de noviembre a diciembre.",
+   "horario_en": "5pm (opening)",
+   "horario_es": "17h (apertura)",
+   "preco_en": "From R$ 32.50 (half-price)",
+   "preco_es": "Desde R$ 32,50 (media entrada)"
   },
   {
    "id": "cpm-22-arena-a-tarde-2026-12-19",
@@ -1983,7 +2320,12 @@
    "nota": null,
    "impacto": "baixo",
    "publico_est": null,
-   "img": "https://eventicket.s3-sa-east-1.amazonaws.com/imgs/52259-01-banner-principal.png"
+   "img": "https://eventicket.s3-sa-east-1.amazonaws.com/imgs/52259-01-banner-principal.png",
+   "descricao_es": "La banda paulista CPM 22 presenta los éxitos del rock nacional que marcaron su carrera.",
+   "horario_en": "9:30pm (doors 7pm)",
+   "horario_es": "21h30 (abre a las 19h)",
+   "preco_en": "From R$ 60",
+   "preco_es": "Desde R$ 60"
   },
   {
    "id": "e-a-bahia-vida-baco-kannalha-2026-12-19",
@@ -2002,7 +2344,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/20/baco-exu-do-blues-e-o-kannalha-se-encontram-em-evento-musical-em-salvador/",
    "nota": "Data confirmada em matéria do Alô Alô Bahia; venda pela Ticketmaker (setores Arena e Camarote). Bairro do Alto do Andu presumido (Av. Paralela) — confirmar. Preço não informado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Encuentro del rapero Baco Exu do Blues con O Kannalha, ícono del pagodão bahiano, en una noche de música bahiana contemporánea.",
+   "horario_en": "9pm",
+   "horario_es": "21h"
   },
   {
    "id": "natal-das-estrelas-osba-2026",
@@ -2021,7 +2366,8 @@
    "fonte": "https://www.bahianoticias.com.br/holofote/noticia/86099-ivete-sangalo-e-confirmada-como-atracao-principal-do-natal-das-estrelas-2026-da-osba",
    "nota": "Ivete confirmada na abertura (19/12); atrações do dia 20 a anunciar. Horário e ingressos ainda não divulgados. Também em https://atarde.com.br/salvador/ivete-sangalo-sera-atracao-principal-de-concerto-beneficente-da-osba-1408324",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Concierto benéfico de Navidad de la Orquesta Sinfónica de Bahía, dirigido por Carlos Prazeres, con Ivete Sangalo en la noche de apertura; lo recaudado va al Hospital Martagão Gesteira."
   },
   {
    "id": "o-maior-encontro-do-samba",
@@ -2041,7 +2387,12 @@
    "nota": "Horário pela Agenda Cultural Salvador.",
    "img": "https://elcabong.com.br/wp-content/uploads/2026/02/Zeca-Alcione-e-Aragao.jpg",
    "impacto": "alto",
-   "publico_est": 35000
+   "publico_est": 35000,
+   "descricao_es": "Zeca Pagodinho, Alcione y Jorge Aragão juntos en el estadio, con participación de Martinho da Vila.",
+   "horario_en": "8pm",
+   "horario_es": "20h",
+   "preco_en": "R$ 72.50 to R$ 890",
+   "preco_es": "R$ 72,50 a R$ 890"
   },
   {
    "id": "pagodiggo-candyall-2026-12-19",
@@ -2060,7 +2411,8 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/28/diggo-anuncia-edicao-do-pagodiggo-no-candyall-gueto-square-saiba-detalhes/",
    "nota": "Edição anterior (Casa Pia, ago/2026) reuniu cerca de 2.500 pessoas, segundo a imprensa. Horário e preço não informados.",
    "impacto": "baixo",
-   "publico_est": 2500
+   "publico_est": 2500,
+   "descricao_es": "Fiesta de pagode encabezada por el cantante Diggo, en edición ampliada en el espacio de Carlinhos Brown en el Candeal, con participaciones especiales."
   },
   {
    "id": "rodrigo-marques-stand-up",
@@ -2079,7 +2431,10 @@
    "fonte": "https://www.sympla.com.br/eventos/salvador-ba",
    "nota": "Preço e bairro não confirmados.",
    "impacto": "baixo",
-   "publico_est": 500
+   "publico_est": 500,
+   "descricao_es": "Show de comedia stand-up de Rodrigo Marques.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "timbalada-2026-12-20",
@@ -2099,7 +2454,8 @@
    "nota": "Preços e horários ainda não divulgados (fonte de 12/10).",
    "img": "https://cdn.atarde.com.br/img/Artigo-Destaque/1400000/timbalada-divulga-datas-dos-ensaios-de-verao-em-sa0140547700202610122117.jpg?xid=7278855",
    "impacto": "medio",
-   "publico_est": 5000
+   "publico_est": 5000,
+   "descricao_es": "Los tradicionales ensayos de verano de Carlinhos Brown y la Timbalada en el Candeal."
   },
   {
    "id": "hello-adele-tribute-2026-12-21",
@@ -2118,7 +2474,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2118-hello-adele-tribute-chega-a-salvador-com-apresentacao-unica-no-teatro-jorge-amado",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Espectáculo homenaje con los grandes éxitos de Adele, en presentación única.",
+   "horario_en": "9pm",
+   "horario_es": "21h",
+   "preco_en": "From R$ 85 (Sympla)",
+   "preco_es": "Desde R$ 85 (Sympla)"
   },
   {
    "id": "candlelight-classicos-de-natal-2026-12-27",
@@ -2137,7 +2498,12 @@
    "fonte": "https://www.bahianoticias.com.br/bnhall/enjoy/2114-candlelight-leva-classicos-natalinos-a-concerto-especial-no-palacete-tirachapeu",
    "nota": "Classificação 8 anos; menores de 16 acompanhados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El cuarteto de cuerdas Monte Cristo interpreta clásicos navideños a la luz de las velas en una casona histórica.",
+   "horario_en": "9pm (60 min)",
+   "horario_es": "21h (60 min)",
+   "preco_en": "From R$ 70 (Fever)",
+   "preco_es": "Desde R$ 70 (Fever)"
   },
   {
    "id": "festival-virada-salvador-2027",
@@ -2157,7 +2523,10 @@
    "nota": "Demais atrações ainda a anunciar (fonte de 15/10/2026). Lounge com open bar vendido pela Meu Bilhete. Ivete Sangalo (contagem regressiva) e Bell Marques confirmados para 31/12; demais atrações a anunciar. Lounge Virada à venda desde 15/10 pelo Meu Bilhete.",
    "img": "https://midias.correio24horas.com.br/2025/12/31/festival-virada-salvador-3077351.jpeg",
    "impacto": "alto",
-   "publico_est": 800000
+   "publico_est": 800000,
+   "descricao_es": "El mayor Año Nuevo público de Salvador, con Ivete Sangalo en la cuenta regresiva y Bell Marques en la noche del 31/12.",
+   "preco_en": "Free (lounge paid separately)",
+   "preco_es": "Gratis (lounge se paga aparte)"
   },
   {
    "id": "reveillon-7-mares-2027",
@@ -2177,7 +2546,12 @@
    "nota": "Preço varia por lote.",
    "img": "https://media.betimelapse.com.br/uploads/2026/08/1786552536475_R__veillon_7_Mares_2027_-_Capa_Timelapse.jpg",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta de Año Nuevo con barra libre frente al mar en Pituba, con shows de Escandurras, Diggo y Uel. Barra libre para mayores de 18 años.",
+   "horario_en": "10pm",
+   "horario_es": "22h",
+   "preco_en": "From R$ 280 (current batch)",
+   "preco_es": "Desde R$ 280 (lote actual)"
   },
   {
    "id": "reveillon-ayo-mam-2027",
@@ -2196,7 +2570,10 @@
    "fonte": "https://aloalobahia.com/noticias/2026/10/16/mam-tera-reveillon-com-carla-visi-dan-miranda-e-open-bar-em-salvador-saiba-detalhes/",
    "nota": "Data e horário da matéria do Alô Alô Bahia; 1º lote à venda na Ticketmaker (preço não informado). Outra fonte (bahiaterra.com) cita um 'Réveillon Maravilha' com Belo no MAM — conferir se são festas distintas.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Año Nuevo con barra libre en el Solar do Unhão, frente a la Bahía de Todos los Santos, con shows de Carla Visi y Dan Miranda.",
+   "horario_en": "9pm–4am",
+   "horario_es": "21h a 4h"
   },
   {
    "id": "reveillon-baluarte-2027",
@@ -2215,7 +2592,10 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Confirmado apenas na listagem da Agenda Cultural Salvador; página de venda não acessada. Preço não informado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fin de año en el Centro Histórico con Alinne Rosa, Bailinho de Quinta y Cortejo Afro en la Chácara Baluarte.",
+   "horario_en": "10pm",
+   "horario_es": "22h"
   },
   {
    "id": "reveillon-blue-praia-bar-2027",
@@ -2234,7 +2614,10 @@
    "fonte": "https://bahiasocialvip.com.br/2026/10/reveillon-2027-salvador-festas-programacao/",
    "nota": "Atrações e horário não divulgados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta de Año Nuevo con los pies en la arena en Rio Vermelho, con DJs, performances y paquete all inclusive.",
+   "preco_en": "From R$ 690 (premium all-inclusive)",
+   "preco_es": "Desde R$ 690 (all inclusive premium)"
   },
   {
    "id": "reveillon-bom-jesus-navegantes-2027",
@@ -2253,7 +2636,12 @@
    "fonte": "https://www.bahianoticias.com.br/noticia/312108-festa-do-senhor-bom-jesus-dos-navegantes-e-nossa-senhora-da-boa-viagem-tem-ponto-alto-nesta-quarta",
    "nota": "Data fixa (31/12 e 01/01); horários com base na edição 2025/26. Demanda já coberta pelo Réveillon.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Procesión marítima bicentenaria entre Boa Viagem y Conceição da Praia, pegada al Año Nuevo.",
+   "horario_en": "12/31 9am and 3:30pm; 01/01 from 10am",
+   "horario_es": "31/12 9h y 15h30; 01/01 desde las 10h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "reveillon-da-baia-2027",
@@ -2273,7 +2661,10 @@
    "nota": "Evento pago; preço não informado. Fica a poucos minutos a pé do hotel.",
    "img": "https://images.sympla.com.br/6a7211de566f9-lg.png",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta de Año Nuevo con vista a la Bahía de Todos los Santos, con Alexandre Leão, Máquinas na Pista, Joga Lima y DJ Lúcio K.",
+   "horario_en": "10pm",
+   "horario_es": "22h"
   },
   {
    "id": "reveillon-luau-escuna-2027",
@@ -2292,7 +2683,12 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Data e horário confirmados na listagem da Agenda Cultural Salvador; preço e atrações via bahiaterra.com. Página Sympla não acessível. Capacidade limitada à embarcação.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fin de año navegando por la Bahía de Todos los Santos en goleta, con bufé, bebidas y música en vivo de Jota Zô y A Remandiola Baiana.",
+   "horario_en": "9pm (boarding)",
+   "horario_es": "21h (embarque)",
+   "preco_en": "R$ 396 per person (buffet and drinks included)",
+   "preco_es": "R$ 396 por persona (bufé y bebidas incluidos)"
   },
   {
    "id": "reveillon-mahi-mahi-2027",
@@ -2311,7 +2707,10 @@
    "fonte": "https://bahiasocialvip.com.br/2026/10/reveillon-2027-salvador-festas-programacao/",
    "nota": "Preço não informado (serviço à la carte). Próximo ao hotel.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fin de año en el muelle del Mahi Mahi, junto a la Bahía de Todos los Santos, con shows de Os Sungas y Resenha do Bigg y servicio a la carta.",
+   "horario_en": "From 8pm",
+   "horario_es": "Desde las 20h"
   },
   {
    "id": "reveillon-patamares-jau-2027",
@@ -2330,7 +2729,10 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Confirmado apenas na listagem da Agenda Cultural Salvador; página de venda não acessada. Preço não informado.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Año Nuevo con los pies en la arena en Patamares con shows de Jau y Filhos de Jorge.",
+   "horario_en": "10pm",
+   "horario_es": "22h"
   },
   {
    "id": "ensaio-de-verao-da-timbalada-2027-01-03",
@@ -2349,7 +2751,8 @@
    "fonte": "https://atarde.com.br/verao/timbalada-divulga-datas-dos-ensaios-de-verao-em-salvador-confira-1405477",
    "nota": "Horário e preço ainda não divulgados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Ensayo de verano de la Timbalada en el Candeal, cuna del grupo de Carlinhos Brown."
   },
   {
    "id": "festa-de-reis-lapinha-2027",
@@ -2368,7 +2771,12 @@
    "fonte": "https://muitainformacao.com.br/cidades/dia-de-reis-na-lapinha-reune-fe-cultura-e-tradicao-em-salvador-nesta-terca-feira/",
    "nota": "Data fixa (06/01); horários da edição 2026, programação 2027 ainda não divulgada.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Abre el ciclo de fiestas populares del verano de Salvador, con alborada, misas y desfile de los ternos de reyes por las calles de Lapinha.",
+   "horario_en": "Dawn celebration 6am; festive mass in the square at 7pm",
+   "horario_es": "Alborada a las 6h; misa festiva en la plaza a las 19h",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "bahia-x-ssa-baiano-2027",
@@ -2387,7 +2795,8 @@
    "fonte": "https://www.bahianoticias.com.br/esportes/noticia/80697-fbf-divulga-confrontos-da-primeira-fase-do-campeonato-baiano-2027-confira",
    "nota": "Data-base da FBF (sábado 09 ou domingo 10/01/2027), divulgada após o Conselho Técnico de 21/10/2026; dia e horário a confirmar. Impacto médio: estreia de estadual contra adversário pequeno costuma ter público bem abaixo da média do Brasileirão (Bahia teve média de ~33 mil pagantes na Série A 2026, segundo A Tarde) – estimativa sem número oficial.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Debut del Bahia en el Campeonato Bahiano 2027, recibiendo al SSA en la Fonte Nova. Día y horario exactos aún por definir por la FBF."
   },
   {
    "id": "churrasquinho-menos-e-mais-2027",
@@ -2406,7 +2815,10 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Ano inferido pela ordem da listagem da Agenda Cultural Salvador; público não divulgado (turnê lota arenas de 15–30 mil).",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Maratón de pagode del grupo Menos é Mais con escenario 360°, en una gran área abierta.",
+   "horario_en": "2pm",
+   "horario_es": "14h"
   },
   {
    "id": "vitoria-x-barcelona-baiano-2027",
@@ -2425,7 +2837,8 @@
    "fonte": "https://www.bahianoticias.com.br/esportes/noticia/80697-fbf-divulga-confrontos-da-primeira-fase-do-campeonato-baiano-2027-confira",
    "nota": "Data-base da FBF (09 ou 10/01/2027); dia e horário a confirmar. Público típico de estreia de estadual no Barradão é bem menor que no Brasileirão – sem número oficial; impacto baixo/local.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El Vitória abre su campaña en el Campeonato Bahiano 2027 contra el Barcelona de Ilhéus, en el Barradão. Día y horario por confirmar."
   },
   {
    "id": "sarau-du-brown-2027-01-10",
@@ -2444,7 +2857,8 @@
    "fonte": "https://muitainformacao.com.br/cultura/carlinhos-brown-anuncia-xand-aviao-para-a-abertura-do-sarau-du-brown-em-salvador/",
    "nota": "Data confirmada pelo Portal M; convidados, horário e preços ainda não anunciados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Nueva edición del Sarau du Brown, la fiesta de verano de Carlinhos Brown en el Candeal."
   },
   {
    "id": "lavagem-do-bonfim-2027",
@@ -2463,7 +2877,12 @@
    "fonte": "https://jornalgrandebahia.com.br/2026/09/salvador-santuario-do-bonfim-abre-vendas-de-camisas-para-caminhada-de-2027-renda-apoia-projeto-bom-samaritano/",
    "nota": "Data (quinta, 14/01/2027) via calendário IFBA citado na fonte; segunda quinta após o Dia de Reis. Fontes citam 'centenas de milhares'/'multidão', sem número oficial.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Cortejo de 8 km con bahianas y devotos hasta la Colina Sagrada, una de las mayores fiestas populares de la ciudad.",
+   "horario_en": "Morning (procession leaves from Conceição da Praia)",
+   "horario_es": "Mañana (el cortejo sale de Conceição da Praia)",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "ensaio-de-verao-da-timbalada-2027-01-17",
@@ -2482,7 +2901,8 @@
    "fonte": "https://atarde.com.br/verao/timbalada-divulga-datas-dos-ensaios-de-verao-em-salvador-confira-1405477",
    "nota": "Horário e preço ainda não divulgados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Ensayo de verano de la Timbalada en el Candeal, cuna del grupo de Carlinhos Brown."
   },
   {
    "id": "ba-vi-baiano-2027",
@@ -2501,7 +2921,8 @@
    "fonte": "https://atarde.com.br/esportes/primeiro-bavi-de-2027-tem-data-definida-saiba-quando-1406577",
    "nota": "Data-base definida no Conselho Técnico da FBF (sábado 23 ou domingo 24/01/2027); dia e horário finais a confirmar. Fora da janela até 14/01, incluído por ser o clássico. Impacto alto: Ba-Vi na Fonte Nova costuma ter casa cheia (estimativa 40 mil+, capacidade do estádio ~47 mil); torcida única é praxe.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Primer clásico Ba-Vi de 2027, con el Bahia de local en la Fonte Nova. Es el partido más disputado del fútbol bahiano y moviliza a toda la ciudad."
   },
   {
    "id": "festival-de-verao-salvador-2027",
@@ -2521,7 +2942,12 @@
    "nota": "Capacidade: Arena 15 mil + Camarote 10 mil por dia. Line-up: sáb 23/01 Gilsons, BaianaSystem conv. IZA, Maria Bethânia, O Grande Encontro, Péricles & Ferrugem, É o Tchan; dom 24/01 Marina Sena, João Gomes, Jão, Saulo, Timbalada & Olodum. Venda geral desde 20/10 (Sympla e Ticket Maker).",
    "img": "https://www.salvadordabahia.com/wp-content/uploads/2026/10/festival-de-verao-2027.png",
    "impacto": "alto",
-   "publico_est": 25000
+   "publico_est": 25000,
+   "descricao_es": "Festival de dos días con Maria Bethânia, BaianaSystem con IZA, Jão, João Gomes, Marina Sena, Timbalada & Olodum y otros.",
+   "horario_en": "Gates: Sat 3pm, Sun 4:30pm",
+   "horario_es": "Puertas: sáb 15h, dom 16h30",
+   "preco_en": "Presale: Arena R$ 70 (half-price) to VIP box R$ 240; multi-day pass R$ 126 to R$ 432",
+   "preco_es": "Preventa: Arena R$ 70 (media) a Palco R$ 240; pase R$ 126 a R$ 432"
   },
   {
    "id": "pre-carnaval-salvador-2027",
@@ -2540,7 +2966,10 @@
    "fonte": "https://atarde.com.br/carnaval/13-dias-de-folia-bruno-reis-anuncia-novas-datas-do-carnaval-de-2027-1379972",
    "nota": "Calendário oficial anunciado pela Prefeitura (13 dias de folia). Público do pré-Carnaval incluído nos 12,5 mi do Carnaval 2026; sem número separado.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Secuencia de fiestas callejeras antes del Carnaval: Pipoco con Léo Santana (29/1), Furdunço (30/1), Fuzuê (31/1), Melhor Segunda-feira con Xanddy (1/2) y Habeas Copos (3/2).",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "furdunco-2027-01-30",
@@ -2559,7 +2988,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": "Percurso e horário a confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Desfile precarnavalesco gratuito con charangas, bandas y artistas callejeros.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "fuzue-2027-01-31",
@@ -2578,7 +3010,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": "Percurso e horário a confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiesta precarnavalesca gratuita con charangas y atracciones callejeras.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "melhor-segunda-feira-do-mundo-xanddy-2027-02-01",
@@ -2597,7 +3032,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": "Percurso e horário a confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Precarnaval con Xanddy Harmonia en el trío eléctrico.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "festa-de-iemanja-2027",
@@ -2616,7 +3054,12 @@
    "fonte": "https://www.correio24horas.com.br/asteriscao/quem-vai-saudar-iemanja-crescimento-do-2-de-fevereiro-com-ate-40-de-turistas-impoe-novos-desafios-0126",
    "nota": "Data fixa (2/2). Estimativa 2026: mais de 1 milhão de pessoas, até 40% turistas (Prefeitura).",
    "impacto": "alto",
-   "publico_est": 1000000
+   "publico_est": 1000000,
+   "descricao_es": "Homenaje a la reina del mar con entrega de ofrendas, barcos y fiesta en Rio Vermelho, pegada al precarnaval.",
+   "horario_en": "From before dawn into the night",
+   "horario_es": "De madrugada hasta la noche",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "habeas-copos-2027-02-03",
@@ -2635,7 +3078,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": "Percurso e horário a confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Tradicional bloque precarnavalesco que antecede la apertura oficial del Carnaval.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "carnaval-salvador-2027",
@@ -2654,7 +3100,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": "Datas oficiais da Prefeitura. Público 2026: mais de 12,5 milhões (incl. pré-Carnaval), recorde; hotel com circuito Barra na porta.",
    "impacto": "alto",
-   "publico_est": 12500000
+   "publico_est": 12500000,
+   "descricao_es": "La mayor fiesta callejera del mundo, de jueves (4/2) a martes (9/2), con el Arrastão el Miércoles de Ceniza (10/2). Pico absoluto de ocupación hotelera.",
+   "preco_en": "Free (paid parade groups and VIP boxes)",
+   "preco_es": "Gratis (bloques y palcos pagos)"
   },
   {
    "id": "arrastao-encerramento-do-carnaval-2027-02-10",
@@ -2673,7 +3122,10 @@
    "fonte": "https://www.correio24horas.com.br/carnaval/prefeitura-altera-data-do-pipoco-de-leo-santana-e-confirma-calendario-do-carnaval-de-salvador-2027-0226",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Miércoles de Ceniza con el tradicional arrastão que cierra el Carnaval.",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "ensaio-de-verao-da-timbalada-2027-02-14",
@@ -2692,7 +3144,8 @@
    "fonte": "https://atarde.com.br/verao/timbalada-divulga-datas-dos-ensaios-de-verao-em-salvador-confira-1405477",
    "nota": "Horário e preço ainda não divulgados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Ensayo de verano de la Timbalada en el Candeal, cuna del grupo de Carlinhos Brown."
   },
   {
    "id": "ibem27-2027-02-24",
@@ -2711,7 +3164,8 @@
    "fonte": "https://muitainformacao.com.br/negocios/centro-de-convencoes-salvador-sediara-o-ibem27-para-debater-integracao-e-transicao-energetica/",
    "nota": "Datas confirmadas em notícia de 19/10/2026; o site oficial (ibemenergy.com) não pôde ser aberto. Público estimado = previsão dos organizadores para a 1ª edição (iBEM25, ~6 mil visitantes, Bahia Notícias); não há número para 2027.",
    "impacto": "medio",
-   "publico_est": 6000
+   "publico_est": 6000,
+   "descricao_es": "Tercera edición del encuentro internacional de energía, con debates sobre transición energética e integración del sector entre gobierno, empresas, inversores e investigadores."
   },
   {
    "id": "paccc-dragon-boat-2027",
@@ -2730,7 +3184,8 @@
    "fonte": "https://www.bahianoticias.com.br/esportes/noticia/80646-salvador-recebera-pan-americano-de-dragon-boat-em-2027-com-expectativa-de-2-mil-atletas-inscricoes-estao-abertas",
    "nota": "Datas pela federação PADBF e Bahia Notícias; local só no Bahia Notícias. Expectativa de ~2.000 atletas, maioria de fora (sem acompanhantes).",
    "impacto": "alto",
-   "publico_est": 2000
+   "publico_est": 2000,
+   "descricao_es": "Por primera vez en Brasil, el panamericano de clubes de dragon boat trae equipos de más de diez países para una semana de regatas en Ribeira."
   },
   {
    "id": "faubai-2027",
@@ -2750,7 +3205,10 @@
    "nota": "Organização prevê mais de 700 participantes, com delegações internacionais (bom perfil de hospedagem). Workshops de 10/04 ainda sem endereço confirmado.",
    "img": "https://faubai.org.br/conf/2027/wp-content/themes/faubai2027/static/img/og-image.jpg",
    "impacto": "medio",
-   "publico_est": 700
+   "publico_est": 700,
+   "descricao_es": "Conferencia anual de la Asociación Brasileña de Educación Internacional, que reúne a gestores de relaciones internacionales de universidades de Brasil y del exterior, con el tema \"Internationalisation in Concert\".",
+   "horario_en": "04/10 pre-conference workshops; 04/11–14 conference",
+   "horario_es": "10/04 talleres previos; 11 al 14/04 conferencia"
   },
   {
    "id": "cbgg-2027",
@@ -2769,7 +3227,8 @@
    "fonte": "https://www.usebip.com/blogs/bip-insights/calendario-de-congressos-medicos-2027",
    "nota": "Público não divulgado; congresso nacional de especialidade (porte típico 1–2 mil). Confirmar no site oficial.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso nacional de la SBGG sobre envejecimiento, con médicos y profesionales de todo el país."
   },
   {
    "id": "maratona-da-bahia-2027-04-25",
@@ -2788,7 +3247,8 @@
    "fonte": "https://salvador.ba.gov.br/salvador-lanca-calendario-oficial-de-turismo-esportivo-com-programacao-ate-abril-de-2027/",
    "nota": "Data 25/04/2027 (domingo) confirmada no calendário oficial de turismo esportivo da Prefeitura e em A Tarde (21/10/2026); matéria anterior de A Tarde (05/2026) citava 27/04. Site oficial da prova não encontrado. Público: organização espera cerca de 10 mil atletas, inclusive de outros estados e do exterior (A Tarde).",
    "impacto": "medio",
-   "publico_est": 10000
+   "publico_est": 10000,
+   "descricao_es": "Primera edición de un maratón con pruebas de 5, 10, 21 y 42 km saliendo del Comércio, con espacio cultural dedicado a Bahía y corredores de todo el país."
   },
   {
    "id": "torax-2027",
@@ -2807,7 +3267,8 @@
    "fonte": "https://www.usebip.com/blogs/bip-insights/calendario-de-congressos-medicos-2027",
    "nota": "Público não divulgado; especialidade de nicho (porte estimado < 1 mil). Inclui feriado de 1º de maio.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso nacional de cirugía torácica, con público mayoritariamente de fuera de Bahía."
   },
   {
    "id": "cbto-2027",
@@ -2826,7 +3287,8 @@
    "fonte": "https://www.traumaortopedico.med.br/",
    "nota": "Local e público não divulgados.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso nacional de trauma ortopédico con ortopedistas de todo Brasil."
   },
   {
    "id": "bee-gees-alive-2027",
@@ -2845,7 +3307,10 @@
    "fonte": "https://www.agendaculturalsalvador.com.br/",
    "nota": "Ano inferido pela listagem; público local.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Espectáculo homenaje a los Bee Gees.",
+   "horario_en": "8pm",
+   "horario_es": "20h"
   },
   {
    "id": "brascrs-2027",
@@ -2864,7 +3329,8 @@
    "fonte": "https://www.usebip.com/blogs/bip-insights/calendario-de-congressos-medicos-2027",
    "nota": "Público não divulgado; evento de grande porte da oftalmologia. Coincide com o Congresso SBAO (20–22/5) – reforça demanda.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "El mayor congreso de catarata y cirugía refractiva de Sudamérica, con oftalmólogos de todo el país."
   },
   {
    "id": "congresso-sbao-2027",
@@ -2883,7 +3349,8 @@
    "fonte": "https://sbao.com.br/post/inscricoes-abertas-para-o-congresso-sbao-2027-em-salvador-1",
    "nota": "Público não divulgado.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso nacional de gestión en oftalmología, paralelo al BRASCRS."
   },
   {
    "id": "bahia-oil-gas-energy-2027-06-02",
@@ -2902,7 +3369,8 @@
    "fonte": "https://tnpetroleo.com.br/noticia/bahia-oil-gas-energy-encerra-edicao-historica-e-projeta-evento-para-2027-1/?page=4",
    "nota": "Datas anunciadas no encerramento da edição 2026 (TN Petróleo, 02/06/2026; confirmado também em TBPetroleum); site oficial não localizado/aberto. Público = edição 2026 (mais de 13 mil inscritos, participantes de todos os estados e 21 países).",
    "impacto": "medio",
-   "publico_est": 13000
+   "publico_est": 13000,
+   "descricao_es": "Feria y congreso del sector de petróleo, gas y energía, con rondas de negocios, expositores y programación técnica que atrae profesionales de todo Brasil y del exterior."
   },
   {
    "id": "open-repositories-2027",
@@ -2921,7 +3389,8 @@
    "fonte": "https://or2027.openrepositories.org/",
    "nota": "Público não divulgado; edições anteriores reúnem algumas centenas de participantes internacionais.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Conferencia internacional sobre repositorios digitales y ciencia abierta, con público extranjero."
   },
   {
    "id": "congresso-gife-2027",
@@ -2940,7 +3409,8 @@
    "fonte": "https://nossacausa.com/2026/08/salvador-sera-sede-do-congresso-gife-2027-sobre-filantropia",
    "nota": "Fonte: cerca de 1,5 mil participantes esperados (2025 em Fortaleza teve 1,2 mil).",
    "impacto": "medio",
-   "publico_est": 1500
+   "publico_est": 1500,
+   "descricao_es": "Congreso nacional de filantropía e inversión social privada."
   },
   {
    "id": "index-2027",
@@ -2959,7 +3429,8 @@
    "fonte": "https://jornalgrandebahia.com.br/2026/10/index-2027-sera-realizado-em-salvador-com-expansao-de-negocios-congresso-e-participacao-de-mais-de-40-segmentos-industriais/",
    "nota": "Edição 2026: ~40 mil visitantes e ~400 expositores; organização projeta crescimento de 25%. Estimativa = base 2026. Edição anterior teve cerca de 40 mil visitantes e 400 expositores; organização projeta crescimento de 25%. Prêmio FIEB de Sustentabilidade em 16/06.",
    "impacto": "alto",
-   "publico_est": 40000
+   "publico_est": 40000,
+   "descricao_es": "Feria de negocios industriales con más de 40 segmentos y congreso paralelo."
   },
   {
    "id": "sao-joao-salvador-2027",
@@ -2978,7 +3449,10 @@
    "fonte": "https://feriadosapi.com/en/calendar/2027/BA/2927408",
    "nota": "Só a data (feriado de 24/06) está confirmada; programação 2027 não divulgada. Em 2026 a festa se concentrou no Pelourinho. Muitos soteropolitanos viajam ao interior, o que reduz o efeito na hotelaria da capital.",
    "impacto": "medio",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Fiestas juninas con forró, cuadrillas y comidas típicas en la víspera y el día de San Juan, feriado en Bahía.",
+   "preco_en": "Free (public concerts)",
+   "preco_es": "Gratis (conciertos públicos)"
   },
   {
    "id": "copa-feminina-2027-salvador",
@@ -2997,7 +3471,8 @@
    "fonte": "https://www.correio24horas.com.br/esportes/copa-feminina-salvador-recebe-sete-partidas-em-2027-confira-a-tabela-completa-0826",
    "nota": "Sete jogos na Fonte Nova: 25/06 (Grupo A), 27/06 (Grupo F), 29/06 (Grupo H), 02/07 (Grupo E), 04/07 (Grupo A), 07/07 (Grupo F) e 12/07 (oitavas: 1º G x 2º H). Seleções definidas após o sorteio; o Brasil não joga em Salvador na fase de grupos. Obs.: A Tarde (20/08/2026) cita 26/06 e 05/07 para os jogos do Grupo A, mas Correio e a tabela da Soccergraph trazem 25/06 e 04/07 (dias da semana conferem com estes).",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Salvador recibe 7 partidos del Mundial femenino (6 de la fase de grupos y 1 de octavos), con hinchadas extranjeras."
   },
   {
    "id": "dois-de-julho-2027",
@@ -3016,7 +3491,12 @@
    "fonte": "https://www.brasildefato.com.br/2026/07/02/milhares-de-pessoas-celebram-a-independencia-do-brasil-na-bahia-no-2-de-julho/",
    "nota": "Data fixa. Público majoritariamente local ('milhares'); coincide com jogo da Copa Feminina em 2/7/2027.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Desfile cívico-popular de la Independencia de Bahía, feriado estatal.",
+   "horario_en": "Morning (procession from Lapinha to Campo Grande)",
+   "horario_es": "Mañana (cortejo de Lapinha a Campo Grande)",
+   "preco_en": "Free",
+   "preco_es": "Gratis"
   },
   {
    "id": "cnn-nefrologia-2027",
@@ -3035,7 +3515,8 @@
    "fonte": "https://www.usebip.com/blogs/bip-insights/calendario-de-congressos-medicos-2027",
    "nota": "Público não divulgado; porte regional.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso regional de nefrología con médicos del Norte y Nordeste."
   },
   {
    "id": "hot-wheels-monster-trucks-2027",
@@ -3054,7 +3535,8 @@
    "fonte": "https://www.correio24horas.com.br/minha-bahia/pela-1-vez-hot-wheels-monster-trucks-live-confirma-apresentacao-em-salvador-confira-datas-0726",
    "nota": "Local e preços ainda não anunciados; férias escolares de julho.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Primera presentación en Salvador del show de monster trucks de Hot Wheels, pensado para familias."
   },
   {
    "id": "cbc-cirurgia-2027",
@@ -3073,7 +3555,8 @@
    "fonte": "https://www.usebip.com/blogs/bip-insights/calendario-de-congressos-medicos-2027",
    "nota": "Público não divulgado; congresso nacional de grande especialidade (porte provável de milhares). Confirmar.",
    "impacto": "alto",
-   "publico_est": null
+   "publico_est": null,
+   "descricao_es": "Congreso nacional del Colegio Brasileño de Cirujanos, uno de los mayores eventos quirúrgicos del país."
   },
   {
    "id": "construnordeste-2027-10-27",
@@ -3092,7 +3575,426 @@
    "fonte": "https://www.construnordeste.com.br/",
    "nota": "Datas e horário no site oficial. Público = edição 2025 (mais de 35 mil visitantes, A Tarde); público majoritariamente regional/baiano, então o efeito em hotelaria pode ser menor que o número sugere.",
    "impacto": "alto",
-   "publico_est": 35000
+   "publico_est": 35000,
+   "descricao_es": "Gran feria de la construcción del Norte y Nordeste, que reúne proveedores, constructoras e inmobiliarias con charlas y negocios del sector.",
+   "horario_en": "1pm–9pm",
+   "horario_es": "13h a 21h"
+  },
+  {
+   "id": "museu-de-arte-da-bahia-mab",
+   "titulo": "Museu de Arte da Bahia (MAB)",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 18h",
+   "horario_en": "Tue–Sun, 10am–6pm",
+   "horario_es": "Mar a dom, 10h a 18h",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "MAB – Av. Sete de Setembro, 2340 (Corredor da Vitória)",
+   "bairro": "Vitória",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "O museu mais antigo da Bahia, com pintura, mobiliário, azulejaria e prataria dos períodos colonial e imperial, além de exposições temporárias. Fica a poucos minutos do hotel.",
+   "descricao_en": "Bahia's oldest museum, with colonial and imperial-era painting, furniture, tiles and silverware, plus temporary exhibitions. A few minutes from the hotel.",
+   "descricao_es": "El museo más antiguo de Bahía, con pintura, mobiliario, azulejos y platería de los períodos colonial e imperial, además de exposiciones temporales. A pocos minutos del hotel.",
+   "link": "https://www.ba.gov.br/ipac/museus-0",
+   "fonte": "https://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-de-arte-moderna-mam",
+   "titulo": "Museu de Arte Moderna da Bahia (MAM) – Solar do Unhão",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 18h; cinema, café e pátios todos os dias, 13h às 20h",
+   "horario_en": "Tue–Sun, 10am–6pm; cinema, café and courtyards daily, 1pm–8pm",
+   "horario_es": "Mar a dom, 10h a 18h; cine, café y patios todos los días, 13h a 20h",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Solar do Unhão – Av. Contorno",
+   "bairro": "Comércio",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Conjunto colonial à beira da Baía de Todos-os-Santos, com arte moderna e contemporânea e parque de esculturas. Famoso pelo pôr do sol.",
+   "descricao_en": "A colonial complex on the edge of the Bay of All Saints, with modern and contemporary art and a sculpture park. Famous for its sunset.",
+   "descricao_es": "Conjunto colonial a orillas de la Bahía de Todos los Santos, con arte moderno y contemporáneo y parque de esculturas. Famoso por su puesta de sol.",
+   "link": "https://www.ba.gov.br/ipac/museus-0",
+   "fonte": "https://www.ba.gov.br/ipac/museus-0",
+   "nota": "Algumas exposições temporárias têm horário reduzido (IPAC, nov/2026).",
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "muncab-visita",
+   "titulo": "MUNCAB – Museu Nacional da Cultura Afro-Brasileira",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 17h (último acesso 16h30)",
+   "horario_en": "Tue–Sun, 10am–5pm (last entry 4:30pm)",
+   "horario_es": "Mar a dom, 10h a 17h (último acceso 16h30)",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "MUNCAB – Rua das Vassouras, 25",
+   "bairro": "Centro Histórico",
+   "preco": "R$ 20 / R$ 10 (meia); grátis às quartas e domingos",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays and Sundays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles y domingos",
+   "descricao": "Acervo permanente de arte afro-brasileira, com artistas como Rubem Valentim e Heitor dos Prazeres, além de grandes mostras temporárias.",
+   "descricao_en": "Permanent collection of Afro-Brazilian art, with artists such as Rubem Valentim and Heitor dos Prazeres, plus major temporary shows.",
+   "descricao_es": "Acervo permanente de arte afrobrasileña, con artistas como Rubem Valentim y Heitor dos Prazeres, además de grandes muestras temporales.",
+   "link": "https://muncab.org.br",
+   "fonte": "https://aloalobahia.com/noticias/2026/02/10/muncab-prepara-exposicao-com-maior-acervo-de-arte-afro-brasileira-ja-repatriado-ao-brasil-saiba-detalhes/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-carlos-costa-pinto",
+   "titulo": "Museu Carlos Costa Pinto",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Seg e qua a sex, 14h30 às 17h30",
+   "horario_en": "Mon and Wed–Fri, 2:30pm–5:30pm",
+   "horario_es": "Lun y mié a vie, 14h30 a 17h30",
+   "recorrente": "Seg, qua, qui e sex",
+   "recorrente_en": "Mon, Wed, Thu and Fri",
+   "recorrente_es": "Lun, mié, jue y vie",
+   "local": "Av. Sete de Setembro, 2490 (Corredor da Vitória)",
+   "bairro": "Vitória",
+   "preco": "R$ 20 / R$ 10 (meia)",
+   "preco_en": "R$ 20 / R$ 10 (half-price)",
+   "preco_es": "R$ 20 / R$ 10 (media entrada)",
+   "descricao": "Casarão do Corredor da Vitória com artes decorativas: prataria, joias, porcelanas, mobiliário e as famosas pencas de balangandãs.",
+   "descricao_en": "A mansion on Corredor da Vitória with decorative arts: silverware, jewelry, porcelain, furniture and the famous balangandã charm clusters.",
+   "descricao_es": "Casona del Corredor da Vitória con artes decorativas: platería, joyas, porcelanas, mobiliario y los famosos racimos de balangandãs.",
+   "link": "https://www.museucarloscostapinto.org",
+   "fonte": "https://www.museucarloscostapinto.org/sua-visita",
+   "nota": "Fecha terças, fins de semana e feriados.",
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "mac-bahia-palacete",
+   "titulo": "MAC_Bahia – Museu de Arte Contemporânea (Palacete das Artes)",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 18h",
+   "horario_en": "Tue–Sun, 10am–6pm",
+   "horario_es": "Mar a dom, 10h a 18h",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Rua da Graça, 284",
+   "bairro": "Graça",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Palacete eclético na Graça, antigo Palacete das Artes, com exposições de arte contemporânea e jardim.",
+   "descricao_en": "An eclectic mansion in Graça, formerly Palacete das Artes, with contemporary art exhibitions and a garden.",
+   "descricao_es": "Palacete ecléctico en Graça, antiguo Palacete das Artes, con exposiciones de arte contemporáneo y jardín.",
+   "link": "https://www.ba.gov.br/ipac/museus-0",
+   "fonte": "https://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-arqueologia-etnologia-ufba",
+   "titulo": "Museu de Arqueologia e Etnologia da UFBA (MAE)",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Seg a sex, 9h às 17h",
+   "horario_en": "Mon–Fri, 9am–5pm",
+   "horario_es": "Lun a vie, 9h a 17h",
+   "recorrente": "Segunda a sexta",
+   "recorrente_en": "Monday to Friday",
+   "recorrente_es": "Lunes a viernes",
+   "local": "Terreiro de Jesus (antiga Faculdade de Medicina)",
+   "bairro": "Pelourinho",
+   "preco": "R$ 10",
+   "preco_en": "R$ 10",
+   "preco_es": "R$ 10",
+   "descricao": "No subsolo da antiga Faculdade de Medicina, com peças arqueológicas e indígenas e vestígios do antigo colégio jesuíta.",
+   "descricao_en": "In the basement of the old Medical School, with archaeological and Indigenous pieces and remains of the former Jesuit college.",
+   "descricao_es": "En el subsuelo de la antigua Facultad de Medicina, con piezas arqueológicas e indígenas y vestigios del antiguo colegio jesuita.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-de-arqueologia-e-etnologia-da-ufba/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-de-arqueologia-e-etnologia-da-ufba/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-da-misericordia",
+   "titulo": "Museu da Misericórdia",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a sex, 9h às 17h; sáb, 9h às 16h30",
+   "horario_en": "Tue–Fri, 9am–5pm; Sat, 9am–4:30pm",
+   "horario_es": "Mar a vie, 9h a 17h; sáb, 9h a 16h30",
+   "recorrente": "Terça a sábado",
+   "recorrente_en": "Tuesday to Saturday",
+   "recorrente_es": "Martes a sábado",
+   "local": "Rua da Misericórdia, 6 (Praça da Sé)",
+   "bairro": "Centro Histórico",
+   "preco": "R$ 30 / R$ 15 (meia)",
+   "preco_en": "R$ 30 / R$ 15 (half-price)",
+   "preco_es": "R$ 30 / R$ 15 (media entrada)",
+   "descricao": "Solar da Santa Casa da Misericórdia, a mais antiga da Bahia, com igreja, salões barrocos e mirante para a baía.",
+   "descricao_en": "The mansion of the Santa Casa da Misericórdia, Bahia's oldest, with a church, Baroque halls and a lookout over the bay.",
+   "descricao_es": "Solar de la Santa Casa da Misericórdia, la más antigua de Bahía, con iglesia, salones barrocos y mirador a la bahía.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-da-misericordia-2/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-da-misericordia-2/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "memorial-das-baianas",
+   "titulo": "Memorial das Baianas de Acarajé",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Seg a sáb, 9h às 17h",
+   "horario_en": "Mon–Sat, 9am–5pm",
+   "horario_es": "Lun a sáb, 9h a 17h",
+   "recorrente": "Segunda a sábado",
+   "recorrente_en": "Monday to Saturday",
+   "recorrente_es": "Lunes a sábado",
+   "local": "Cruz Caída – Praça da Sé",
+   "bairro": "Centro Histórico",
+   "preco": "R$ 5; crianças até 7 anos grátis",
+   "preco_en": "R$ 5; free for children up to 7",
+   "preco_es": "R$ 5; gratis para niños hasta 7 años",
+   "descricao": "A história do ofício das baianas de acarajé, patrimônio imaterial do Brasil, com roupas, utensílios e depoimentos.",
+   "descricao_en": "The story of the acarajé-selling baianas, a Brazilian intangible heritage, with costumes, utensils and testimonies.",
+   "descricao_es": "La historia del oficio de las bahianas del acarajé, patrimonio inmaterial de Brasil, con vestimentas, utensilios y testimonios.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/memorial-das-baianas/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/memorial-das-baianas/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-da-gastronomia-baiana",
+   "titulo": "Museu da Gastronomia Baiana (Senac)",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Seg a sex, 9h às 17h30; sáb, 9h às 15h",
+   "horario_en": "Mon–Fri, 9am–5:30pm; Sat, 9am–3pm",
+   "horario_es": "Lun a vie, 9h a 17h30; sáb, 9h a 15h",
+   "recorrente": "Segunda a sábado",
+   "recorrente_en": "Monday to Saturday",
+   "recorrente_es": "Lunes a sábado",
+   "local": "Senac – Largo do Pelourinho, 13/19",
+   "bairro": "Pelourinho",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Conta as raízes africanas, indígenas e portuguesas da cozinha baiana; o restaurante-escola do Senac fica ao lado.",
+   "descricao_en": "Tells the African, Indigenous and Portuguese roots of Bahian cooking; Senac's training restaurant is next door.",
+   "descricao_es": "Cuenta las raíces africanas, indígenas y portuguesas de la cocina bahiana; el restaurante escuela del Senac está al lado.",
+   "link": "https://www.salvadordabahia.com/en/experiences/bahian-gastronomy-museum/",
+   "fonte": "https://www.salvadordabahia.com/museus-e-equipamentos-culturais-gratuitos-em-salvador/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-tempostal",
+   "titulo": "Museu Tempostal",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 16h30",
+   "horario_en": "Tue–Sun, 10am–4:30pm",
+   "horario_es": "Mar a dom, 10h a 16h30",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Rua Gregório de Mattos, 33",
+   "bairro": "Pelourinho",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Grande coleção de cartões-postais e fotos antigas que mostram Salvador e a Bahia ao longo do século XX.",
+   "descricao_en": "A large collection of postcards and old photos showing Salvador and Bahia throughout the 20th century.",
+   "descricao_es": "Gran colección de postales y fotos antiguas que muestran Salvador y Bahía a lo largo del siglo XX.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-tempostal/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-tempostal/",
+   "nota": "Fontes divergem no horário; confirmar.",
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "espaco-carybe-forte-sao-diogo",
+   "titulo": "Espaço Carybé de Artes – Forte de São Diogo",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Qua a seg, 11h às 17h (entrada até 16h)",
+   "horario_en": "Wed–Mon, 11am–5pm (last entry 4pm)",
+   "horario_es": "Mié a lun, 11h a 17h (entrada hasta las 16h)",
+   "recorrente": "Quarta a segunda",
+   "recorrente_en": "Wednesday to Monday",
+   "recorrente_es": "Miércoles a lunes",
+   "local": "Forte de São Diogo – Porto da Barra",
+   "bairro": "Barra",
+   "preco": "R$ 20 / R$ 10 (meia); grátis às quartas",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles",
+   "descricao": "Forte do século XVII no Porto da Barra dedicado à obra de Carybé, com desenhos e pinturas sobre o cotidiano e o candomblé. Dá para ir a pé do hotel.",
+   "descricao_en": "A 17th-century fort at Porto da Barra devoted to Carybé's work, with drawings and paintings of daily life and Candomblé. Walking distance from the hotel.",
+   "descricao_es": "Fuerte del siglo XVII en el Porto da Barra dedicado a la obra de Carybé, con dibujos y pinturas sobre la vida cotidiana y el candomblé. Se llega a pie desde el hotel.",
+   "link": "https://secult.salvador.ba.gov.br/espaco-carybe-de-artes-forte-de-sao-diogo/",
+   "fonte": "https://www.salvadordabahia.com/eventos/espaco-carybe-das-artes-programacao-de-junho-2025/",
+   "nota": "Fecha às terças.",
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-geologico-da-bahia",
+   "titulo": "Museu Geológico da Bahia",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a sex, 13h às 18h; sáb e dom, 13h às 17h",
+   "horario_en": "Tue–Fri, 1pm–6pm; Sat–Sun, 1pm–5pm",
+   "horario_es": "Mar a vie, 13h a 18h; sáb y dom, 13h a 17h",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Av. Sete de Setembro, 2195 (Corredor da Vitória)",
+   "bairro": "Vitória",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Mais de 20 mil minerais, gemas, fósseis e meteoritos, com sala de rochas reaberta com realidade virtual.",
+   "descricao_en": "Over 20,000 minerals, gems, fossils and meteorites, with a reopened rock room featuring virtual reality.",
+   "descricao_es": "Más de 20 mil minerales, gemas, fósiles y meteoritos, con sala de rocas reabierta con realidad virtual.",
+   "link": "https://www.salvadordabahia.com/eventos/museu-geologico-da-bahia/",
+   "fonte": "https://www.salvadordabahia.com/eventos/museu-geologico-da-bahia/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-eugenio-teixeira-leal",
+   "titulo": "Museu Eugênio Teixeira Leal",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Seg a sex, 9h às 18h",
+   "horario_en": "Mon–Fri, 9am–6pm",
+   "horario_es": "Lun a vie, 9h a 18h",
+   "recorrente": "Segunda a sexta",
+   "recorrente_en": "Monday to Friday",
+   "recorrente_es": "Lunes a viernes",
+   "local": "Rua do Açouguinho, 1",
+   "bairro": "Pelourinho",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "A história do dinheiro e dos bancos na Bahia, com moedas, cédulas e objetos do antigo Banco Econômico.",
+   "descricao_en": "The history of money and banking in Bahia, with coins, banknotes and objects from the former Banco Econômico.",
+   "descricao_es": "La historia del dinero y de la banca en Bahía, con monedas, billetes y objetos del antiguo Banco Econômico.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-eugenio-teixeira-leal/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-eugenio-teixeira-leal/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "casa-do-benin",
+   "titulo": "Casa do Benin",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a sex, 10h às 17h; sáb, 9h às 16h",
+   "horario_en": "Tue–Fri, 10am–5pm; Sat, 9am–4pm",
+   "horario_es": "Mar a vie, 10h a 17h; sáb, 9h a 16h",
+   "recorrente": "Terça a sábado",
+   "recorrente_en": "Tuesday to Saturday",
+   "recorrente_es": "Martes a sábado",
+   "local": "Baixa dos Sapateiros, 7",
+   "bairro": "Pelourinho",
+   "preco": "Gratuito",
+   "preco_en": "Free",
+   "preco_es": "Gratis",
+   "descricao": "Centro cultural sobre os laços entre a Bahia e o Benin, com arte africana e exposições sobre a diáspora.",
+   "descricao_en": "A cultural center on the ties between Bahia and Benin, with African art and exhibitions on the diaspora.",
+   "descricao_es": "Centro cultural sobre los lazos entre Bahía y Benín, con arte africano y exposiciones sobre la diáspora.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-casa-do-benin/",
+   "fonte": "https://www.salvadordabahia.com/museus-e-equipamentos-culturais-gratuitos-em-salvador/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "museu-do-mar-aleixo-belov",
+   "titulo": "Museu do Mar – Aleixo Belov",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a dom, 10h às 18h (entrada até 17h)",
+   "horario_en": "Tue–Sun, 10am–6pm (last entry 5pm)",
+   "horario_es": "Mar a dom, 10h a 18h (entrada hasta las 17h)",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Largo de Santo Antônio Além do Carmo, 3",
+   "bairro": "Santo Antônio Além do Carmo",
+   "preco": "R$ 20 / R$ 10 (meia); grátis às quartas",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles",
+   "descricao": "O veleiro e a coleção do navegador Aleixo Belov, que deu cinco voltas ao mundo, com peças náuticas e mapas.",
+   "descricao_en": "The sailboat and collection of navigator Aleixo Belov, who sailed around the world five times, with nautical pieces and maps.",
+   "descricao_es": "El velero y la colección del navegante Aleixo Belov, que dio cinco vueltas al mundo, con piezas náuticas y mapas.",
+   "link": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-do-mar-aleixo-belov/",
+   "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-do-mar-aleixo-belov/",
+   "nota": null,
+   "impacto": "baixo",
+   "publico_est": null
+  },
+  {
+   "id": "casa-das-historias-de-salvador",
+   "titulo": "Casa das Histórias de Salvador",
+   "categoria": "museu",
+   "data_inicio": null,
+   "data_fim": null,
+   "horario": "Ter a sáb, 9h às 16h45; dom e feriados, 10h às 16h45 (entrada até 16h)",
+   "horario_en": "Tue–Sat, 9am–4:45pm; Sun and holidays, 10am–4:45pm (last entry 4pm)",
+   "horario_es": "Mar a sáb, 9h a 16h45; dom y feriados, 10h a 16h45 (entrada hasta las 16h)",
+   "recorrente": "Terça a domingo",
+   "recorrente_en": "Tuesday to Sunday",
+   "recorrente_es": "Martes a domingo",
+   "local": "Rua da Bélgica, 2 (ao lado do Mercado Modelo)",
+   "bairro": "Comércio",
+   "preco": "R$ 20 / R$ 10 (meia); grátis às quartas",
+   "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays",
+   "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles",
+   "descricao": "Museu imersivo que conta a história de Salvador com foco nos povos negros e indígenas, em sessões guiadas.",
+   "descricao_en": "An immersive museum telling Salvador's history with a focus on Black and Indigenous peoples, in guided sessions.",
+   "descricao_es": "Museo inmersivo que cuenta la historia de Salvador con foco en los pueblos negros e indígenas, en sesiones guiadas.",
+   "link": "https://www.sympla.com.br/evento/casa-das-historias-de-salvador-de-10-03-a-15-03/3335446",
+   "fonte": "https://www.sympla.com.br/evento/casa-das-historias-de-salvador-de-10-03-a-15-03/3335446",
+   "nota": "Ingressos vendidos por semana no Sympla.",
+   "impacto": "baixo",
+   "publico_est": null
   }
  ]
 }
