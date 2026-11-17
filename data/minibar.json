@@ -1,0 +1,18 @@
+{
+  "_leia": "Cardápio do minibar (guia.thehotel.com.br/minibar). Para incluir um produto, copie um item, preencha os nomes, o 'hits' (código do produto no HITS) e o 'preco' de reserva, e deixe 'ativo': true. Itens com 'ativo': false não aparecem. O preço exibido vem do HITS pela api de preços; o 'preco' daqui só aparece se a consulta falhar.",
+  "precos_api": "https://the-hotel-rds.vercel.app/api/cafe-precos",
+  "categorias": [
+    {
+      "pt": "Bebidas", "en": "Drinks", "es": "Bebidas",
+      "itens": [
+        {"ativo": true, "hits": "87", "preco": 5.5,
+         "pt": "Água mineral", "en": "Mineral water", "es": "Agua mineral",
+         "desc_pt": "Garrafa", "desc_en": "Bottle", "desc_es": "Botella"}
+      ]
+    },
+    {
+      "pt": "Snacks", "en": "Snacks", "es": "Snacks",
+      "itens": []
+    }
+  ]
+}
