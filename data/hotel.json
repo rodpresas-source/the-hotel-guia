@@ -61,9 +61,9 @@
       "pt": "Minibar",
       "en": "Minibar",
       "es": "Minibar",
-      "desc_pt": "Abastecido com água mineral. Cada garrafa consumida custa {p:87} e é lançada na sua conta.",
-      "desc_en": "Stocked with mineral water. Each bottle you drink is {p:87}, added to your bill.",
-      "desc_es": "Con agua mineral. Cada botella consumida cuesta {p:87} y se carga a tu cuenta."
+      "desc_pt": "Abastecido com água mineral, a {p:87} a garrafa. O café em cápsula/sachet: o primeiro é cortesia; a partir do segundo, {p:132} cada. Tudo é lançado na sua conta.",
+      "desc_en": "Stocked with mineral water, {p:87} per bottle. Coffee capsule/sachet: the first one is on us; from the second on, {p:132} each. Everything is added to your bill.",
+      "desc_es": "Con agua mineral, a {p:87} la botella. Café en cápsula/sachet: el primero es cortesía; a partir del segundo, {p:132} cada uno. Todo se carga a tu cuenta."
     },
     {
       "icone": "shirt",
@@ -222,11 +222,12 @@
   },
   "precos": {
     "api": "https://the-hotel-rds.vercel.app/api/cafe-precos",
-    "_leia": "Valores de reserva. O guia busca o preço atual no HITS (produtos 4744 café hóspede, 4745 café convidado, 87 água do minibar); estes só aparecem se a consulta falhar.",
+    "_leia": "Valores de reserva. O guia busca o preço atual no HITS (produtos 4744 café hóspede, 4745 café convidado, 87 água do minibar, 132 cápsula/sachet de café); estes só aparecem se a consulta falhar.",
     "padrao": {
       "4744": 35,
       "4745": 45,
-      "87": 5.5
+      "87": 5.5,
+      "132": 6
     }
   }
 }

@@ -3,15 +3,38 @@
   "precos_api": "https://the-hotel-rds.vercel.app/api/cafe-precos",
   "categorias": [
     {
-      "pt": "Bebidas", "en": "Drinks", "es": "Bebidas",
+      "pt": "Bebidas",
+      "en": "Drinks",
+      "es": "Bebidas",
       "itens": [
-        {"ativo": true, "hits": "87", "preco": 5.5,
-         "pt": "Água mineral", "en": "Mineral water", "es": "Agua mineral",
-         "desc_pt": "Garrafa", "desc_en": "Bottle", "desc_es": "Botella"}
+        {
+          "ativo": true,
+          "hits": "87",
+          "preco": 5.5,
+          "pt": "Água mineral",
+          "en": "Mineral water",
+          "es": "Agua mineral",
+          "desc_pt": "Garrafa",
+          "desc_en": "Bottle",
+          "desc_es": "Botella"
+        },
+        {
+          "ativo": true,
+          "hits": "132",
+          "preco": 6,
+          "pt": "Café em cápsula/sachet",
+          "en": "Coffee capsule/sachet",
+          "es": "Café en cápsula/sachet",
+          "desc_pt": "O primeiro é cortesia. A partir do segundo, cobramos este valor por unidade.",
+          "desc_en": "The first one is on us. From the second on, this price applies per unit.",
+          "desc_es": "El primero es cortesía. A partir del segundo, cobramos este valor por unidad."
+        }
       ]
     },
     {
-      "pt": "Snacks", "en": "Snacks", "es": "Snacks",
+      "pt": "Snacks",
+      "en": "Snacks",
+      "es": "Snacks",
       "itens": []
     }
   ]
