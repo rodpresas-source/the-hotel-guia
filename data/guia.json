@@ -21,7 +21,22 @@
       "bairro_en": "Historic Center",
       "bairro_es": "Centro Histórico",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Vieille ville classée par l'UNESCO, maisons coloniales colorées, églises baroques, musées et musique live sur les places. Le mardi, événements culturels et, en été, le spectacle « Bênção » de l'Olodum.",
+      "descricao_de": "UNESCO-Weltkulturerbe-Altstadt mit bunten Kolonialhäusern, Barockkirchen, Museen und Livemusik auf den Plätzen. Dienstags Kulturveranstaltungen und im Sommer die „Bênção“-Show von Olodum.",
+      "descricao_it": "Città vecchia patrimonio UNESCO con case coloniali colorate, chiese barocche, musei e musica dal vivo nelle piazze. Il martedì eventi culturali e, d'estate, lo spettacolo 'Bênção' dell'Olodum.",
+      "dica_fr": "Plutôt de jour et en début de soirée ; la nuit, restez dans les rues principales et animées et prenez un VTC jusqu'à la porte.",
+      "dica_de": "Am besten tagsüber und am frühen Abend; nachts auf belebten Hauptstraßen bleiben und per Fahrdienst-App bis vor die Tür fahren.",
+      "dica_it": "Meglio di giorno e in prima serata; di notte resta sulle vie principali e animate e prendi un'auto con app fino alla porta.",
+      "nome_fr": "Pelourinho / Centre historique",
+      "nome_de": "Pelourinho / Altstadt",
+      "nome_it": "Pelourinho / Centro storico",
+      "bairro_fr": "Centre historique",
+      "bairro_de": "Altstadt",
+      "bairro_it": "Centro storico",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Santo Antônio Além do Carmo",
@@ -35,7 +50,16 @@
       "dica_en": "Great for late afternoon; try the 'gengibre' ginger drink at Oliveiras Bar.",
       "dica_es": "Ideal para el final de la tarde; pruebe el 'gengibre' (bebida de jengibre) del Oliveiras Bar.",
       "distancia_hotel_en": "approx. 7 km / 20 min",
-      "distancia_hotel_es": "aprox. 7 km / 20 min"
+      "distancia_hotel_es": "aprox. 7 km / 20 min",
+      "descricao_fr": "Quartier bohème plein de charme près du Pelourinho, avec cafés, restaurants, ateliers et bars autour de Cruz do Pascoal. On y trouve le Fort de la Capoeira et des belvédères sur la baie.",
+      "descricao_de": "Charmantes Bohème-Viertel neben dem Pelourinho mit Cafés, Restaurants, Ateliers und Bars rund um Cruz do Pascoal. Hier liegen die Capoeira-Festung und Aussichtspunkte auf die Bucht.",
+      "descricao_it": "Affascinante quartiere bohémien accanto al Pelourinho con caffè, ristoranti, atelier e bar intorno a Cruz do Pascoal. Ospita il Forte della Capoeira e belvederi sulla baia.",
+      "dica_fr": "Parfait en fin d'après-midi ; goûtez le « gengibre » (boisson au gingembre) du Bar Oliveiras.",
+      "dica_de": "Ideal am späten Nachmittag; probieren Sie den Ingwerdrink „gengibre“ in der Oliveiras Bar.",
+      "dica_it": "Perfetto nel tardo pomeriggio; prova il 'gengibre', drink allo zenzero dell'Oliveiras Bar.",
+      "distancia_hotel_fr": "env. 7 km / 20 min",
+      "distancia_hotel_de": "ca. 7 km / 20 Min.",
+      "distancia_hotel_it": "circa 7 km / 20 min"
     },
     {
       "nome": "Barra",
@@ -49,7 +73,16 @@
       "dica_en": "Sunset at Porto da Barra and the Lighthouse is a must; avoid dark stretches of the seafront late at night.",
       "dica_es": "La puesta de sol en Porto da Barra y en el Faro es imperdible; evite los tramos oscuros del paseo marítimo tarde en la noche.",
       "distancia_hotel_en": "in the neighborhood / on foot",
-      "distancia_hotel_es": "en el barrio / a pie"
+      "distancia_hotel_es": "en el barrio / a pie",
+      "descricao_fr": "Le quartier de l'hôtel : Phare de Barra, plage de Porto da Barra, forts historiques et promenade en bord de mer. Plein de bars et de restaurants, et sur le parcours du Carnaval Barra-Ondina.",
+      "descricao_de": "Das Viertel des Hotels: Leuchtturm von Barra, Strand Porto da Barra, historische Festungen und Strandpromenade. Voller Bars und Restaurants, an der Karnevalsstrecke Barra–Ondina.",
+      "descricao_it": "Il quartiere dell'hotel: Faro di Barra, spiaggia di Porto da Barra, forti storici e lungomare. Pieno di bar e ristoranti, sul percorso del Carnevale Barra-Ondina.",
+      "dica_fr": "Le coucher du soleil à Porto da Barra et au Phare est incontournable ; évitez les portions sombres du front de mer tard le soir.",
+      "dica_de": "Der Sonnenuntergang am Porto da Barra und am Leuchtturm ist ein Muss; spätabends dunkle Abschnitte der Promenade meiden.",
+      "dica_it": "Il tramonto a Porto da Barra e al Faro è imperdibile; a tarda notte evita i tratti bui del lungomare.",
+      "distancia_hotel_fr": "dans le quartier / à pied",
+      "distancia_hotel_de": "im Viertel / zu Fuß",
+      "distancia_hotel_it": "nel quartiere / a piedi"
     },
     {
       "nome": "Rio Vermelho",
@@ -63,7 +96,16 @@
       "dica_en": "Use a ride app both ways; there have been reports of robberies targeting people calling a car outside bars.",
       "dica_es": "Use una app de transporte a la ida y a la vuelta; hay reportes de asaltos a quienes piden coche a la salida de los bares.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Le quartier le plus bohème de Salvador, avec des stands d'acarajé célèbres, les bars du Largo da Mariquita et du Largo de Santana et des salles de musique live. On y trouve la Casa do Rio Vermelho, ancienne maison de Jorge Amado.",
+      "descricao_de": "Salvadors bohemischstes Viertel mit berühmten Acarajé-Ständen, Bars am Largo da Mariquita und Largo de Santana und Livemusik-Lokalen. Hier liegt die Casa do Rio Vermelho, das ehemalige Haus von Jorge Amado.",
+      "descricao_it": "Il quartiere più bohémien di Salvador, con famosi banchi di acarajé, i bar di Largo da Mariquita e Largo de Santana e locali di musica dal vivo. Qui si trova la Casa do Rio Vermelho, ex casa di Jorge Amado.",
+      "dica_fr": "Prenez un VTC à l'aller comme au retour ; des vols ont été signalés visant des personnes commandant une voiture devant les bars.",
+      "dica_de": "Hin und zurück per Fahrdienst-App; es gab Berichte über Überfälle auf Personen, die vor Bars ein Auto rufen.",
+      "dica_it": "Usa un'app di trasporto all'andata e al ritorno; sono stati segnalati furti a chi chiama un'auto fuori dai bar.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Comércio / Cidade Baixa",
@@ -79,7 +121,19 @@
       "nome_en": "Comércio / Lower City",
       "nome_es": "Comércio / Ciudad Baja",
       "distancia_hotel_en": "approx. 6 km / 20 min",
-      "distancia_hotel_es": "aprox. 6 km / 20 min"
+      "distancia_hotel_es": "aprox. 6 km / 20 min",
+      "descricao_fr": "Ville basse historique avec le Mercado Modelo, l'Ascenseur Lacerda, le MAM-BA au Solar do Unhão et des restaurants avec vue sur la baie sur l'Avenida Contorno. Les bateaux pour les îles partent d'ici.",
+      "descricao_de": "Historische Unterstadt mit Mercado Modelo, Lacerda-Aufzug, dem MAM-BA im Solar do Unhão und Restaurants mit Buchtblick an der Avenida Contorno. Von hier fahren die Boote zu den Inseln.",
+      "descricao_it": "Città bassa storica con il Mercado Modelo, l'Ascensore Lacerda, il MAM-BA al Solar do Unhão e ristoranti con vista sulla baia lungo l'Avenida Contorno. Da qui partono le barche per le isole.",
+      "dica_fr": "À visiter de jour ; le quartier se vide la nuit et le dimanche.",
+      "dica_de": "Tagsüber besuchen; nachts und sonntags ist die Gegend leer.",
+      "dica_it": "Visitala di giorno; la zona si svuota di notte e la domenica.",
+      "nome_fr": "Comércio / Ville basse",
+      "nome_de": "Comércio / Unterstadt",
+      "nome_it": "Comércio / Città bassa",
+      "distancia_hotel_fr": "env. 6 km / 20 min",
+      "distancia_hotel_de": "ca. 6 km / 20 Min.",
+      "distancia_hotel_it": "circa 6 km / 20 min"
     },
     {
       "nome": "Ribeira / Bonfim",
@@ -93,7 +147,16 @@
       "dica_en": "Friday is the most traditional day at Bonfim; pair Bonfim with ice cream in Ribeira.",
       "dica_es": "El viernes es el día más tradicional en el Bonfim; combine el Bonfim con un helado en la Ribeira.",
       "distancia_hotel_en": "approx. 13 km / 35 min",
-      "distancia_hotel_es": "aprox. 13 km / 35 min"
+      "distancia_hotel_es": "aprox. 13 km / 35 min",
+      "descricao_fr": "Péninsule d'Itapagipe avec la basilique du Bonfim et ses rubans, plus le calme front de mer de Ribeira et son glacier centenaire.",
+      "descricao_de": "Halbinsel Itapagipe mit der Basilika Bonfim und ihren Bändern sowie der ruhigen Uferpromenade von Ribeira und ihrer hundertjährigen Eisdiele.",
+      "descricao_it": "Penisola di Itapagipe con la Basilica del Bonfim e i suoi nastri, più il tranquillo lungomare di Ribeira e la sua gelateria centenaria.",
+      "dica_fr": "Le vendredi est le jour le plus traditionnel au Bonfim ; enchaînez avec une glace à Ribeira.",
+      "dica_de": "Freitag ist der traditionellste Tag in Bonfim; danach ein Eis in Ribeira.",
+      "dica_it": "Il venerdì è il giorno più tradizionale al Bonfim; abbinalo a un gelato a Ribeira.",
+      "distancia_hotel_fr": "env. 13 km / 35 min",
+      "distancia_hotel_de": "ca. 13 km / 35 Min.",
+      "distancia_hotel_it": "circa 13 km / 35 min"
     },
     {
       "nome": "Itapuã",
@@ -107,7 +170,16 @@
       "dica_en": "Combine it with Stella Maris and Flamengo on the same day.",
       "dica_es": "Combínelo con Stella Maris y Flamengo el mismo día.",
       "distancia_hotel_en": "approx. 22 km / 40 min",
-      "distancia_hotel_es": "aprox. 22 km / 40 min"
+      "distancia_hotel_es": "aprox. 22 km / 40 min",
+      "descricao_fr": "Quartier rendu célèbre par la chanson, avec le phare d'Itapuã, la statue de la Sirène, la lagune d'Abaeté et des stands d'acarajé réputés.",
+      "descricao_de": "In Liedern berühmt gewordenes Viertel mit dem Leuchtturm von Itapuã, der Meerjungfrauenstatue, der Lagune Abaeté und bekannten Acarajé-Ständen.",
+      "descricao_it": "Quartiere reso famoso dalle canzoni, con il faro di Itapuã, la statua della Sirena, la laguna di Abaeté e banchi di acarajé rinomati.",
+      "dica_fr": "À combiner avec Stella Maris et Flamengo le même jour.",
+      "dica_de": "Am selben Tag mit Stella Maris und Flamengo kombinieren.",
+      "dica_it": "Abbinala a Stella Maris e Flamengo nello stesso giorno.",
+      "distancia_hotel_fr": "env. 22 km / 40 min",
+      "distancia_hotel_de": "ca. 22 km / 40 Min.",
+      "distancia_hotel_it": "circa 22 km / 40 min"
     },
     {
       "nome": "Vitória / Corredor da Vitória",
@@ -121,7 +193,16 @@
       "horario_en": "MAB: Tue–Sun, 10am–6pm",
       "horario_es": "MAB: mar–dom, 10h–18h",
       "distancia_hotel_en": "approx. 2 km / 7 min",
-      "distancia_hotel_es": "aprox. 2 km / 7 min"
+      "distancia_hotel_es": "aprox. 2 km / 7 min",
+      "descricao_fr": "Avenue arborée entre Graça et Campo Grande, avec des musées comme le Museu de Arte da Bahia et des vues sur la baie, à quelques minutes de l'hôtel.",
+      "descricao_de": "Begrünte Allee zwischen Graça und Campo Grande mit Museen wie dem Museu de Arte da Bahia und Blick auf die Bucht, wenige Minuten vom Hotel.",
+      "descricao_it": "Viale alberato tra Graça e Campo Grande con musei come il Museu de Arte da Bahia e vista sulla baia, a pochi minuti dall'hotel.",
+      "horario_fr": "MAB : mar–dim, 10h–18h",
+      "horario_de": "MAB: Di–So, 10–18 Uhr",
+      "horario_it": "MAB: mar–dom, 10–18",
+      "distancia_hotel_fr": "env. 2 km / 7 min",
+      "distancia_hotel_de": "ca. 2 km / 7 Min.",
+      "distancia_hotel_it": "circa 2 km / 7 min"
     },
     {
       "nome": "Praia do Forte (bate-volta)",
@@ -138,7 +219,19 @@
       "nome_en": "Praia do Forte (day trip)",
       "nome_es": "Praia do Forte (excursión de un día)",
       "distancia_hotel_en": "approx. 85 km / 1h30",
-      "distancia_hotel_es": "aprox. 85 km / 1h30"
+      "distancia_hotel_es": "aprox. 85 km / 1h30",
+      "descricao_fr": "Village côtier de la Côte Nord avec piscines naturelles, le centre d'accueil des tortues marines du Projeto Tamar et le château Garcia D'Ávila.",
+      "descricao_de": "Küstendorf an der Nordküste mit Naturpools, dem Meeresschildkröten-Besucherzentrum des Projeto Tamar und der Burg Garcia D'Ávila.",
+      "descricao_it": "Villaggio costiero della Costa Nord con piscine naturali, il centro visite delle tartarughe marine del Projeto Tamar e il Castello Garcia D'Ávila.",
+      "dica_fr": "Partez tôt ; la marée basse est le meilleur moment pour les piscines naturelles.",
+      "dica_de": "Früh aufbrechen; bei Ebbe sind die Naturpools am schönsten.",
+      "dica_it": "Parti presto; la bassa marea è il momento migliore per le piscine naturali.",
+      "nome_fr": "Praia do Forte (journée)",
+      "nome_de": "Praia do Forte (Tagesausflug)",
+      "nome_it": "Praia do Forte (in giornata)",
+      "distancia_hotel_fr": "env. 85 km / 1h30",
+      "distancia_hotel_de": "ca. 85 km / 1h30",
+      "distancia_hotel_it": "circa 85 km / 1h30"
     }
   ],
   "praias": [
@@ -154,7 +247,16 @@
       "descricao_es": "Bahía de aguas tranquilas, a pocos minutos a pie del hotel, famosa por su puesta de sol aplaudida y su ambiente diverso y LGBT-friendly.",
       "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
       "distancia_hotel_en": "approx. 1 km / 5 min (~15-min walk)",
-      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie ~15 min)"
+      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie ~15 min)",
+      "descricao_fr": "Baie aux eaux calmes à quelques pas de l'hôtel, célèbre pour ses couchers de soleil applaudis et son public varié et LGBT-friendly.",
+      "descricao_de": "Bucht mit ruhigem Wasser, nur wenige Schritte vom Hotel, berühmt für beklatschte Sonnenuntergänge und ein vielfältiges, LGBT-freundliches Publikum.",
+      "descricao_it": "Baia dalle acque calme a pochi passi dall'hotel, famosa per i tramonti applauditi e il pubblico vario e LGBT-friendly.",
+      "dica_fr": "La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "distancia_hotel_fr": "env. 1 km / 5 min (~15 min à pied)",
+      "distancia_hotel_de": "ca. 1 km / 5 Min. (~15 Min. zu Fuß)",
+      "distancia_hotel_it": "circa 1 km / 5 min (~15 min a piedi)"
     },
     {
       "nome": "Farol da Barra",
@@ -170,7 +272,19 @@
       "nome_en": "Barra Lighthouse",
       "nome_es": "Faro de Barra",
       "distancia_hotel_en": "approx. 1,5 km / 5 min",
-      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min",
+      "descricao_fr": "Plage à côté du phare avec piscines naturelles à marée basse et point d'observation des baleines à bosse en saison (juil–oct).",
+      "descricao_de": "Strand neben dem Leuchtturm mit Gezeitenbecken bei Ebbe und Aussichtspunkt für Buckelwale in der Saison (Jul–Okt).",
+      "descricao_it": "Spiaggia accanto al faro con piscine naturali con la bassa marea e punto di avvistamento delle megattere in stagione (lug–ott).",
+      "dica_fr": "Idéal pour une balade et le coucher du soleil. La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Schön für einen Spaziergang und den Sonnenuntergang. Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "Ottimo per una passeggiata e il tramonto. La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "nome_fr": "Phare de Barra",
+      "nome_de": "Leuchtturm von Barra",
+      "nome_it": "Faro di Barra",
+      "distancia_hotel_fr": "env. 1,5 km / 5 min",
+      "distancia_hotel_de": "ca. 1,5 km / 5 Min.",
+      "distancia_hotel_it": "circa 1,5 km / 5 min"
     },
     {
       "nome": "Ondina",
@@ -184,7 +298,16 @@
       "descricao_es": "Playa urbana justo después de Barra, a lo largo del circuito del Carnaval, con mar más abierto.",
       "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
       "distancia_hotel_en": "approx. 3 km / 8 min",
-      "distancia_hotel_es": "aprox. 3 km / 8 min"
+      "distancia_hotel_es": "aprox. 3 km / 8 min",
+      "descricao_fr": "Plage urbaine juste après Barra sur le parcours du Carnaval, avec une mer plus ouverte.",
+      "descricao_de": "Stadtstrand direkt hinter Barra an der Karnevalsstrecke, mit offenerem Meer.",
+      "descricao_it": "Spiaggia urbana subito dopo Barra lungo il percorso del Carnevale, con mare più aperto.",
+      "dica_fr": "La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "distancia_hotel_fr": "env. 3 km / 8 min",
+      "distancia_hotel_de": "ca. 3 km / 8 Min.",
+      "distancia_hotel_it": "circa 3 km / 8 min"
     },
     {
       "nome": "Stella Maris",
@@ -198,7 +321,16 @@
       "descricao_es": "Larga franja de arena con quioscos bien equipados y olas, la preferida para pasar el día.",
       "dica_es": "Cuidado con las corrientes. La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
       "distancia_hotel_en": "approx. 25 km / 45 min",
-      "distancia_hotel_es": "aprox. 25 km / 45 min"
+      "distancia_hotel_es": "aprox. 25 km / 45 min",
+      "descricao_fr": "Longue plage avec paillotes bien équipées et vagues ; parfaite pour une journée entière à la plage.",
+      "descricao_de": "Langer Sandstrand mit gut ausgestatteten Strandkiosken und Wellen; ideal für einen ganzen Strandtag.",
+      "descricao_it": "Lunga spiaggia con chioschi ben attrezzati e onde; la preferita per una giornata intera al mare.",
+      "dica_fr": "La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "distancia_hotel_fr": "env. 25 km / 45 min",
+      "distancia_hotel_de": "ca. 25 km / 45 Min.",
+      "distancia_hotel_it": "circa 25 km / 45 min"
     },
     {
       "nome": "Flamengo",
@@ -212,7 +344,16 @@
       "descricao_es": "Playa más tranquila y preservada en el extremo norte de la ciudad, con quioscos y cocoteros.",
       "dica_es": "Tradicionalmente frecuentada por el público LGBT. La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
       "distancia_hotel_en": "approx. 28 km / 50 min",
-      "distancia_hotel_es": "aprox. 28 km / 50 min"
+      "distancia_hotel_es": "aprox. 28 km / 50 min",
+      "descricao_fr": "Plage plus calme et plus naturelle au nord de la ville, avec paillotes et cocotiers.",
+      "descricao_de": "Ruhigerer, naturbelassener Strand im Norden der Stadt mit Kiosken und Kokospalmen.",
+      "descricao_it": "Spiaggia più tranquilla e naturale all'estremo nord della città, con chioschi e palme.",
+      "dica_fr": "Traditionnellement prisée par la communauté LGBT. La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Traditionell beliebt bei der LGBT-Community. Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "Tradizionalmente amata dalla comunità LGBT. La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "distancia_hotel_fr": "env. 28 km / 50 min",
+      "distancia_hotel_de": "ca. 28 km / 50 Min.",
+      "distancia_hotel_it": "circa 28 km / 50 min"
     },
     {
       "nome": "Itapuã",
@@ -226,7 +367,16 @@
       "descricao_es": "Playa histórica junto al Faro y la Sirena de Itapuã, con piscinas naturales en marea baja.",
       "dica_es": "La calidad del agua cambia cada semana. Antes de entrar al mar, consulte el boletín del Inema o pregunte en la recepción.",
       "distancia_hotel_en": "approx. 22 km / 40 min",
-      "distancia_hotel_es": "aprox. 22 km / 40 min"
+      "distancia_hotel_es": "aprox. 22 km / 40 min",
+      "descricao_fr": "Plage historique près du phare d'Itapuã et de la statue de la Sirène, avec piscines naturelles à marée basse.",
+      "descricao_de": "Historischer Strand am Leuchtturm von Itapuã und der Meerjungfrauenstatue, mit Naturpools bei Ebbe.",
+      "descricao_it": "Spiaggia storica vicino al faro di Itapuã e alla statua della Sirena, con piscine naturali con la bassa marea.",
+      "dica_fr": "La qualité de l'eau change chaque semaine. Avant de vous baigner, consultez le bulletin de l'Inema ou demandez à la réception.",
+      "dica_de": "Die Wasserqualität ändert sich wöchentlich. Vor dem Baden das Inema-Bulletin prüfen oder an der Rezeption fragen.",
+      "dica_it": "La qualità dell'acqua cambia ogni settimana. Prima del bagno, controlla il bollettino Inema o chiedi alla reception.",
+      "distancia_hotel_fr": "env. 22 km / 40 min",
+      "distancia_hotel_de": "ca. 22 km / 40 Min.",
+      "distancia_hotel_it": "circa 22 km / 40 min"
     },
     {
       "nome": "Praia do Forte (bate-volta)",
@@ -240,7 +390,16 @@
       "nome_en": "Praia do Forte (day trip)",
       "nome_es": "Praia do Forte (excursión de un día)",
       "distancia_hotel_en": "approx. 85 km / 1h30",
-      "distancia_hotel_es": "aprox. 85 km / 1h30"
+      "distancia_hotel_es": "aprox. 85 km / 1h30",
+      "descricao_fr": "Eau claire et piscines naturelles à côté du village du Projeto Tamar.",
+      "descricao_de": "Klares Wasser und Naturpools neben dem Dorf des Projeto Tamar.",
+      "descricao_it": "Acqua limpida e piscine naturali accanto al villaggio del Projeto Tamar.",
+      "nome_fr": "Praia do Forte (journée)",
+      "nome_de": "Praia do Forte (Tagesausflug)",
+      "nome_it": "Praia do Forte (in giornata)",
+      "distancia_hotel_fr": "env. 85 km / 1h30",
+      "distancia_hotel_de": "ca. 85 km / 1h30",
+      "distancia_hotel_it": "circa 85 km / 1h30"
     },
     {
       "nome": "Ilha dos Frades + Itaparica (passeio de barco)",
@@ -261,7 +420,25 @@
       "bairro_en": "Bay of All Saints",
       "bairro_es": "Bahía de Todos los Santos",
       "distancia_hotel_en": "approx. 6 km to the terminal / 20 min",
-      "distancia_hotel_es": "aprox. 6 km hasta la terminal / 20 min"
+      "distancia_hotel_es": "aprox. 6 km hasta la terminal / 20 min",
+      "descricao_fr": "Tour de la baie en goélette ou en vedette avec escales à Ilha dos Frades et Itaparica. Les excursions en groupe depuis le terminal maritime coûtent environ R$ 100–130 par personne (juil. 2026).",
+      "descricao_de": "Bucht-Tour mit Schoner oder Schnellboot mit Stopps auf der Ilha dos Frades und Itaparica. Gruppentouren ab dem Bootsterminal der Stadt kosten etwa R$ 100–130 pro Person (Juli 2026).",
+      "descricao_it": "Giro della baia in goletta o motoscafo con soste a Ilha dos Frades e Itaparica. I tour di gruppo dal terminal delle barche costano circa R$ 100–130 a persona (lug. 2026).",
+      "dica_fr": "Les taxes environnementales des îles et le déjeuner sont généralement en supplément.",
+      "dica_de": "Umweltgebühren der Inseln und Mittagessen werden meist extra berechnet.",
+      "dica_it": "Le tasse ambientali delle isole e il pranzo di solito si pagano a parte.",
+      "horario_fr": "Excursions en groupe généralement 9h–15h30",
+      "horario_de": "Gruppentouren meist 9–15:30 Uhr",
+      "horario_it": "Tour di gruppo di solito 9–15:30",
+      "nome_fr": "Ilha dos Frades + Itaparica (en bateau)",
+      "nome_de": "Ilha dos Frades + Itaparica (Bootstour)",
+      "nome_it": "Ilha dos Frades + Itaparica (in barca)",
+      "bairro_fr": "Baie de Tous les Saints",
+      "bairro_de": "Allerheiligenbucht",
+      "bairro_it": "Baia di Tutti i Santi",
+      "distancia_hotel_fr": "env. 6 km jusqu'au terminal / 20 min",
+      "distancia_hotel_de": "ca. 6 km bis zum Terminal / 20 Min.",
+      "distancia_hotel_it": "circa 6 km fino al terminal / 20 min"
     }
   ],
   "atracoes": [
@@ -284,7 +461,25 @@
       "bairro_en": "Downtown / Comércio",
       "bairro_es": "Centro / Comércio",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Ascenseur art déco de 1873 reliant la Ville haute et la Ville basse, avec vue sur la baie ; rouvert en 2025 après modernisation.",
+      "descricao_de": "Art-déco-Aufzug von 1873 zwischen Ober- und Unterstadt mit Blick auf die Bucht; 2025 nach Modernisierung wiedereröffnet.",
+      "descricao_it": "Ascensore art déco del 1873 che collega Città alta e Città bassa con vista sulla baia; riaperto nel 2025 dopo la modernizzazione.",
+      "dica_fr": "Billet R$ 1 (gratuit avec SalvadorCard), tarifs 2025.",
+      "dica_de": "Fahrpreis R$ 1 (frei mit SalvadorCard), Tarif 2025.",
+      "dica_it": "Biglietto R$ 1 (gratis con SalvadorCard), tariffe 2025.",
+      "horario_fr": "Lun–ven 6h30–21h30 ; sam 7h–21h30 ; dim/fériés 7h–21h",
+      "horario_de": "Mo–Fr 6:30–21:30 Uhr; Sa 7–21:30 Uhr; So/Feiertage 7–21 Uhr",
+      "horario_it": "Lun–ven 6:30–21:30; sab 7–21:30; dom/festivi 7–21",
+      "nome_fr": "Ascenseur Lacerda",
+      "nome_de": "Lacerda-Aufzug",
+      "nome_it": "Ascensore Lacerda",
+      "bairro_fr": "Centre-ville / Comércio",
+      "bairro_de": "Innenstadt / Comércio",
+      "bairro_it": "Centro / Comércio",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Mercado Modelo",
@@ -301,7 +496,19 @@
       "horario_en": "Approx. 9am–6pm",
       "horario_es": "Aprox. 9h–18h",
       "distancia_hotel_en": "approx. 6 km / 20 min",
-      "distancia_hotel_es": "aprox. 6 km / 20 min"
+      "distancia_hotel_es": "aprox. 6 km / 20 min",
+      "descricao_fr": "Marché historique face à l'Ascenseur Lacerda : artisanat, souvenirs, musique et restaurants avec vue sur la baie.",
+      "descricao_de": "Historischer Markt gegenüber dem Lacerda-Aufzug mit Kunsthandwerk, Souvenirs, Musik und Restaurants mit Buchtblick.",
+      "descricao_it": "Mercato storico di fronte all'Ascensore Lacerda con artigianato, souvenir, musica e ristoranti con vista sulla baia.",
+      "dica_fr": "Négociez avec le sourire et comparez les prix d'une boutique à l'autre.",
+      "dica_de": "Mit einem Lächeln handeln und Preise vergleichen.",
+      "dica_it": "Contratta con un sorriso e confronta i prezzi tra i negozi.",
+      "horario_fr": "Env. 9h–18h",
+      "horario_de": "Ca. 9–18 Uhr",
+      "horario_it": "Circa 9–18",
+      "distancia_hotel_fr": "env. 6 km / 20 min",
+      "distancia_hotel_de": "ca. 6 km / 20 Min.",
+      "distancia_hotel_it": "circa 6 km / 20 min"
     },
     {
       "nome": "Basílica do Senhor do Bonfim",
@@ -317,7 +524,19 @@
       "nome_en": "Senhor do Bonfim Basilica",
       "nome_es": "Basílica del Señor do Bonfim",
       "distancia_hotel_en": "approx. 13 km / 35 min",
-      "distancia_hotel_es": "aprox. 13 km / 35 min"
+      "distancia_hotel_es": "aprox. 13 km / 35 min",
+      "descricao_fr": "L'église la plus célèbre de Bahia, symbole de foi et de syncrétisme, aux grilles couvertes de rubans colorés.",
+      "descricao_de": "Die berühmteste Kirche Bahias, Symbol für Glauben und Synkretismus, ihr Gitter voller bunter Bänder.",
+      "descricao_it": "La chiesa più famosa di Bahia, simbolo di fede e sincretismo, con le cancellate coperte di nastri colorati.",
+      "dica_fr": "Nouez le ruban en trois nœuds et faites un vœu pour chacun.",
+      "dica_de": "Das Band mit drei Knoten binden und sich bei jedem etwas wünschen.",
+      "dica_it": "Lega il nastro con tre nodi ed esprimi un desiderio per ognuno.",
+      "nome_fr": "Basilique du Senhor do Bonfim",
+      "nome_de": "Basilika Senhor do Bonfim",
+      "nome_it": "Basilica del Senhor do Bonfim",
+      "distancia_hotel_fr": "env. 13 km / 35 min",
+      "distancia_hotel_de": "ca. 13 km / 35 Min.",
+      "distancia_hotel_it": "circa 13 km / 35 min"
     },
     {
       "nome": "Farol da Barra e Museu Náutico da Bahia",
@@ -336,7 +555,22 @@
       "nome_en": "Barra Lighthouse & Nautical Museum of Bahia",
       "nome_es": "Faro de Barra y Museo Náutico de Bahía",
       "distancia_hotel_en": "approx. 1,5 km / 5 min",
-      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min",
+      "descricao_fr": "Fort de Santo Antônio da Barra avec le phare et le Musée nautique ; point d'observation des baleines à bosse avec des chercheurs en saison.",
+      "descricao_de": "Festung Santo Antônio da Barra mit Leuchtturm und Nautischem Museum; Beobachtungspunkt für Buckelwale mit Forschern in der Saison.",
+      "descricao_it": "Forte di Santo Antônio da Barra con il faro e il Museo nautico; punto di avvistamento delle megattere con ricercatori in stagione.",
+      "dica_fr": "L'observation des baleines est incluse dans le billet du musée.",
+      "dica_de": "Die Walbeobachtung ist im Museumsticket enthalten.",
+      "dica_it": "L'avvistamento delle balene è incluso nel biglietto del museo.",
+      "horario_fr": "Tous les jours, 9h–17h30 (saison 2026)",
+      "horario_de": "Täglich, 9–17:30 Uhr (Saison 2026)",
+      "horario_it": "Tutti i giorni, 9–17:30 (stagione 2026)",
+      "nome_fr": "Phare de Barra et Musée nautique de Bahia",
+      "nome_de": "Leuchtturm von Barra und Nautisches Museum",
+      "nome_it": "Faro di Barra e Museo nautico di Bahia",
+      "distancia_hotel_fr": "env. 1,5 km / 5 min",
+      "distancia_hotel_de": "ca. 1,5 km / 5 Min.",
+      "distancia_hotel_it": "circa 1,5 km / 5 min"
     },
     {
       "nome": "Forte da Capoeira (Forte de Santo Antônio Além do Carmo)",
@@ -352,7 +586,19 @@
       "nome_en": "Capoeira Fort (Santo Antônio Além do Carmo Fort)",
       "nome_es": "Fuerte de la Capoeira (Fuerte de Santo Antônio Além do Carmo)",
       "distancia_hotel_en": "approx. 7 km / 20 min",
-      "distancia_hotel_es": "aprox. 7 km / 20 min"
+      "distancia_hotel_es": "aprox. 7 km / 20 min",
+      "descricao_fr": "Fort historique devenu référence et centre de mémoire de la capoeira, avec écoles et rodas.",
+      "descricao_de": "Historische Festung, heute Referenz- und Gedenkort der Capoeira, mit Schulen und Rodas.",
+      "descricao_it": "Forte storico diventato riferimento e centro della memoria della capoeira, con scuole e rodas.",
+      "dica_fr": "Renseignez-vous sur place pour les horaires des rodas ouvertes.",
+      "dica_de": "Fragen Sie vor Ort nach den Zeiten der offenen Rodas.",
+      "dica_it": "Chiedi sul posto gli orari delle roda aperte.",
+      "nome_fr": "Fort de la Capoeira (Fort Santo Antônio Além do Carmo)",
+      "nome_de": "Capoeira-Festung (Forte Santo Antônio Além do Carmo)",
+      "nome_it": "Forte della Capoeira (Forte Santo Antônio Além do Carmo)",
+      "distancia_hotel_fr": "env. 7 km / 20 min",
+      "distancia_hotel_de": "ca. 7 km / 20 Min.",
+      "distancia_hotel_it": "circa 7 km / 20 min"
     },
     {
       "nome": "MAM-BA – Solar do Unhão",
@@ -366,7 +612,16 @@
       "horario_en": "Tue–Sun, 10am–6pm",
       "horario_es": "Mar–dom, 10h–18h",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Musée d'art moderne dans un manoir colonial au bord de la baie, avec parc de sculptures et l'un des plus beaux couchers de soleil de la ville.",
+      "descricao_de": "Museum für moderne Kunst in einem Kolonialgut an der Bucht, mit Skulpturenpark und einem der schönsten Sonnenuntergänge der Stadt.",
+      "descricao_it": "Museo d'arte moderna in una villa coloniale sulla baia, con parco di sculture e uno dei tramonti più belli della città.",
+      "horario_fr": "Mar–dim, 10h–18h",
+      "horario_de": "Di–So, 10–18 Uhr",
+      "horario_it": "Mar–dom, 10–18",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Casa do Carnaval da Bahia",
@@ -385,7 +640,22 @@
       "nome_en": "Bahia Carnival House",
       "nome_es": "Casa del Carnaval de Bahía",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Musée interactif sur l'histoire, les rythmes et les groupes du Carnaval de Bahia.",
+      "descricao_de": "Interaktives Museum über Geschichte, Rhythmen und Gruppen des Karnevals von Bahia.",
+      "descricao_it": "Museo interattivo sulla storia, i ritmi e i gruppi del Carnevale di Bahia.",
+      "dica_fr": "Les prix relevés en juin 2026 varient (R$ 20–30 plein tarif) ; entrée gratuite le mercredi.",
+      "dica_de": "Die im Juni 2026 gemeldeten Preise variieren (R$ 20–30 voll); mittwochs Eintritt frei.",
+      "dica_it": "I prezzi rilevati a giugno 2026 variano (R$ 20–30 intero); ingresso gratuito il mercoledì.",
+      "horario_fr": "Mar–dim, 11h–19h",
+      "horario_de": "Di–So, 11–19 Uhr",
+      "horario_it": "Mar–dom, 11–19",
+      "nome_fr": "Maison du Carnaval de Bahia",
+      "nome_de": "Karnevalshaus Bahia",
+      "nome_it": "Casa del Carnevale di Bahia",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "MUNCAB – Museu Nacional da Cultura Afro-Brasileira",
@@ -400,7 +670,19 @@
       "bairro_en": "Historic Center",
       "bairro_es": "Centro Histórico",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Musée consacré à l'art et à la culture afro-brésiliens, avec des artistes noirs contemporains et des œuvres rapatriées.",
+      "descricao_de": "Museum für afrobrasilianische Kunst und Kultur mit zeitgenössischen schwarzen Künstlern und zurückgeführten Werken.",
+      "descricao_it": "Museo dedicato all'arte e alla cultura afro-brasiliane, con artisti neri contemporanei e opere rimpatriate.",
+      "nome_fr": "MUNCAB – Musée national de la culture afro-brésilienne",
+      "nome_de": "MUNCAB – Nationalmuseum der afrobrasilianischen Kultur",
+      "nome_it": "MUNCAB – Museo nazionale della cultura afro-brasiliana",
+      "bairro_fr": "Centre historique",
+      "bairro_de": "Altstadt",
+      "bairro_it": "Centro storico",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Fundação Casa de Jorge Amado",
@@ -413,7 +695,16 @@
       "nome_en": "Jorge Amado House Foundation",
       "nome_es": "Fundación Casa de Jorge Amado",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Demeure bleue sur le Largo do Pelourinho consacrée à Jorge Amado et Zélia Gattai, qui fête ses 40 ans avec des événements gratuits.",
+      "descricao_de": "Blaues Herrenhaus am Largo do Pelourinho für Jorge Amado und Zélia Gattai, das 40 Jahre mit kostenlosen Veranstaltungen feiert.",
+      "descricao_it": "Palazzo blu sul Largo do Pelourinho dedicato a Jorge Amado e Zélia Gattai, che festeggia 40 anni con eventi gratuiti.",
+      "nome_fr": "Fondation Maison de Jorge Amado",
+      "nome_de": "Stiftung Haus Jorge Amado",
+      "nome_it": "Fondazione Casa di Jorge Amado",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Casa do Rio Vermelho",
@@ -427,7 +718,16 @@
       "dica_en": "Guided visits on weekends at 11am and 3:30pm (Jun 2026).",
       "dica_es": "Visitas guiadas los fines de semana a las 11h y 15h30 (jun/2026).",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Ancienne maison de Jorge Amado et Zélia Gattai, aujourd'hui musée avec jardin, objets personnels et visites guidées.",
+      "descricao_de": "Ehemaliges Wohnhaus von Jorge Amado und Zélia Gattai, heute Museum mit Garten, persönlichen Gegenständen und Führungen.",
+      "descricao_it": "Ex casa di Jorge Amado e Zélia Gattai, oggi museo con giardino, oggetti personali e visite guidate.",
+      "dica_fr": "Visites guidées le week-end à 11h et 15h30 (juin 2026).",
+      "dica_de": "Führungen am Wochenende um 11 und 15:30 Uhr (Juni 2026).",
+      "dica_it": "Visite guidate nel fine settimana alle 11 e alle 15:30 (giugno 2026).",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Parque e Lagoa do Abaeté",
@@ -443,7 +743,19 @@
       "nome_en": "Abaeté Park & Lagoon",
       "nome_es": "Parque y Laguna del Abaeté",
       "distancia_hotel_en": "approx. 23 km / 40 min",
-      "distancia_hotel_es": "aprox. 23 km / 40 min"
+      "distancia_hotel_es": "aprox. 23 km / 40 min",
+      "descricao_fr": "Lagune aux eaux sombres entourée de dunes blanches, chantée en musique ; le parc a été rénové et a gagné le Mémorial d'Abaeté en 2026.",
+      "descricao_de": "Lagune mit dunklem Wasser, umgeben von weißen Dünen und besungen in Liedern; der Park wurde renoviert und erhielt 2026 das Abaeté-Memorial.",
+      "descricao_it": "Laguna dalle acque scure circondata da dune bianche, celebrata nelle canzoni; il parco è stato rinnovato e nel 2026 ha ricevuto il Memoriale di Abaeté.",
+      "dica_fr": "Allez-y de jour ; des travaux étaient encore en cours en 2026.",
+      "dica_de": "Tagsüber besuchen; 2026 liefen noch Bauarbeiten.",
+      "dica_it": "Vai di giorno; nel 2026 alcuni lavori erano ancora in corso.",
+      "nome_fr": "Parc et lagune d'Abaeté",
+      "nome_de": "Park und Lagune Abaeté",
+      "nome_it": "Parco e laguna di Abaeté",
+      "distancia_hotel_fr": "env. 23 km / 40 min",
+      "distancia_hotel_de": "ca. 23 km / 40 Min.",
+      "distancia_hotel_it": "circa 23 km / 40 min"
     },
     {
       "nome": "Teatro Castro Alves (TCA)",
@@ -459,7 +771,19 @@
       "nome_en": "Castro Alves Theater (TCA)",
       "nome_es": "Teatro Castro Alves (TCA)",
       "distancia_hotel_en": "approx. 3 km / 10 min",
-      "distancia_hotel_es": "aprox. 3 km / 10 min"
+      "distancia_hotel_es": "aprox. 3 km / 10 min",
+      "descricao_fr": "Le principal théâtre de Bahia, rouvert en juillet 2026 après une modernisation complète.",
+      "descricao_de": "Das wichtigste Theater Bahias, im Juli 2026 nach umfassender Modernisierung wiedereröffnet.",
+      "descricao_it": "Il principale teatro di Bahia, riaperto a luglio 2026 dopo una modernizzazione completa.",
+      "dica_fr": "La grande salle rouvre progressivement ; vérifiez la programmation.",
+      "dica_de": "Der große Saal öffnet schrittweise wieder; vorher Programm prüfen.",
+      "dica_it": "La sala principale sta riaprendo gradualmente; controlla prima la programmazione.",
+      "nome_fr": "Théâtre Castro Alves (TCA)",
+      "nome_de": "Teatro Castro Alves (TCA)",
+      "nome_it": "Teatro Castro Alves (TCA)",
+      "distancia_hotel_fr": "env. 3 km / 10 min",
+      "distancia_hotel_de": "ca. 3 km / 10 Min.",
+      "distancia_hotel_it": "circa 3 km / 10 min"
     }
   ],
   "passeios": [
@@ -481,7 +805,10 @@
       ],
       "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/LP-SLIDE1.jpg",
       "img_credito": "Cassi Turismo",
-      "img_pagina": "https://cassiturismo.com.br/"
+      "img_pagina": "https://cassiturismo.com.br/",
+      "descricao_fr": "Agence bahianaise spécialisée dans les excursions à la journée et les transferts, de la Côte Nord à Morro de São Paulo et à la Costa do Dendê. Prise en charge à l'hôtel, à l'aéroport ou au terminal maritime selon l'excursion.",
+      "descricao_de": "Reiseveranstalter aus Bahia für Tagesausflüge und Transfers, von der Nordküste bis Morro de São Paulo und zur Costa do Dendê. Abholung im Hotel, am Flughafen oder am Fährterminal, je nach Tour.",
+      "descricao_it": "Operatore bahiano specializzato in gite in giornata e transfer, dalla Costa Nord a Morro de São Paulo e alla Costa do Dendê. Ritiro in hotel, in aeroporto o al terminal dei traghetti, a seconda del tour."
     },
     {
       "tipo": "operadora",
@@ -498,7 +825,10 @@
       "fonte": "https://www.priveturismo.com.br/",
       "img": "https://pages.greatpages.com.br/www.priveturismo.com.br/1789872691/imagens/desktop/465189-a8da736716ce82a023d15bda27ddbf12.png",
       "img_credito": "Privetur",
-      "img_pagina": "https://www.priveturismo.com.br/"
+      "img_pagina": "https://www.priveturismo.com.br/",
+      "descricao_fr": "Privê Turismo, agence de Salvador depuis 1996 : excursions en groupe et privées, transferts et location de bateaux à Salvador et sur la Côte Nord.",
+      "descricao_de": "Privê Turismo, Reiseveranstalter in Salvador seit 1996: Gruppen- und Privattouren, Transfers und Bootsvermietung in Salvador und an der Nordküste.",
+      "descricao_it": "Privê Turismo, operatore di Salvador dal 1996: tour di gruppo e privati, transfer e noleggio barche a Salvador e sulla Costa Nord."
     },
     {
       "tipo": "passeio",
@@ -521,7 +851,16 @@
       "img_pagina": "https://cassiturismo.com.br/",
       "fonte_extra": [
         "https://www.priveturismo.com.br/"
-      ]
+      ],
+      "nome_fr": "Îles de Frades et d'Itaparica",
+      "nome_de": "Inseln Frades und Itaparica",
+      "nome_it": "Isole di Frades e Itaparica",
+      "descricao_fr": "Traversée de la Baie de Tous les Saints en bateau, avec environ 2 heures sur chaque île. Journée complète.",
+      "descricao_de": "Bootsfahrt über die Allerheiligenbucht mit etwa 2 Stunden auf jeder Insel. Ganzer Tag.",
+      "descricao_it": "Gita in barca nella Baia di Tutti i Santi, con circa 2 ore su ogni isola. Giornata intera.",
+      "dica_fr": "Cassi : à partir de R$ 140 + entrée à Frades R$ 34,90 (site officiel, oct. 2026) ; glacières autorisées. Privetur propose Ilha dos Frades en catamaran.",
+      "dica_de": "Cassi: ab R$ 140 + Eintritt Frades R$ 34,90 (offizielle Website, Okt. 2026); Kühlboxen erlaubt. Privetur fährt per Katamaran zur Ilha dos Frades.",
+      "dica_it": "Cassi: da R$ 140 + ingresso a Frades R$ 34,90 (sito ufficiale, ott. 2026); borse frigo ammesse. Privetur fa Ilha dos Frades in catamarano."
     },
     {
       "nome": "Coroa do Limo (Itaparica)",
@@ -534,7 +873,16 @@
       "dica": "Pergunte à recepção como incluir a Coroa do Limo no passeio pelas ilhas ou num passeio privativo de lancha.",
       "dica_en": "Ask the front desk how to add Coroa do Limo to the islands tour or to a private boat trip.",
       "dica_es": "Pregunta en la recepción cómo incluir la Coroa do Limo en el paseo por las islas o en un paseo privado en lancha.",
-      "fonte": "https://www.panrotas.com.br/mercado/receptivos/2023/08/top-sellers-luck-receptivo-conhecem-coroa-do-limo-e-manguezal-na-bahia_199235.html"
+      "fonte": "https://www.panrotas.com.br/mercado/receptivos/2023/08/top-sellers-luck-receptivo-conhecem-coroa-do-limo-e-manguezal-na-bahia_199235.html",
+      "nome_fr": "Banc de sable Coroa do Limo (Itaparica)",
+      "nome_de": "Sandbank Coroa do Limo (Itaparica)",
+      "nome_it": "Banco di sabbia Coroa do Limo (Itaparica)",
+      "descricao_fr": "Banc de sable au milieu de la Baie de Tous les Saints, près d'Itaparica : eau claire, baignade et photos superbes. Accessible uniquement en bateau, à voir de préférence à marée basse.",
+      "descricao_de": "Sandbank mitten in der Allerheiligenbucht bei Itaparica: klares Wasser, Baden und tolle Fotos. Nur per Boot erreichbar, am besten bei Ebbe.",
+      "descricao_it": "Banco di sabbia in mezzo alla Baia di Tutti i Santi, vicino a Itaparica: acqua limpida, bagni e foto splendide. Raggiungibile solo in barca, meglio con la bassa marea.",
+      "dica_fr": "Demandez à la réception comment ajouter Coroa do Limo au tour des îles ou à une sortie privée en bateau.",
+      "dica_de": "Fragen Sie an der Rezeption, wie Sie Coroa do Limo zur Inseltour oder zu einer privaten Bootsfahrt hinzufügen.",
+      "dica_it": "Chiedi alla reception come aggiungere Coroa do Limo al giro delle isole o a una gita privata in barca."
     },
     {
       "tipo": "passeio",
@@ -561,7 +909,19 @@
       "fonte_extra": [
         "https://www.priveturismo.com.br/",
         "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
-      ]
+      ],
+      "nome_fr": "Praia do Forte et Guarajuba",
+      "nome_de": "Praia do Forte und Guarajuba",
+      "nome_it": "Praia do Forte e Guarajuba",
+      "descricao_fr": "Une journée sur la Côte Nord : le village de Praia do Forte (siège du Projeto Tamar) et la plage de Guarajuba, environ 2 heures chacun.",
+      "descricao_de": "Ein Tag an der Nordküste: das Dorf Praia do Forte (Sitz des Projeto Tamar) und der Strand von Guarajuba, je etwa 2 Stunden.",
+      "descricao_it": "Una giornata sulla Costa Nord: il villaggio di Praia do Forte (sede del Projeto Tamar) e la spiaggia di Guarajuba, circa 2 ore ciascuno.",
+      "horario_fr": "9h à 17h (Cassi)",
+      "horario_de": "9 bis 17 Uhr (Cassi)",
+      "horario_it": "Dalle 9 alle 17 (Cassi)",
+      "dica_fr": "Cassi : à partir de R$ 140 (site officiel, oct. 2026).",
+      "dica_de": "Cassi: ab R$ 140 (offizielle Website, Okt. 2026).",
+      "dica_it": "Cassi: da R$ 140 (sito ufficiale, ott. 2026)."
     },
     {
       "tipo": "passeio",
@@ -584,7 +944,16 @@
       "img_pagina": "https://cassiturismo.com.br/",
       "fonte_extra": [
         "https://www.priveturismo.com.br/"
-      ]
+      ],
+      "nome_fr": "Morro de São Paulo (journée)",
+      "nome_de": "Morro de São Paulo (Tagesausflug)",
+      "nome_it": "Morro de São Paulo (in giornata)",
+      "descricao_fr": "Excursion à la journée vers les plages et le village de Morro de São Paulo. Avec Cassi, un trajet terre-mer d'environ 3 heures depuis le terminal maritime.",
+      "descricao_de": "Tagesausflug zu den Stränden und dem Dorf von Morro de São Paulo. Mit Cassi eine Land-und-See-Route von etwa 3 Stunden ab dem Fährterminal.",
+      "descricao_it": "Gita in giornata alle spiagge e al villaggio di Morro de São Paulo. Con Cassi, un percorso terra-mare di circa 3 ore dal terminal dei traghetti.",
+      "dica_fr": "Cassi : à partir de R$ 290 + taxe d'embarquement obligatoire R$ 20 (site officiel, oct. 2026).",
+      "dica_de": "Cassi: ab R$ 290 + obligatorische Einschiffungsgebühr R$ 20 (offizielle Website, Okt. 2026).",
+      "dica_it": "Cassi: da R$ 290 + tassa d'imbarco obbligatoria R$ 20 (sito ufficiale, ott. 2026)."
     },
     {
       "tipo": "passeio",
@@ -605,7 +974,16 @@
       "fonte_extra": [
         "https://destinodourado.com.br/salvador-como-voce-nunca-viu-o-city-tour-historico-e-panoramico-da-destino-dourado-com-a-cassi-turismo/",
         "https://www.tripadvisor.com/Attraction_Review-g303272-d14912825-Reviews-Cassi_Turismo-Salvador_State_of_Bahia.html"
-      ]
+      ],
+      "nome_fr": "Visite historique et panoramique de la ville",
+      "nome_de": "Historische Panorama-Stadtrundfahrt",
+      "nome_it": "Tour storico e panoramico della città",
+      "descricao_fr": "Phare de Barra, Corredor da Vitória, Pelourinho à pied, Bonfim et la Ville basse, pour finir au Mercado Modelo. Environ une demi-journée.",
+      "descricao_de": "Leuchtturm von Barra, Corredor da Vitória, Pelourinho zu Fuß, Bonfim und die Unterstadt, Abschluss am Mercado Modelo. Etwa ein halber Tag.",
+      "descricao_it": "Faro di Barra, Corredor da Vitória, Pelourinho a piedi, Bonfim e la Città bassa, finendo al Mercado Modelo. Circa mezza giornata.",
+      "dica_fr": "Cassi : prise en charge à l'hôtel incluse. Chez Privetur, il s'appelle « Salvador: Beleza e História ».",
+      "dica_de": "Cassi: Abholung im Hotel inklusive. Bei Privetur heißt die Tour „Salvador: Beleza e História“.",
+      "dica_it": "Cassi: ritiro in hotel incluso. Privetur lo chiama «Salvador: Beleza e História»."
     },
     {
       "tipo": "passeio",
@@ -618,7 +996,13 @@
       "operadoras": [
         "Privetur"
       ],
-      "fonte": "https://www.priveturismo.com.br/"
+      "fonte": "https://www.priveturismo.com.br/",
+      "nome_fr": "Bahia by Night — dîner-spectacle",
+      "nome_de": "Bahia by Night — Abendessen mit Show",
+      "nome_it": "Bahia by Night — cena con spettacolo",
+      "descricao_fr": "Une soirée au Pelourinho avec dîner au Coliseu et spectacle de danses folkloriques bahianaises.",
+      "descricao_de": "Ein Abend im Pelourinho mit Abendessen im Coliseu und Show mit bahianischen Volkstänzen.",
+      "descricao_it": "Una serata al Pelourinho con cena al Coliseu e spettacolo di danze folcloristiche bahiane."
     },
     {
       "tipo": "passeio",
@@ -640,7 +1024,19 @@
       "fonte": "https://cassiturismo.com.br/",
       "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_1696356317651c57df42783350698301.jpeg",
       "img_credito": "Cassi Turismo",
-      "img_pagina": "https://cassiturismo.com.br/"
+      "img_pagina": "https://cassiturismo.com.br/",
+      "nome_fr": "Tour des îles de l'archipel de Tinharé",
+      "nome_de": "Inselhopping im Tinharé-Archipel",
+      "nome_it": "Giro delle isole dell'arcipelago di Tinharé",
+      "descricao_fr": "Tour en bateau des îles de l'archipel de Tinharé, près de Morro de São Paulo et Boipeba. Journée complète.",
+      "descricao_de": "Bootstour zu den Inseln des Tinharé-Archipels bei Morro de São Paulo und Boipeba. Ganzer Tag.",
+      "descricao_it": "Giro in barca delle isole dell'arcipelago di Tinharé, vicino a Morro de São Paulo e Boipeba. Giornata intera.",
+      "horario_fr": "9h30 à 17h",
+      "horario_de": "9:30 bis 17 Uhr",
+      "horario_it": "Dalle 9:30 alle 17",
+      "dica_fr": "À partir de R$ 350 (site officiel, oct. 2026) ; glacières autorisées. Confirmez le point de départ à la réservation.",
+      "dica_de": "Ab R$ 350 (offizielle Website, Okt. 2026); Kühlboxen erlaubt. Abfahrtsort bei der Buchung bestätigen.",
+      "dica_it": "Da R$ 350 (sito ufficiale, ott. 2026); borse frigo ammesse. Conferma il punto di partenza alla prenotazione."
     },
     {
       "tipo": "passeio",
@@ -659,7 +1055,16 @@
       "fonte": "https://cassiturismo.com.br/",
       "img": "https://cassiturismo.com.br/wp-content/uploads/2025/06/327573_1_93185.jpeg",
       "img_credito": "Cassi Turismo",
-      "img_pagina": "https://cassiturismo.com.br/"
+      "img_pagina": "https://cassiturismo.com.br/",
+      "nome_fr": "Pass journée Village Itaparica",
+      "nome_de": "Tagespass Village Itaparica",
+      "nome_it": "Day pass Village Itaparica",
+      "descricao_fr": "Journée de détente au Village Itaparica, sur l'île d'Itaparica, traversée depuis Salvador comprise.",
+      "descricao_de": "Ein Erholungstag im Village Itaparica auf der Insel Itaparica, inklusive Überfahrt ab Salvador.",
+      "descricao_it": "Una giornata di relax al Village Itaparica, sull'isola di Itaparica, con traversata da Salvador.",
+      "dica_fr": "Départ de votre hôtel à Salvador : à partir de R$ 140 (site officiel, oct. 2026).",
+      "dica_de": "Abfahrt vom Hotel in Salvador: ab R$ 140 (offizielle Website, Okt. 2026).",
+      "dica_it": "Partenza dal tuo hotel a Salvador: da R$ 140 (sito ufficiale, ott. 2026)."
     },
     {
       "tipo": "passeio",
@@ -679,7 +1084,16 @@
       "fonte": "https://www.priveturismo.com.br/",
       "fonte_extra": [
         "https://cassiturismo.com.br/"
-      ]
+      ],
+      "nome_fr": "Visites privées et transferts",
+      "nome_de": "Private Touren und Transfers",
+      "nome_it": "Tour privati e transfer",
+      "descricao_fr": "Itinéraires sur mesure rien que pour votre groupe, plus transferts aéroport vers les hôtels de Salvador et de la Côte Nord.",
+      "descricao_de": "Maßgeschneiderte Routen nur für Ihre Gruppe sowie Flughafentransfers zu Hotels in Salvador und an der Nordküste.",
+      "descricao_it": "Itinerari su misura solo per il tuo gruppo, più transfer dall'aeroporto agli hotel di Salvador e della Costa Nord.",
+      "dica_fr": "Réservez via le WhatsApp des agences.",
+      "dica_de": "Buchung über das WhatsApp der Anbieter.",
+      "dica_it": "Prenota tramite il WhatsApp degli operatori."
     }
   ],
   "restaurantes": [
@@ -700,7 +1114,16 @@
       "horario_en": "Mon–Sat, 12pm–8pm (tourism website)",
       "horario_es": "Lun–sáb, 12h–20h (sitio de turismo)",
       "distancia_hotel_en": "approx. 400 m / 5-min walk",
-      "distancia_hotel_es": "aprox. 400 m / 5 min a pie"
+      "distancia_hotel_es": "aprox. 400 m / 5 min a pie",
+      "descricao_fr": "Adresse bahianaise rapide avec épicerie fine, café et douceurs ; sa signature : l'abará fait main, en versions classiques et créatives.",
+      "descricao_de": "Bahianisches Fast-Casual-Lokal mit Feinkost, Café und Süßem; Spezialität ist handgemachtes Abará, klassisch und kreativ.",
+      "descricao_it": "Locale bahiano veloce con gastronomia, caffè e dolci; la specialità è l'abará fatto a mano, in versioni classiche e creative.",
+      "horario_fr": "Lun–sam, 12h–20h (site touristique)",
+      "horario_de": "Mo–Sa, 12–20 Uhr (Tourismus-Website)",
+      "horario_it": "Lun–sab, 12–20 (sito turistico)",
+      "distancia_hotel_fr": "env. 400 m / 5 min à pied",
+      "distancia_hotel_de": "ca. 400 m / 5 Min. zu Fuß",
+      "distancia_hotel_it": "circa 400 m / 5 min a piedi"
     },
     {
       "nome": "PISSA – Pizzaria Artesanal",
@@ -717,7 +1140,16 @@
       "dica_en": "Av. Sete de Setembro, 3959; near Porto da Barra.",
       "dica_es": "Av. Sete de Setembro, 3959; cerca de Porto da Barra.",
       "distancia_hotel_en": "approx. 500 m / 7-min walk",
-      "distancia_hotel_es": "aprox. 500 m / 7 min a pie"
+      "distancia_hotel_es": "aprox. 500 m / 7 min a pie",
+      "descricao_fr": "Pizzeria artisanale à la Villa da Barra, carte signée par le pizzaiolo italien Pierluigi Russo.",
+      "descricao_de": "Handwerkliche Pizzeria in der Villa da Barra mit einer Karte des italienischen Pizzaiolo Pierluigi Russo.",
+      "descricao_it": "Pizzeria artigianale a Villa da Barra con menù del pizzaiolo italiano Pierluigi Russo.",
+      "dica_fr": "Av. Sete de Setembro, 3959 ; près de Porto da Barra.",
+      "dica_de": "Av. Sete de Setembro, 3959; nahe Porto da Barra.",
+      "dica_it": "Av. Sete de Setembro, 3959; vicino a Porto da Barra.",
+      "distancia_hotel_fr": "env. 500 m / 7 min à pied",
+      "distancia_hotel_de": "ca. 500 m / 7 Min. zu Fuß",
+      "distancia_hotel_it": "circa 500 m / 7 min a piedi"
     },
     {
       "nome": "Jhun Bistrô",
@@ -736,7 +1168,19 @@
       "horario_en": "Sun–Wed 6pm–11pm; Thu–Sat 6pm–midnight",
       "horario_es": "Dom–mié 18h–23h; jue–sáb 18h–0h",
       "distancia_hotel_en": "approx. 600 m / 8-min walk",
-      "distancia_hotel_es": "aprox. 600 m / 8 min a pie"
+      "distancia_hotel_es": "aprox. 600 m / 8 min a pie",
+      "descricao_fr": "Bistrot japonais intime du chef Luciano Costa, avec des touches de truffe et des plats comme le saumon brûlé et le poulpe au grana padano.",
+      "descricao_de": "Intimes japanisches Bistro von Chef Luciano Costa mit Trüffelnoten und Gerichten wie Lachs-Brûlée und Oktopus mit Grana Padano.",
+      "descricao_it": "Bistrot giapponese intimo dello chef Luciano Costa, con tocchi di tartufo e piatti come il salmone brûlé e il polpo al grana padano.",
+      "dica_fr": "Av. Almirante Marques de Leão, 415. Petit lieu : réservez.",
+      "dica_de": "Av. Almirante Marques de Leão, 415. Kleines Lokal: vorher reservieren.",
+      "dica_it": "Av. Almirante Marques de Leão, 415. Locale piccolo: prenota.",
+      "horario_fr": "Dim–mer 18h–23h ; jeu–sam 18h–minuit",
+      "horario_de": "So–Mi 18–23 Uhr; Do–Sa 18–24 Uhr",
+      "horario_it": "Dom–mer 18–23; gio–sab 18–mezzanotte",
+      "distancia_hotel_fr": "env. 600 m / 8 min à pied",
+      "distancia_hotel_de": "ca. 600 m / 8 Min. zu Fuß",
+      "distancia_hotel_it": "circa 600 m / 8 min a piedi"
     },
     {
       "nome": "Boteco do Gavazza",
@@ -752,7 +1196,13 @@
       "dica_en": "Rua Greenfeld, 170.",
       "dica_es": "Rua Greenfeld, 170.",
       "distancia_hotel_en": "approx. 700 m / 9-min walk",
-      "distancia_hotel_es": "aprox. 700 m / 9 min a pie"
+      "distancia_hotel_es": "aprox. 700 m / 9 min a pie",
+      "descricao_fr": "Bar de quartier, petits plats de boteco et bière fraîche ; a participé au Comida di Buteco 2026.",
+      "descricao_de": "Nachbarschaftsbar mit Kneipenhäppchen und kaltem Bier; Teilnehmer bei Comida di Buteco 2026.",
+      "descricao_it": "Bar di quartiere con stuzzichini e birra fresca; ha partecipato a Comida di Buteco 2026.",
+      "distancia_hotel_fr": "env. 700 m / 9 min à pied",
+      "distancia_hotel_de": "ca. 700 m / 9 Min. zu Fuß",
+      "distancia_hotel_it": "circa 700 m / 9 min a piedi"
     },
     {
       "nome": "O Peruano",
@@ -768,7 +1218,13 @@
       "dica_en": "Rua Eduardo Diniz Gonçalves, 79.",
       "dica_es": "Rua Eduardo Diniz Gonçalves, 79.",
       "distancia_hotel_en": "approx. 800 m / 10-min walk",
-      "distancia_hotel_es": "aprox. 800 m / 10 min a pie"
+      "distancia_hotel_es": "aprox. 800 m / 10 min a pie",
+      "descricao_fr": "Petit restaurant péruvien sans chichis, réputé pour son ceviche.",
+      "descricao_de": "Kleines, schlichtes peruanisches Restaurant, bekannt für seine Ceviche.",
+      "descricao_it": "Piccolo ristorante peruviano senza fronzoli, noto per il ceviche.",
+      "distancia_hotel_fr": "env. 800 m / 10 min à pied",
+      "distancia_hotel_de": "ca. 800 m / 10 Min. zu Fuß",
+      "distancia_hotel_it": "circa 800 m / 10 min a piedi"
     },
     {
       "nome": "Egeu",
@@ -787,7 +1243,19 @@
       "horario_en": "Wed 12pm–midnight; Thu–Sat 12pm–2am; Sun 12pm–8pm (TripAdvisor)",
       "horario_es": "Mié 12h–0h; jue–sáb 12h–2h; dom 12h–20h (TripAdvisor)",
       "distancia_hotel_en": "approx. 900 m / 12-min walk",
-      "distancia_hotel_es": "aprox. 900 m / 12 min a pie"
+      "distancia_hotel_es": "aprox. 900 m / 12 min a pie",
+      "descricao_fr": "Cuisine méditerranéenne avec vue sur la Baie de Tous les Saints : risottos, pâtes aux fruits de mer et cocktails.",
+      "descricao_de": "Mediterrane Küche mit Blick auf die Allerheiligenbucht: Risotto, Pasta mit Meeresfrüchten und Cocktails.",
+      "descricao_it": "Cucina mediterranea con vista sulla Baia di Tutti i Santi: risotti, pasta ai frutti di mare e cocktail.",
+      "dica_fr": "Av. Sete de Setembro, 2830. Idéal au coucher du soleil.",
+      "dica_de": "Av. Sete de Setembro, 2830. Schön zum Sonnenuntergang.",
+      "dica_it": "Av. Sete de Setembro, 2830. Ottimo al tramonto.",
+      "horario_fr": "Mer 12h–minuit ; jeu–sam 12h–2h ; dim 12h–20h (TripAdvisor)",
+      "horario_de": "Mi 12–24 Uhr; Do–Sa 12–2 Uhr; So 12–20 Uhr (TripAdvisor)",
+      "horario_it": "Mer 12–mezzanotte; gio–sab 12–2; dom 12–20 (TripAdvisor)",
+      "distancia_hotel_fr": "env. 900 m / 12 min à pied",
+      "distancia_hotel_de": "ca. 900 m / 12 Min. zu Fuß",
+      "distancia_hotel_it": "circa 900 m / 12 min a piedi"
     },
     {
       "nome": "Pereira Restaurante",
@@ -803,7 +1271,16 @@
       "dica_en": "Book for sunset time.",
       "dica_es": "Reserve para la hora de la puesta de sol.",
       "distancia_hotel_en": "approx. 1 km / 5 min (on foot)",
-      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie)"
+      "distancia_hotel_es": "aprox. 1 km / 5 min (a pie)",
+      "descricao_fr": "Fruits de mer et grillades face à la mer à Porto da Barra, très fréquenté au coucher du soleil.",
+      "descricao_de": "Meeresfrüchte und Gegrilltes mit Meerblick am Porto da Barra, beliebt zum Sonnenuntergang.",
+      "descricao_it": "Frutti di mare e grigliate fronte mare a Porto da Barra, molto frequentato al tramonto.",
+      "dica_fr": "Réservez pour l'heure du coucher du soleil.",
+      "dica_de": "Für die Zeit des Sonnenuntergangs reservieren.",
+      "dica_it": "Prenota per l'ora del tramonto.",
+      "distancia_hotel_fr": "env. 1 km / 5 min (à pied)",
+      "distancia_hotel_de": "ca. 1 km / 5 Min. (zu Fuß)",
+      "distancia_hotel_it": "circa 1 km / 5 min (a piedi)"
     },
     {
       "nome": "Bão – Barra",
@@ -822,7 +1299,16 @@
       "horario_en": "Happy hour Tue–Fri, 4pm–8pm (Jan 2026)",
       "horario_es": "Happy hour mar–vie, 16h–20h (ene/2026)",
       "distancia_hotel_en": "approx. 1 km / 5 min",
-      "distancia_hotel_es": "aprox. 1 km / 5 min"
+      "distancia_hotel_es": "aprox. 1 km / 5 min",
+      "descricao_fr": "Boteco bahianais primé : tripes frites, crevettes à l'ail, bouillon de sururu.",
+      "descricao_de": "Preisgekrönte bahianische Kneipe: frittierte Kutteln, Knoblauchgarnelen, Sururu-Brühe.",
+      "descricao_it": "Boteco bahiano premiato: trippa fritta, gamberi all'aglio, brodo di sururu.",
+      "horario_fr": "Happy hour mar–ven, 16h–20h (janv. 2026)",
+      "horario_de": "Happy Hour Di–Fr, 16–20 Uhr (Jan. 2026)",
+      "horario_it": "Happy hour mar–ven, 16–20 (gen. 2026)",
+      "distancia_hotel_fr": "env. 1 km / 5 min",
+      "distancia_hotel_de": "ca. 1 km / 5 Min.",
+      "distancia_hotel_it": "circa 1 km / 5 min"
     },
     {
       "nome": "Padó Padaria",
@@ -841,7 +1327,16 @@
       "horario_en": "Thu–Sun, 8am–12:30pm (Apr 2026)",
       "horario_es": "Jue–dom, 8h–12h30 (abr/2026)",
       "distancia_hotel_en": "approx. 1 km / 5 min",
-      "distancia_hotel_es": "aprox. 1 km / 5 min"
+      "distancia_hotel_es": "aprox. 1 km / 5 min",
+      "descricao_fr": "Boulangerie contemporaine près de l'hôtel, idéale pour le petit-déjeuner et le pain au levain.",
+      "descricao_de": "Moderne Bäckerei nahe dem Hotel, ideal für Frühstück und Sauerteigbrot.",
+      "descricao_it": "Panetteria contemporanea vicino all'hotel, ottima per la colazione e il pane a lievitazione naturale.",
+      "horario_fr": "Jeu–dim, 8h–12h30 (avr. 2026)",
+      "horario_de": "Do–So, 8–12:30 Uhr (Apr. 2026)",
+      "horario_it": "Gio–dom, 8–12:30 (apr. 2026)",
+      "distancia_hotel_fr": "env. 1 km / 5 min",
+      "distancia_hotel_de": "ca. 1 km / 5 Min.",
+      "distancia_hotel_it": "circa 1 km / 5 min"
     },
     {
       "nome": "B-Vegan",
@@ -857,7 +1352,13 @@
       "dica_en": "Rua Dias D'Ávila, 109.",
       "dica_es": "Rua Dias D'Ávila, 109.",
       "distancia_hotel_en": "approx. 1 km / 12-min walk",
-      "distancia_hotel_es": "aprox. 1 km / 12 min a pie"
+      "distancia_hotel_es": "aprox. 1 km / 12 min a pie",
+      "descricao_fr": "Burgers vegan artisanaux, sandwichs végétaux, en-cas et douceurs.",
+      "descricao_de": "Handgemachte vegane Burger, pflanzliche Sandwiches, Snacks und Süßes.",
+      "descricao_it": "Burger vegani artigianali, panini vegetali, snack e dolci.",
+      "distancia_hotel_fr": "env. 1 km / 12 min à pied",
+      "distancia_hotel_de": "ca. 1 km / 12 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1 km / 12 min a piedi"
     },
     {
       "nome": "Preta Bistrô – MAC Bahia",
@@ -876,7 +1377,19 @@
       "horario_en": "Breakfast Sat–Sun, 8am–11am",
       "horario_es": "Desayuno sáb–dom, 8h–11h",
       "distancia_hotel_en": "approx. 1,2 km / 15-min walk",
-      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie"
+      "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie",
+      "descricao_fr": "Bistrot du chef Angeluci au Musée d'art contemporain ; depuis oct. 2026, petit-déjeuner nordestin à volonté le week-end.",
+      "descricao_de": "Bistro von Chef Angeluci im Museum für zeitgenössische Kunst; seit Okt. 2026 am Wochenende Frühstück aus dem Nordosten nach Belieben.",
+      "descricao_it": "Bistrot dello chef Angeluci al Museo d'arte contemporanea; da ott. 2026 colazione nordestina a volontà nel fine settimana.",
+      "dica_fr": "Petit-déjeuner R$ 99 + service ; réservations (71) 99917-1761.",
+      "dica_de": "Frühstück R$ 99 + Service; Reservierung (71) 99917-1761.",
+      "dica_it": "Colazione R$ 99 + servizio; prenotazioni (71) 99917-1761.",
+      "horario_fr": "Petit-déjeuner sam–dim, 8h–11h",
+      "horario_de": "Frühstück Sa–So, 8–11 Uhr",
+      "horario_it": "Colazione sab–dom, 8–11",
+      "distancia_hotel_fr": "env. 1,2 km / 15 min à pied",
+      "distancia_hotel_de": "ca. 1,2 km / 15 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,2 km / 15 min a piedi"
     },
     {
       "nome": "Sorveteria da Barra",
@@ -892,7 +1405,16 @@
       "dica_en": "Av. Oceânica, 683. Try cajá, mangaba and açaí.",
       "dica_es": "Av. Oceânica, 683. Pruebe cajá, mangaba y açaí.",
       "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
-      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie",
+      "descricao_fr": "Glacier face à la mer près du Morro do Cristo, avec des dizaines de parfums de fruits tropicaux.",
+      "descricao_de": "Eisdiele mit Meerblick nahe dem Morro do Cristo mit Dutzenden Sorten aus tropischen Früchten.",
+      "descricao_it": "Gelateria vista mare vicino al Morro do Cristo con decine di gusti di frutta tropicale.",
+      "dica_fr": "Av. Oceânica, 683. Goûtez cajá, mangaba et açaí.",
+      "dica_de": "Av. Oceânica, 683. Probieren Sie Cajá, Mangaba und Açaí.",
+      "dica_it": "Av. Oceânica, 683. Assaggia cajá, mangaba e açaí.",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi"
     },
     {
       "nome": "Vona Ristorante",
@@ -908,7 +1430,13 @@
       "dica_en": "Rua da Flórida, Graça.",
       "dica_es": "Rua da Flórida, Graça.",
       "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
-      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie",
+      "descricao_fr": "Restaurant italien du Grupo Soho, pâtes fraîches faites chaque jour ; la nouvelle carte (oct. 2026) propose des raviolini au canard.",
+      "descricao_de": "Italienisches Restaurant der Grupo Soho mit täglich handgemachter Pasta; die neue Karte (Okt. 2026) bietet Entenravioli.",
+      "descricao_it": "Ristorante italiano del Grupo Soho con pasta fatta a mano ogni giorno; il nuovo menù (ott. 2026) propone raviolini d'anatra.",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi"
     },
     {
       "nome": "Tokai",
@@ -921,7 +1449,13 @@
       "cozinha": "japonesa",
       "descricao_es": "Restaurante japonés en el Shopping Barra, opción práctica para sushi y platos calientes.",
       "distancia_hotel_en": "approx. 1,3 km / 17-min walk",
-      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie"
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie",
+      "descricao_fr": "Restaurant japonais au Shopping Barra, pratique pour des sushis et des plats chauds.",
+      "descricao_de": "Japanisches Restaurant im Shopping Barra, praktisch für Sushi und warme Gerichte.",
+      "descricao_it": "Ristorante giapponese allo Shopping Barra, comodo per sushi e piatti caldi.",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi"
     },
     {
       "nome": "Santiago Culinária Ibérica",
@@ -937,7 +1471,16 @@
       "dica_en": "Also at Clube Espanhol (Av. Oceânica, 1404, Ondina).",
       "dica_es": "También en el Clube Espanhol (Av. Oceânica, 1404, Ondina).",
       "distancia_hotel_en": "approx. 1,3 km / 17-min walk (Shopping Barra)",
-      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie (Shopping Barra)"
+      "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie (Shopping Barra)",
+      "descricao_fr": "Cuisine espagnole et portugaise réputée pour ses paellas, comme la paella noire aux fruits de mer à l'encre de seiche.",
+      "descricao_de": "Spanische und portugiesische Küche, berühmt für Paellas wie die schwarze Meeresfrüchte-Paella mit Tintenfischtinte.",
+      "descricao_it": "Cucina spagnola e portoghese famosa per le paella, come quella nera ai frutti di mare con nero di seppia.",
+      "dica_fr": "Aussi au Clube Espanhol (Av. Oceânica, 1404, Ondina).",
+      "dica_de": "Auch im Clube Espanhol (Av. Oceânica, 1404, Ondina).",
+      "dica_it": "Anche al Clube Espanhol (Av. Oceânica, 1404, Ondina).",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied (Shopping Barra)",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß (Shopping Barra)",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi (Shopping Barra)"
     },
     {
       "nome": "Almacen Pepe – Shopping Barra",
@@ -959,7 +1502,19 @@
       "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie",
       "img": "https://static.wixstatic.com/media/789284_55c3f19faed34942b75ff57a3afac91d~mv2.jpg",
       "img_credito": "Almacen Pepe",
-      "img_pagina": "https://www.almacenpepe.com.br"
+      "img_pagina": "https://www.almacenpepe.com.br",
+      "descricao_fr": "Épicerie fine et café avec douceurs, tartes, salés et pizzas gourmet.",
+      "descricao_de": "Feinkost und Café mit Süßem, Kuchen, herzhaften Snacks und Gourmetpizzen.",
+      "descricao_it": "Gastronomia e caffè con dolci, torte, salatini e pizze gourmet.",
+      "dica_fr": "Niveau L4 Nord.",
+      "dica_de": "Ebene L4 Nord.",
+      "dica_it": "Livello L4 Nord.",
+      "horario_fr": "Lun–sam 12h–22h ; dim 12h–20h (oct. 2026)",
+      "horario_de": "Mo–Sa 12–22 Uhr; So 12–20 Uhr (Okt. 2026)",
+      "horario_it": "Lun–sab 12–22; dom 12–20 (ott. 2026)",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi"
     },
     {
       "nome": "Carvão",
@@ -980,7 +1535,19 @@
       "bairro_en": "Chame-Chame (next to Barra)",
       "bairro_es": "Chame-Chame (junto a Barra)",
       "distancia_hotel_en": "approx. 1,5 km / 20-min walk",
-      "distancia_hotel_es": "aprox. 1,5 km / 20 min a pie"
+      "distancia_hotel_es": "aprox. 1,5 km / 20 min a pie",
+      "descricao_fr": "Grill au feu de bois aux touches brésiliennes et internationales, comme le bœuf Angus séché au soleil.",
+      "descricao_de": "Holzfeuergrill mit brasilianischen und internationalen Akzenten, etwa sonnengetrocknetes Angus-Rind.",
+      "descricao_it": "Griglia a legna con tocchi brasiliani e internazionali, come il manzo Angus essiccato al sole.",
+      "horario_fr": "Lun–sam 12h–16h et 18h–22h30 ; dim 12h–16h",
+      "horario_de": "Mo–Sa 12–16 und 18–22:30 Uhr; So 12–16 Uhr",
+      "horario_it": "Lun–sab 12–16 e 18–22:30; dom 12–16",
+      "bairro_fr": "Chame-Chame (à côté de Barra)",
+      "bairro_de": "Chame-Chame (neben Barra)",
+      "bairro_it": "Chame-Chame (accanto a Barra)",
+      "distancia_hotel_fr": "env. 1,5 km / 20 min à pied",
+      "distancia_hotel_de": "ca. 1,5 km / 20 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,5 km / 20 min a piedi"
     },
     {
       "nome": "Barravento",
@@ -1001,7 +1568,16 @@
       "distancia_hotel_es": "aprox. 1,5 km / 20 min a pie",
       "img": "https://restaurantebarravento.com.br/bv/wp-content/uploads/2022/03/slide2.jpg",
       "img_credito": "Barravento",
-      "img_pagina": "https://restaurantebarravento.com.br/bv/"
+      "img_pagina": "https://restaurantebarravento.com.br/bv/",
+      "descricao_fr": "Restaurant en bord de mer sur le front de mer de Barra : fruits de mer, pâtes et risottos.",
+      "descricao_de": "Strandrestaurant an der Promenade von Barra mit Meeresfrüchten, Pasta und Risotto.",
+      "descricao_it": "Ristorante sul lungomare di Barra con frutti di mare, pasta e risotti.",
+      "bairro_fr": "Barra (front de mer)",
+      "bairro_de": "Barra (Strandpromenade)",
+      "bairro_it": "Barra (lungomare)",
+      "distancia_hotel_fr": "env. 1,5 km / 20 min à pied",
+      "distancia_hotel_de": "ca. 1,5 km / 20 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,5 km / 20 min a piedi"
     },
     {
       "nome": "Seven Café & Bistrô – Spot Barra",
@@ -1020,7 +1596,19 @@
       "horario_en": "Daily 7am–8pm (Fri–Sat until 9pm)",
       "horario_es": "Todos los días 7h–20h (vie–sáb hasta las 21h)",
       "distancia_hotel_en": "approx. 1,6 km / 20-min walk",
-      "distancia_hotel_es": "aprox. 1,6 km / 20 min a pie"
+      "distancia_hotel_es": "aprox. 1,6 km / 20 min a pie",
+      "descricao_fr": "Café-bistrot pour petit-déjeuner, en-cas et repas légers face à la mer.",
+      "descricao_de": "Café-Bistro für Frühstück, Snacks und leichte Gerichte am Meer.",
+      "descricao_it": "Caffè-bistrot per colazione, spuntini e pasti leggeri sul lungomare.",
+      "dica_fr": "Av. Oceânica, 859, rez-de-chaussée.",
+      "dica_de": "Av. Oceânica, 859, Erdgeschoss.",
+      "dica_it": "Av. Oceânica, 859, piano terra.",
+      "horario_fr": "Tous les jours 7h–20h (ven–sam jusqu'à 21h)",
+      "horario_de": "Täglich 7–20 Uhr (Fr–Sa bis 21 Uhr)",
+      "horario_it": "Tutti i giorni 7–20 (ven–sab fino alle 21)",
+      "distancia_hotel_fr": "env. 1,6 km / 20 min à pied",
+      "distancia_hotel_de": "ca. 1,6 km / 20 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,6 km / 20 min a piedi"
     },
     {
       "nome": "Di Liana",
@@ -1040,7 +1628,13 @@
       "distancia_hotel_es": "aprox. 2,5 km / 8 min en coche",
       "img": "https://www.diliana.com.br/storage/uploads/Slides/SLID01/images/dili-18-01-24-44-1729889611.webp",
       "img_credito": "Di Liana",
-      "img_pagina": "https://www.diliana.com.br/home"
+      "img_pagina": "https://www.diliana.com.br/home",
+      "descricao_fr": "Restaurant italien à plus de 40 ans d'histoire, recettes de l'Italie du Nord et pâtes fraîches maison.",
+      "descricao_de": "Italienisches Restaurant mit über 40 Jahren Geschichte, norditalienischen Rezepten und hausgemachter frischer Pasta.",
+      "descricao_it": "Ristorante italiano con oltre 40 anni di storia, ricette del Nord Italia e pasta fresca fatta in casa.",
+      "distancia_hotel_fr": "env. 2,5 km / 8 min en voiture",
+      "distancia_hotel_de": "ca. 2,5 km / 8 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 2,5 km / 8 min in auto"
     },
     {
       "nome": "Chez Bernard",
@@ -1056,7 +1650,16 @@
       "dica_en": "Go in the late afternoon for the sunset.",
       "dica_es": "Vaya al final de la tarde para ver la puesta de sol.",
       "distancia_hotel_en": "approx. 3,5 km / 10 min by car",
-      "distancia_hotel_es": "aprox. 3,5 km / 10 min en coche"
+      "distancia_hotel_es": "aprox. 3,5 km / 10 min en coche",
+      "descricao_fr": "Restaurant français classique de Salvador avec vue sur la Baie de Tous les Saints.",
+      "descricao_de": "Klassisches französisches Restaurant in Salvador mit Blick auf die Allerheiligenbucht.",
+      "descricao_it": "Classico ristorante francese di Salvador affacciato sulla Baia di Tutti i Santi.",
+      "dica_fr": "Allez-y en fin d'après-midi pour le coucher du soleil.",
+      "dica_de": "Am späten Nachmittag zum Sonnenuntergang hingehen.",
+      "dica_it": "Vai nel tardo pomeriggio per il tramonto.",
+      "distancia_hotel_fr": "env. 3,5 km / 10 min en voiture",
+      "distancia_hotel_de": "ca. 3,5 km / 10 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 3,5 km / 10 min in auto"
     },
     {
       "nome": "Gero Salvador (Fasano)",
@@ -1078,7 +1681,19 @@
       "distancia_hotel_es": "aprox. 4 km / 12 min",
       "img": "https://fasano.com.br/wp-content/uploads/2024/09/Gero-Salvador-01.jpg",
       "img_credito": "Gero Salvador (Fasano)",
-      "img_pagina": "https://fasano.com.br/gastronomia/gero-salvador/"
+      "img_pagina": "https://fasano.com.br/gastronomia/gero-salvador/",
+      "descricao_fr": "Restaurant italien du groupe Fasano à l'Hotel Fasano, avec pâtes et quelques classiques bahianais ; petit-déjeuner ouvert aux non-résidents.",
+      "descricao_de": "Italienisches Restaurant der Grupo Fasano im Hotel Fasano mit Pasta und einigen bahianischen Klassikern; Frühstück auch für externe Gäste.",
+      "descricao_it": "Ristorante italiano del Grupo Fasano all'Hotel Fasano, con pasta e alcuni classici bahiani; colazione aperta anche ai non ospiti.",
+      "dica_fr": "Menu déjeuner Mezzogiorno en semaine.",
+      "dica_de": "Mittagsmenü Mezzogiorno an Wochentagen.",
+      "dica_it": "Menù pranzo Mezzogiorno nei giorni feriali.",
+      "bairro_fr": "Centre-ville (Praça Castro Alves)",
+      "bairro_de": "Innenstadt (Praça Castro Alves)",
+      "bairro_it": "Centro (Praça Castro Alves)",
+      "distancia_hotel_fr": "env. 4 km / 12 min",
+      "distancia_hotel_de": "ca. 4 km / 12 Min.",
+      "distancia_hotel_it": "circa 4 km / 12 min"
     },
     {
       "nome": "Pala7 Rooftop",
@@ -1093,7 +1708,16 @@
       "bairro_en": "Historic Center (Rua Chile)",
       "bairro_es": "Centro Histórico (Rua Chile)",
       "distancia_hotel_en": "approx. 4 km / 12 min by car",
-      "distancia_hotel_es": "aprox. 4 km / 12 min en coche"
+      "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
+      "descricao_fr": "Rooftop du Palacete Tira-Chapéu, cuisine méditerranéenne d'influence française signée Claude Troisgros.",
+      "descricao_de": "Rooftop im Palacete Tira-Chapéu mit französisch beeinflusster Mittelmeerküche von Claude Troisgros.",
+      "descricao_it": "Rooftop al Palacete Tira-Chapéu con cucina mediterranea d'influenza francese di Claude Troisgros.",
+      "bairro_fr": "Centre historique (Rua Chile)",
+      "bairro_de": "Altstadt (Rua Chile)",
+      "bairro_it": "Centro storico (Rua Chile)",
+      "distancia_hotel_fr": "env. 4 km / 12 min en voiture",
+      "distancia_hotel_de": "ca. 4 km / 12 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4 km / 12 min in auto"
     },
     {
       "nome": "Silva Cozinha",
@@ -1114,7 +1738,16 @@
       "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
       "img": "https://silvacozinha.com.br/images/prato-polvo.jpg",
       "img_credito": "Silva Cozinha",
-      "img_pagina": "https://silvacozinha.com.br/"
+      "img_pagina": "https://silvacozinha.com.br/",
+      "descricao_fr": "Restaurant du chef Ricardo Silva, passé de Rio Vermelho à la Rua Chile en mai 2026, avec vue sur la baie.",
+      "descricao_de": "Restaurant von Chef Ricardo Silva, im Mai 2026 von Rio Vermelho in die Rua Chile umgezogen, mit Blick auf die Bucht.",
+      "descricao_it": "Ristorante dello chef Ricardo Silva, trasferito da Rio Vermelho a Rua Chile a maggio 2026, con vista sulla baia.",
+      "bairro_fr": "Centre historique (Rua Chile)",
+      "bairro_de": "Altstadt (Rua Chile)",
+      "bairro_it": "Centro storico (Rua Chile)",
+      "distancia_hotel_fr": "env. 4 km / 12 min en voiture",
+      "distancia_hotel_de": "ca. 4 km / 12 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4 km / 12 min in auto"
     },
     {
       "nome": "A Cubana",
@@ -1129,7 +1762,16 @@
       "bairro_en": "Downtown (Lacerda Elevator)",
       "bairro_es": "Centro (Elevador Lacerda)",
       "distancia_hotel_en": "approx. 4,5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 4,5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 4,5 km / 15 min en coche",
+      "descricao_fr": "Glacier traditionnel près de l'Ascenseur Lacerda, une halte classique lors d'une balade en centre-ville.",
+      "descricao_de": "Traditionelle Eisdiele am Lacerda-Aufzug, ein klassischer Stopp beim Innenstadtbummel.",
+      "descricao_it": "Gelateria tradizionale vicino all'Ascensore Lacerda, una sosta classica durante una passeggiata in centro.",
+      "bairro_fr": "Centre-ville (Ascenseur Lacerda)",
+      "bairro_de": "Innenstadt (Lacerda-Aufzug)",
+      "bairro_it": "Centro (Ascensore Lacerda)",
+      "distancia_hotel_fr": "env. 4,5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 4,5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4,5 km / 15 min in auto"
     },
     {
       "nome": "Soho",
@@ -1145,7 +1787,13 @@
       "dica_en": "Av. Lafayete Coutinho, 1010 (Bahia Marina).",
       "dica_es": "Av. Lafayete Coutinho, 1010 (Bahia Marina).",
       "distancia_hotel_en": "approx. 4,5 km / 12 min by car (Bahia Marina)",
-      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche (Bahia Marina)"
+      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche (Bahia Marina)",
+      "descricao_fr": "Une référence de la cuisine japonaise contemporaine ; l'adresse de Bahia Marina a vue sur la mer.",
+      "descricao_de": "Ein führendes zeitgenössisches japanisches Restaurant; die Filiale in der Bahia Marina hat Meerblick.",
+      "descricao_it": "Un riferimento della cucina giapponese contemporanea; la sede di Bahia Marina ha vista mare.",
+      "distancia_hotel_fr": "env. 4,5 km / 12 min en voiture (Bahia Marina)",
+      "distancia_hotel_de": "ca. 4,5 km / 12 Min. mit dem Auto (Bahia Marina)",
+      "distancia_hotel_it": "circa 4,5 km / 12 min in auto (Bahia Marina)"
     },
     {
       "nome": "Lafayette",
@@ -1161,7 +1809,16 @@
       "dica_en": "A sunset classic.",
       "dica_es": "Un clásico para la puesta de sol.",
       "distancia_hotel_en": "approx. 4,5 km / 12 min by car",
-      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche"
+      "distancia_hotel_es": "aprox. 4,5 km / 12 min en coche",
+      "descricao_fr": "Cuisine méditerranéenne aux touches bahianaises au bord de la baie, rouverte en 2025 après rénovation avec un nouveau bar.",
+      "descricao_de": "Mediterrane Küche mit bahianischen Akzenten an der Bucht, 2025 nach Renovierung mit neuer Bar wiedereröffnet.",
+      "descricao_it": "Cucina mediterranea con tocchi bahiani sulla baia, riaperta nel 2025 dopo una ristrutturazione con un nuovo bar.",
+      "dica_fr": "Un classique au coucher du soleil.",
+      "dica_de": "Ein Klassiker zum Sonnenuntergang.",
+      "dica_it": "Un classico al tramonto.",
+      "distancia_hotel_fr": "env. 4,5 km / 12 min en voiture",
+      "distancia_hotel_de": "ca. 4,5 km / 12 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4,5 km / 12 min in auto"
     },
     {
       "nome": "Casa de Tereza",
@@ -1180,7 +1837,16 @@
       "distancia_hotel_es": "aprox. 5 km / 15 min",
       "img": "https://casadetereza.com.br/wp-content/uploads/2025/09/Salao-Iemanja-1-scaled-585x435.jpg",
       "img_credito": "Casa de Tereza",
-      "img_pagina": "https://casadetereza.com.br/"
+      "img_pagina": "https://casadetereza.com.br/",
+      "descricao_fr": "Restaurant de la cheffe Tereza Paim, réputé pour ses moquecas et sa cuisine bahianaise d'auteur au milieu d'art local ; 14 ans en 2026.",
+      "descricao_de": "Restaurant von Köchin Tereza Paim, bekannt für Moquecas und bahianische Autorenküche inmitten lokaler Kunst; 2026 14 Jahre alt.",
+      "descricao_it": "Ristorante della chef Tereza Paim, noto per le moquecas e la cucina bahiana d'autore tra arte locale; 14 anni nel 2026.",
+      "dica_fr": "Spécialité : moqueca (poisson, crevettes ou végétarienne).",
+      "dica_de": "Spezialität: Moqueca (Fisch, Garnelen oder vegetarisch).",
+      "dica_it": "Specialità: moqueca (pesce, gamberi o vegetariana).",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Dona Mariquita",
@@ -1196,7 +1862,16 @@
       "dica_en": "There's also the Casa de Veraneio branch in Comércio.",
       "dica_es": "También está la unidad Casa de Veraneio, en el Comércio.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Cuisine bahianaise patrimoniale ancrée dans la tradition afro-brésilienne, avec des plats comme la « poqueca » en feuille de bananier et l'arroz de hauçá.",
+      "descricao_de": "Traditionelle bahianische Küche mit afrobrasilianischen Wurzeln, mit Gerichten wie „Poqueca“ im Bananenblatt und Arroz de Hauçá.",
+      "descricao_it": "Cucina bahiana tradizionale radicata nella cultura afro-brasiliana, con piatti come la 'poqueca' in foglia di banano e l'arroz de hauçá.",
+      "dica_fr": "Il y a aussi l'adresse Casa de Veraneio au Comércio.",
+      "dica_de": "Es gibt auch die Filiale Casa de Veraneio im Comércio.",
+      "dica_it": "C'è anche la sede Casa de Veraneio al Comércio.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Restaurante Escola Senac Pelourinho",
@@ -1215,7 +1890,19 @@
       "horario_en": "Daily, 11:30am–3:30pm",
       "horario_es": "Todos los días, 11h30–15h30",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Buffet de restaurant-école avec des dizaines de plats et desserts typiques de Bahia, dans une demeure historique.",
+      "descricao_de": "Buffet eines Lehrrestaurants mit Dutzenden typischen bahianischen Gerichten und Desserts in einem historischen Herrenhaus.",
+      "descricao_it": "Buffet di un ristorante-scuola con decine di piatti e dolci tipici bahiani in un palazzo storico.",
+      "dica_fr": "Parfait pour goûter un peu de tout.",
+      "dica_de": "Ideal, um von allem etwas zu probieren.",
+      "dica_it": "Perfetto per assaggiare un po' di tutto.",
+      "horario_fr": "Tous les jours, 11h30–15h30",
+      "horario_de": "Täglich, 11:30–15:30 Uhr",
+      "horario_it": "Tutti i giorni, 11:30–15:30",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Orí Rooftop",
@@ -1233,7 +1920,19 @@
       "bairro_en": "Historic Center",
       "bairro_es": "Centro Histórico",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Rooftop du Grupo Origem dans le centre historique, vue sur la baie et l'Ascenseur Lacerda ; cuisine au dendê, coco et fruits de mer.",
+      "descricao_de": "Rooftop der Grupo Origem in der Altstadt mit Blick auf die Bucht und den Lacerda-Aufzug; Küche mit Dendê, Kokos und Meeresfrüchten.",
+      "descricao_it": "Rooftop del Grupo Origem nel centro storico con vista sulla baia e sull'Ascensore Lacerda; cucina con dendê, cocco e frutti di mare.",
+      "dica_fr": "Menu déjeuner mar–ven dès ~R$ 105 (juin 2026).",
+      "dica_de": "Mittagsmenü Di–Fr ab ~R$ 105 (Juni 2026).",
+      "dica_it": "Menù pranzo mar–ven da ~R$ 105 (giugno 2026).",
+      "bairro_fr": "Centre historique",
+      "bairro_de": "Altstadt",
+      "bairro_it": "Centro storico",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Manga",
@@ -1252,7 +1951,16 @@
       "distancia_hotel_es": "aprox. 5 km / 15 min",
       "img": "https://static.wixstatic.com/media/d5cf80_79a469d357cd4b2d8577edcf33f5f195~mv2.jpg",
       "img_credito": "Manga",
-      "img_pagina": "https://www.mangamar.com.br"
+      "img_pagina": "https://www.mangamar.com.br",
+      "descricao_fr": "Menu dégustation créatif et de saison dans une demeure avec bar et terrasse, par les chefs Dante et Katrin Bassi.",
+      "descricao_de": "Kreatives saisonales Degustationsmenü in einer Villa mit Bar und Terrasse, von Dante und Katrin Bassi.",
+      "descricao_it": "Menù degustazione creativo e stagionale in una villa con bar e terrazza, degli chef Dante e Katrin Bassi.",
+      "dica_fr": "Menu dégustation ~R$ 520 (juin 2026).",
+      "dica_de": "Degustationsmenü ~R$ 520 (Juni 2026).",
+      "dica_it": "Menù degustazione ~R$ 520 (giugno 2026).",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Amado",
@@ -1271,7 +1979,19 @@
       "horario_en": "Tue–Sun, 10am–11pm (tourism website)",
       "horario_es": "Mar–dom, 10h–23h (sitio de turismo)",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Restaurant de fruits de mer contemporain au-dessus de la Baie de Tous les Saints, qui fête ses 20 ans en 2026 avec une nouvelle carte.",
+      "descricao_de": "Modernes Meeresfrüchte-Restaurant über der Allerheiligenbucht, feiert 2026 sein 20-jähriges Bestehen mit neuer Karte.",
+      "descricao_it": "Ristorante di mare contemporaneo sulla Baia di Tutti i Santi, che festeggia 20 anni nel 2026 con un nuovo menù.",
+      "dica_fr": "Demandez une table en terrasse pour le coucher du soleil.",
+      "dica_de": "Fragen Sie nach einem Verandatisch zum Sonnenuntergang.",
+      "dica_it": "Chiedi un tavolo in veranda per il tramonto.",
+      "horario_fr": "Mar–dim, 10h–23h (site touristique)",
+      "horario_de": "Di–So, 10–23 Uhr (Tourismus-Website)",
+      "horario_it": "Mar–dom, 10–23 (sito turistico)",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Ré Restaurante Dona Suzana",
@@ -1287,7 +2007,16 @@
       "dica_en": "Pair it with the sunset at MAM.",
       "dica_es": "Combínelo con la puesta de sol del MAM.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Restaurant au Solar do Unhão, à côté du MAM, servant des moquecas avec vue sur la baie.",
+      "descricao_de": "Restaurant im Solar do Unhão neben dem MAM, mit Moquecas und Blick auf die Bucht.",
+      "descricao_it": "Ristorante al Solar do Unhão accanto al MAM, con moquecas e vista sulla baia.",
+      "dica_fr": "À combiner avec le coucher du soleil au MAM.",
+      "dica_de": "Mit dem Sonnenuntergang am MAM verbinden.",
+      "dica_it": "Abbinalo al tramonto al MAM.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Casa Chálabi",
@@ -1303,7 +2032,16 @@
       "horario_en": "Happy hour Tue–Sat, 4pm–7pm (Jan 2026)",
       "horario_es": "Happy hour mar–sáb, 16h–19h (ene/2026)",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Cuisine libanaise et méditerranéenne dans un cadre détendu, tables en terrasse.",
+      "descricao_de": "Libanesische und mediterrane Küche in entspannter Atmosphäre mit Tischen auf dem Gehweg.",
+      "descricao_it": "Cucina libanese e mediterranea in un ambiente rilassato con tavoli all'aperto.",
+      "horario_fr": "Happy hour mar–sam, 16h–19h (janv. 2026)",
+      "horario_de": "Happy Hour Di–Sa, 16–19 Uhr (Jan. 2026)",
+      "horario_it": "Happy hour mar–sab, 16–19 (gen. 2026)",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Acarajé da Dinha",
@@ -1319,7 +2057,16 @@
       "dica_en": "Expect lines on weekends.",
       "dica_es": "Hay fila los fines de semana.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "L'un des stands d'acarajé les plus célèbres de la ville, une tradition de plusieurs générations sur la place qui porte son nom.",
+      "descricao_de": "Einer der berühmtesten Acarajé-Stände der Stadt, eine Tradition über Generationen auf dem nach ihr benannten Platz.",
+      "descricao_it": "Uno dei banchi di acarajé più famosi della città, una tradizione di più generazioni nella piazza che porta il suo nome.",
+      "dica_fr": "Attente probable le week-end.",
+      "dica_de": "Am Wochenende mit Wartezeiten rechnen.",
+      "dica_it": "Nel fine settimana aspettati la fila.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Acarajé da Cira",
@@ -1335,7 +2082,16 @@
       "dica_en": "In May 2026 the Itapuã stall temporarily left the brand; the Rio Vermelho one is operating as usual.",
       "dica_es": "En may/2026 el puesto de Itapuã se desvinculó temporalmente de la marca; el de Rio Vermelho sigue con normalidad.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Acarajé croustillant traditionnel, aujourd'hui tenu par la famille de Cira au Largo da Mariquita.",
+      "descricao_de": "Traditionelles knuspriges Acarajé, heute von Ciras Familie am Largo da Mariquita betrieben.",
+      "descricao_it": "Acarajé croccante tradizionale, oggi gestito dalla famiglia di Cira al Largo da Mariquita.",
+      "dica_fr": "En mai 2026, le stand d'Itapuã a quitté temporairement l'enseigne ; celui de Rio Vermelho fonctionne normalement.",
+      "dica_de": "Im Mai 2026 hat der Stand in Itapuã die Marke vorübergehend verlassen; der in Rio Vermelho läuft normal.",
+      "dica_it": "A maggio 2026 il banco di Itapuã ha lasciato temporaneamente il marchio; quello di Rio Vermelho funziona normalmente.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Little England Café",
@@ -1351,7 +2107,16 @@
       "horario_en": "Tue–Sat 9am–7pm; Sun 10am–7pm (Apr 2026)",
       "horario_es": "Mar–sáb 9h–19h; dom 10h–19h (abr/2026)",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Café à l'anglaise sur la Praça da Sé, une bonne pause pendant la visite de la vieille ville.",
+      "descricao_de": "Café im englischen Stil an der Praça da Sé, eine gute Pause beim Altstadtbummel.",
+      "descricao_it": "Caffè in stile inglese in Praça da Sé, una buona pausa durante la visita della città vecchia.",
+      "horario_fr": "Mar–sam 9h–19h ; dim 10h–19h (avr. 2026)",
+      "horario_de": "Di–Sa 9–19 Uhr; So 10–19 Uhr (Apr. 2026)",
+      "horario_it": "Mar–sab 9–19; dom 10–19 (apr. 2026)",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Boia",
@@ -1367,7 +2132,16 @@
       "dica_en": "Rua José Avena, 1. Book ahead.",
       "dica_es": "Rua José Avena, 1. Reserve.",
       "distancia_hotel_en": "approx. 5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche",
+      "descricao_fr": "Restaurant de poissons et fruits de mer du chef Kaywa Hilton, guidé par la pêche du jour ; 10e du Brésil (Exame 2026).",
+      "descricao_de": "Fisch- und Meeresfrüchte-Restaurant von Chef Kaywa Hilton nach dem Fang des Tages; Platz 10 in Brasilien (Exame 2026).",
+      "descricao_it": "Ristorante di pesce e frutti di mare dello chef Kaywa Hilton, basato sul pescato del giorno; 10° in Brasile (Exame 2026).",
+      "dica_fr": "Rua José Avena, 1. Réservez.",
+      "dica_de": "Rua José Avena, 1. Vorher reservieren.",
+      "dica_it": "Rua José Avena, 1. Prenota.",
+      "distancia_hotel_fr": "env. 5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 5 km / 15 min in auto"
     },
     {
       "nome": "Megiro",
@@ -1383,7 +2157,13 @@
       "dica_en": "Av. Santa Luzia, 656.",
       "dica_es": "Av. Santa Luzia, 656.",
       "distancia_hotel_en": "approx. 5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche",
+      "descricao_fr": "Bar contemporain des chefs d'Origem, avec des classiques bahianais comme malassado, sarapatel et queue de bœuf.",
+      "descricao_de": "Moderne Bar der Origem-Köche mit bahianischen Klassikern wie Malassado, Sarapatel und Ochsenschwanz.",
+      "descricao_it": "Bar contemporaneo degli chef di Origem, con classici bahiani come malassado, sarapatel e coda di bue.",
+      "distancia_hotel_fr": "env. 5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 5 km / 15 min in auto"
     },
     {
       "nome": "Mōrea Asian Fusion",
@@ -1399,7 +2179,16 @@
       "dica_en": "Rooftop of Shopping Alameda Vert.",
       "dica_es": "Rooftop del Shopping Alameda Vert.",
       "distancia_hotel_en": "approx. 5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche",
+      "descricao_fr": "Cuisine fusion asiatique sur le toit de l'Alameda Vert, au-delà des sushis traditionnels.",
+      "descricao_de": "Asiatische Fusionsküche auf dem Dach des Alameda Vert, mehr als klassisches Sushi.",
+      "descricao_it": "Cucina fusion asiatica sul rooftop dell'Alameda Vert, oltre il sushi tradizionale.",
+      "dica_fr": "Sur le toit du Shopping Alameda Vert.",
+      "dica_de": "Auf dem Dach des Shopping Alameda Vert.",
+      "dica_it": "Sul rooftop dello Shopping Alameda Vert.",
+      "distancia_hotel_fr": "env. 5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 5 km / 15 min in auto"
     },
     {
       "nome": "Pasta em Casa",
@@ -1418,7 +2207,16 @@
       "horario_en": "Dinner: Mon–Sat 6:30pm–11:30pm; Sun 6:30pm–11pm",
       "horario_es": "Cena: lun–sáb 18h30–23h30; dom 18h30–23h",
       "distancia_hotel_en": "approx. 5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche",
+      "descricao_fr": "Pâtes artisanales et pizzas au feu de bois ; goûtez la pizzetta à la burrata.",
+      "descricao_de": "Hausgemachte Pasta und Holzofenpizza; probieren Sie die Burrata-Pizzetta.",
+      "descricao_it": "Pasta artigianale e pizze al forno a legna; prova la pizzetta con burrata.",
+      "horario_fr": "Dîner : lun–sam 18h30–23h30 ; dim 18h30–23h",
+      "horario_de": "Abendessen: Mo–Sa 18:30–23:30 Uhr; So 18:30–23 Uhr",
+      "horario_it": "Cena: lun–sab 18:30–23:30; dom 18:30–23",
+      "distancia_hotel_fr": "env. 5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 5 km / 15 min in auto"
     },
     {
       "nome": "Pasárgada Kebab Grill & Bar",
@@ -1434,7 +2232,16 @@
       "dica_en": "Praça Brig. Faria Rocha, 44A. Closed on Wednesdays.",
       "dica_es": "Praça Brig. Faria Rocha, 44A. Cierra los miércoles.",
       "distancia_hotel_en": "approx. 5 km / 15 min by car",
-      "distancia_hotel_es": "aprox. 5 km / 15 min en coche"
+      "distancia_hotel_es": "aprox. 5 km / 15 min en coche",
+      "descricao_fr": "Cuisine persane et du Moyen-Orient, kebabs grillés dans une ambiance de bar.",
+      "descricao_de": "Persische und nahöstliche Küche mit gegrillten Kebabs in Bar-Atmosphäre.",
+      "descricao_it": "Cucina persiana e mediorientale con kebab alla griglia in un ambiente da bar.",
+      "dica_fr": "Praça Brig. Faria Rocha, 44A. Fermé le mercredi.",
+      "dica_de": "Praça Brig. Faria Rocha, 44A. Mittwochs geschlossen.",
+      "dica_it": "Praça Brig. Faria Rocha, 44A. Chiuso il mercoledì.",
+      "distancia_hotel_fr": "env. 5 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 5 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 5 km / 15 min in auto"
     },
     {
       "nome": "Rango Vegan",
@@ -1447,7 +2254,13 @@
       "cozinha": "vegetariana",
       "descricao_es": "Uno de los pioneros veganos de la ciudad, con platos de inspiración afrobahiana.",
       "distancia_hotel_en": "approx. 6 km / 20 min by car",
-      "distancia_hotel_es": "aprox. 6 km / 20 min en coche"
+      "distancia_hotel_es": "aprox. 6 km / 20 min en coche",
+      "descricao_fr": "L'un des pionniers vegan de la ville, avec des plats d'inspiration afro-bahianaise.",
+      "descricao_de": "Einer der veganen Pioniere der Stadt mit afro-bahianisch inspirierten Gerichten.",
+      "descricao_it": "Uno dei pionieri vegani della città, con piatti di ispirazione afro-bahiana.",
+      "distancia_hotel_fr": "env. 6 km / 20 min en voiture",
+      "distancia_hotel_de": "ca. 6 km / 20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 6 km / 20 min in auto"
     },
     {
       "nome": "Padoca do Carmo",
@@ -1466,7 +2279,16 @@
       "horario_en": "From 8am (Apr 2026)",
       "horario_es": "Desde las 8h (abr/2026)",
       "distancia_hotel_en": "approx. 6 km / 20 min by car",
-      "distancia_hotel_es": "aprox. 6 km / 20 min en coche"
+      "distancia_hotel_es": "aprox. 6 km / 20 min en coche",
+      "descricao_fr": "Boulangerie-café au Carmo, une bonne halte pour le petit-déjeuner avant d'explorer le quartier.",
+      "descricao_de": "Bäckerei-Café im Carmo, ein guter Frühstücksstopp vor der Erkundung des Viertels.",
+      "descricao_it": "Panetteria-caffè al Carmo, una buona sosta per la colazione prima di esplorare il quartiere.",
+      "horario_fr": "Dès 8h (avr. 2026)",
+      "horario_de": "Ab 8 Uhr (Apr. 2026)",
+      "horario_it": "Dalle 8 (apr. 2026)",
+      "distancia_hotel_fr": "env. 6 km / 20 min en voiture",
+      "distancia_hotel_de": "ca. 6 km / 20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 6 km / 20 min in auto"
     },
     {
       "nome": "Seu Zelito",
@@ -1483,7 +2305,13 @@
       "dica_en": "Av. Paulo VI, 1609.",
       "dica_es": "Av. Paulo VI, 1609.",
       "distancia_hotel_en": "approx. 9 km / 25 min by car",
-      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche",
+      "descricao_fr": "Bar de cuisine réconfortante : filet de porc du Zelito, moqueca de bœuf et bouillons de sururu ou de haricots.",
+      "descricao_de": "Bar mit Hausmannskost: Schweinelende von Zelito, Rindfleisch-Moqueca und Sururu- oder Bohnenbrühe.",
+      "descricao_it": "Bar di cucina casalinga: lonza di maiale di Zelito, moqueca di manzo e brodi di sururu o di fagioli.",
+      "distancia_hotel_fr": "env. 9 km / 25 min en voiture",
+      "distancia_hotel_de": "ca. 9 km / 25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 9 km / 25 min in auto"
     },
     {
       "nome": "Jeanne Garcia Confeitaria",
@@ -1502,7 +2330,16 @@
       "horario_en": "Tue–Fri from 1pm; Sat–Sun from 8am",
       "horario_es": "Mar–vie desde las 13h; sáb–dom desde las 8h",
       "distancia_hotel_en": "approx. 9 km / 25 min by car",
-      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche",
+      "descricao_fr": "Pâtisserie réputée pour ses macarons, avec petit-déjeuner le week-end.",
+      "descricao_de": "Konditorei, bekannt für Macarons, mit Frühstück am Wochenende.",
+      "descricao_it": "Pasticceria nota per i macaron, con colazione nel fine settimana.",
+      "horario_fr": "Mar–ven dès 13h ; sam–dim dès 8h",
+      "horario_de": "Di–Fr ab 13 Uhr; Sa–So ab 8 Uhr",
+      "horario_it": "Mar–ven dalle 13; sab–dom dalle 8",
+      "distancia_hotel_fr": "env. 9 km / 25 min en voiture",
+      "distancia_hotel_de": "ca. 9 km / 25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 9 km / 25 min in auto"
     },
     {
       "nome": "Barbacoa",
@@ -1520,7 +2357,16 @@
       "bairro_en": "Caminho das Árvores (near Itaigara)",
       "bairro_es": "Caminho das Árvores (cerca de Itaigara)",
       "distancia_hotel_en": "approx. 9 km / 25 min by car",
-      "distancia_hotel_es": "aprox. 9 km / 25 min en coche"
+      "distancia_hotel_es": "aprox. 9 km / 25 min en coche",
+      "descricao_fr": "Churrascaria à volonté, une valeur sûre pour la viande près de l'Av. Tancredo Neves.",
+      "descricao_de": "Brasilianisches All-you-can-eat-Steakhaus, ein Fleischklassiker nahe der Av. Tancredo Neves.",
+      "descricao_it": "Churrascaria a volontà, un classico per la carne vicino ad Av. Tancredo Neves.",
+      "bairro_fr": "Caminho das Árvores (près d'Itaigara)",
+      "bairro_de": "Caminho das Árvores (bei Itaigara)",
+      "bairro_it": "Caminho das Árvores (vicino a Itaigara)",
+      "distancia_hotel_fr": "env. 9 km / 25 min en voiture",
+      "distancia_hotel_de": "ca. 9 km / 25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 9 km / 25 min in auto"
     },
     {
       "nome": "Origem",
@@ -1537,7 +2383,16 @@
       "dica_en": "Recôncavo menu ~R$ 420 (Jun 2026); reservations required.",
       "dica_es": "Menú Recôncavo ~R$ 420 (jun/2026); reserva obligatoria.",
       "distancia_hotel_en": "approx. 10 km / 25 min",
-      "distancia_hotel_es": "aprox. 10 km / 25 min"
+      "distancia_hotel_es": "aprox. 10 km / 25 min",
+      "descricao_fr": "Menu dégustation qui réinvente la cuisine de Bahia et du Recôncavo, par les chefs Fabrício Lemos et Lisiane Arouca ; 4e du Brésil (Exame 2026).",
+      "descricao_de": "Degustationsmenü, das die Küche Bahias und des Recôncavo neu interpretiert, von Fabrício Lemos und Lisiane Arouca; Platz 4 in Brasilien (Exame 2026).",
+      "descricao_it": "Menù degustazione che reinterpreta la cucina di Bahia e del Recôncavo, degli chef Fabrício Lemos e Lisiane Arouca; 4° in Brasile (Exame 2026).",
+      "dica_fr": "Menu Recôncavo ~R$ 420 (juin 2026) ; réservation obligatoire.",
+      "dica_de": "Menü Recôncavo ~R$ 420 (Juni 2026); Reservierung erforderlich.",
+      "dica_it": "Menù Recôncavo ~R$ 420 (giugno 2026); prenotazione obbligatoria.",
+      "distancia_hotel_fr": "env. 10 km / 25 min",
+      "distancia_hotel_de": "ca. 10 km / 25 Min.",
+      "distancia_hotel_it": "circa 10 km / 25 min"
     },
     {
       "nome": "Sorveteria da Ribeira",
@@ -1551,7 +2406,13 @@
       "cozinha": "doces",
       "descricao_es": "Heladería fundada en 1931, famosa por sus sabores de frutas brasileñas; el helado de tapioca entró en la lista de TasteAtlas de los 100 mejores del mundo (2026).",
       "distancia_hotel_en": "approx. 13 km / 35 min",
-      "distancia_hotel_es": "aprox. 13 km / 35 min"
+      "distancia_hotel_es": "aprox. 13 km / 35 min",
+      "descricao_fr": "Glacier fondé en 1931, célèbre pour ses parfums de fruits brésiliens ; son parfum tapioca figure au top 100 mondial de TasteAtlas (2026).",
+      "descricao_de": "1931 gegründete Eisdiele, berühmt für Sorten aus brasilianischen Früchten; die Sorte Tapioka kam in die Welt-Top-100 von TasteAtlas (2026).",
+      "descricao_it": "Gelateria fondata nel 1931, famosa per i gusti di frutta brasiliana; il gusto tapioca è entrato nella top 100 mondiale di TasteAtlas (2026).",
+      "distancia_hotel_fr": "env. 13 km / 35 min",
+      "distancia_hotel_de": "ca. 13 km / 35 Min.",
+      "distancia_hotel_it": "circa 13 km / 35 min"
     },
     {
       "nome": "Yemanjá",
@@ -1567,7 +2428,16 @@
       "horario_en": "Lunch 11:30am–5pm (Nov 2025)",
       "horario_es": "Almuerzo 11h30–17h (nov/2025)",
       "distancia_hotel_en": "approx. 14 km / 30 min",
-      "distancia_hotel_es": "aprox. 14 km / 30 min"
+      "distancia_hotel_es": "aprox. 14 km / 30 min",
+      "descricao_fr": "Classique du front de mer connu pour ses moquecas géantes et ses fruits de mer bahianais.",
+      "descricao_de": "Klassiker an der Promenade, bekannt für riesige Moquecas und bahianische Meeresfrüchte.",
+      "descricao_it": "Classico del lungomare noto per le moquecas giganti e i frutti di mare bahiani.",
+      "horario_fr": "Déjeuner 11h30–17h (nov. 2025)",
+      "horario_de": "Mittagessen 11:30–17 Uhr (Nov. 2025)",
+      "horario_it": "Pranzo 11:30–17 (nov. 2025)",
+      "distancia_hotel_fr": "env. 14 km / 30 min",
+      "distancia_hotel_de": "ca. 14 km / 30 Min.",
+      "distancia_hotel_it": "circa 14 km / 30 min"
     }
   ],
   "noite": [
@@ -1580,7 +2450,13 @@
       "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
       "descricao_es": "Punto central de la noche del Rio Vermelho, con bares, música en vivo y el acarajé de Cira.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Cœur de la vie nocturne de Rio Vermelho : bars, musique live et l'acarajé de Cira.",
+      "descricao_de": "Zentrum des Nachtlebens von Rio Vermelho mit Bars, Livemusik und Ciras Acarajé.",
+      "descricao_it": "Cuore della vita notturna di Rio Vermelho con bar, musica dal vivo e l'acarajé di Cira.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Largo de Santana (Largo da Dinha)",
@@ -1591,7 +2467,13 @@
       "fonte": "https://aloalobahia.com/noticias/2026/10/04/eleitores-lotam-largo-da-dinha-no-rio-vermelho-para-acompanhar-apuracao-das-eleicoes-2026/",
       "descricao_es": "Hilera de bares abiertos hasta tarde, uno de ellos 24 h, alrededor del acarajé de Dinha; punto de encuentro de la ciudad en grandes eventos.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Enfilade de bars ouverts tard, dont un 24h/24, autour de l'acarajé de Dinha ; le point de rendez-vous de la ville lors des grands événements.",
+      "descricao_de": "Reihe von Bars bis spät in die Nacht, eine rund um die Uhr, rund um Dinhas Acarajé; Treffpunkt der Stadt bei großen Ereignissen.",
+      "descricao_it": "Fila di bar aperti fino a tardi, uno 24 ore, intorno all'acarajé di Dinha; il ritrovo della città nei grandi eventi.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Casa da Mãe",
@@ -1605,7 +2487,16 @@
       "dica_en": "Tickets usually on Sympla.",
       "dica_es": "Entradas generalmente en Sympla.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Salle de concert intimiste fondée en 2006 : MPB, samba et artistes bahianais.",
+      "descricao_de": "Intimer Musikclub, 2006 gegründet, mit MPB, Samba und Künstlern aus Bahia.",
+      "descricao_it": "Locale musicale intimo fondato nel 2006, con MPB, samba e artisti bahiani.",
+      "dica_fr": "Billets généralement sur Sympla.",
+      "dica_de": "Tickets meist bei Sympla.",
+      "dica_it": "Biglietti di solito su Sympla.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "A Borracharia",
@@ -1616,7 +2507,13 @@
       "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
       "descricao_es": "Fiesta bailable que empezó en el patio de una casa y sigue hasta el amanecer.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Fête dansante née dans une arrière-cour, qui dure jusqu'à l'aube.",
+      "descricao_de": "Tanzparty, die in einem Hinterhof begann und bis zum Morgengrauen geht.",
+      "descricao_it": "Festa da ballo nata in un cortile, che va avanti fino all'alba.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Jubiabar",
@@ -1633,7 +2530,16 @@
       "horario_en": "Happy hour Wed–Sun, 6:30pm–8pm (Jan 2026)",
       "horario_es": "Happy hour mié–dom, 18h30–20h (ene/2026)",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Boteco avec happy hour de beignets, croquettes et brochettes.",
+      "descricao_de": "Kneipe mit Happy Hour aus Frittiertem, Kroketten und Spießen.",
+      "descricao_it": "Boteco con happy hour di frittelle, crocchette e spiedini.",
+      "horario_fr": "Happy hour mer–dim, 18h30–20h (janv. 2026)",
+      "horario_de": "Happy Hour Mi–So, 18:30–20 Uhr (Jan. 2026)",
+      "horario_it": "Happy hour mer–dom, 18:30–20 (gen. 2026)",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Confraria do França",
@@ -1644,7 +2550,13 @@
       "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
       "descricao_es": "Bar tradicional de clientes fieles y veteranos de la bohemia bahiana, con noches que empiezan y terminan temprano.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Bar traditionnel d'habitués fidèles et de vétérans de la bohème bahianaise ; les soirées commencent et finissent tôt.",
+      "descricao_de": "Traditionelle Bar mit treuen Stammgästen und Veteranen der bahianischen Bohème; die Abende beginnen und enden früh.",
+      "descricao_it": "Bar tradizionale di clienti fedeli e veterani della bohème bahiana; le serate iniziano e finiscono presto.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Terça no Pelourinho",
@@ -1663,7 +2575,22 @@
       "nome_en": "Tuesdays in Pelourinho",
       "nome_es": "Martes en el Pelourinho",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Le mardi, les places du Pelourinho accueillent des concerts (certains gratuits, comme au Largo Pedro Archanjo) ; en été, l'Olodum joue sa « Bênção » à la Praça das Artes.",
+      "descricao_de": "Dienstags gibt es auf den Plätzen des Pelourinho Konzerte (teils gratis, z. B. Largo Pedro Archanjo); im Sommer spielt Olodum seine „Bênção“ auf der Praça das Artes.",
+      "descricao_it": "Il martedì le piazze del Pelourinho ospitano concerti (alcuni gratuiti, come al Largo Pedro Archanjo); d'estate l'Olodum suona la sua 'Bênção' in Praça das Artes.",
+      "dica_fr": "Olodum 2026 : billets à partir de R$ 150 (demi-tarif).",
+      "dica_de": "Olodum 2026: Tickets ab R$ 150 (ermäßigt).",
+      "dica_it": "Olodum 2026: biglietti da R$ 150 (ridotto).",
+      "horario_fr": "Bênção do Olodum : de janvier au Carnaval, le mardi dès 20h",
+      "horario_de": "Bênção do Olodum: Januar bis Karneval, dienstags ab 20 Uhr",
+      "horario_it": "Bênção do Olodum: da gennaio a Carnevale, il martedì dalle 20",
+      "nome_fr": "Les mardis au Pelourinho",
+      "nome_de": "Dienstags im Pelourinho",
+      "nome_it": "Il martedì al Pelourinho",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Cruz do Pascoal e bares do Santo Antônio",
@@ -1676,7 +2603,16 @@
       "nome_en": "Cruz do Pascoal & Santo Antônio bars",
       "nome_es": "Cruz do Pascoal y bares de Santo Antônio",
       "distancia_hotel_en": "approx. 7 km / 20 min",
-      "distancia_hotel_es": "aprox. 7 km / 20 min"
+      "distancia_hotel_es": "aprox. 7 km / 20 min",
+      "descricao_fr": "Bars en terrasse autour de la croix de 1743, plus l'Oliveiras Bar et le Café e Cana, pour une soirée plus tranquille.",
+      "descricao_de": "Straßenbars rund um das Kreuz von 1743 sowie die Oliveiras Bar und das Café e Cana, für einen ruhigeren Abend.",
+      "descricao_it": "Bar all'aperto intorno alla croce del 1743, più l'Oliveiras Bar e il Café e Cana, per una serata più tranquilla.",
+      "nome_fr": "Bars de Cruz do Pascoal et Santo Antônio",
+      "nome_de": "Bars in Cruz do Pascoal und Santo Antônio",
+      "nome_it": "Bar di Cruz do Pascoal e Santo Antônio",
+      "distancia_hotel_fr": "env. 7 km / 20 min",
+      "distancia_hotel_de": "ca. 7 km / 20 Min.",
+      "distancia_hotel_it": "circa 7 km / 20 min"
     },
     {
       "nome": "La Taperia",
@@ -1687,7 +2623,13 @@
       "fonte": "https://www.correio24horas.com.br/salvador/rio-vermelho-aconteca-o-que-acontecer-e-la-que-a-jiripoca-sempre-vai-piar-1225",
       "descricao_es": "Restaurante español de tapas, lugar popular para ver la puesta de sol en el Rio Vermelho.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Restaurant de tapas espagnoles, adresse prisée au coucher du soleil à Rio Vermelho.",
+      "descricao_de": "Spanisches Tapas-Restaurant, beliebter Ort zum Sonnenuntergang in Rio Vermelho.",
+      "descricao_it": "Ristorante di tapas spagnole, ritrovo amato al tramonto a Rio Vermelho.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     }
   ],
   "lgbt": [
@@ -1702,7 +2644,16 @@
       "nome_en": "Bahia LGBT+ Pride Parade",
       "nome_es": "Desfile del Orgullo LGBT+ de Bahía",
       "distancia_hotel_en": "approx. 1,5 km / 5 min",
-      "distancia_hotel_es": "aprox. 1,5 km / 5 min"
+      "distancia_hotel_es": "aprox. 1,5 km / 5 min",
+      "descricao_fr": "A lieu chaque année début septembre, la veille du férié du 7 septembre, avec rassemblement au Farol da Barra et camions sonores sur le parcours Barra-Ondina, à quelques minutes de l'hôtel.",
+      "descricao_de": "Findet jedes Jahr Anfang September am Vorabend des Feiertags am 7. September statt, mit Treffpunkt am Farol da Barra und Soundtrucks auf der Strecke Barra–Ondina, wenige Minuten vom Hotel.",
+      "descricao_it": "Si tiene ogni anno a inizio settembre, alla vigilia della festa del 7 settembre, con ritrovo al Farol da Barra e carri musicali sul percorso Barra-Ondina, a pochi minuti dall'hotel.",
+      "nome_fr": "Marche des fiertés LGBT+ de Bahia",
+      "nome_de": "LGBT+-Pride-Parade Bahia",
+      "nome_it": "Pride LGBT+ di Bahia",
+      "distancia_hotel_fr": "env. 1,5 km / 5 min",
+      "distancia_hotel_de": "ca. 1,5 km / 5 Min.",
+      "distancia_hotel_it": "circa 1,5 km / 5 min"
     },
     {
       "nome": "Porto da Barra",
@@ -1713,7 +2664,13 @@
       "fonte": "https://www.salvadordabahia.com/?p=26877",
       "descricao_es": "Playa tradicionalmente diversa y acogedora para el público LGBTQIA+, especialmente cerca del Fuerte de São Diogo.",
       "distancia_hotel_en": "approx. 1 km / 5 min",
-      "distancia_hotel_es": "aprox. 1 km / 5 min"
+      "distancia_hotel_es": "aprox. 1 km / 5 min",
+      "descricao_fr": "Plage traditionnellement diverse et accueillante pour les LGBTQIA+, surtout près du Fort São Diogo.",
+      "descricao_de": "Traditionell vielfältiger Strand, offen für LGBTQIA+-Gäste, besonders nahe der Festung São Diogo.",
+      "descricao_it": "Spiaggia tradizionalmente varia e accogliente per i visitatori LGBTQIA+, soprattutto vicino al Forte São Diogo.",
+      "distancia_hotel_fr": "env. 1 km / 5 min",
+      "distancia_hotel_de": "ca. 1 km / 5 Min.",
+      "distancia_hotel_it": "circa 1 km / 5 min"
     },
     {
       "nome": "San Sebastian (SAN Boate)",
@@ -1727,7 +2684,13 @@
       "dica_en": "Rua Conselheiro Pedro Luiz, 488.",
       "dica_es": "Rua Conselheiro Pedro Luiz, 488.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Boîte de nuit emblématique et l'un des principaux lieux de la scène LGBTQIA+ de Salvador : électro, pop et axé.",
+      "descricao_de": "Legendärer Club und einer der wichtigsten Treffpunkte der LGBTQIA+-Szene Salvadors, mit Electro, Pop und Axé.",
+      "descricao_it": "Discoteca iconica e uno dei principali ritrovi della scena LGBTQIA+ di Salvador, con elettronica, pop e axé.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Amsterdam",
@@ -1738,7 +2701,13 @@
       "fonte": "https://www.correio24horas.com.br/salvador/conheca-10-festas-e-lugares-da-cena-lgbtqiapn-em-salvador-0126",
       "descricao_es": "Discoteca moderna y animada, entre las más vibrantes de la noche del Rio Vermelho.",
       "distancia_hotel_en": "approx. 5 km / 15 min",
-      "distancia_hotel_es": "aprox. 5 km / 15 min"
+      "distancia_hotel_es": "aprox. 5 km / 15 min",
+      "descricao_fr": "Boîte de nuit moderne et animée, parmi les plus vibrantes de Rio Vermelho.",
+      "descricao_de": "Moderner, lebhafter Club, einer der angesagtesten in Rio Vermelho.",
+      "descricao_it": "Discoteca moderna e vivace, tra le più animate di Rio Vermelho.",
+      "distancia_hotel_fr": "env. 5 km / 15 min",
+      "distancia_hotel_de": "ca. 5 km / 15 Min.",
+      "distancia_hotel_it": "circa 5 km / 15 min"
     },
     {
       "nome": "Âncora do Marujo",
@@ -1754,7 +2723,19 @@
       "bairro_en": "Downtown (Rua Carlos Gomes)",
       "bairro_es": "Centro (Rua Carlos Gomes)",
       "distancia_hotel_en": "approx. 4 km / 12 min",
-      "distancia_hotel_es": "aprox. 4 km / 12 min"
+      "distancia_hotel_es": "aprox. 4 km / 12 min",
+      "descricao_fr": "Bar classique et accueillant avec spectacles drag, qui attire aussi un public mixte.",
+      "descricao_de": "Klassische, gemütliche Bar mit Dragshows, die auch gemischtes Publikum anzieht.",
+      "descricao_it": "Bar classico e accogliente con spettacoli drag, frequentato anche da un pubblico misto.",
+      "horario_fr": "Mar–dim, dès 21h",
+      "horario_de": "Di–So, ab 21 Uhr",
+      "horario_it": "Mar–dom, dalle 21",
+      "bairro_fr": "Centre-ville (Rua Carlos Gomes)",
+      "bairro_de": "Innenstadt (Rua Carlos Gomes)",
+      "bairro_it": "Centro (Rua Carlos Gomes)",
+      "distancia_hotel_fr": "env. 4 km / 12 min",
+      "distancia_hotel_de": "ca. 4 km / 12 Min.",
+      "distancia_hotel_it": "circa 4 km / 12 min"
     },
     {
       "nome": "Batekoo",
@@ -1770,7 +2751,19 @@
       "bairro_en": "Various venues",
       "bairro_es": "Varios lugares",
       "distancia_hotel_en": "varies",
-      "distancia_hotel_es": "varía"
+      "distancia_hotel_es": "varía",
+      "descricao_fr": "Fête et mouvement culturel célébrant les musiques et cultures noires, périphériques et LGBTQIA+.",
+      "descricao_de": "Party und Kulturbewegung, die schwarze, periphere und LGBTQIA+-Musik und -Kultur feiert.",
+      "descricao_it": "Festa e movimento culturale che celebra musica e cultura nere, periferiche e LGBTQIA+.",
+      "dica_fr": "Dates et lieux sur l'Instagram de la soirée.",
+      "dica_de": "Termine und Orte auf dem Instagram der Party.",
+      "dica_it": "Date e luoghi sull'Instagram della festa.",
+      "bairro_fr": "Plusieurs lieux",
+      "bairro_de": "Verschiedene Orte",
+      "bairro_it": "Vari luoghi",
+      "distancia_hotel_fr": "variable",
+      "distancia_hotel_de": "variiert",
+      "distancia_hotel_it": "variabile"
     },
     {
       "nome": "Festas na Marujada (Brega & Night, TunTisTum)",
@@ -1783,7 +2776,16 @@
       "nome_en": "Parties at Marujada (Brega & Night, TunTisTum)",
       "nome_es": "Fiestas en Marujada (Brega & Night, TunTisTum)",
       "distancia_hotel_en": "varies",
-      "distancia_hotel_es": "varía"
+      "distancia_hotel_es": "varía",
+      "descricao_fr": "Soirées alternatives et queer-friendly, brega et pop, en éditions régulières.",
+      "descricao_de": "Alternative, queer-freundliche Partys mit Brega und Pop in regelmäßigen Ausgaben.",
+      "descricao_it": "Feste alternative e queer-friendly con brega e pop, in edizioni ricorrenti.",
+      "nome_fr": "Soirées à la Marujada (Brega & Night, TunTisTum)",
+      "nome_de": "Partys in der Marujada (Brega & Night, TunTisTum)",
+      "nome_it": "Feste alla Marujada (Brega & Night, TunTisTum)",
+      "distancia_hotel_fr": "variable",
+      "distancia_hotel_de": "variiert",
+      "distancia_hotel_it": "variabile"
     },
     {
       "nome": "Dica de segurança",
@@ -1796,7 +2798,16 @@
       "nome_en": "Safety tip",
       "nome_es": "Consejo de seguridad",
       "bairro_en": "Rio Vermelho / general",
-      "bairro_es": "Rio Vermelho / general"
+      "bairro_es": "Rio Vermelho / general",
+      "descricao_fr": "Des vols visant des personnes LGBTQIA+ par de faux chauffeurs VTC près des boîtes ont été signalés. Vérifiez la plaque et le modèle et attendez à l'intérieur.",
+      "descricao_de": "Es gab Berichte über Überfälle auf LGBTQIA+-Personen durch falsche Fahrdienst-Fahrer nahe Clubs. Kennzeichen und Modell prüfen und drinnen warten.",
+      "descricao_it": "Sono stati segnalati furti ai danni di persone LGBTQIA+ da parte di falsi autisti vicino ai locali. Controlla targa e modello e aspetta dentro il locale.",
+      "nome_fr": "Conseil de sécurité",
+      "nome_de": "Sicherheitstipp",
+      "nome_it": "Consiglio di sicurezza",
+      "bairro_fr": "Rio Vermelho / divers",
+      "bairro_de": "Rio Vermelho / allgemein",
+      "bairro_it": "Rio Vermelho / vari"
     }
   ],
   "servicos": [
@@ -1820,7 +2831,22 @@
       "distancia_hotel_en": "approx. 500 m / 7-min walk",
       "distancia_hotel_es": "aprox. 500 m / 7 min a pie",
       "dica_en": "Av. Princesa Isabel, 914 (emergency room on the 1st floor), Barra Avenida, Salvador – BA, 40140-901",
-      "dica_es": "Av. Princesa Isabel, 914 (urgencias en el 1.er piso), Barra Avenida, Salvador – BA, 40140-901"
+      "dica_es": "Av. Princesa Isabel, 914 (urgencias en el 1.er piso), Barra Avenida, Salvador – BA, 40140-901",
+      "descricao_fr": "Urgences générales adultes 24h/24, plus orthopédie et ORL, laboratoire et imagerie sur place ; hôpital privé (assurance ou paiement direct).",
+      "descricao_de": "Allgemeine Notaufnahme für Erwachsene rund um die Uhr, dazu Orthopädie und HNO, Labor und Bildgebung vor Ort; Privatklinik (Versicherung oder Selbstzahler).",
+      "descricao_it": "Pronto soccorso generale adulti 24 ore, più ortopedia e otorino, laboratorio e diagnostica per immagini in sede; ospedale privato (assicurazione o pagamento diretto).",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "nome_fr": "Hospital Português – Urgences",
+      "nome_de": "Hospital Português – Notaufnahme",
+      "nome_it": "Hospital Português – Pronto soccorso",
+      "distancia_hotel_fr": "env. 500 m / 7 min à pied",
+      "distancia_hotel_de": "ca. 500 m / 7 Min. zu Fuß",
+      "distancia_hotel_it": "circa 500 m / 7 min a piedi",
+      "dica_fr": "Av. Princesa Isabel, 914 (urgences au 1er étage), Barra Avenida, Salvador – BA, 40140-901",
+      "dica_de": "Av. Princesa Isabel, 914 (Notaufnahme im 1. Stock), Barra Avenida, Salvador – BA, 40140-901",
+      "dica_it": "Av. Princesa Isabel, 914 (pronto soccorso al 1° piano), Barra Avenida, Salvador – BA, 40140-901"
     },
     {
       "nome": "Hospital Cárdio Pulmonar (Rede D'Or)",
@@ -1840,7 +2866,16 @@
       "link": "https://www.rededorsaoluiz.com.br/emergencias",
       "fonte": "https://www.rededorsaoluiz.com.br/emergencias",
       "dica_en": "Av. Garibaldi, 2199, Ondina, Salvador – BA",
-      "dica_es": "Av. Garibaldi, 2199, Ondina, Salvador – BA"
+      "dica_es": "Av. Garibaldi, 2199, Ondina, Salvador – BA",
+      "descricao_fr": "Urgences adultes et pédiatriques 24h/24, dont cardiologie, ophtalmologie et orthopédie ; hôpital privé, sans rendez-vous.",
+      "descricao_de": "Notaufnahme für Erwachsene und Kinder rund um die Uhr, inkl. Kardiologie, Augenheilkunde und Orthopädie; Privatklinik, ohne Termin.",
+      "descricao_it": "Pronto soccorso adulti e pediatrico 24 ore, con cardiologia, oculistica e ortopedia; ospedale privato, senza appuntamento.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 3,5 km / 10 min en voiture",
+      "distancia_hotel_de": "ca. 3,5 km / 10 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 3,5 km / 10 min in auto"
     },
     {
       "nome": "Hospital Jorge Valente (HJV)",
@@ -1860,7 +2895,16 @@
       "distancia_hotel_en": "approx. 4 km / 10 min by car",
       "distancia_hotel_es": "aprox. 4 km / 10 min en coche",
       "dica_en": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130",
-      "dica_es": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130"
+      "dica_es": "Av. Anita Garibaldi, 2135, Rio Vermelho, Salvador – BA, 40170-130",
+      "descricao_fr": "Urgences adultes et pédiatriques 24h/24 (0–15 ans) ; hôpital privé.",
+      "descricao_de": "Notaufnahme für Erwachsene und Kinder rund um die Uhr (0–15 Jahre); Privatklinik.",
+      "descricao_it": "Pronto soccorso adulti e pediatrico 24 ore (0–15 anni); ospedale privato.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 4 km / 10 min en voiture",
+      "distancia_hotel_de": "ca. 4 km / 10 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4 km / 10 min in auto"
     },
     {
       "nome": "Hospital Geral do Estado (HGE)",
@@ -1879,7 +2923,16 @@
       "distancia_hotel_en": "approx. 6 km / 15 min by car",
       "distancia_hotel_es": "aprox. 6 km / 15 min en coche",
       "dica_en": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901",
-      "dica_es": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901"
+      "dica_es": "Av. Vasco da Gama, s/n, Brotas, Salvador – BA, 40286-901",
+      "descricao_fr": "Hôpital public (SUS) de référence de l'État pour les traumatismes et urgences, ouvert 24h/24 ; gratuit, touristes compris.",
+      "descricao_de": "Öffentliches staatliches Referenzkrankenhaus (SUS) für Traumata und Notfälle, rund um die Uhr; kostenlos, auch für Touristen.",
+      "descricao_it": "Ospedale pubblico (SUS) di riferimento statale per traumi ed emergenze, aperto 24 ore; gratuito, turisti compresi.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 6 km / 15 min en voiture",
+      "distancia_hotel_de": "ca. 6 km / 15 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 6 km / 15 min in auto"
     },
     {
       "nome": "Hospital Santa Izabel",
@@ -1899,7 +2952,16 @@
       "distancia_hotel_en": "approx. 6 km / 15–20 min by car",
       "distancia_hotel_es": "aprox. 6 km / 15–20 min en coche",
       "dica_en": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410",
-      "dica_es": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410"
+      "dica_es": "Praça Conselheiro Almeida Couto, 500, Nazaré, Salvador – BA, 40050-410",
+      "descricao_fr": "Urgences adultes, pédiatriques (24h/24), orthopédiques et ORL ; hôpital philanthropique de la Santa Casa, accepte assurances et SUS.",
+      "descricao_de": "Notaufnahme für Erwachsene, Kinder (rund um die Uhr), Orthopädie und HNO; gemeinnütziges Santa-Casa-Krankenhaus, nimmt Versicherungen und SUS an.",
+      "descricao_it": "Pronto soccorso adulti, pediatrico (24 ore), ortopedico e otorino; ospedale filantropico della Santa Casa, accetta assicurazioni e SUS.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 6 km / 15–20 min en voiture",
+      "distancia_hotel_de": "ca. 6 km / 15–20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 6 km / 15–20 min in auto"
     },
     {
       "nome": "Hospital Aliança (Rede D'Or)",
@@ -1919,7 +2981,16 @@
       "distancia_hotel_en": "approx. 7 km / 15–20 min by car",
       "distancia_hotel_es": "aprox. 7 km / 15–20 min en coche",
       "dica_en": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180",
-      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180"
+      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA, 41920-180",
+      "descricao_fr": "Urgences adultes de haute complexité 24h/24 et urgences pédiatriques (0–14 ans) ; hôpital privé, sans rendez-vous.",
+      "descricao_de": "Notaufnahme für komplexe Fälle (Erwachsene) rund um die Uhr und Kindernotaufnahme (0–14 Jahre); Privatklinik, ohne Termin.",
+      "descricao_it": "Pronto soccorso adulti ad alta complessità 24 ore e pronto soccorso pediatrico (0–14 anni); ospedale privato, senza appuntamento.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 7 km / 15–20 min en voiture",
+      "distancia_hotel_de": "ca. 7 km / 15–20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 7 km / 15–20 min in auto"
     },
     {
       "nome": "Hospital Aliança Star (Rede D'Or)",
@@ -1939,7 +3010,16 @@
       "link": "https://www.rededorsaoluiz.com.br/emergencias",
       "fonte": "https://www.rededorsaoluiz.com.br/emergencias",
       "dica_en": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA",
-      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA"
+      "dica_es": "Av. Juracy Magalhães Júnior, 2096, Rio Vermelho, Salvador – BA",
+      "descricao_fr": "Unité premium de Rede D'Or, ouverte en 2024 : urgences adultes, gynécologiques, obstétricales et orthopédiques en chambres individuelles. Pas d'urgences pédiatriques (pour les enfants, l'Hospital Aliança est à la même adresse).",
+      "descricao_de": "Premium-Einheit der Rede D'Or, 2024 eröffnet, mit Notaufnahme für Erwachsene, Gynäkologie, Geburtshilfe und Orthopädie in Einzelzimmern. Keine Kindernotaufnahme (für Kinder: Hospital Aliança an derselben Adresse).",
+      "descricao_it": "Unità premium della Rede D'Or, aperta nel 2024, con pronto soccorso adulti, ginecologico, ostetrico e ortopedico in stanze private. Niente pronto soccorso pediatrico (per i bambini, l'Hospital Aliança è allo stesso indirizzo).",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 7 km / 15–20 min en voiture",
+      "distancia_hotel_de": "ca. 7 km / 15–20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 7 km / 15–20 min in auto"
     },
     {
       "nome": "Hospital da Bahia – Emergência 24h",
@@ -1961,7 +3041,22 @@
       "distancia_hotel_en": "approx. 11 km / 25 min by car",
       "distancia_hotel_es": "aprox. 11 km / 25 min en coche",
       "dica_en": "R. Des. Álvaro Clemente de Oliveira, 349 (emergency entrance), Pituba, Salvador – BA, 41810-011",
-      "dica_es": "R. Des. Álvaro Clemente de Oliveira, 349 (entrada de urgencias), Pituba, Salvador – BA, 41810-011"
+      "dica_es": "R. Des. Álvaro Clemente de Oliveira, 349 (entrada de urgencias), Pituba, Salvador – BA, 41810-011",
+      "descricao_fr": "Urgences 24h/24 pour adultes uniquement (plus de 15 ans), y compris orthopédie ; hôpital privé (Rede Américas).",
+      "descricao_de": "Notaufnahme rund um die Uhr nur für Erwachsene (über 15), inkl. Orthopädie; Privatklinik (Rede Américas).",
+      "descricao_it": "Pronto soccorso 24 ore solo per adulti (oltre 15 anni), compresa ortopedia; ospedale privato (Rede Américas).",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "nome_fr": "Hospital da Bahia – Urgences 24h/24",
+      "nome_de": "Hospital da Bahia – Notaufnahme rund um die Uhr",
+      "nome_it": "Hospital da Bahia – Pronto soccorso 24 ore",
+      "distancia_hotel_fr": "env. 11 km / 25 min en voiture",
+      "distancia_hotel_de": "ca. 11 km / 25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 11 km / 25 min in auto",
+      "dica_fr": "R. Des. Álvaro Clemente de Oliveira, 349 (entrée des urgences), Pituba, Salvador – BA, 41810-011",
+      "dica_de": "R. Des. Álvaro Clemente de Oliveira, 349 (Eingang Notaufnahme), Pituba, Salvador – BA, 41810-011",
+      "dica_it": "R. Des. Álvaro Clemente de Oliveira, 349 (ingresso pronto soccorso), Pituba, Salvador – BA, 41810-011"
     },
     {
       "nome": "UPA Vale dos Barris",
@@ -1981,7 +3076,16 @@
       "distancia_hotel_en": "approx. 3 km / 10 min by car",
       "distancia_hotel_es": "aprox. 3 km / 10 min en coche",
       "dica_en": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA",
-      "dica_es": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA"
+      "dica_es": "Praça Dr. João Mangabeira, s/n (Rótula do Vale dos Barris), Barris, Salvador – BA",
+      "descricao_fr": "Unité municipale d'urgences 24h/24 (SUS) ; gratuite et ouverte aux touristes, prise en charge selon la priorité du triage.",
+      "descricao_de": "Städtische Notfallambulanz rund um die Uhr (SUS); kostenlos und auch für Touristen, Behandlung nach Dringlichkeit.",
+      "descricao_it": "Unità municipale di urgenza 24 ore (SUS); gratuita e aperta ai turisti, pazienti visitati secondo la priorità del triage.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 3 km / 10 min en voiture",
+      "distancia_hotel_de": "ca. 3 km / 10 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 3 km / 10 min in auto"
     },
     {
       "nome": "UPA Brotas",
@@ -2001,7 +3105,16 @@
       "distancia_hotel_en": "approx. 7 km / 20 min by car",
       "distancia_hotel_es": "aprox. 7 km / 20 min en coche",
       "dica_en": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140",
-      "dica_es": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140"
+      "dica_es": "R. Jardim Madalena, s/n, Campinas de Brotas, Salvador – BA, 41100-140",
+      "descricao_fr": "Unité municipale d'urgences 24h/24 (SUS) ; gratuite et ouverte aux touristes.",
+      "descricao_de": "Städtische Notfallambulanz rund um die Uhr (SUS); kostenlos und auch für Touristen.",
+      "descricao_it": "Unità municipale di urgenza 24 ore (SUS); gratuita e aperta ai turisti.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 7 km / 20 min en voiture",
+      "distancia_hotel_de": "ca. 7 km / 20 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 7 km / 20 min in auto"
     },
     {
       "nome": "Farmácia Pague Menos – Marquês de Caravelas",
@@ -2022,7 +3135,19 @@
       "distancia_hotel_en": "approx. 200 m / 3-min walk",
       "distancia_hotel_es": "aprox. 200 m / 3 min a pie",
       "dica_en": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240",
-      "dica_es": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240"
+      "dica_es": "R. Marquês de Caravelas, 386, Barra, Salvador – BA, 40140-240",
+      "descricao_fr": "Pharmacie de chaîne aux horaires étendus, à quelques pas de l'hôtel.",
+      "descricao_de": "Kettenapotheke mit langen Öffnungszeiten, wenige Schritte vom Hotel.",
+      "descricao_it": "Farmacia di catena con orario prolungato, a pochi passi dall'hotel.",
+      "horario_fr": "Lun–sam 7h–23h, dim 8h–22h",
+      "horario_de": "Mo–Sa 7–23 Uhr, So 8–22 Uhr",
+      "horario_it": "Lun–sab 7–23, dom 8–22",
+      "nome_fr": "Pharmacie Pague Menos – Marquês de Caravelas",
+      "nome_de": "Apotheke Pague Menos – Marquês de Caravelas",
+      "nome_it": "Farmacia Pague Menos – Marquês de Caravelas",
+      "distancia_hotel_fr": "env. 200 m / 3 min à pied",
+      "distancia_hotel_de": "ca. 200 m / 3 Min. zu Fuß",
+      "distancia_hotel_it": "circa 200 m / 3 min a piedi"
     },
     {
       "nome": "Drogasil – Marquês de Leão",
@@ -2041,7 +3166,16 @@
       "distancia_hotel_en": "approx. 450 m / 6-min walk",
       "distancia_hotel_es": "aprox. 450 m / 6 min a pie",
       "dica_en": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230",
-      "dica_es": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230"
+      "dica_es": "Av. Almirante Marquês de Leão, 68, Barra, Salvador – BA, 40140-230",
+      "descricao_fr": "Pharmacie de chaîne ouverte tard tous les jours, près du Farol da Barra.",
+      "descricao_de": "Kettenapotheke, täglich bis spät geöffnet, nahe dem Farol da Barra.",
+      "descricao_it": "Farmacia di catena aperta fino a tardi tutti i giorni, vicino al Farol da Barra.",
+      "horario_fr": "Tous les jours 7h–23h",
+      "horario_de": "Täglich 7–23 Uhr",
+      "horario_it": "Tutti i giorni 7–23",
+      "distancia_hotel_fr": "env. 450 m / 6 min à pied",
+      "distancia_hotel_de": "ca. 450 m / 6 Min. zu Fuß",
+      "distancia_hotel_it": "circa 450 m / 6 min a piedi"
     },
     {
       "nome": "Drogasil – Av. Centenário",
@@ -2061,7 +3195,19 @@
       "distancia_hotel_en": "approx. 500 m / 7-min walk",
       "distancia_hotel_es": "aprox. 500 m / 7 min a pie",
       "dica_en": "Av. Centenário, 2682, store, Graça, Salvador – BA, 40155-370",
-      "dica_es": "Av. Centenário, 2682, local, Graça, Salvador – BA, 40155-370"
+      "dica_es": "Av. Centenário, 2682, local, Graça, Salvador – BA, 40155-370",
+      "descricao_fr": "Pharmacie de chaîne avec parking, ouverte tous les jours du matin au soir.",
+      "descricao_de": "Kettenapotheke mit Parkplatz, täglich von früh bis abends geöffnet.",
+      "descricao_it": "Farmacia di catena con parcheggio, aperta tutti i giorni dal mattino alla sera.",
+      "horario_fr": "Tous les jours 6h–22h",
+      "horario_de": "Täglich 6–22 Uhr",
+      "horario_it": "Tutti i giorni 6–22",
+      "distancia_hotel_fr": "env. 500 m / 7 min à pied",
+      "distancia_hotel_de": "ca. 500 m / 7 Min. zu Fuß",
+      "distancia_hotel_it": "circa 500 m / 7 min a piedi",
+      "dica_fr": "Av. Centenário, 2682, boutique, Graça, Salvador – BA, 40155-370",
+      "dica_de": "Av. Centenário, 2682, Ladengeschäft, Graça, Salvador – BA, 40155-370",
+      "dica_it": "Av. Centenário, 2682, negozio, Graça, Salvador – BA, 40155-370"
     },
     {
       "nome": "Drogaria São Paulo – Graça",
@@ -2081,7 +3227,16 @@
       "distancia_hotel_en": "approx. 1,2 km / 15-min walk",
       "distancia_hotel_es": "aprox. 1,2 km / 15 min a pie",
       "dica_en": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122",
-      "dica_es": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122"
+      "dica_es": "Av. Euclydes da Cunha, 2, Graça, Salvador – BA, 40150-122",
+      "descricao_fr": "Pharmacie ouverte 24h/24, l'option de nuit la plus proche de l'hôtel.",
+      "descricao_de": "Apotheke rund um die Uhr geöffnet, die nächste Nachtoption zum Hotel.",
+      "descricao_it": "Farmacia aperta 24 ore, l'opzione notturna più vicina all'hotel.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "distancia_hotel_fr": "env. 1,2 km / 15 min à pied",
+      "distancia_hotel_de": "ca. 1,2 km / 15 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,2 km / 15 min a piedi"
     },
     {
       "nome": "Drogasil – Graça",
@@ -2101,7 +3256,16 @@
       "distancia_hotel_en": "approx. 1,3 km / 15-min walk",
       "distancia_hotel_es": "aprox. 1,3 km / 15 min a pie",
       "dica_en": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200",
-      "dica_es": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200"
+      "dica_es": "R. Catharina Paraguassú, 2, Graça, Salvador – BA, 40150-200",
+      "descricao_fr": "Ouvert 24h/24 du mardi au samedi ; ouvre à 6h le lundi et ferme à 22h le dimanche.",
+      "descricao_de": "Dienstag bis Samstag rund um die Uhr geöffnet; montags ab 6 Uhr, sonntags bis 22 Uhr.",
+      "descricao_it": "Aperto 24 ore da martedì a sabato; il lunedì apre alle 6 e la domenica chiude alle 22.",
+      "horario_fr": "Mar–sam 24h/24 ; lun dès 6h ; dim jusqu'à 22h",
+      "horario_de": "Di–Sa rund um die Uhr; Mo ab 6 Uhr; So bis 22 Uhr",
+      "horario_it": "Mar–sab 24 ore; lun dalle 6; dom fino alle 22",
+      "distancia_hotel_fr": "env. 1,3 km / 15 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 15 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 15 min a piedi"
     },
     {
       "nome": "Shopping Barra",
@@ -2121,7 +3285,16 @@
       "distancia_hotel_en": "approx. 200 m / 3-min walk",
       "distancia_hotel_es": "aprox. 200 m / 3 min a pie",
       "dica_en": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900",
-      "dica_es": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900"
+      "dica_es": "Av. Centenário, 2992, Chame-Chame, Salvador – BA, 40149-900",
+      "descricao_fr": "Le centre commercial le plus proche : boutiques, aire de restauration, pharmacies, cinéma et services ; juste à côté de l'hôtel.",
+      "descricao_de": "Das nächstgelegene Einkaufszentrum mit Geschäften, Food Court, Apotheken, Kino und Dienstleistungen; direkt neben dem Hotel.",
+      "descricao_it": "Il centro commerciale più vicino, con negozi, food court, farmacie, cinema e servizi; proprio accanto all'hotel.",
+      "horario_fr": "Boutiques : lun–sam 9h–22h, dim 12h–20h",
+      "horario_de": "Geschäfte: Mo–Sa 9–22 Uhr, So 12–20 Uhr",
+      "horario_it": "Negozi: lun–sab 9–22, dom 12–20",
+      "distancia_hotel_fr": "env. 200 m / 3 min à pied",
+      "distancia_hotel_de": "ca. 200 m / 3 Min. zu Fuß",
+      "distancia_hotel_it": "circa 200 m / 3 min a piedi"
     },
     {
       "nome": "Shopping Center Lapa",
@@ -2140,7 +3313,16 @@
       "distancia_hotel_en": "approx. 4 km / 12 min by car",
       "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
       "dica_en": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045",
-      "dica_es": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045"
+      "dica_es": "R. Portão da Piedade, 155, Dois de Julho, Salvador – BA, 40070-045",
+      "descricao_fr": "Centre commercial abordable du centre-ville, à côté de la gare de Lapa (métro et bus).",
+      "descricao_de": "Günstiges Einkaufszentrum in der Innenstadt neben der Station Lapa (U-Bahn und Busse).",
+      "descricao_it": "Centro commerciale economico in centro, accanto alla stazione Lapa (metro e autobus).",
+      "horario_fr": "Lun–ven 9h–20h, sam 9h–19h30, dim 11h–19h",
+      "horario_de": "Mo–Fr 9–20 Uhr, Sa 9–19:30 Uhr, So 11–19 Uhr",
+      "horario_it": "Lun–ven 9–20, sab 9–19:30, dom 11–19",
+      "distancia_hotel_fr": "env. 4 km / 12 min en voiture",
+      "distancia_hotel_de": "ca. 4 km / 12 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4 km / 12 min in auto"
     },
     {
       "nome": "Shopping Piedade",
@@ -2160,7 +3342,16 @@
       "distancia_hotel_en": "approx. 4 km / 12 min by car",
       "distancia_hotel_es": "aprox. 4 km / 12 min en coche",
       "dica_en": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901",
-      "dica_es": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901"
+      "dica_es": "R. Junqueira Ayres, 165, Barris, Salvador – BA, 40070-901",
+      "descricao_fr": "Centre commercial traditionnel du centre-ville, à côté du Shopping Lapa : boutiques, services et aire de restauration ; fermé le dimanche.",
+      "descricao_de": "Traditionelles Einkaufszentrum in der Innenstadt neben dem Shopping Lapa mit Geschäften, Dienstleistungen und Food Court; sonntags geschlossen.",
+      "descricao_it": "Centro commerciale tradizionale in centro accanto allo Shopping Lapa, con negozi, servizi e food court; chiuso la domenica.",
+      "horario_fr": "Lun–sam 9h–20h ; fermé le dim",
+      "horario_de": "Mo–Sa 9–20 Uhr; So geschlossen",
+      "horario_it": "Lun–sab 9–20; dom chiuso",
+      "distancia_hotel_fr": "env. 4 km / 12 min en voiture",
+      "distancia_hotel_de": "ca. 4 km / 12 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 4 km / 12 min in auto"
     },
     {
       "nome": "Shopping da Bahia",
@@ -2180,7 +3371,16 @@
       "distancia_hotel_en": "approx. 10 km / 20–25 min by car",
       "distancia_hotel_es": "aprox. 10 km / 20–25 min en coche",
       "dica_en": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020",
-      "dica_es": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020"
+      "dica_es": "Av. Tancredo Neves, 148, Caminho das Árvores, Salvador – BA, 41820-020",
+      "descricao_fr": "L'un des plus grands centres commerciaux de Salvador, avec grandes enseignes, restaurants et cinéma IMAX.",
+      "descricao_de": "Eines der größten Einkaufszentren Salvadors mit großen Marken, Restaurants und IMAX-Kino.",
+      "descricao_it": "Uno dei centri commerciali più grandi di Salvador, con grandi marchi, ristoranti e cinema IMAX.",
+      "horario_fr": "Lun–sam 9h–22h, dim 12h–21h",
+      "horario_de": "Mo–Sa 9–22 Uhr, So 12–21 Uhr",
+      "horario_it": "Lun–sab 9–22, dom 12–21",
+      "distancia_hotel_fr": "env. 10 km / 20–25 min en voiture",
+      "distancia_hotel_de": "ca. 10 km / 20–25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 10 km / 20–25 min in auto"
     },
     {
       "nome": "Salvador Shopping",
@@ -2200,7 +3400,16 @@
       "distancia_hotel_en": "approx. 11 km / 25 min by car",
       "distancia_hotel_es": "aprox. 11 km / 25 min en coche",
       "dica_en": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910",
-      "dica_es": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910"
+      "dica_es": "Av. Tancredo Neves, 3133, Caminho das Árvores, Salvador – BA, 41820-910",
+      "descricao_fr": "Grand centre commercial moderne avec enseignes nationales et internationales, supermarché, cinéma et l'Espaço Gourmet ouvert tard.",
+      "descricao_de": "Großes modernes Einkaufszentrum mit nationalen und internationalen Marken, Supermarkt, Kino und dem bis spät geöffneten Espaço Gourmet.",
+      "descricao_it": "Grande centro commerciale moderno con marchi nazionali e internazionali, supermercato, cinema e l'Espaço Gourmet aperto fino a tardi.",
+      "horario_fr": "Boutiques : lun–sam 9h–22h, dim 13h–21h (grands magasins et restaurants dès 12h)",
+      "horario_de": "Geschäfte: Mo–Sa 9–22 Uhr, So 13–21 Uhr (Kaufhäuser und Restaurants ab 12 Uhr)",
+      "horario_it": "Negozi: lun–sab 9–22, dom 13–21 (grandi magazzini e ristoranti dalle 12)",
+      "distancia_hotel_fr": "env. 11 km / 25 min en voiture",
+      "distancia_hotel_de": "ca. 11 km / 25 Min. mit dem Auto",
+      "distancia_hotel_it": "circa 11 km / 25 min in auto"
     },
     {
       "nome": "Barbearia Jacob's",
@@ -2220,7 +3429,16 @@
       "distancia_hotel_en": "approx. 200 m / 2-min walk",
       "distancia_hotel_es": "aprox. 200 m / 2 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Barbearia+Jacob's&query_place_id=ChIJ__8jfIIDFgcRyD-w-5c-69o",
-      "whatsapp": "https://wa.me/5571988538480"
+      "whatsapp": "https://wa.me/5571988538480",
+      "descricao_fr": "Le plus proche de l'hôtel, dans une rue voisine. Coupe précise et barbe soignée à prix juste ; beaucoup de visiteurs y reviennent.",
+      "descricao_de": "Am nächsten zum Hotel, in einer Nachbarstraße. Präziser Schnitt und sorgfältige Bartpflege zu fairem Preis; viele Besucher kommen wieder.",
+      "descricao_it": "La più vicina all'hotel, in una via vicina. Taglio preciso e barba curata a un prezzo giusto; molti visitatori ritornano.",
+      "horario_fr": "Lun–ven, 9h–19h ; sam, 9h–17h",
+      "horario_de": "Mo–Fr, 9–19 Uhr; Sa, 9–17 Uhr",
+      "horario_it": "Lun–ven, 9–19; sab, 9–17",
+      "distancia_hotel_fr": "env. 200 m / 2 min à pied",
+      "distancia_hotel_de": "ca. 200 m / 2 Min. zu Fuß",
+      "distancia_hotel_it": "circa 200 m / 2 min a piedi"
     },
     {
       "nome": "Seu Francisco Barbearia",
@@ -2240,7 +3458,16 @@
       "distancia_hotel_en": "approx. 400 m / 5-min walk",
       "distancia_hotel_es": "aprox. 400 m / 5 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Seu+Francisco+Barbearia&query_place_id=ChIJAVGhXAADFgcRltAlhZh67nE",
-      "whatsapp": "https://wa.me/5571996666827"
+      "whatsapp": "https://wa.me/5571996666827",
+      "descricao_fr": "Barbier de quartier agréable, à quelques pas de l'hôtel. Idéal pour une coupe et une barbe sans se presser.",
+      "descricao_de": "Angenehmer Barbershop im Viertel, wenige Schritte vom Hotel. Gut für Haarschnitt und Bart in Ruhe.",
+      "descricao_it": "Piacevole barberia di quartiere a pochi passi dall'hotel. Ideale per taglio e barba senza fretta.",
+      "horario_fr": "Lun–ven, 9h–19h ; sam, 9h–18h",
+      "horario_de": "Mo–Fr, 9–19 Uhr; Sa, 9–18 Uhr",
+      "horario_it": "Lun–ven, 9–19; sab, 9–18",
+      "distancia_hotel_fr": "env. 400 m / 5 min à pied",
+      "distancia_hotel_de": "ca. 400 m / 5 Min. zu Fuß",
+      "distancia_hotel_it": "circa 400 m / 5 min a piedi"
     },
     {
       "nome": "Farol Beach BarberShop",
@@ -2260,7 +3487,16 @@
       "distancia_hotel_en": "approx. 400 m / 5-min walk",
       "distancia_hotel_es": "aprox. 400 m / 5 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Farol+Beach+BarberShop&query_place_id=ChIJ-eabJVEDFgcRUDcCdt527b8",
-      "whatsapp": "https://wa.me/5571996515121"
+      "whatsapp": "https://wa.me/5571996515121",
+      "descricao_fr": "L'un des rares ouverts le dimanche matin. Coupe, barbe et serviette chaude, près du phare.",
+      "descricao_de": "Einer der wenigen, die sonntagvormittags geöffnet haben. Schnitt, Bart und heißes Handtuch, nahe dem Leuchtturm.",
+      "descricao_it": "Uno dei pochi aperti la domenica mattina. Taglio, barba e asciugamano caldo, vicino al faro.",
+      "horario_fr": "Lun–sam, 8h–19h30 ; dim, 9h–13h",
+      "horario_de": "Mo–Sa, 8–19:30 Uhr; So, 9–13 Uhr",
+      "horario_it": "Lun–sab, 8–19:30; dom, 9–13",
+      "distancia_hotel_fr": "env. 400 m / 5 min à pied",
+      "distancia_hotel_de": "ca. 400 m / 5 Min. zu Fuß",
+      "distancia_hotel_it": "circa 400 m / 5 min a piedi"
     },
     {
       "nome": "Don Felix Barbershop",
@@ -2280,7 +3516,16 @@
       "distancia_hotel_en": "approx. 650 m / 8-min walk",
       "distancia_hotel_es": "aprox. 650 m / 8 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Don+Felix+Barbershop&query_place_id=ChIJx9retVQDFgcRjc83JFlUpbE",
-      "whatsapp": "https://wa.me/5571999934070"
+      "whatsapp": "https://wa.me/5571999934070",
+      "descricao_fr": "Barbier moderne et très prisé à Barra : coupe aux ciseaux ou au rasoir, barbe à la serviette chaude et shampooing. Accueil bien organisé, à l'aise avec ceux qui ne parlent pas portugais.",
+      "descricao_de": "Moderner, sehr gefragter Barbershop in Barra: Schnitt mit Schere oder Messer, Bart mit heißem Handtuch und Haarwäsche. Gut organisierter Empfang, auch für Gäste ohne Portugiesischkenntnisse.",
+      "descricao_it": "Barberia moderna e molto richiesta a Barra: taglio a forbice o rasoio, barba con asciugamano caldo e shampoo. Accoglienza ben organizzata, a suo agio con chi non parla portoghese.",
+      "horario_fr": "Lun–sam, 9h–19h",
+      "horario_de": "Mo–Sa, 9–19 Uhr",
+      "horario_it": "Lun–sab, 9–19",
+      "distancia_hotel_fr": "env. 650 m / 8 min à pied",
+      "distancia_hotel_de": "ca. 650 m / 8 Min. zu Fuß",
+      "distancia_hotel_it": "circa 650 m / 8 min a piedi"
     },
     {
       "nome": "Maestro Barbershop Barra",
@@ -2300,7 +3545,16 @@
       "distancia_hotel_en": "approx. 650 m / 8-min walk",
       "distancia_hotel_es": "aprox. 650 m / 8 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Maestro+Barbershop+Barra&query_place_id=ChIJX4k3U34DFgcRs0xcaR37dqo",
-      "whatsapp": "https://wa.me/5571992273646"
+      "whatsapp": "https://wa.me/5571992273646",
+      "descricao_fr": "Tout près de l'hôtel, avec souvent des créneaux le jour même. Équipe sympathique, coupe et barbe nettes.",
+      "descricao_de": "Ganz nah am Hotel, meist mit Terminen am selben Tag. Freundliches Team, präziser Schnitt und Bart.",
+      "descricao_it": "Vicinissima all'hotel e di solito con posti in giornata. Team simpatico, taglio e barba precisi.",
+      "horario_fr": "Lun–sam, 9h–19h",
+      "horario_de": "Mo–Sa, 9–19 Uhr",
+      "horario_it": "Lun–sab, 9–19",
+      "distancia_hotel_fr": "env. 650 m / 8 min à pied",
+      "distancia_hotel_de": "ca. 650 m / 8 Min. zu Fuß",
+      "distancia_hotel_it": "circa 650 m / 8 min a piedi"
     },
     {
       "nome": "Barbearia Salve Jorge – Graça",
@@ -2319,7 +3573,16 @@
       "distancia_hotel": "aprox. 1,1 km / 14 min a pé",
       "distancia_hotel_en": "approx. 1.1 km / 14-min walk",
       "distancia_hotel_es": "aprox. 1,1 km / 14 min a pie",
-      "fonte": "https://www.google.com/maps/search/?api=1&query=Barbearia+Salve+Jorge+–+Graça&query_place_id=ChIJmyrSc44FFgcRrPor25XwE_s"
+      "fonte": "https://www.google.com/maps/search/?api=1&query=Barbearia+Salve+Jorge+–+Graça&query_place_id=ChIJmyrSc44FFgcRrPor25XwE_s",
+      "descricao_fr": "Une adresse appréciée à Graça, service rapide et réservation facile par WhatsApp.",
+      "descricao_de": "Beliebt in Graça, schneller Service und einfache Buchung per WhatsApp.",
+      "descricao_it": "Un riferimento a Graça, servizio rapido e prenotazione facile via WhatsApp.",
+      "horario_fr": "Lun–ven, 9h–19h ; sam, 9h–18h",
+      "horario_de": "Mo–Fr, 9–19 Uhr; Sa, 9–18 Uhr",
+      "horario_it": "Lun–ven, 9–19; sab, 9–18",
+      "distancia_hotel_fr": "env. 1,1 km / 14 min à pied",
+      "distancia_hotel_de": "ca. 1,1 km / 14 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,1 km / 14 min a piedi"
     },
     {
       "nome": "Leilane Oliveira – Unhas de gel",
@@ -2339,7 +3602,16 @@
       "distancia_hotel_en": "approx. 450 m / 6-min walk",
       "distancia_hotel_es": "aprox. 450 m / 6 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Leilane+Oliveira+–+Unhas+de+gel&query_place_id=ChIJQ23b_TMDFgcRhs8-TP_Q3O0",
-      "whatsapp": "https://wa.me/5571997306764"
+      "whatsapp": "https://wa.me/5571997306764",
+      "descricao_fr": "Manucure, pédicure et ongles en gel, travail soigné et sans précipitation. À côté du Shopping Barra.",
+      "descricao_de": "Maniküre, Pediküre und Gelnägel, sorgfältig und ohne Eile. Neben dem Shopping Barra.",
+      "descricao_it": "Manicure, pedicure e unghie in gel, lavoro accurato e senza fretta. Accanto allo Shopping Barra.",
+      "horario_fr": "Lun–sam, 9h–17h",
+      "horario_de": "Mo–Sa, 9–17 Uhr",
+      "horario_it": "Lun–sab, 9–17",
+      "distancia_hotel_fr": "env. 450 m / 6 min à pied",
+      "distancia_hotel_de": "ca. 450 m / 6 Min. zu Fuß",
+      "distancia_hotel_it": "circa 450 m / 6 min a piedi"
     },
     {
       "nome": "Ronald Concept Hair",
@@ -2359,7 +3631,16 @@
       "distancia_hotel_en": "approx. 550 m / 7-min walk",
       "distancia_hotel_es": "aprox. 550 m / 7 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Ronald+Concept+Hair&query_place_id=ChIJpf2RGz0DFgcR10KYYu4mYMI",
-      "whatsapp": "https://wa.me/5571992645978"
+      "whatsapp": "https://wa.me/5571992645978",
+      "descricao_fr": "Coupes, brushings et soins pour cheveux abîmés par le soleil et la plage ; ouvert tous les jours, fériés compris.",
+      "descricao_de": "Schnitt, Föhnen und Pflege für sonnen- und strandstrapaziertes Haar; täglich geöffnet, auch an Feiertagen.",
+      "descricao_it": "Tagli, pieghe e trattamenti per capelli provati da sole e spiaggia; aperto tutti i giorni, festivi compresi.",
+      "horario_fr": "Mar–sam, 9h–20h ; dim et lun, 10h–15h",
+      "horario_de": "Di–Sa, 9–20 Uhr; So und Mo, 10–15 Uhr",
+      "horario_it": "Mar–sab, 9–20; dom e lun, 10–15",
+      "distancia_hotel_fr": "env. 550 m / 7 min à pied",
+      "distancia_hotel_de": "ca. 550 m / 7 Min. zu Fuß",
+      "distancia_hotel_it": "circa 550 m / 7 min a piedi"
     },
     {
       "nome": "Fast Escova – Barra",
@@ -2379,7 +3660,16 @@
       "distancia_hotel_en": "approx. 650 m / 8-min walk",
       "distancia_hotel_es": "aprox. 650 m / 8 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=Fast+Escova+–+Barra&query_place_id=ChIJAVTmv3MDFgcRYDjnMlptTEo",
-      "whatsapp": "https://wa.me/5571997309785"
+      "whatsapp": "https://wa.me/5571997309785",
+      "descricao_fr": "Brushing, coupe et ongles avec un service rapide, à quelques minutes de l'hôtel ; ouvert aussi le dimanche matin.",
+      "descricao_de": "Föhnen, Schnitt und Nägel mit schnellem Service, wenige Minuten vom Hotel; auch sonntagvormittags geöffnet.",
+      "descricao_it": "Piega, taglio e unghie con servizio rapido, a pochi minuti dall'hotel; aperto anche la domenica mattina.",
+      "horario_fr": "Lun–sam, 8h–19h30 ; dim, 9h–13h",
+      "horario_de": "Mo–Sa, 8–19:30 Uhr; So, 9–13 Uhr",
+      "horario_it": "Lun–sab, 8–19:30; dom, 9–13",
+      "distancia_hotel_fr": "env. 650 m / 8 min à pied",
+      "distancia_hotel_de": "ca. 650 m / 8 Min. zu Fuß",
+      "distancia_hotel_it": "circa 650 m / 8 min a piedi"
     },
     {
       "nome": "VS Salão de Beleza – Valdir Beauty",
@@ -2399,7 +3689,16 @@
       "distancia_hotel_en": "approx. 750 m / 9-min walk",
       "distancia_hotel_es": "aprox. 750 m / 9 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=VS+Salão+de+Beleza+–+Valdir+Beauty&query_place_id=ChIJD03jxIMDFgcRFkbvxTxWHgc",
-      "whatsapp": "https://wa.me/5571999738119"
+      "whatsapp": "https://wa.me/5571999738119",
+      "descricao_fr": "Coiffeur expérimenté à la clientèle fidèle. Réservation par WhatsApp, messages en anglais bienvenus.",
+      "descricao_de": "Erfahrener Friseur mit treuer Kundschaft. Buchung per WhatsApp, Nachrichten auf Englisch willkommen.",
+      "descricao_it": "Parrucchiere esperto con una clientela fedele. Prenota via WhatsApp, messaggi in inglese benvenuti.",
+      "horario_fr": "Mar–sam, 9h–18h",
+      "horario_de": "Di–Sa, 9–18 Uhr",
+      "horario_it": "Mar–sab, 9–18",
+      "distancia_hotel_fr": "env. 750 m / 9 min à pied",
+      "distancia_hotel_de": "ca. 750 m / 9 Min. zu Fuß",
+      "distancia_hotel_it": "circa 750 m / 9 min a piedi"
     },
     {
       "nome": "bLOw Escovaria – Barra",
@@ -2419,7 +3718,16 @@
       "distancia_hotel_en": "approx. 800 m / 10-min walk",
       "distancia_hotel_es": "aprox. 800 m / 10 min a pie",
       "fonte": "https://www.google.com/maps/search/?api=1&query=bLOw+Escovaria+–+Barra&query_place_id=ChIJEQHJAccDFgcR2E5VDJWrQsM",
-      "whatsapp": "https://wa.me/5571999144004"
+      "whatsapp": "https://wa.me/5571999144004",
+      "descricao_fr": "Bar à brushing ouvert tous les jours dès le matin : idéal pour un brushing ou une coiffure avant un événement ou une réunion.",
+      "descricao_de": "Blow-Dry-Bar, täglich ab früh morgens geöffnet: ideal für Föhnfrisur oder Styling vor einem Event oder Meeting.",
+      "descricao_it": "Blow-dry bar aperto tutti i giorni dal mattino presto: ideale per una piega o un'acconciatura prima di un evento o di una riunione.",
+      "horario_fr": "Lun–sam, 7h–20h ; dim et fériés, 8h45–17h",
+      "horario_de": "Mo–Sa, 7–20 Uhr; So und Feiertage, 8:45–17 Uhr",
+      "horario_it": "Lun–sab, 7–20; dom e festivi, 8:45–17",
+      "distancia_hotel_fr": "env. 800 m / 10 min à pied",
+      "distancia_hotel_de": "ca. 800 m / 10 Min. zu Fuß",
+      "distancia_hotel_it": "circa 800 m / 10 min a piedi"
     },
     {
       "nome": "GD Concept – Salão e Spa",
@@ -2438,7 +3746,16 @@
       "distancia_hotel": "aprox. 1,3 km / 16 min a pé",
       "distancia_hotel_en": "approx. 1.3 km / 16-min walk",
       "distancia_hotel_es": "aprox. 1,3 km / 16 min a pie",
-      "fonte": "https://www.google.com/maps/search/?api=1&query=GD+Concept+–+Salão+e+Spa&query_place_id=ChIJRaNLXoAEFgcRwZqugLaUD2Q"
+      "fonte": "https://www.google.com/maps/search/?api=1&query=GD+Concept+–+Salão+e+Spa&query_place_id=ChIJRaNLXoAEFgcRwZqugLaUD2Q",
+      "descricao_fr": "Salon complet à Graça : cheveux, ongles, sourcils, épilation et massage au même endroit.",
+      "descricao_de": "Komplettsalon in Graça: Haare, Nägel, Augenbrauen, Waxing und Massage unter einem Dach.",
+      "descricao_it": "Salone completo a Graça: capelli, unghie, sopracciglia, ceretta e massaggi nello stesso posto.",
+      "horario_fr": "Lun–sam, 8h–19h",
+      "horario_de": "Mo–Sa, 8–19 Uhr",
+      "horario_it": "Lun–sab, 8–19",
+      "distancia_hotel_fr": "env. 1,3 km / 16 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 16 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 16 min a piedi"
     },
     {
       "nome": "Hammer Fitness Club – Barra",
@@ -2459,7 +3776,16 @@
       "preco": "Wellhub (Gympass)",
       "link": "https://wellhub.com/pt-br/search/partners/hammer-fitness-club-barra-barra-salvador/",
       "fonte": "https://wellhub.com/pt-br/search/partners/hammer-fitness-club-barra-barra-salvador/",
-      "telefone": "+55 71 3264-2314"
+      "telefone": "+55 71 3264-2314",
+      "descricao_fr": "La plus proche de l'hôtel, dans la rue d'à côté. Musculation, cardio et cours, avec vestiaires et douches. Sur Wellhub à partir du plan Silver.",
+      "descricao_de": "Am nächsten zum Hotel, eine Straße weiter. Geräte, Cardio und Kurse, mit Umkleiden und Duschen. Bei Wellhub ab dem Silver-Plan.",
+      "descricao_it": "La più vicina all'hotel, nella via accanto. Sala pesi, cardio e corsi, con spogliatoi e docce. Su Wellhub dal piano Silver.",
+      "horario_fr": "Lun–ven, 5h30–22h ; sam, 7h–14h ; dim, 8h–12h",
+      "horario_de": "Mo–Fr, 5:30–22 Uhr; Sa, 7–14 Uhr; So, 8–12 Uhr",
+      "horario_it": "Lun–ven, 5:30–22; sab, 7–14; dom, 8–12",
+      "distancia_hotel_fr": "env. 150 m / 2 min à pied",
+      "distancia_hotel_de": "ca. 150 m / 2 Min. zu Fuß",
+      "distancia_hotel_it": "circa 150 m / 2 min a piedi"
     },
     {
       "nome": "Alpha Fitness – Shopping Barra",
@@ -2480,7 +3806,16 @@
       "preco": "Wellhub (Gympass)",
       "link": "https://wellhub.com/pt-br/search/partners/alpha-fitness-shopping-barra-chame-chame-salvador",
       "fonte": "https://wellhub.com/pt-br/search/partners/alpha-fitness-shopping-barra-chame-chame-salvador",
-      "telefone": "+55 71 3506-5228"
+      "telefone": "+55 71 3506-5228",
+      "descricao_fr": "Dans le Shopping Barra : musculation, poids libres, fonctionnel et cardio, avec vestiaires. Sur Wellhub à partir de Silver, sans réservation.",
+      "descricao_de": "Im Shopping Barra: Geräte, freie Gewichte, Functional und Cardio, mit Umkleiden. Bei Wellhub ab Silver, ohne Reservierung.",
+      "descricao_it": "Dentro lo Shopping Barra: sala pesi, pesi liberi, funzionale e cardio, con spogliatoi. Su Wellhub da Silver, senza prenotazione.",
+      "horario_fr": "Lun–ven, 5h30–22h ; sam, 8h–16h ; dim, 9h–13h",
+      "horario_de": "Mo–Fr, 5:30–22 Uhr; Sa, 8–16 Uhr; So, 9–13 Uhr",
+      "horario_it": "Lun–ven, 5:30–22; sab, 8–16; dom, 9–13",
+      "distancia_hotel_fr": "env. 200 m / 3 min à pied",
+      "distancia_hotel_de": "ca. 200 m / 3 Min. zu Fuß",
+      "distancia_hotel_it": "circa 200 m / 3 min a piedi"
     },
     {
       "nome": "Smart Fit – Graça",
@@ -2500,7 +3835,16 @@
       "distancia_hotel_es": "aprox. 600 m / 7 min a pie",
       "preco": "TotalPass",
       "link": "https://www.smartfit.com.br/",
-      "fonte": "https://www.smartfit.com.br/"
+      "fonte": "https://www.smartfit.com.br/",
+      "descricao_fr": "Spacieuse, propre et climatisée ; pass journée disponible. N'accepte pas Wellhub — accepte TotalPass.",
+      "descricao_de": "Geräumig, sauber und klimatisiert; Tagespässe erhältlich. Kein Wellhub — akzeptiert TotalPass.",
+      "descricao_it": "Spaziosa, pulita e climatizzata; ingresso giornaliero disponibile. Non accetta Wellhub — accetta TotalPass.",
+      "horario_fr": "Lun–ven, 5h–23h ; sam, 8h–17h ; dim, 8h–14h",
+      "horario_de": "Mo–Fr, 5–23 Uhr; Sa, 8–17 Uhr; So, 8–14 Uhr",
+      "horario_it": "Lun–ven, 5–23; sab, 8–17; dom, 8–14",
+      "distancia_hotel_fr": "env. 600 m / 7 min à pied",
+      "distancia_hotel_de": "ca. 600 m / 7 Min. zu Fuß",
+      "distancia_hotel_it": "circa 600 m / 7 min a piedi"
     },
     {
       "nome": "Selfit – Barra Hall",
@@ -2520,7 +3864,16 @@
       "distancia_hotel_es": "aprox. 750 m / 10 min a pie",
       "preco": "Wellhub (Gympass)",
       "link": "https://wellhub.com/pt-br/search/partners/selfit-barra-hall-barra/",
-      "fonte": "https://wellhub.com/pt-br/search/partners/selfit-barra-hall-barra/"
+      "fonte": "https://wellhub.com/pt-br/search/partners/selfit-barra-hall-barra/",
+      "descricao_fr": "Grande salle bien équipée à deux minutes de la plage ; pass journée vendu à l'accueil. Sur Wellhub : Basic+ à certaines heures, Silver à toute heure.",
+      "descricao_de": "Großes, gut ausgestattetes Studio zwei Minuten vom Strand; Tagespässe an der Rezeption. Bei Wellhub: Basic+ zu bestimmten Zeiten, Silver jederzeit.",
+      "descricao_it": "Palestra grande e ben attrezzata a due minuti dalla spiaggia; ingresso giornaliero in reception. Su Wellhub: Basic+ in orari specifici, Silver sempre.",
+      "horario_fr": "Lun–ven, 5h30–23h ; sam, 8h–18h ; dim, 8h–14h",
+      "horario_de": "Mo–Fr, 5:30–23 Uhr; Sa, 8–18 Uhr; So, 8–14 Uhr",
+      "horario_it": "Lun–ven, 5:30–23; sab, 8–18; dom, 8–14",
+      "distancia_hotel_fr": "env. 750 m / 10 min à pied",
+      "distancia_hotel_de": "ca. 750 m / 10 Min. zu Fuß",
+      "distancia_hotel_it": "circa 750 m / 10 min a piedi"
     },
     {
       "nome": "BlueFit – Graça",
@@ -2540,7 +3893,16 @@
       "distancia_hotel_es": "aprox. 1,3 km / 17 min a pie",
       "preco": "Wellhub (Gympass)",
       "link": "https://wellhub.com/pt-br/search/partners/bluefit-graca/",
-      "fonte": "https://wellhub.com/pt-br/search/partners/bluefit-graca/"
+      "fonte": "https://wellhub.com/pt-br/search/partners/bluefit-graca/",
+      "descricao_fr": "Grande salle avec parking et cours collectifs ; ouverte jusqu'à minuit en semaine. Sur Wellhub à partir de Silver+.",
+      "descricao_de": "Großes Studio mit Parkplatz und Gruppenkursen; werktags bis Mitternacht geöffnet. Bei Wellhub ab Silver+.",
+      "descricao_it": "Palestra ampia con parcheggio e corsi di gruppo; aperta fino a mezzanotte nei giorni feriali. Su Wellhub da Silver+.",
+      "horario_fr": "Lun–ven, 5h–minuit ; sam, 7h–19h ; dim, 8h–14h",
+      "horario_de": "Mo–Fr, 5–24 Uhr; Sa, 7–19 Uhr; So, 8–14 Uhr",
+      "horario_it": "Lun–ven, 5–mezzanotte; sab, 7–19; dom, 8–14",
+      "distancia_hotel_fr": "env. 1,3 km / 17 min à pied",
+      "distancia_hotel_de": "ca. 1,3 km / 17 Min. zu Fuß",
+      "distancia_hotel_it": "circa 1,3 km / 17 min a piedi"
     }
   ],
   "dicas": [
@@ -2563,7 +3925,25 @@
       "bairro_en": "Citywide",
       "bairro_es": "Toda la ciudad",
       "distancia_hotel_en": "Lapa station approx. 3 km / 10 min",
-      "distancia_hotel_es": "Estación Lapa aprox. 3 km / 10 min"
+      "distancia_hotel_es": "Estación Lapa aprox. 3 km / 10 min",
+      "descricao_fr": "Deux lignes : la ligne 1 (Lapa–Pirajá) et la ligne 2 (Acesso Norte–Aéroport). La station Lapa est près de Barra ; Campo da Pólvora est près du Pelourinho.",
+      "descricao_de": "Zwei Linien: Linie 1 (Lapa–Pirajá) und Linie 2 (Acesso Norte–Flughafen). Die Station Lapa liegt nahe Barra, Campo da Pólvora nahe dem Pelourinho.",
+      "descricao_it": "Due linee: Linea 1 (Lapa–Pirajá) e Linea 2 (Acesso Norte–Aeroporto). La stazione Lapa è vicino a Barra; Campo da Pólvora è vicino al Pelourinho.",
+      "dica_fr": "Billet ~R$ 4,10 (2026) ; depuis l'aéroport, changez de ligne à Acesso Norte.",
+      "dica_de": "Fahrpreis ~R$ 4,10 (2026); vom Flughafen in Acesso Norte umsteigen.",
+      "dica_it": "Biglietto ~R$ 4,10 (2026); dall'aeroporto cambia linea ad Acesso Norte.",
+      "horario_fr": "Tous les jours, 5h–minuit",
+      "horario_de": "Täglich, 5–24 Uhr",
+      "horario_it": "Tutti i giorni, 5–mezzanotte",
+      "nome_fr": "Métro de Salvador",
+      "nome_de": "U-Bahn von Salvador",
+      "nome_it": "Metropolitana di Salvador",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città",
+      "distancia_hotel_fr": "Gare de Lapa env. 3 km / 10 min",
+      "distancia_hotel_de": "Station Lapa ca. 3 km / 10 Min.",
+      "distancia_hotel_it": "Stazione Lapa circa 3 km / 10 min"
     },
     {
       "nome": "Aplicativos e táxi",
@@ -2579,7 +3959,19 @@
       "nome_en": "Ride apps & taxis",
       "nome_es": "Apps y taxi",
       "bairro_en": "Citywide",
-      "bairro_es": "Toda la ciudad"
+      "bairro_es": "Toda la ciudad",
+      "descricao_fr": "Uber, 99 et les taxis fonctionnent bien ; la nuit, prenez une voiture de porte à porte plutôt que de marcher.",
+      "descricao_de": "Uber, 99 und Taxis funktionieren gut; nachts lieber von Tür zu Tür fahren als zu Fuß gehen.",
+      "descricao_it": "Uber, 99 e taxi funzionano bene; di notte meglio un'auto porta a porta che camminare.",
+      "dica_fr": "Vérifiez la plaque, le modèle et le nom du chauffeur avant de monter.",
+      "dica_de": "Vor dem Einsteigen Kennzeichen, Modell und Namen des Fahrers prüfen.",
+      "dica_it": "Controlla targa, modello e nome dell'autista prima di salire.",
+      "nome_fr": "Applis de VTC et taxis",
+      "nome_de": "Fahrdienst-Apps und Taxis",
+      "nome_it": "App di trasporto e taxi",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città"
     },
     {
       "nome": "Delegacia do Turista (DELTUR) – Barra",
@@ -2598,7 +3990,22 @@
       "nome_en": "Tourist Police (DELTUR) – Barra",
       "nome_es": "Comisaría del Turista (DELTUR) – Barra",
       "distancia_hotel_en": "approx. 1 km / 5 min",
-      "distancia_hotel_es": "aprox. 1 km / 5 min"
+      "distancia_hotel_es": "aprox. 1 km / 5 min",
+      "descricao_fr": "Commissariat de la police touristique, ouvert 24h/24, tout près de l'hôtel.",
+      "descricao_de": "Touristenpolizeiwache, rund um die Uhr geöffnet, ganz nah am Hotel.",
+      "descricao_it": "Commissariato della polizia turistica, aperto 24 ore, vicinissimo all'hotel.",
+      "dica_fr": "Rua César Zama, s/n (bâtiment de la 14ª DT) — (71) 3116-0065.",
+      "dica_de": "Rua César Zama, s/n (Gebäude der 14ª DT) — (71) 3116-0065.",
+      "dica_it": "Rua César Zama, s/n (edificio della 14ª DT) — (71) 3116-0065.",
+      "horario_fr": "Ouvert 24h/24",
+      "horario_de": "Rund um die Uhr geöffnet",
+      "horario_it": "Aperto 24 ore su 24",
+      "nome_fr": "Police touristique (DELTUR) – Barra",
+      "nome_de": "Touristenpolizei (DELTUR) – Barra",
+      "nome_it": "Polizia turistica (DELTUR) – Barra",
+      "distancia_hotel_fr": "env. 1 km / 5 min",
+      "distancia_hotel_de": "ca. 1 km / 5 Min.",
+      "distancia_hotel_it": "circa 1 km / 5 min"
     },
     {
       "nome": "Telefones de emergência",
@@ -2611,7 +4018,16 @@
       "nome_en": "Emergency numbers",
       "nome_es": "Teléfonos de emergencia",
       "bairro_en": "Brazil",
-      "bairro_es": "Brasil"
+      "bairro_es": "Brasil",
+      "descricao_fr": "Police militaire 190, ambulance (SAMU) 192, pompiers 193.",
+      "descricao_de": "Militärpolizei 190, Rettungsdienst (SAMU) 192, Feuerwehr 193.",
+      "descricao_it": "Polizia militare 190, ambulanza (SAMU) 192, vigili del fuoco 193.",
+      "nome_fr": "Numéros d'urgence",
+      "nome_de": "Notrufnummern",
+      "nome_it": "Numeri di emergenza",
+      "bairro_fr": "Brésil",
+      "bairro_de": "Brasilien",
+      "bairro_it": "Brasile"
     },
     {
       "nome": "Balneabilidade das praias",
@@ -2627,7 +4043,19 @@
       "nome_en": "Beach water quality",
       "nome_es": "Calidad del agua de las playas",
       "bairro_en": "Citywide",
-      "bairro_es": "Toda la ciudad"
+      "bairro_es": "Toda la ciudad",
+      "descricao_fr": "L'Inema publie chaque semaine un bulletin des plages propres ou impropres à la baignade ; certaines plages de Barra y figurent souvent comme impropres.",
+      "descricao_de": "Inema veröffentlicht wöchentlich ein Bulletin über Strände, die zum Baden geeignet oder ungeeignet sind; einige Strände in Barra werden oft als ungeeignet geführt.",
+      "descricao_it": "L'Inema pubblica ogni settimana un bollettino delle spiagge balneabili o no; alcune spiagge di Barra risultano spesso non balneabili.",
+      "dica_fr": "Évitez de vous baigner dans la mer 24h après de fortes pluies.",
+      "dica_de": "Nach starkem Regen 24 Std. lang nicht im Meer baden.",
+      "dica_it": "Evita di fare il bagno in mare per 24 ore dopo forti piogge.",
+      "nome_fr": "Qualité de l'eau des plages",
+      "nome_de": "Wasserqualität der Strände",
+      "nome_it": "Qualità dell'acqua delle spiagge",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città"
     },
     {
       "nome": "Pôr do sol no Porto da Barra",
@@ -2643,7 +4071,19 @@
       "nome_en": "Sunset at Porto da Barra",
       "nome_es": "Puesta de sol en Porto da Barra",
       "distancia_hotel_en": "approx. 1 km / on foot",
-      "distancia_hotel_es": "aprox. 1 km / a pie"
+      "distancia_hotel_es": "aprox. 1 km / a pie",
+      "descricao_fr": "Le coucher du soleil à Porto da Barra et au phare est un rituel local, souvent applaudi.",
+      "descricao_de": "Der Sonnenuntergang am Porto da Barra und am Leuchtturm ist ein lokales Ritual, oft mit Applaus.",
+      "descricao_it": "Il tramonto a Porto da Barra e al faro è un rito locale, spesso applaudito.",
+      "dica_fr": "Arrivez 30 min en avance ; n'emportez que l'essentiel.",
+      "dica_de": "30 Min. früher da sein; nur das Nötigste mitnehmen.",
+      "dica_it": "Arriva 30 min prima; porta solo l'essenziale.",
+      "nome_fr": "Coucher de soleil à Porto da Barra",
+      "nome_de": "Sonnenuntergang am Porto da Barra",
+      "nome_it": "Tramonto a Porto da Barra",
+      "distancia_hotel_fr": "env. 1 km / à pied",
+      "distancia_hotel_de": "ca. 1 km / zu Fuß",
+      "distancia_hotel_it": "circa 1 km / a piedi"
     },
     {
       "nome": "Acarajé: quente ou frio?",
@@ -2659,7 +4099,19 @@
       "nome_en": "Acarajé: hot or cold?",
       "nome_es": "Acarajé: ¿caliente o frío?",
       "bairro_en": "Citywide",
-      "bairro_es": "Toda la ciudad"
+      "bairro_es": "Toda la ciudad",
+      "descricao_fr": "En commandant un acarajé, on vous demandera « quente ou frio ? » (chaud ou froid) : chaud veut dire avec piment, froid sans. Garnitures courantes : vatapá, caruru, salade et crevettes séchées.",
+      "descricao_de": "Beim Bestellen von Acarajé wird gefragt „quente ou frio?“ (heiß oder kalt): heiß heißt mit Chili, kalt ohne. Übliche Füllungen sind Vatapá, Caruru, Salat und getrocknete Garnelen.",
+      "descricao_it": "Quando ordini un acarajé ti chiederanno 'quente ou frio?' (caldo o freddo): caldo significa con peperoncino, freddo senza. I ripieni comuni sono vatapá, caruru, insalata e gamberetti secchi.",
+      "dica_fr": "Si vous n'êtes pas habitué au piment, demandez « frio » ou « pouca pimenta » (peu de piment).",
+      "dica_de": "Wenn Sie keine Schärfe gewohnt sind, bestellen Sie „frio“ oder „pouca pimenta“ (wenig Chili).",
+      "dica_it": "Se non sei abituato al piccante, chiedi 'frio' o 'pouca pimenta' (poco peperoncino).",
+      "nome_fr": "Acarajé : piquant ou pas ?",
+      "nome_de": "Acarajé: scharf oder mild?",
+      "nome_it": "Acarajé: piccante o no?",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città"
     },
     {
       "nome": "Clima",
@@ -2675,7 +4127,19 @@
       "nome_en": "Weather",
       "nome_es": "Clima",
       "bairro_en": "Citywide",
-      "bairro_es": "Toda la ciudad"
+      "bairro_es": "Toda la ciudad",
+      "descricao_fr": "Chaud toute l'année, généralement 24–30 °C ; les plus fortes pluies vont d'avril à juin.",
+      "descricao_de": "Das ganze Jahr warm, meist 24–30 °C; die stärksten Regenfälle von April bis Juni.",
+      "descricao_it": "Caldo tutto l'anno, di solito 24–30 °C; le piogge più forti da aprile a giugno.",
+      "dica_fr": "Crème solaire, chapeau et eau, toujours.",
+      "dica_de": "Sonnencreme, Hut und Wasser, immer.",
+      "dica_it": "Crema solare, cappello e acqua, sempre.",
+      "nome_fr": "Météo",
+      "nome_de": "Wetter",
+      "nome_it": "Meteo",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città"
     },
     {
       "nome": "Travessia para Itaparica",
@@ -2690,7 +4154,19 @@
       "bairro_en": "Bay",
       "bairro_es": "Bahía",
       "distancia_hotel_en": "Terminal approx. 6 km / 20 min",
-      "distancia_hotel_es": "Terminal aprox. 6 km / 20 min"
+      "distancia_hotel_es": "Terminal aprox. 6 km / 20 min",
+      "descricao_fr": "Ferry de São Joaquim à Bom Despacho (~30 min) ou vedette du Terminal nautique à Vera Cruz (~40 min).",
+      "descricao_de": "Fähre von São Joaquim nach Bom Despacho (~30 Min.) oder Schnellboot vom Terminal Náutico nach Vera Cruz (~40 Min.).",
+      "descricao_it": "Traghetto da São Joaquim a Bom Despacho (~30 min) o motoscafo dal Terminal Nautico a Vera Cruz (~40 min).",
+      "nome_fr": "Traversée vers Itaparica",
+      "nome_de": "Überfahrt nach Itaparica",
+      "nome_it": "Traversata per Itaparica",
+      "bairro_fr": "Baie",
+      "bairro_de": "Bucht",
+      "bairro_it": "Baia",
+      "distancia_hotel_fr": "Terminal env. 6 km / 20 min",
+      "distancia_hotel_de": "Terminal ca. 6 km / 20 Min.",
+      "distancia_hotel_it": "Terminal circa 6 km / 20 min"
     },
     {
       "nome": "Segurança no dia a dia",
@@ -2703,7 +4179,16 @@
       "nome_en": "Everyday safety",
       "nome_es": "Seguridad en el día a día",
       "bairro_en": "Citywide",
-      "bairro_es": "Toda la ciudad"
+      "bairro_es": "Toda la ciudad",
+      "descricao_fr": "Gardez votre téléphone discret dans la rue et à la plage, ayez peu d'espèces sur vous et évitez les rues vides et sombres la nuit.",
+      "descricao_de": "Handy auf der Straße und am Strand dezent nutzen, wenig Bargeld dabeihaben und nachts leere, dunkle Straßen meiden.",
+      "descricao_it": "Tieni il telefono discreto per strada e in spiaggia, porta pochi contanti ed evita di notte le strade vuote e buie.",
+      "nome_fr": "Sécurité au quotidien",
+      "nome_de": "Sicherheit im Alltag",
+      "nome_it": "Sicurezza quotidiana",
+      "bairro_fr": "Toute la ville",
+      "bairro_de": "Ganze Stadt",
+      "bairro_it": "Tutta la città"
     }
   ],
   "nao_incluidos": [

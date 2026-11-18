@@ -150,7 +150,19 @@
    "preco_en": "R$ 20 to R$ 30 (half-price available); free on Wednesdays",
    "preco_es": "R$ 20 a R$ 30 (media entrada disponible); gratis los miércoles",
    "recorrente_en": "Tuesday to Sunday",
-   "recorrente_es": "Martes a domingo"
+   "recorrente_es": "Martes a domingo",
+   "descricao_fr": "Musée interactif sur l'histoire et les icônes du Carnaval de Salvador.",
+   "descricao_de": "Interaktives Museum über Geschichte und Ikonen des Karnevals von Salvador.",
+   "descricao_it": "Museo interattivo sulla storia e le icone del Carnevale di Salvador.",
+   "horario_fr": "Mar–dim, 11h–19h",
+   "horario_de": "Di–So, 11–19 Uhr",
+   "horario_it": "Mar–dom, 11–19",
+   "preco_fr": "R$ 20 à R$ 30 (demi-tarif possible) ; gratuit le mercredi",
+   "preco_de": "R$ 20 bis R$ 30 (Ermäßigung möglich); mittwochs frei",
+   "preco_it": "Da R$ 20 a R$ 30 (ridotto disponibile); gratis il mercoledì",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica"
   },
   {
    "id": "cidade-da-musica-da-bahia",
@@ -177,7 +189,19 @@
    "preco_en": "R$ 20 / R$ 10 (half-price); free on Wednesdays",
    "preco_es": "R$ 20 / R$ 10 (media entrada); gratis los miércoles",
    "recorrente_en": "Tuesday to Sunday",
-   "recorrente_es": "Martes a domingo"
+   "recorrente_es": "Martes a domingo",
+   "descricao_fr": "Musée immersif et interactif de la musique bahianaise, du samba de roda à l'axé.",
+   "descricao_de": "Immersives, interaktives Museum der Musik Bahias, vom Samba de Roda bis zum Axé.",
+   "descricao_it": "Museo immersivo e interattivo della musica bahiana, dal samba de roda all'axé.",
+   "horario_fr": "Mar–dim, 10h–18h (dernière entrée 17h)",
+   "horario_de": "Di–So, 10–18 Uhr (letzter Einlass 17 Uhr)",
+   "horario_it": "Mar–dom, 10–18 (ultimo ingresso 17)",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif) ; gratuit le mercredi",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt); mittwochs frei",
+   "preco_it": "R$ 20 / R$ 10 (ridotto); gratis il mercoledì",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica"
   },
   {
    "id": "espaco-pierre-verger-fotografia",
@@ -202,7 +226,16 @@
    "horario_en": "Guided tours Sat and Sun, 10am and 3pm",
    "horario_es": "Visitas guiadas sáb y dom, 10h y 15h",
    "recorrente_en": "Weekends (guided tours)",
-   "recorrente_es": "Fines de semana (visitas guiadas)"
+   "recorrente_es": "Fines de semana (visitas guiadas)",
+   "descricao_fr": "Espace consacré à la photographie bahianaise et à l'héritage de Pierre Verger, en plein Barra.",
+   "descricao_de": "Ein Ort für die Fotografie Bahias und das Erbe von Pierre Verger, mitten in Barra.",
+   "descricao_it": "Spazio dedicato alla fotografia bahiana e all'eredità di Pierre Verger, nel cuore di Barra.",
+   "horario_fr": "Visites guidées sam et dim, 10h et 15h",
+   "horario_de": "Führungen Sa und So, 10 und 15 Uhr",
+   "horario_it": "Visite guidate sab e dom, ore 10 e 15",
+   "recorrente_fr": "Week-ends (visites guidées)",
+   "recorrente_de": "Wochenenden (Führungen)",
+   "recorrente_it": "Fine settimana (visite guidate)"
   },
   {
    "id": "fundacao-casa-de-jorge-amado",
@@ -229,7 +262,19 @@
    "preco_en": "R$ 10 / R$ 5 (half-price)",
    "preco_es": "R$ 10 / R$ 5 (media entrada)",
    "recorrente_en": "Daily",
-   "recorrente_es": "Todos los días"
+   "recorrente_es": "Todos los días",
+   "descricao_fr": "Maison coloniale bleue sur le Largo do Pelourinho consacrée aux écrivains Jorge Amado et Zélia Gattai.",
+   "descricao_de": "Blaues Kolonialhaus am Largo do Pelourinho, den Schriftstellern Jorge Amado und Zélia Gattai gewidmet.",
+   "descricao_it": "Casa coloniale blu sul Largo do Pelourinho dedicata agli scrittori Jorge Amado e Zélia Gattai.",
+   "horario_fr": "Lun–ven 10h–18h ; sam–dim 10h–16h",
+   "horario_de": "Mo–Fr 10–18 Uhr; Sa–So 10–16 Uhr",
+   "horario_it": "Lun–ven 10–18; sab–dom 10–16",
+   "preco_fr": "R$ 10 / R$ 5 (demi-tarif)",
+   "preco_de": "R$ 10 / R$ 5 (ermäßigt)",
+   "preco_it": "R$ 10 / R$ 5 (ridotto)",
+   "recorrente_fr": "Tous les jours",
+   "recorrente_de": "Täglich",
+   "recorrente_it": "Tutti i giorni"
   },
   {
    "id": "museu-afro-brasileiro-ufba",
@@ -256,7 +301,19 @@
    "preco_en": "R$ 10 / R$ 5 (half-price)",
    "preco_es": "R$ 10 / R$ 5 (media entrada)",
    "recorrente_en": "Monday to Friday",
-   "recorrente_es": "Lunes a viernes"
+   "recorrente_es": "Lunes a viernes",
+   "descricao_fr": "Collection d'art africain et afro-brésilien, dont les panneaux d'orixás sculptés par Carybé.",
+   "descricao_de": "Sammlung afrikanischer und afrobrasilianischer Kunst, darunter Carybés geschnitzte Orixá-Tafeln.",
+   "descricao_it": "Collezione di arte africana e afro-brasiliana, compresi i pannelli intagliati degli orixá di Carybé.",
+   "horario_fr": "Lun–ven, 9h–17h (fermé les jours fériés)",
+   "horario_de": "Mo–Fr, 9–17 Uhr (an Feiertagen geschlossen)",
+   "horario_it": "Lun–ven, 9–17 (chiuso nei festivi)",
+   "preco_fr": "R$ 10 / R$ 5 (demi-tarif)",
+   "preco_de": "R$ 10 / R$ 5 (ermäßigt)",
+   "preco_it": "R$ 10 / R$ 5 (ridotto)",
+   "recorrente_fr": "Du lundi au vendredi",
+   "recorrente_de": "Montag bis Freitag",
+   "recorrente_it": "Da lunedì a venerdì"
   },
   {
    "id": "museu-nautico-farol-da-barra",
@@ -283,7 +340,19 @@
    "preco_en": "R$ 15; R$ 10 residents; half-price for students and seniors",
    "preco_es": "R$ 15; R$ 10 residentes; media entrada para estudiantes y mayores",
    "recorrente_en": "Daily",
-   "recorrente_es": "Todos los días"
+   "recorrente_es": "Todos los días",
+   "descricao_fr": "Musée d'histoire navale de Bahia dans le fort du Phare de Barra, à côté de l'hôtel et avec le plus beau coucher de soleil de la ville.",
+   "descricao_de": "Museum der Seefahrtsgeschichte Bahias in der Festung des Leuchtturms von Barra, neben dem Hotel, mit dem schönsten Sonnenuntergang der Stadt.",
+   "descricao_it": "Museo di storia navale di Bahia nel forte del Faro di Barra, accanto all'hotel e con il tramonto più bello della città.",
+   "horario_fr": "Tous les jours, 9h–18h (billetterie jusqu'à 17h45)",
+   "horario_de": "Täglich, 9–18 Uhr (Kasse bis 17:45 Uhr)",
+   "horario_it": "Tutti i giorni, 9–18 (biglietteria fino alle 17:45)",
+   "preco_fr": "R$ 15 ; R$ 10 résidents ; demi-tarif étudiants et seniors",
+   "preco_de": "R$ 15; R$ 10 für Einwohner; ermäßigt für Studierende und Senioren",
+   "preco_it": "R$ 15; R$ 10 residenti; ridotto per studenti e anziani",
+   "recorrente_fr": "Tous les jours",
+   "recorrente_de": "Täglich",
+   "recorrente_it": "Tutti i giorni"
   },
   {
    "id": "a-vida-e-um-cabare-patifaria",
@@ -3604,7 +3673,19 @@
    "fonte": "https://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–18h",
+   "horario_de": "Di–So, 10–18 Uhr",
+   "horario_it": "Mar–dom, 10–18",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Le plus ancien musée de Bahia : peinture, mobilier, azulejos et argenterie des périodes coloniale et impériale, plus des expositions temporaires. À quelques minutes de l'hôtel.",
+   "descricao_de": "Das älteste Museum Bahias mit Malerei, Möbeln, Fliesen und Silber aus Kolonial- und Kaiserzeit sowie Wechselausstellungen. Wenige Minuten vom Hotel.",
+   "descricao_it": "Il museo più antico di Bahia, con pittura, mobili, azulejos e argenteria dell'epoca coloniale e imperiale, più mostre temporanee. A pochi minuti dall'hotel."
   },
   {
    "id": "museu-de-arte-moderna-mam",
@@ -3630,7 +3711,19 @@
    "fonte": "https://www.ba.gov.br/ipac/museus-0",
    "nota": "Algumas exposições temporárias têm horário reduzido (IPAC, nov/2026).",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–18h ; cinéma, café et cours tous les jours, 13h–20h",
+   "horario_de": "Di–So, 10–18 Uhr; Kino, Café und Innenhöfe täglich 13–20 Uhr",
+   "horario_it": "Mar–dom, 10–18; cinema, caffè e cortili tutti i giorni, 13–20",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Ensemble colonial au bord de la Baie de Tous les Saints, avec art moderne et contemporain et un parc de sculptures. Célèbre pour son coucher de soleil.",
+   "descricao_de": "Kolonialanlage am Ufer der Allerheiligenbucht mit moderner und zeitgenössischer Kunst und Skulpturenpark. Berühmt für den Sonnenuntergang.",
+   "descricao_it": "Complesso coloniale sulla Baia di Tutti i Santi, con arte moderna e contemporanea e un parco di sculture. Famoso per il tramonto."
   },
   {
    "id": "muncab-visita",
@@ -3656,7 +3749,19 @@
    "fonte": "https://aloalobahia.com/noticias/2026/02/10/muncab-prepara-exposicao-com-maior-acervo-de-arte-afro-brasileira-ja-repatriado-ao-brasil-saiba-detalhes/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–17h (dernière entrée 16h30)",
+   "horario_de": "Di–So, 10–17 Uhr (letzter Einlass 16:30 Uhr)",
+   "horario_it": "Mar–dom, 10–17 (ultimo ingresso 16:30)",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif) ; gratuit le mercredi et le dimanche",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt); mittwochs und sonntags frei",
+   "preco_it": "R$ 20 / R$ 10 (ridotto); gratis il mercoledì e la domenica",
+   "descricao_fr": "Collection permanente d'art afro-brésilien, avec des artistes comme Rubem Valentim et Heitor dos Prazeres, plus de grandes expositions temporaires.",
+   "descricao_de": "Dauerausstellung afrobrasilianischer Kunst mit Künstlern wie Rubem Valentim und Heitor dos Prazeres sowie großen Wechselausstellungen.",
+   "descricao_it": "Collezione permanente di arte afro-brasiliana, con artisti come Rubem Valentim e Heitor dos Prazeres, più grandi mostre temporanee."
   },
   {
    "id": "museu-carlos-costa-pinto",
@@ -3682,7 +3787,19 @@
    "fonte": "https://www.museucarloscostapinto.org/sua-visita",
    "nota": "Fecha terças, fins de semana e feriados.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Lun et mer–ven, 14h30–17h30",
+   "horario_de": "Mo und Mi–Fr, 14:30–17:30 Uhr",
+   "horario_it": "Lun e mer–ven, 14:30–17:30",
+   "recorrente_fr": "Lun, mer, jeu et ven",
+   "recorrente_de": "Mo, Mi, Do und Fr",
+   "recorrente_it": "Lun, mer, gio e ven",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif)",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt)",
+   "preco_it": "R$ 20 / R$ 10 (ridotto)",
+   "descricao_fr": "Demeure du Corredor da Vitória consacrée aux arts décoratifs : argenterie, bijoux, porcelaine, mobilier et les célèbres grappes de balangandãs.",
+   "descricao_de": "Villa am Corredor da Vitória mit Kunsthandwerk: Silber, Schmuck, Porzellan, Möbel und die berühmten Balangandã-Amulettbündel.",
+   "descricao_it": "Palazzo sul Corredor da Vitória dedicato alle arti decorative: argenteria, gioielli, porcellane, mobili e i famosi grappoli di balangandãs."
   },
   {
    "id": "mac-bahia-palacete",
@@ -3708,7 +3825,19 @@
    "fonte": "https://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–18h",
+   "horario_de": "Di–So, 10–18 Uhr",
+   "horario_it": "Mar–dom, 10–18",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Demeure éclectique à Graça, ancien Palacete das Artes, avec expositions d'art contemporain et jardin.",
+   "descricao_de": "Eklektische Villa in Graça, früher Palacete das Artes, mit zeitgenössischen Kunstausstellungen und Garten.",
+   "descricao_it": "Palazzetto eclettico a Graça, ex Palacete das Artes, con mostre d'arte contemporanea e giardino."
   },
   {
    "id": "museu-arqueologia-etnologia-ufba",
@@ -3734,7 +3863,16 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-de-arqueologia-e-etnologia-da-ufba/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Lun–ven, 9h–17h",
+   "horario_de": "Mo–Fr, 9–17 Uhr",
+   "horario_it": "Lun–ven, 9–17",
+   "recorrente_fr": "Du lundi au vendredi",
+   "recorrente_de": "Montag bis Freitag",
+   "recorrente_it": "Da lunedì a venerdì",
+   "descricao_fr": "Au sous-sol de l'ancienne Faculté de médecine, avec des pièces archéologiques et autochtones et des vestiges de l'ancien collège jésuite.",
+   "descricao_de": "Im Untergeschoss der alten Medizinischen Fakultät, mit archäologischen und indigenen Stücken und Resten des ehemaligen Jesuitenkollegs.",
+   "descricao_it": "Nel seminterrato dell'antica Facoltà di Medicina, con reperti archeologici e indigeni e resti dell'antico collegio gesuita."
   },
   {
    "id": "museu-da-misericordia",
@@ -3760,7 +3898,19 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-da-misericordia-2/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–ven, 9h–17h ; sam, 9h–16h30",
+   "horario_de": "Di–Fr, 9–17 Uhr; Sa, 9–16:30 Uhr",
+   "horario_it": "Mar–ven, 9–17; sab, 9–16:30",
+   "recorrente_fr": "Du mardi au samedi",
+   "recorrente_de": "Dienstag bis Samstag",
+   "recorrente_it": "Da martedì a sabato",
+   "preco_fr": "R$ 30 / R$ 15 (demi-tarif)",
+   "preco_de": "R$ 30 / R$ 15 (ermäßigt)",
+   "preco_it": "R$ 30 / R$ 15 (ridotto)",
+   "descricao_fr": "Le palais de la Santa Casa da Misericórdia, la plus ancienne de Bahia, avec église, salons baroques et belvédère sur la baie.",
+   "descricao_de": "Das Herrenhaus der Santa Casa da Misericórdia, der ältesten Bahias, mit Kirche, Barocksälen und Aussicht auf die Bucht.",
+   "descricao_it": "Il palazzo della Santa Casa da Misericórdia, la più antica di Bahia, con chiesa, saloni barocchi e belvedere sulla baia."
   },
   {
    "id": "memorial-das-baianas",
@@ -3786,7 +3936,19 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/memorial-das-baianas/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Lun–sam, 9h–17h",
+   "horario_de": "Mo–Sa, 9–17 Uhr",
+   "horario_it": "Lun–sab, 9–17",
+   "recorrente_fr": "Du lundi au samedi",
+   "recorrente_de": "Montag bis Samstag",
+   "recorrente_it": "Da lunedì a sabato",
+   "preco_fr": "R$ 5 ; gratuit jusqu'à 7 ans",
+   "preco_de": "R$ 5; Kinder bis 7 Jahre frei",
+   "preco_it": "R$ 5; gratis per bambini fino a 7 anni",
+   "descricao_fr": "L'histoire des baianas vendeuses d'acarajé, patrimoine immatériel du Brésil, avec costumes, ustensiles et témoignages.",
+   "descricao_de": "Die Geschichte der Acarajé-Verkäuferinnen (Baianas), immaterielles Kulturerbe Brasiliens, mit Kostümen, Utensilien und Zeitzeugnissen.",
+   "descricao_it": "La storia delle baianas venditrici di acarajé, patrimonio immateriale del Brasile, con abiti, utensili e testimonianze."
   },
   {
    "id": "museu-da-gastronomia-baiana",
@@ -3812,7 +3974,19 @@
    "fonte": "https://www.salvadordabahia.com/museus-e-equipamentos-culturais-gratuitos-em-salvador/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Lun–ven, 9h–17h30 ; sam, 9h–15h",
+   "horario_de": "Mo–Fr, 9–17:30 Uhr; Sa, 9–15 Uhr",
+   "horario_it": "Lun–ven, 9–17:30; sab, 9–15",
+   "recorrente_fr": "Du lundi au samedi",
+   "recorrente_de": "Montag bis Samstag",
+   "recorrente_it": "Da lunedì a sabato",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Raconte les racines africaines, autochtones et portugaises de la cuisine bahianaise ; le restaurant-école du Senac est juste à côté.",
+   "descricao_de": "Erzählt die afrikanischen, indigenen und portugiesischen Wurzeln der bahianischen Küche; das Lehrrestaurant des Senac ist nebenan.",
+   "descricao_it": "Racconta le radici africane, indigene e portoghesi della cucina bahiana; il ristorante-scuola del Senac è accanto."
   },
   {
    "id": "museu-tempostal",
@@ -3838,7 +4012,19 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-tempostal/",
    "nota": "Fontes divergem no horário; confirmar.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–16h30 — vérifiez avant d'y aller",
+   "horario_de": "Di–So, 10–16:30 Uhr — vorher prüfen",
+   "horario_it": "Mar–dom, 10–16:30 — verifica prima di andare",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Grande collection de cartes postales et de photos anciennes montrant Salvador et Bahia au XXe siècle.",
+   "descricao_de": "Große Sammlung von Postkarten und alten Fotos von Salvador und Bahia im 20. Jahrhundert.",
+   "descricao_it": "Grande collezione di cartoline e foto d'epoca che mostrano Salvador e Bahia nel corso del Novecento."
   },
   {
    "id": "espaco-carybe-forte-sao-diogo",
@@ -3864,7 +4050,19 @@
    "fonte": "https://www.salvadordabahia.com/eventos/espaco-carybe-das-artes-programacao-de-junho-2025/",
    "nota": "Fecha às terças.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mer–lun, 11h–17h (dernière entrée 16h)",
+   "horario_de": "Mi–Mo, 11–17 Uhr (letzter Einlass 16 Uhr)",
+   "horario_it": "Mer–lun, 11–17 (ultimo ingresso 16)",
+   "recorrente_fr": "Du mercredi au lundi",
+   "recorrente_de": "Mittwoch bis Montag",
+   "recorrente_it": "Da mercoledì a lunedì",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif) ; gratuit le mercredi",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt); mittwochs frei",
+   "preco_it": "R$ 20 / R$ 10 (ridotto); gratis il mercoledì",
+   "descricao_fr": "Fort du XVIIe siècle à Porto da Barra consacré à l'œuvre de Carybé, avec dessins et peintures de la vie quotidienne et du candomblé. Accessible à pied depuis l'hôtel.",
+   "descricao_de": "Festung aus dem 17. Jh. am Porto da Barra, dem Werk von Carybé gewidmet, mit Zeichnungen und Gemälden über Alltag und Candomblé. Zu Fuß vom Hotel erreichbar.",
+   "descricao_it": "Forte del XVII secolo a Porto da Barra dedicato all'opera di Carybé, con disegni e dipinti sulla vita quotidiana e il candomblé. Raggiungibile a piedi dall'hotel."
   },
   {
    "id": "museu-geologico-da-bahia",
@@ -3890,7 +4088,19 @@
    "fonte": "https://www.salvadordabahia.com/eventos/museu-geologico-da-bahia/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–ven, 13h–18h ; sam–dim, 13h–17h",
+   "horario_de": "Di–Fr, 13–18 Uhr; Sa–So, 13–17 Uhr",
+   "horario_it": "Mar–ven, 13–18; sab–dom, 13–17",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Plus de 20 000 minéraux, pierres précieuses, fossiles et météorites, avec une salle des roches rouverte en réalité virtuelle.",
+   "descricao_de": "Über 20.000 Minerale, Edelsteine, Fossilien und Meteoriten, mit wiedereröffnetem Gesteinsraum mit virtueller Realität.",
+   "descricao_it": "Oltre 20.000 minerali, gemme, fossili e meteoriti, con una sala delle rocce riaperta con realtà virtuale."
   },
   {
    "id": "museu-eugenio-teixeira-leal",
@@ -3916,7 +4126,19 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-eugenio-teixeira-leal/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Lun–ven, 9h–18h",
+   "horario_de": "Mo–Fr, 9–18 Uhr",
+   "horario_it": "Lun–ven, 9–18",
+   "recorrente_fr": "Du lundi au vendredi",
+   "recorrente_de": "Montag bis Freitag",
+   "recorrente_it": "Da lunedì a venerdì",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "L'histoire de la monnaie et de la banque à Bahia, avec pièces, billets et objets de l'ancien Banco Econômico.",
+   "descricao_de": "Die Geschichte von Geld und Banken in Bahia, mit Münzen, Banknoten und Objekten der ehemaligen Banco Econômico.",
+   "descricao_it": "La storia del denaro e delle banche a Bahia, con monete, banconote e oggetti dell'ex Banco Econômico."
   },
   {
    "id": "casa-do-benin",
@@ -3942,7 +4164,19 @@
    "fonte": "https://www.salvadordabahia.com/museus-e-equipamentos-culturais-gratuitos-em-salvador/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–ven, 10h–17h ; sam, 9h–16h",
+   "horario_de": "Di–Fr, 10–17 Uhr; Sa, 9–16 Uhr",
+   "horario_it": "Mar–ven, 10–17; sab, 9–16",
+   "recorrente_fr": "Du mardi au samedi",
+   "recorrente_de": "Dienstag bis Samstag",
+   "recorrente_it": "Da martedì a sabato",
+   "preco_fr": "Gratuit",
+   "preco_de": "Kostenlos",
+   "preco_it": "Gratis",
+   "descricao_fr": "Centre culturel sur les liens entre Bahia et le Bénin, avec art africain et expositions sur la diaspora.",
+   "descricao_de": "Kulturzentrum über die Verbindungen zwischen Bahia und Benin, mit afrikanischer Kunst und Ausstellungen zur Diaspora.",
+   "descricao_it": "Centro culturale sui legami tra Bahia e Benin, con arte africana e mostre sulla diaspora."
   },
   {
    "id": "museu-do-mar-aleixo-belov",
@@ -3968,7 +4202,19 @@
    "fonte": "https://pelourinhodiaenoite.salvador.ba.gov.br/museu-do-mar-aleixo-belov/",
    "nota": null,
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–dim, 10h–18h (dernière entrée 17h)",
+   "horario_de": "Di–So, 10–18 Uhr (letzter Einlass 17 Uhr)",
+   "horario_it": "Mar–dom, 10–18 (ultimo ingresso 17)",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif) ; gratuit le mercredi",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt); mittwochs frei",
+   "preco_it": "R$ 20 / R$ 10 (ridotto); gratis il mercoledì",
+   "descricao_fr": "Le voilier et la collection du navigateur Aleixo Belov, qui a fait cinq fois le tour du monde, avec pièces nautiques et cartes.",
+   "descricao_de": "Das Segelboot und die Sammlung des Seefahrers Aleixo Belov, der fünfmal die Welt umsegelte, mit nautischen Stücken und Karten.",
+   "descricao_it": "La barca a vela e la collezione del navigatore Aleixo Belov, che ha fatto cinque volte il giro del mondo, con oggetti nautici e mappe."
   },
   {
    "id": "casa-das-historias-de-salvador",
@@ -3994,7 +4240,19 @@
    "fonte": "https://www.sympla.com.br/evento/casa-das-historias-de-salvador-de-10-03-a-15-03/3335446",
    "nota": "Ingressos vendidos por semana no Sympla.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Mar–sam, 9h–16h45 ; dim et fériés, 10h–16h45 (dernière entrée 16h)",
+   "horario_de": "Di–Sa, 9–16:45 Uhr; So und Feiertage, 10–16:45 Uhr (letzter Einlass 16 Uhr)",
+   "horario_it": "Mar–sab, 9–16:45; dom e festivi, 10–16:45 (ultimo ingresso 16)",
+   "recorrente_fr": "Du mardi au dimanche",
+   "recorrente_de": "Dienstag bis Sonntag",
+   "recorrente_it": "Da martedì a domenica",
+   "preco_fr": "R$ 20 / R$ 10 (demi-tarif) ; gratuit le mercredi",
+   "preco_de": "R$ 20 / R$ 10 (ermäßigt); mittwochs frei",
+   "preco_it": "R$ 20 / R$ 10 (ridotto); gratis il mercoledì",
+   "descricao_fr": "Musée immersif racontant l'histoire de Salvador du point de vue des peuples noirs et autochtones, en visites guidées.",
+   "descricao_de": "Immersives Museum zur Geschichte Salvadors mit Fokus auf schwarze und indigene Völker, in geführten Sessions.",
+   "descricao_it": "Museo immersivo che racconta la storia di Salvador con focus sui popoli neri e indigeni, in sessioni guidate."
   },
   {
    "id": "forte-santo-antonio-capoeira",
@@ -4018,7 +4276,16 @@
    "fonte": null,
    "nota": "Sem fonte oficial de horário/preço.",
    "impacto": "baixo",
-   "publico_est": null
+   "publico_est": null,
+   "horario_fr": "Horaires variables — vérifiez avant d'y aller",
+   "horario_de": "Wechselnde Öffnungszeiten — vorher prüfen",
+   "horario_it": "Orari variabili — verifica prima di andare",
+   "recorrente_fr": "Horaires de visite variables",
+   "recorrente_de": "Wechselnde Besuchszeiten",
+   "recorrente_it": "Orari di visita variabili",
+   "descricao_fr": "Forteresse restaurée du XVIIe siècle abritant des écoles de capoeira angola et regional, avec des rodas et une vue sur la Baie de Tous les Saints. L'accès dépend des groupes installés.",
+   "descricao_de": "Restaurierte Festung aus dem 17. Jh. mit Capoeira-Angola- und Regional-Schulen, Rodas und Blick auf die Allerheiligenbucht. Der Zugang hängt von den dort ansässigen Gruppen ab.",
+   "descricao_it": "Fortezza restaurata del XVII secolo che ospita scuole di capoeira angola e regional, con rodas e vista sulla Baia di Tutti i Santi. L'accesso dipende dai gruppi presenti."
   }
  ]
 }

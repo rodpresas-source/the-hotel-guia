@@ -28,13 +28,19 @@
       "pt": "Café da manhã",
       "en": "Breakfast",
       "valor": "6h30–10h",
-      "es": "Desayuno"
+      "es": "Desayuno",
+      "fr": "Petit-déjeuner",
+      "de": "Frühstück",
+      "it": "Colazione"
     },
     {
       "pt": "Recepção",
       "en": "Front desk",
       "valor": "24h",
-      "es": "Recepción"
+      "es": "Recepción",
+      "fr": "Réception",
+      "de": "Rezeption",
+      "it": "Reception"
     }
   ],
   "servicos": [
@@ -45,7 +51,13 @@
       "desc_pt": "Estamos à disposição a qualquer hora, pelo telefone ou WhatsApp.",
       "desc_en": "We're here around the clock, by phone or WhatsApp.",
       "es": "Recepción 24h",
-      "desc_es": "Estamos a tu disposición a cualquier hora, por teléfono o WhatsApp."
+      "desc_es": "Estamos a tu disposición a cualquier hora, por teléfono o WhatsApp.",
+      "desc_fr": "Nous sommes là jour et nuit, par téléphone ou WhatsApp.",
+      "desc_de": "Wir sind rund um die Uhr für Sie da, per Telefon oder WhatsApp.",
+      "desc_it": "Siamo qui giorno e notte, al telefono o su WhatsApp.",
+      "fr": "Réception 24h/24",
+      "de": "Rezeption rund um die Uhr",
+      "it": "Reception 24 ore"
     },
     {
       "icone": "coffee",
@@ -54,7 +66,13 @@
       "desc_pt": "Servido todos os dias, das 6h30 às 10h. Se não estiver incluído na sua diária: {p:4744} por pessoa. Convidados de fora: {p:4745}.",
       "desc_en": "Served daily, 6:30 to 10 am. If not included in your rate: {p:4744} per person. Outside guests: {p:4745}.",
       "es": "Desayuno",
-      "desc_es": "Servido todos los días, de 6:30 a 10:00. Si no está incluido en tu tarifa: {p:4744} por persona. Invitados externos: {p:4745}."
+      "desc_es": "Servido todos los días, de 6:30 a 10:00. Si no está incluido en tu tarifa: {p:4744} por persona. Invitados externos: {p:4745}.",
+      "desc_fr": "Servi tous les jours de 6h30 à 10h. S'il n'est pas inclus dans votre tarif : {p:4744} par personne. Personnes extérieures : {p:4745}.",
+      "desc_de": "Täglich von 6:30 bis 10 Uhr. Falls nicht im Zimmerpreis enthalten: {p:4744} pro Person. Externe Gäste: {p:4745}.",
+      "desc_it": "Servita tutti i giorni dalle 6:30 alle 10. Se non inclusa nella tariffa: {p:4744} a persona. Ospiti esterni: {p:4745}.",
+      "fr": "Petit-déjeuner",
+      "de": "Frühstück",
+      "it": "Colazione"
     },
     {
       "icone": "fridge",
@@ -63,7 +81,10 @@
       "es": "Minibar",
       "desc_pt": "Abastecido com água mineral, a {p:87} a garrafa. O café em cápsula/sachet: o primeiro é cortesia; a partir do segundo, {p:132} cada. Tudo é lançado na sua conta.",
       "desc_en": "Stocked with mineral water, {p:87} per bottle. Coffee capsule/sachet: the first one is on us; from the second on, {p:132} each. Everything is added to your bill.",
-      "desc_es": "Con agua mineral, a {p:87} la botella. Café en cápsula/sachet: el primero es cortesía; a partir del segundo, {p:132} cada uno. Todo se carga a tu cuenta."
+      "desc_es": "Con agua mineral, a {p:87} la botella. Café en cápsula/sachet: el primero es cortesía; a partir del segundo, {p:132} cada uno. Todo se carga a tu cuenta.",
+      "desc_fr": "Garni d'eau minérale, {p:87} la bouteille. Café en capsule/sachet : le premier est offert ; à partir du deuxième, {p:132} l'unité. Tout est ajouté à votre note.",
+      "desc_de": "Mit Mineralwasser bestückt, {p:87} pro Flasche. Kaffee in Kapsel/Beutel: der erste ist gratis, ab dem zweiten {p:132} pro Stück. Alles wird auf Ihre Rechnung gesetzt.",
+      "desc_it": "Rifornito di acqua minerale, {p:87} a bottiglia. Caffè in capsula/bustina: il primo è offerto; dal secondo, {p:132} l'uno. Tutto viene addebitato sul conto."
     },
     {
       "icone": "shirt",
@@ -72,7 +93,13 @@
       "desc_pt": "Solicite na recepção.",
       "desc_en": "Ask the front desk.",
       "es": "Lavandería",
-      "desc_es": "Solicítala en la recepción."
+      "desc_es": "Solicítala en la recepción.",
+      "desc_fr": "Adressez-vous à la réception.",
+      "desc_de": "Fragen Sie an der Rezeption.",
+      "desc_it": "Chiedi alla reception.",
+      "fr": "Blanchisserie",
+      "de": "Wäscherei",
+      "it": "Lavanderia"
     },
     {
       "icone": "car",
@@ -81,7 +108,13 @@
       "desc_pt": "Aeroporto, passeios e táxi de confiança. Agende com a recepção.",
       "desc_en": "Airport, tours and trusted taxis. Book at the front desk.",
       "es": "Traslados y taxi",
-      "desc_es": "Aeropuerto, paseos y taxis de confianza. Reserva en la recepción."
+      "desc_es": "Aeropuerto, paseos y taxis de confianza. Reserva en la recepción.",
+      "desc_fr": "Aéroport, excursions et taxis de confiance. Réservez à la réception.",
+      "desc_de": "Flughafen, Ausflüge und vertrauenswürdige Taxis. Buchung an der Rezeption.",
+      "desc_it": "Aeroporto, escursioni e taxi di fiducia. Prenota alla reception.",
+      "fr": "Transfert et taxi",
+      "de": "Transfer und Taxi",
+      "it": "Transfer e taxi"
     },
     {
       "icone": "bag",
@@ -90,7 +123,13 @@
       "desc_pt": "Guarde suas malas antes do check-in ou depois do check-out.",
       "desc_en": "Store your bags before check-in or after check-out.",
       "es": "Consigna de equipaje",
-      "desc_es": "Guarda tus maletas antes del check-in o después del check-out."
+      "desc_es": "Guarda tus maletas antes del check-in o después del check-out.",
+      "desc_fr": "Déposez vos bagages avant l'arrivée ou après le départ.",
+      "desc_de": "Gepäck vor dem Check-in oder nach dem Check-out abgeben.",
+      "desc_it": "Lascia i bagagli prima del check-in o dopo il check-out.",
+      "fr": "Consigne à bagages",
+      "de": "Gepäckaufbewahrung",
+      "it": "Deposito bagagli"
     },
     {
       "icone": "map",
@@ -99,7 +138,10 @@
       "desc_pt": "Reservas em restaurantes, passeios e ingressos.",
       "desc_en": "Restaurant bookings, tours and tickets.",
       "es": "Conserjería",
-      "desc_es": "Reservas en restaurantes, paseos y entradas."
+      "desc_es": "Reservas en restaurantes, paseos y entradas.",
+      "desc_fr": "Réservations de restaurants, excursions et billets.",
+      "desc_de": "Restaurantreservierungen, Ausflüge und Tickets.",
+      "desc_it": "Prenotazioni di ristoranti, escursioni e biglietti."
     }
   ],
   "room_service": {
@@ -115,23 +157,41 @@
             "en": "Club sandwich",
             "desc_pt": "Frango, bacon, alface, tomate e fritas",
             "desc_en": "Chicken, bacon, lettuce, tomato and fries",
-            "preco": 48
+            "preco": 48,
+            "desc_fr": "Poulet, bacon, salade, tomate et frites",
+            "desc_de": "Hähnchen, Speck, Salat, Tomate und Pommes",
+            "desc_it": "Pollo, bacon, lattuga, pomodoro e patatine"
           },
           {
             "pt": "Tapioca de queijo coalho",
             "en": "Coalho cheese tapioca",
             "desc_pt": "Com manteiga de garrafa",
             "desc_en": "With clarified bottle butter",
-            "preco": 28
+            "preco": 28,
+            "desc_fr": "Au beurre clarifié (manteiga de garrafa)",
+            "desc_de": "Mit geklärter Flaschenbutter (manteiga de garrafa)",
+            "desc_it": "Con burro chiarificato (manteiga de garrafa)",
+            "fr": "Tapioca au fromage coalho",
+            "de": "Tapioka mit Coalho-Käse",
+            "it": "Tapioca al formaggio coalho"
           },
           {
             "pt": "Misto quente",
             "en": "Ham & cheese toastie",
             "desc_pt": "Pão de forma, presunto e queijo",
             "desc_en": "Toast, ham and cheese",
-            "preco": 22
+            "preco": 22,
+            "desc_fr": "Pain de mie, jambon et fromage",
+            "desc_de": "Toast, Schinken und Käse",
+            "desc_it": "Pane tostato, prosciutto e formaggio",
+            "fr": "Croque-monsieur",
+            "de": "Schinken-Käse-Toast",
+            "it": "Toast prosciutto e formaggio"
           }
-        ]
+        ],
+        "fr": "En-cas",
+        "de": "Snacks",
+        "it": "Spuntini"
       },
       {
         "pt": "Pratos",
@@ -142,23 +202,44 @@
             "en": "Fish moqueca",
             "desc_pt": "Com arroz, farofa e pirão (serve 1)",
             "desc_en": "With rice, farofa and pirão (serves 1)",
-            "preco": 89
+            "preco": 89,
+            "desc_fr": "Avec riz, farofa et pirão (pour 1 personne)",
+            "desc_de": "Mit Reis, Farofa und Pirão (für 1 Person)",
+            "desc_it": "Con riso, farofa e pirão (per 1 persona)",
+            "fr": "Moqueca de poisson",
+            "de": "Fisch-Moqueca",
+            "it": "Moqueca di pesce"
           },
           {
             "pt": "Filé com fritas",
             "en": "Steak & fries",
             "desc_pt": "Filé grelhado, arroz e batata frita",
             "desc_en": "Grilled beef, rice and fries",
-            "preco": 78
+            "preco": 78,
+            "desc_fr": "Bœuf grillé, riz et frites",
+            "desc_de": "Gegrilltes Rindfleisch, Reis und Pommes",
+            "desc_it": "Manzo alla griglia, riso e patatine",
+            "fr": "Steak-frites",
+            "de": "Steak mit Pommes",
+            "it": "Bistecca e patatine"
           },
           {
             "pt": "Massa ao sugo",
             "en": "Pasta pomodoro",
             "desc_pt": "Opção vegetariana",
             "desc_en": "Vegetarian option",
-            "preco": 52
+            "preco": 52,
+            "desc_fr": "Option végétarienne",
+            "desc_de": "Vegetarische Option",
+            "desc_it": "Opzione vegetariana",
+            "fr": "Pâtes pomodoro",
+            "de": "Pasta Pomodoro",
+            "it": "Pasta al pomodoro"
           }
-        ]
+        ],
+        "fr": "Plats",
+        "de": "Hauptgerichte",
+        "it": "Piatti principali"
       },
       {
         "pt": "Bebidas",
@@ -169,30 +250,48 @@
             "en": "Fresh juice",
             "desc_pt": "Cajá, umbu, manga ou maracujá",
             "desc_en": "Cajá, umbu, mango or passion fruit",
-            "preco": 14
+            "preco": 14,
+            "desc_fr": "Cajá, umbu, mangue ou fruit de la passion",
+            "desc_de": "Cajá, Umbu, Mango oder Maracuja",
+            "desc_it": "Cajá, umbu, mango o frutto della passione",
+            "fr": "Jus frais",
+            "de": "Frischer Saft",
+            "it": "Succo fresco"
           },
           {
             "pt": "Água de coco",
             "en": "Coconut water",
             "desc_pt": "",
             "desc_en": "",
-            "preco": 12
+            "preco": 12,
+            "fr": "Eau de coco",
+            "de": "Kokoswasser",
+            "it": "Acqua di cocco"
           },
           {
             "pt": "Cerveja long neck",
             "en": "Beer (bottle)",
             "desc_pt": "",
             "desc_en": "",
-            "preco": 15
+            "preco": 15,
+            "fr": "Bière (bouteille)",
+            "de": "Bier (Flasche)",
+            "it": "Birra (bottiglia)"
           },
           {
             "pt": "Caipirinha",
             "en": "Caipirinha",
             "desc_pt": "Limão, caju ou maracujá",
             "desc_en": "Lime, cashew fruit or passion fruit",
-            "preco": 32
+            "preco": 32,
+            "desc_fr": "Citron vert, cajou ou fruit de la passion",
+            "desc_de": "Limette, Cashewfrucht oder Maracuja",
+            "desc_it": "Lime, frutto dell'anacardio o frutto della passione"
           }
-        ]
+        ],
+        "fr": "Boissons",
+        "de": "Getränke",
+        "it": "Bevande"
       }
     ],
     "ativo": false
@@ -202,19 +301,28 @@
       "pt": "Polícia Militar",
       "en": "Police",
       "tel": "190",
-      "es": "Policía"
+      "es": "Policía",
+      "fr": "Police",
+      "de": "Polizei",
+      "it": "Polizia"
     },
     {
       "pt": "SAMU",
       "en": "Ambulance (SAMU)",
       "tel": "192",
-      "es": "Ambulancia (SAMU)"
+      "es": "Ambulancia (SAMU)",
+      "fr": "Ambulance (SAMU)",
+      "de": "Rettungsdienst (SAMU)",
+      "it": "Ambulanza (SAMU)"
     },
     {
       "pt": "Bombeiros",
       "en": "Fire department",
       "tel": "193",
-      "es": "Bomberos"
+      "es": "Bomberos",
+      "fr": "Pompiers",
+      "de": "Feuerwehr",
+      "it": "Vigili del fuoco"
     }
   ],
   "conta": {
