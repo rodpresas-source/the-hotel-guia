@@ -79,9 +79,9 @@
       "pt": "Minibar",
       "en": "Minibar",
       "es": "Minibar",
-      "desc_pt": "Abastecido com água mineral, a {p:87} a garrafa. O café em cápsula/sachet: o primeiro é cortesia; a partir do segundo, {p:132} cada. Tudo é lançado na sua conta.",
-      "desc_en": "Stocked with mineral water, {p:87} per bottle. Coffee capsule/sachet: the first one is on us; from the second on, {p:132} each. Everything is added to your bill.",
-      "desc_es": "Con agua mineral, a {p:87} la botella. Café en cápsula/sachet: el primero es cortesía; a partir del segundo, {p:132} cada uno. Todo se carga a tu cuenta.",
+      "desc_pt": "Abastecido com água mineral, a {p:87} a garrafa. Os cafés e chás do quarto são cortesia; reposições de café custam {p:132} cada. O consumo é lançado na sua conta.",
+      "desc_en": "Stocked with mineral water, {p:87} per bottle. The coffees and teas in your room are on us; coffee refills are {p:132} each. Charges go to your bill.",
+      "desc_es": "Con agua mineral, a {p:87} la botella. Los cafés y tés de la habitación son cortesía; las reposiciones de café cuestan {p:132} cada una. El consumo se carga a tu cuenta.",
       "desc_fr": "Garni d'eau minérale, {p:87} la bouteille. Café en capsule/sachet : le premier est offert ; à partir du deuxième, {p:132} l'unité. Tout est ajouté à votre note.",
       "desc_de": "Mit Mineralwasser bestückt, {p:87} pro Flasche. Kaffee in Kapsel/Beutel: der erste ist gratis, ab dem zweiten {p:132} pro Stück. Alles wird auf Ihre Rechnung gesetzt.",
       "desc_it": "Rifornito di acqua minerale, {p:87} a bottiglia. Caffè in capsula/bustina: il primo è offerto; dal secondo, {p:132} l'uno. Tutto viene addebitato sul conto."
