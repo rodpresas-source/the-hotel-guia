@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#173f35">
+<meta name="theme-color" content="#8fd3bf">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -316,6 +316,31 @@ body.wf-on{padding-bottom:330px}
   .ev .num{font-size:54px}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* ============ Paleta "Tropical" (nov/2026, cores do triedro) ============ */
+:root{--l:#c4573a;--v:#1f6b72;--sky:#8fd3bf;--sol:#f6b93b;--ink:#173f35}
+.bar{background:rgba(143,211,191,.95)}
+.bar .mark{color:var(--ink)}
+.lang button{color:rgba(23,63,53,.68)}
+.lang button.on{color:var(--ink)}
+.nav{border-top-color:rgba(23,63,53,.14)}
+.nav a{color:rgba(23,63,53,.7)}
+.nav a.on{color:var(--ink)}
+.acc-open{color:var(--ink);border-color:rgba(23,63,53,.4)}
+.hero{background:var(--sky)}
+.hero > .wrap .conn{color:rgba(23,63,53,.8)}
+.hero .mark,.motto{color:var(--ink)}
+.conn i{box-shadow:0 0 0 4px rgba(196,87,58,.18)}
+.sea{background:var(--ink)}
+.sun{background:radial-gradient(circle at 50% 42%,#ffd27a 0%,var(--sol) 55%,#e9a21f 100%)}
+.sun::after{background:radial-gradient(circle,rgba(246,185,59,.38),transparent 62%)}
+.water::before{background:repeating-linear-gradient(180deg,rgba(246,185,59,.28) 0 1px,transparent 1px 7px)}
+.btn.solid{background:var(--sol);color:var(--ink)}
+.btn.solid:hover{background:#f8c75d}
+.dark{--l:#f6b93b}
+.ev .kind b{background:#a9c95b;color:var(--ink)}
+.ev .go a.tix{text-decoration-color:rgba(246,185,59,.5)}
+.wf{background:var(--sol);color:var(--ink)}
 </style>
 </head>
 <body>
@@ -367,7 +392,7 @@ body.wf-on{padding-bottom:330px}
   </div>
 </section>
 
-<section class="sec cream" id="cardapio" style="background:#f1eedb">
+<section class="sec cream" id="cardapio" style="background:#e3efd0">
   <div class="wrap">
     <div class="head"><h2>Room service</h2><p id="menuSub"></p></div>
     <div class="seg" id="menuTabs" role="tablist"></div>
